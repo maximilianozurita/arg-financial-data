@@ -1,0 +1,101 @@
+[
+  {
+    "id": 5,
+    "nombre": "Dólar Blue (Compra)",
+    "fuente": "Bluelytics",
+    "categoria": "cambiario",
+    "unidad": "ARS/USD",
+    "frecuencia": "diaria",
+    "descripcion": "Cotización compra del dólar blue (informal)",
+    "slug": "dolar_blue_compra",
+    "ultima_actualizacion": "2026-03-25T01:36:17.998529+00:00"
+  },
+  {
+    "id": 4,
+    "nombre": "Dólar Blue (Venta)",
+    "fuente": "Bluelytics",
+    "categoria": "cambiario",
+    "unidad": "ARS/USD",
+    "frecuencia": "diaria",
+    "descripcion": "Cotización venta del dólar blue (informal)",
+    "slug": "dolar_blue_venta",
+    "ultima_actualizacion": "2026-03-25T01:36:17.980113+00:00"
+  },
+  {
+    "id": 7,
+    "nombre": "Dólar Oficial (Compra)",
+    "fuente": "Bluelytics",
+    "categoria": "cambiario",
+    "unidad": "ARS/USD",
+    "frecuencia": "diaria",
+    "descripcion": "Cotización compra del dólar oficial BNA",
+    "slug": "dolar_oficial_compra",
+    "ultima_actualizacion": "2026-03-25T01:36:18.032108+00:00"
+  },
+  {
+    "id": 6,
+    "nombre": "Dólar Oficial (Venta)",
+    "fuente": "Bluelytics",
+    "categoria": "cambiario",
+    "unidad": "ARS/USD",
+    "frecuencia": "diaria",
+    "descripcion": "Cotización venta del dólar oficial BNA",
+    "slug": "dolar_oficial_venta",
+    "ultima_actualizacion": "2026-03-25T01:36:18.015559+00:00"
+  },
+  {
+    "id": 3,
+    "nombre": "Tipo de Cambio Minorista BCRA",
+    "fuente": "BCRA",
+    "categoria": "cambiario",
+    "unidad": "ARS/USD",
+    "frecuencia": "diaria",
+    "descripcion": "Tipo de cambio minorista promedio vendedor (BCRA)",
+    "slug": "tipo_de_cambio_minorista_bcra",
+    "ultima_actualizacion": "2026-03-25T01:35:26.635469+00:00"
+  },
+  {
+    "id": 9,
+    "nombre": "Recaudación Tributaria",
+    "fuente": "Ministerio de Economía",
+    "categoria": "fiscal",
+    "unidad": "millones ARS",
+    "frecuencia": "mensual",
+    "descripcion": "Recaudación tributaria total mensual (Ministerio de Economía)",
+    "slug": "recaudacion_tributaria",
+    "ultima_actualizacion": "2026-03-25T01:36:19.439512+00:00"
+  },
+  {
+    "id": 2,
+    "nombre": "Base Monetaria",
+    "fuente": "BCRA",
+    "categoria": "monetario",
+    "unidad": "millones ARS",
+    "frecuencia": "diaria",
+    "descripcion": "Base monetaria en millones de pesos",
+    "slug": "base_monetaria",
+    "ultima_actualizacion": "2026-03-25T01:35:26.113619+00:00"
+  },
+  {
+    "id": 1,
+    "nombre": "Reservas Internacionales BCRA",
+    "fuente": "BCRA",
+    "categoria": "monetario",
+    "unidad": "millones USD",
+    "frecuencia": "diaria",
+    "descripcion": "Reservas internacionales del BCRA en millones de dólares",
+    "slug": "reservas_internacionales_bcra",
+    "ultima_actualizacion": "2026-03-25T01:35:25.158550+00:00"
+  },
+  {
+    "id": 8,
+    "nombre": "IPC - Nivel General",
+    "fuente": "INDEC",
+    "categoria": "precios",
+    "unidad": "índice",
+    "frecuencia": "mensual",
+    "descripcion": "Índice de Precios al Consumidor - Nivel General (INDEC, base Dic 2016=100)",
+    "slug": "ipc_nivel_general",
+    "ultima_actualizacion": "2026-03-25T01:36:18.722101+00:00"
+  }
+]

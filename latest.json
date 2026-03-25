@@ -1,0 +1,101 @@
+[
+  {
+    "id": 5,
+    "nombre": "Dólar Blue (Compra)",
+    "fuente": "Bluelytics",
+    "categoria": "cambiario",
+    "unidad": "ARS/USD",
+    "frecuencia": "diaria",
+    "slug": "dolar_blue_compra",
+    "ultimo_valor": 1405.0,
+    "ultima_fecha": "2026-03-24"
+  },
+  {
+    "id": 4,
+    "nombre": "Dólar Blue (Venta)",
+    "fuente": "Bluelytics",
+    "categoria": "cambiario",
+    "unidad": "ARS/USD",
+    "frecuencia": "diaria",
+    "slug": "dolar_blue_venta",
+    "ultimo_valor": 1425.0,
+    "ultima_fecha": "2026-03-24"
+  },
+  {
+    "id": 7,
+    "nombre": "Dólar Oficial (Compra)",
+    "fuente": "Bluelytics",
+    "categoria": "cambiario",
+    "unidad": "ARS/USD",
+    "frecuencia": "diaria",
+    "slug": "dolar_oficial_compra",
+    "ultimo_valor": 1364.0,
+    "ultima_fecha": "2026-03-24"
+  },
+  {
+    "id": 6,
+    "nombre": "Dólar Oficial (Venta)",
+    "fuente": "Bluelytics",
+    "categoria": "cambiario",
+    "unidad": "ARS/USD",
+    "frecuencia": "diaria",
+    "slug": "dolar_oficial_venta",
+    "ultimo_valor": 1414.0,
+    "ultima_fecha": "2026-03-24"
+  },
+  {
+    "id": 3,
+    "nombre": "Tipo de Cambio Minorista BCRA",
+    "fuente": "BCRA",
+    "categoria": "cambiario",
+    "unidad": "ARS/USD",
+    "frecuencia": "diaria",
+    "slug": "tipo_de_cambio_minorista_bcra",
+    "ultimo_valor": 1414.02,
+    "ultima_fecha": "2026-03-20"
+  },
+  {
+    "id": 9,
+    "nombre": "Recaudación Tributaria",
+    "fuente": "Ministerio de Economía",
+    "categoria": "fiscal",
+    "unidad": "millones ARS",
+    "frecuencia": "mensual",
+    "slug": "recaudacion_tributaria",
+    "ultimo_valor": 16231829.881584609,
+    "ultima_fecha": "2026-02-01"
+  },
+  {
+    "id": 2,
+    "nombre": "Base Monetaria",
+    "fuente": "BCRA",
+    "categoria": "monetario",
+    "unidad": "millones ARS",
+    "frecuencia": "diaria",
+    "slug": "base_monetaria",
+    "ultimo_valor": 39026567.0,
+    "ultima_fecha": "2026-03-18"
+  },
+  {
+    "id": 1,
+    "nombre": "Reservas Internacionales BCRA",
+    "fuente": "BCRA",
+    "categoria": "monetario",
+    "unidad": "millones USD",
+    "frecuencia": "diaria",
+    "slug": "reservas_internacionales_bcra",
+    "ultimo_valor": 44495.0,
+    "ultima_fecha": "2026-03-18"
+  },
+  {
+    "id": 8,
+    "nombre": "IPC - Nivel General",
+    "fuente": "INDEC",
+    "categoria": "precios",
+    "unidad": "índice",
+    "frecuencia": "mensual",
+    "slug": "ipc_nivel_general",
+    "ultimo_valor": 10714.6255,
+    "ultima_fecha": "2026-02-01"
+  }
+]
