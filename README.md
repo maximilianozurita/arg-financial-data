@@ -1,7 +1,7 @@
 # arg-financial-data
 
 Dataset público de indicadores económicos y financieros de Argentina.
-Actualizado automáticamente desde [`arg-financial-local`](https://github.com/mzurita/arg-financial-local).
+Actualizado automáticamente desde [`arg-financial-local`](https://github.com/maximilianozurita/arg-financial-local).
 
 ---
 
