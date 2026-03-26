@@ -30,7 +30,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_blue_compra",
     "ultimo_valor": 1400.0,
-    "ultima_fecha": "2026-03-25"
+    "ultima_fecha": "2026-03-26"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_blue_venta",
     "ultimo_valor": 1420.0,
-    "ultima_fecha": "2026-03-25"
+    "ultima_fecha": "2026-03-26"
   },
   {
     "id": 24,
@@ -95,8 +95,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_oficial_compra",
-    "ultimo_valor": 1359.0,
-    "ultima_fecha": "2026-03-25"
+    "ultimo_valor": 1353.0,
+    "ultima_fecha": "2026-03-26"
   },
   {
     "id": 6,
@@ -106,8 +106,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_oficial_venta",
-    "ultimo_valor": 1410.0,
-    "ultima_fecha": "2026-03-25"
+    "ultimo_valor": 1403.0,
+    "ultima_fecha": "2026-03-26"
   },
   {
     "id": 3,
