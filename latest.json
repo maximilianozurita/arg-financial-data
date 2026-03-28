@@ -29,8 +29,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_blue_compra",
-    "ultimo_valor": 1400.0,
-    "ultima_fecha": "2026-03-26"
+    "ultimo_valor": 1395.0,
+    "ultima_fecha": "2026-03-27"
   },
   {
     "id": 4,
@@ -40,8 +40,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_blue_venta",
-    "ultimo_valor": 1420.0,
-    "ultima_fecha": "2026-03-26"
+    "ultimo_valor": 1415.0,
+    "ultima_fecha": "2026-03-27"
   },
   {
     "id": 24,
@@ -95,8 +95,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_oficial_compra",
-    "ultimo_valor": 1353.0,
-    "ultima_fecha": "2026-03-26"
+    "ultimo_valor": 1348.0,
+    "ultima_fecha": "2026-03-27"
   },
   {
     "id": 6,
@@ -106,8 +106,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_oficial_venta",
-    "ultimo_valor": 1403.0,
-    "ultima_fecha": "2026-03-26"
+    "ultimo_valor": 1399.0,
+    "ultima_fecha": "2026-03-27"
   },
   {
     "id": 3,
@@ -117,8 +117,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "tipo_de_cambio_minorista_bcra",
-    "ultimo_valor": 1402.6,
-    "ultima_fecha": "2026-03-25"
+    "ultimo_valor": 1404.43,
+    "ultima_fecha": "2026-03-27"
   },
   {
     "id": 21,
@@ -162,7 +162,7 @@
     "frecuencia": "diaria",
     "slug": "badlar_bancos_privados",
     "ultimo_valor": 25.6875,
-    "ultima_fecha": "2026-03-20"
+    "ultima_fecha": "2026-03-26"
   },
   {
     "id": 2,
@@ -172,8 +172,8 @@
     "unidad": "millones ARS",
     "frecuencia": "diaria",
     "slug": "base_monetaria",
-    "ultimo_valor": 40008553.0,
-    "ultima_fecha": "2026-03-19"
+    "ultimo_valor": 41175029.0,
+    "ultima_fecha": "2026-03-25"
   },
   {
     "id": 1,
@@ -183,8 +183,8 @@
     "unidad": "millones USD",
     "frecuencia": "diaria",
     "slug": "reservas_internacionales_bcra",
-    "ultimo_valor": 43713.0,
-    "ultima_fecha": "2026-03-19"
+    "ultimo_valor": 43841.0,
+    "ultima_fecha": "2026-03-25"
   },
   {
     "id": 15,
@@ -194,8 +194,8 @@
     "unidad": "% n.a.",
     "frecuencia": "diaria",
     "slug": "tasa_pases_pasivos_bcra_1_dia",
-    "ultimo_valor": 20.16,
-    "ultima_fecha": "2026-03-20"
+    "ultimo_valor": 20.08,
+    "ultima_fecha": "2026-03-26"
   },
   {
     "id": 16,
