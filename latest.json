@@ -22,6 +22,50 @@
     "ultima_fecha": "2026-03-27"
   },
   {
+    "id": 26,
+    "nombre": "Dólar CCL Compra",
+    "fuente": "ArgentinaDatos",
+    "categoria": "cambiario",
+    "unidad": "ARS/USD",
+    "frecuencia": "diaria",
+    "slug": "dolar_ccl_compra",
+    "ultimo_valor": 1473.7,
+    "ultima_fecha": "2026-03-28"
+  },
+  {
+    "id": 27,
+    "nombre": "Dólar CCL Venta",
+    "fuente": "ArgentinaDatos",
+    "categoria": "cambiario",
+    "unidad": "ARS/USD",
+    "frecuencia": "diaria",
+    "slug": "dolar_ccl_venta",
+    "ultimo_valor": 1475.1,
+    "ultima_fecha": "2026-03-28"
+  },
+  {
+    "id": 24,
+    "nombre": "Dólar MEP Compra",
+    "fuente": "ArgentinaDatos",
+    "categoria": "cambiario",
+    "unidad": "ARS/USD",
+    "frecuencia": "diaria",
+    "slug": "dolar_mep_compra",
+    "ultimo_valor": 1422.4,
+    "ultima_fecha": "2026-03-28"
+  },
+  {
+    "id": 25,
+    "nombre": "Dólar MEP Venta",
+    "fuente": "ArgentinaDatos",
+    "categoria": "cambiario",
+    "unidad": "ARS/USD",
+    "frecuencia": "diaria",
+    "slug": "dolar_mep_venta",
+    "ultimo_valor": 1431.1,
+    "ultima_fecha": "2026-03-28"
+  },
+  {
     "id": 11,
     "nombre": "Dólar Oficial (Compra)",
     "fuente": "Bluelytics",
@@ -52,6 +96,17 @@
     "frecuencia": "diaria",
     "slug": "tipo_de_cambio_minorista_bcra",
     "ultimo_valor": 1404.43,
+    "ultima_fecha": "2026-03-27"
+  },
+  {
+    "id": 23,
+    "nombre": "Riesgo País (EMBI+)",
+    "fuente": "ArgentinaDatos",
+    "categoria": "financiero",
+    "unidad": "bps",
+    "frecuencia": "diaria",
+    "slug": "riesgo_pais_embi",
+    "ultimo_valor": 615.0,
     "ultima_fecha": "2026-03-27"
   },
   {
