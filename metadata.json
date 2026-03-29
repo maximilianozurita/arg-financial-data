@@ -1,5 +1,27 @@
 [
   {
+    "id": 45,
+    "nombre": "EMAE - Actividad Económica",
+    "fuente": "INDEC",
+    "categoria": "actividad",
+    "unidad": "índice",
+    "frecuencia": "mensual",
+    "descripcion": "Estimador Mensual de Actividad Económica - Nivel General (INDEC, base 2004=100)",
+    "slug": "emae_actividad_economica",
+    "ultima_actualizacion": "2026-03-29T22:20:23.019868+00:00"
+  },
+  {
+    "id": 47,
+    "nombre": "IPI Manufacturero",
+    "fuente": "INDEC",
+    "categoria": "actividad",
+    "unidad": "índice",
+    "frecuencia": "mensual",
+    "descripcion": "Índice de Producción Industrial Manufacturero - Serie original (INDEC, base 2004=100)",
+    "slug": "ipi_manufacturero",
+    "ultima_actualizacion": "2026-03-29T22:20:24.221857+00:00"
+  },
+  {
     "id": 9,
     "nombre": "Dólar Blue (Compra)",
     "fuente": "Bluelytics",
@@ -110,6 +132,28 @@
     "ultima_actualizacion": "2026-03-29T22:19:22.203115+00:00"
   },
   {
+    "id": 48,
+    "nombre": "Recaudación Tributaria",
+    "fuente": "Ministerio de Economía",
+    "categoria": "fiscal",
+    "unidad": "millones ARS",
+    "frecuencia": "mensual",
+    "descripcion": "Recaudación tributaria total mensual (Ministerio de Economía)",
+    "slug": "recaudacion_tributaria",
+    "ultima_actualizacion": "2026-03-29T22:20:25.064746+00:00"
+  },
+  {
+    "id": 46,
+    "nombre": "Índice de Salarios",
+    "fuente": "INDEC",
+    "categoria": "laboral",
+    "unidad": "índice",
+    "frecuencia": "mensual",
+    "descripcion": "Índice de Salarios total (INDEC, base Oct 2016=100)",
+    "slug": "indice_de_salarios",
+    "ultima_actualizacion": "2026-03-29T22:20:23.630427+00:00"
+  },
+  {
     "id": 4,
     "nombre": "BADLAR Bancos Privados",
     "fuente": "BCRA",
@@ -163,6 +207,17 @@
     "descripcion": "Tasa de interés de política monetaria (BCRA)",
     "slug": "tasa_de_politica_monetaria",
     "ultima_actualizacion": "2026-03-29T22:19:20.560032+00:00"
+  },
+  {
+    "id": 44,
+    "nombre": "IPC - Nivel General",
+    "fuente": "INDEC",
+    "categoria": "precios",
+    "unidad": "índice",
+    "frecuencia": "mensual",
+    "descripcion": "Índice de Precios al Consumidor - Nivel General (INDEC, base Dic 2016=100)",
+    "slug": "ipc_nivel_general",
+    "ultima_actualizacion": "2026-03-29T22:20:22.296490+00:00"
   },
   {
     "id": 5,
