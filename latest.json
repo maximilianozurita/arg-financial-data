@@ -1,28 +1,6 @@
 [
   {
-    "id": 18,
-    "nombre": "EMAE - Actividad Económica",
-    "fuente": "INDEC",
-    "categoria": "actividad",
-    "unidad": "índice",
-    "frecuencia": "mensual",
-    "slug": "emae_actividad_economica",
-    "ultimo_valor": 153.73541944556123,
-    "ultima_fecha": "2025-12-01"
-  },
-  {
-    "id": 20,
-    "nombre": "IPI Manufacturero",
-    "fuente": "INDEC",
-    "categoria": "actividad",
-    "unidad": "índice",
-    "frecuencia": "mensual",
-    "slug": "ipi_manufacturero",
-    "ultimo_valor": 107.11364415170938,
-    "ultima_fecha": "2026-01-01"
-  },
-  {
-    "id": 5,
+    "id": 9,
     "nombre": "Dólar Blue (Compra)",
     "fuente": "Bluelytics",
     "categoria": "cambiario",
@@ -33,7 +11,7 @@
     "ultima_fecha": "2026-03-27"
   },
   {
-    "id": 4,
+    "id": 8,
     "nombre": "Dólar Blue (Venta)",
     "fuente": "Bluelytics",
     "categoria": "cambiario",
@@ -44,51 +22,7 @@
     "ultima_fecha": "2026-03-27"
   },
   {
-    "id": 24,
-    "nombre": "Dólar CCL Compra",
-    "fuente": "ArgentinaDatos",
-    "categoria": "cambiario",
-    "unidad": "ARS/USD",
-    "frecuencia": "diaria",
-    "slug": "dolar_ccl_compra",
-    "ultimo_valor": 1468.0,
-    "ultima_fecha": "2026-03-24"
-  },
-  {
-    "id": 25,
-    "nombre": "Dólar CCL Venta",
-    "fuente": "ArgentinaDatos",
-    "categoria": "cambiario",
-    "unidad": "ARS/USD",
-    "frecuencia": "diaria",
-    "slug": "dolar_ccl_venta",
-    "ultimo_valor": 1470.5,
-    "ultima_fecha": "2026-03-24"
-  },
-  {
-    "id": 22,
-    "nombre": "Dólar MEP Compra",
-    "fuente": "ArgentinaDatos",
-    "categoria": "cambiario",
-    "unidad": "ARS/USD",
-    "frecuencia": "diaria",
-    "slug": "dolar_mep_compra",
-    "ultimo_valor": 1405.5,
-    "ultima_fecha": "2026-03-24"
-  },
-  {
-    "id": 23,
-    "nombre": "Dólar MEP Venta",
-    "fuente": "ArgentinaDatos",
-    "categoria": "cambiario",
-    "unidad": "ARS/USD",
-    "frecuencia": "diaria",
-    "slug": "dolar_mep_venta",
-    "ultimo_valor": 1420.9,
-    "ultima_fecha": "2026-03-24"
-  },
-  {
-    "id": 7,
+    "id": 11,
     "nombre": "Dólar Oficial (Compra)",
     "fuente": "Bluelytics",
     "categoria": "cambiario",
@@ -99,7 +33,7 @@
     "ultima_fecha": "2026-03-27"
   },
   {
-    "id": 6,
+    "id": 10,
     "nombre": "Dólar Oficial (Venta)",
     "fuente": "Bluelytics",
     "categoria": "cambiario",
@@ -121,40 +55,7 @@
     "ultima_fecha": "2026-03-27"
   },
   {
-    "id": 21,
-    "nombre": "Riesgo País (EMBI+)",
-    "fuente": "ArgentinaDatos",
-    "categoria": "financiero",
-    "unidad": "bps",
-    "frecuencia": "diaria",
-    "slug": "riesgo_pais_embi",
-    "ultimo_valor": 600.0,
-    "ultima_fecha": "2026-03-23"
-  },
-  {
-    "id": 9,
-    "nombre": "Recaudación Tributaria",
-    "fuente": "Ministerio de Economía",
-    "categoria": "fiscal",
-    "unidad": "millones ARS",
-    "frecuencia": "mensual",
-    "slug": "recaudacion_tributaria",
-    "ultimo_valor": 16231829.881584609,
-    "ultima_fecha": "2026-02-01"
-  },
-  {
-    "id": 19,
-    "nombre": "Índice de Salarios",
-    "fuente": "INDEC",
-    "categoria": "laboral",
-    "unidad": "índice",
-    "frecuencia": "mensual",
-    "slug": "indice_de_salarios",
-    "ultimo_valor": 7969.6,
-    "ultima_fecha": "2025-12-01"
-  },
-  {
-    "id": 13,
+    "id": 4,
     "nombre": "BADLAR Bancos Privados",
     "fuente": "BCRA",
     "categoria": "monetario",
@@ -187,7 +88,7 @@
     "ultima_fecha": "2026-03-25"
   },
   {
-    "id": 15,
+    "id": 6,
     "nombre": "Tasa Pases Pasivos BCRA 1 día",
     "fuente": "BCRA",
     "categoria": "monetario",
@@ -198,7 +99,7 @@
     "ultima_fecha": "2026-03-26"
   },
   {
-    "id": 16,
+    "id": 7,
     "nombre": "Tasa de Política Monetaria",
     "fuente": "BCRA",
     "categoria": "monetario",
@@ -209,18 +110,7 @@
     "ultima_fecha": "2025-07-10"
   },
   {
-    "id": 8,
-    "nombre": "IPC - Nivel General",
-    "fuente": "INDEC",
-    "categoria": "precios",
-    "unidad": "índice",
-    "frecuencia": "mensual",
-    "slug": "ipc_nivel_general",
-    "ultimo_valor": 10714.6255,
-    "ultima_fecha": "2026-02-01"
-  },
-  {
-    "id": 14,
+    "id": 5,
     "nombre": "Inflación Esperada 12m (REM)",
     "fuente": "BCRA",
     "categoria": "precios",
