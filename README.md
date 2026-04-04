@@ -21,11 +21,16 @@ Actualizado automáticamente desde [`arg-financial-local`](https://github.com/ma
 | monetario | Tasa Pases Pasivos BCRA 1 día | BCRA | Diaria | 2014 |
 | financiero | Riesgo País (EMBI+) | ArgentinaDatos | Diaria | 1999 |
 | precios | IPC - Nivel General | INDEC | Mensual | 2017 |
-| precios | Inflación Esperada 12m (REM) | BCRA | Mensual | 2004 |
+| precios | Inflación Esperada 12m (REM) | BCRA | Diaria | 2004 |
 | actividad | EMAE - Actividad Económica | INDEC | Mensual | 2004 |
 | actividad | IPI Manufacturero | INDEC | Mensual | 2016 |
 | laboral | Índice de Salarios | INDEC | Mensual | 2016 |
 | fiscal | Recaudación Tributaria | Ministerio de Economía | Mensual | 1997 |
+| fiscal | Gasto Corriente del Estado | Ministerio de Economía | Trimestral | — |
+| fiscal | Gasto Público Nacional | Ministerio de Economía | Anual | — |
+| fiscal | Gasto Público Consolidado | Ministerio de Economía | Anual | — |
+| social | Línea de Pobreza | INDEC | Mensual | 2016 |
+| social | Línea de Indigencia | INDEC | Mensual | 2016 |
 
 El catálogo completo y actualizado está en [`metadata.json`](./metadata.json).
 
@@ -43,7 +48,8 @@ arg-financial-data/
 │   ├── actividad/
 │   ├── laboral/
 │   ├── financiero/
-│   └── fiscal/
+│   ├── fiscal/
+│   └── social/
 ├── all_series.csv       ← todas las series unificadas
 ├── all_series.parquet   ← todas las series unificadas
 ├── metadata.json        ← catálogo de series con metadatos y slugs
