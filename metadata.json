@@ -8,7 +8,7 @@
     "frecuencia": "mensual",
     "descripcion": "Estimador Mensual de Actividad Económica - Nivel General (INDEC, base 2004=100)",
     "slug": "emae_actividad_economica",
-    "ultima_actualizacion": "2026-04-02T00:00:04.141700+00:00"
+    "ultima_actualizacion": "2026-04-03T00:57:05.020155+00:00"
   },
   {
     "id": 47,
@@ -19,7 +19,7 @@
     "frecuencia": "mensual",
     "descripcion": "Índice de Producción Industrial Manufacturero - Serie original (INDEC, base 2004=100)",
     "slug": "ipi_manufacturero",
-    "ultima_actualizacion": "2026-04-02T00:00:05.458040+00:00"
+    "ultima_actualizacion": "2026-04-03T00:57:06.274363+00:00"
   },
   {
     "id": 9,
@@ -30,7 +30,7 @@
     "frecuencia": "diaria",
     "descripcion": "Cotización compra del dólar blue (informal)",
     "slug": "dolar_blue_compra",
-    "ultima_actualizacion": "2026-04-03T00:00:11.341356+00:00"
+    "ultima_actualizacion": "2026-04-04T00:00:09.587185+00:00"
   },
   {
     "id": 8,
@@ -41,7 +41,7 @@
     "frecuencia": "diaria",
     "descripcion": "Cotización venta del dólar blue (informal)",
     "slug": "dolar_blue_venta",
-    "ultima_actualizacion": "2026-04-03T00:00:11.196422+00:00"
+    "ultima_actualizacion": "2026-04-04T00:00:09.474856+00:00"
   },
   {
     "id": 26,
@@ -52,7 +52,7 @@
     "frecuencia": "diaria",
     "descripcion": "Dólar CCL Compra (ArgentinaDatos)",
     "slug": "dolar_ccl_compra",
-    "ultima_actualizacion": "2026-04-03T00:00:13.079019+00:00"
+    "ultima_actualizacion": "2026-04-04T00:00:10.880926+00:00"
   },
   {
     "id": 27,
@@ -63,7 +63,7 @@
     "frecuencia": "diaria",
     "descripcion": "Dólar CCL Venta (ArgentinaDatos)",
     "slug": "dolar_ccl_venta",
-    "ultima_actualizacion": "2026-04-03T00:00:13.233658+00:00"
+    "ultima_actualizacion": "2026-04-04T00:00:11.035458+00:00"
   },
   {
     "id": 24,
@@ -74,7 +74,7 @@
     "frecuencia": "diaria",
     "descripcion": "Dólar MEP Compra (ArgentinaDatos)",
     "slug": "dolar_mep_compra",
-    "ultima_actualizacion": "2026-04-03T00:00:12.556924+00:00"
+    "ultima_actualizacion": "2026-04-04T00:00:10.434955+00:00"
   },
   {
     "id": 25,
@@ -85,7 +85,7 @@
     "frecuencia": "diaria",
     "descripcion": "Dólar MEP Venta (ArgentinaDatos)",
     "slug": "dolar_mep_venta",
-    "ultima_actualizacion": "2026-04-03T00:00:12.676848+00:00"
+    "ultima_actualizacion": "2026-04-04T00:00:10.534585+00:00"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "frecuencia": "diaria",
     "descripcion": "Cotización compra del dólar oficial BNA",
     "slug": "dolar_oficial_compra",
-    "ultima_actualizacion": "2026-04-03T00:00:11.586773+00:00"
+    "ultima_actualizacion": "2026-04-04T00:00:09.821824+00:00"
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "frecuencia": "diaria",
     "descripcion": "Cotización venta del dólar oficial BNA",
     "slug": "dolar_oficial_venta",
-    "ultima_actualizacion": "2026-04-03T00:00:11.464109+00:00"
+    "ultima_actualizacion": "2026-04-04T00:00:09.699082+00:00"
   },
   {
     "id": 3,
@@ -118,7 +118,7 @@
     "frecuencia": "diaria",
     "descripcion": "Tipo de cambio minorista promedio vendedor (BCRA)",
     "slug": "tipo_de_cambio_minorista_bcra",
-    "ultima_actualizacion": "2026-04-03T00:00:06.541954+00:00"
+    "ultima_actualizacion": "2026-04-04T00:00:05.954310+00:00"
   },
   {
     "id": 23,
@@ -129,7 +129,40 @@
     "frecuencia": "diaria",
     "descripcion": "Riesgo país argentino (EMBI+ spread en puntos básicos)",
     "slug": "riesgo_pais_embi",
-    "ultima_actualizacion": "2026-04-03T00:00:12.214207+00:00"
+    "ultima_actualizacion": "2026-04-04T00:00:10.256112+00:00"
+  },
+  {
+    "id": 111,
+    "nombre": "Gasto Corriente del Estado",
+    "fuente": "Ministerio de Economía",
+    "categoria": "fiscal",
+    "unidad": "millones ARS",
+    "frecuencia": "trimestral",
+    "descripcion": "Gasto corriente del sector público nacional, metodología 2017 (trimestral)",
+    "slug": "gasto_corriente_del_estado",
+    "ultima_actualizacion": "2026-04-03T00:57:10.213749+00:00"
+  },
+  {
+    "id": 109,
+    "nombre": "Gasto Público Consolidado",
+    "fuente": "Ministerio de Economía",
+    "categoria": "fiscal",
+    "unidad": "millones ARS",
+    "frecuencia": "anual",
+    "descripcion": "Gasto público consolidado (Nación + Provincias + Municipios, en millones de ARS corrientes)",
+    "slug": "gasto_publico_consolidado",
+    "ultima_actualizacion": "2026-04-03T00:57:09.025513+00:00"
+  },
+  {
+    "id": 110,
+    "nombre": "Gasto Público Nacional",
+    "fuente": "Ministerio de Economía",
+    "categoria": "fiscal",
+    "unidad": "millones ARS",
+    "frecuencia": "anual",
+    "descripcion": "Gasto del sector público nacional (en millones de ARS corrientes)",
+    "slug": "gasto_publico_nacional",
+    "ultima_actualizacion": "2026-04-03T00:57:09.637323+00:00"
   },
   {
     "id": 48,
@@ -140,7 +173,7 @@
     "frecuencia": "mensual",
     "descripcion": "Recaudación tributaria total mensual (Ministerio de Economía)",
     "slug": "recaudacion_tributaria",
-    "ultima_actualizacion": "2026-04-02T00:00:06.307478+00:00"
+    "ultima_actualizacion": "2026-04-03T00:57:08.415496+00:00"
   },
   {
     "id": 46,
@@ -151,7 +184,7 @@
     "frecuencia": "mensual",
     "descripcion": "Índice de Salarios total (INDEC, base Oct 2016=100)",
     "slug": "indice_de_salarios",
-    "ultima_actualizacion": "2026-04-02T00:00:04.850935+00:00"
+    "ultima_actualizacion": "2026-04-03T00:57:05.641718+00:00"
   },
   {
     "id": 4,
@@ -162,7 +195,7 @@
     "frecuencia": "diaria",
     "descripcion": "Tasa de interés BADLAR bancos privados (nominal anual)",
     "slug": "badlar_bancos_privados",
-    "ultima_actualizacion": "2026-04-03T00:00:07.759550+00:00"
+    "ultima_actualizacion": "2026-04-04T00:00:07.261098+00:00"
   },
   {
     "id": 2,
@@ -173,7 +206,7 @@
     "frecuencia": "diaria",
     "descripcion": "Base monetaria en millones de pesos",
     "slug": "base_monetaria",
-    "ultima_actualizacion": "2026-04-03T00:00:05.481949+00:00"
+    "ultima_actualizacion": "2026-04-04T00:00:05.187090+00:00"
   },
   {
     "id": 1,
@@ -184,7 +217,7 @@
     "frecuencia": "diaria",
     "descripcion": "Reservas internacionales del BCRA en millones de dólares",
     "slug": "reservas_internacionales_bcra",
-    "ultima_actualizacion": "2026-04-03T00:00:04.078244+00:00"
+    "ultima_actualizacion": "2026-04-04T00:00:03.748849+00:00"
   },
   {
     "id": 6,
@@ -195,7 +228,7 @@
     "frecuencia": "diaria",
     "descripcion": "Tasa de pases pasivos entre terceros a 1 día (BCRA)",
     "slug": "tasa_pases_pasivos_bcra_1_dia",
-    "ultima_actualizacion": "2026-04-03T00:00:08.734694+00:00"
+    "ultima_actualizacion": "2026-04-04T00:00:08.413279+00:00"
   },
   {
     "id": 7,
@@ -206,7 +239,7 @@
     "frecuencia": "diaria",
     "descripcion": "Tasa de interés de política monetaria (BCRA)",
     "slug": "tasa_de_politica_monetaria",
-    "ultima_actualizacion": "2026-04-03T00:00:09.227443+00:00"
+    "ultima_actualizacion": "2026-04-04T00:00:09.042861+00:00"
   },
   {
     "id": 44,
@@ -217,7 +250,7 @@
     "frecuencia": "mensual",
     "descripcion": "Índice de Precios al Consumidor - Nivel General (INDEC, base Dic 2016=100)",
     "slug": "ipc_nivel_general",
-    "ultima_actualizacion": "2026-04-02T00:00:03.395208+00:00"
+    "ultima_actualizacion": "2026-04-03T00:57:04.362122+00:00"
   },
   {
     "id": 5,
@@ -228,6 +261,28 @@
     "frecuencia": "diaria",
     "descripcion": "Mediana de variación interanual esperada del IPC próximos 12 meses (REM-BCRA)",
     "slug": "inflacion_esperada_12m_rem",
-    "ultima_actualizacion": "2026-04-03T00:00:07.972989+00:00"
+    "ultima_actualizacion": "2026-04-04T00:00:07.479685+00:00"
+  },
+  {
+    "id": 107,
+    "nombre": "Línea de Indigencia",
+    "fuente": "INDEC",
+    "categoria": "social",
+    "unidad": "ARS corrientes",
+    "frecuencia": "mensual",
+    "descripcion": "Línea de indigencia (canasta básica alimentaria) por adulto equivalente (INDEC, desde 2016)",
+    "slug": "linea_de_indigencia",
+    "ultima_actualizacion": "2026-04-03T00:57:07.572469+00:00"
+  },
+  {
+    "id": 106,
+    "nombre": "Línea de Pobreza",
+    "fuente": "INDEC",
+    "categoria": "social",
+    "unidad": "ARS corrientes",
+    "frecuencia": "mensual",
+    "descripcion": "Línea de pobreza (canasta básica total) por adulto equivalente (INDEC, desde 2016)",
+    "slug": "linea_de_pobreza",
+    "ultima_actualizacion": "2026-04-03T00:57:06.906563+00:00"
   }
 ]

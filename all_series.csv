@@ -1,4 +1,38 @@
 fecha,serie,valor,categoria,fuente,unidad
+1980-01-01,Gasto Público Consolidado,1.2366963904664272,fiscal,Ministerio de Economía,millones ARS
+1980-01-01,Gasto Público Nacional,0.8146837826093004,fiscal,Ministerio de Economía,millones ARS
+1981-01-01,Gasto Público Consolidado,2.706814305324251,fiscal,Ministerio de Economía,millones ARS
+1981-01-01,Gasto Público Nacional,1.880539527136724,fiscal,Ministerio de Economía,millones ARS
+1982-01-01,Gasto Público Consolidado,7.056975255917009,fiscal,Ministerio de Economía,millones ARS
+1982-01-01,Gasto Público Nacional,5.360105948510464,fiscal,Ministerio de Economía,millones ARS
+1983-01-01,Gasto Público Consolidado,32.001459166682864,fiscal,Ministerio de Economía,millones ARS
+1983-01-01,Gasto Público Nacional,22.88754199818688,fiscal,Ministerio de Economía,millones ARS
+1984-01-01,Gasto Público Consolidado,228.37241089398825,fiscal,Ministerio de Economía,millones ARS
+1984-01-01,Gasto Público Nacional,152.73149685604378,fiscal,Ministerio de Economía,millones ARS
+1985-01-01,Gasto Público Consolidado,1780.4300112664007,fiscal,Ministerio de Economía,millones ARS
+1985-01-01,Gasto Público Nacional,1196.7345006295488,fiscal,Ministerio de Economía,millones ARS
+1986-01-01,Gasto Público Consolidado,3269.22063756067,fiscal,Ministerio de Economía,millones ARS
+1986-01-01,Gasto Público Nacional,2062.282727114424,fiscal,Ministerio de Economía,millones ARS
+1987-01-01,Gasto Público Consolidado,8.170917423714004,fiscal,Ministerio de Economía,millones ARS
+1987-01-01,Gasto Público Nacional,5.273630965422748,fiscal,Ministerio de Economía,millones ARS
+1988-01-01,Gasto Público Consolidado,35.2613137610363,fiscal,Ministerio de Economía,millones ARS
+1988-01-01,Gasto Público Nacional,22.90268169876855,fiscal,Ministerio de Economía,millones ARS
+1989-01-01,Gasto Público Consolidado,1081.782781178833,fiscal,Ministerio de Economía,millones ARS
+1989-01-01,Gasto Público Nacional,733.5111996688763,fiscal,Ministerio de Economía,millones ARS
+1990-01-01,Gasto Público Consolidado,19759.521068306403,fiscal,Ministerio de Economía,millones ARS
+1990-01-01,Gasto Público Nacional,12361.699699327948,fiscal,Ministerio de Economía,millones ARS
+1991-01-01,Gasto Público Consolidado,51371.632500926746,fiscal,Ministerio de Economía,millones ARS
+1991-01-01,Gasto Público Nacional,30388.5047812678,fiscal,Ministerio de Economía,millones ARS
+1992-01-01,Gasto Público Consolidado,66055.03883737564,fiscal,Ministerio de Economía,millones ARS
+1992-01-01,Gasto Público Nacional,36612.77065411,fiscal,Ministerio de Economía,millones ARS
+1993-01-01,Gasto Público Consolidado,75001.781702151,fiscal,Ministerio de Economía,millones ARS
+1993-01-01,Gasto Público Nacional,38676.3481022789,fiscal,Ministerio de Economía,millones ARS
+1994-01-01,Gasto Público Consolidado,81937.66617675583,fiscal,Ministerio de Economía,millones ARS
+1994-01-01,Gasto Público Nacional,42545.422291704,fiscal,Ministerio de Economía,millones ARS
+1995-01-01,Gasto Público Consolidado,83717.12552386298,fiscal,Ministerio de Economía,millones ARS
+1995-01-01,Gasto Público Nacional,44059.07807455436,fiscal,Ministerio de Economía,millones ARS
+1996-01-01,Gasto Público Consolidado,83127.59876343721,fiscal,Ministerio de Economía,millones ARS
+1996-01-01,Gasto Público Nacional,43996.79694474957,fiscal,Ministerio de Economía,millones ARS
 1996-04-08,Base Monetaria,12671.0,monetario,BCRA,millones ARS
 1996-04-08,Reservas Internacionales BCRA,18715.0,monetario,BCRA,millones USD
 1996-04-09,Base Monetaria,12508.0,monetario,BCRA,millones ARS
@@ -369,6 +403,8 @@ fecha,serie,valor,categoria,fuente,unidad
 1996-12-27,Reservas Internacionales BCRA,23912.0,monetario,BCRA,millones USD
 1996-12-30,Base Monetaria,14030.0,monetario,BCRA,millones ARS
 1996-12-30,Reservas Internacionales BCRA,23330.0,monetario,BCRA,millones USD
+1997-01-01,Gasto Público Consolidado,88902.42424057808,fiscal,Ministerio de Economía,millones ARS
+1997-01-01,Gasto Público Nacional,46753.390918744095,fiscal,Ministerio de Economía,millones ARS
 1997-01-01,Recaudación Tributaria,4353.7589573800005,fiscal,Ministerio de Economía,millones ARS
 1997-01-02,Base Monetaria,14085.0,monetario,BCRA,millones ARS
 1997-01-02,Reservas Internacionales BCRA,23496.0,monetario,BCRA,millones USD
@@ -881,6 +917,8 @@ fecha,serie,valor,categoria,fuente,unidad
 1997-12-29,Reservas Internacionales BCRA,29799.0,monetario,BCRA,millones USD
 1997-12-31,Base Monetaria,15966.0,monetario,BCRA,millones ARS
 1997-12-31,Reservas Internacionales BCRA,29769.0,monetario,BCRA,millones USD
+1998-01-01,Gasto Público Consolidado,92554.27709521896,fiscal,Ministerio de Economía,millones ARS
+1998-01-01,Gasto Público Nacional,47321.33703149221,fiscal,Ministerio de Economía,millones ARS
 1998-01-01,Recaudación Tributaria,4153.8362087900005,fiscal,Ministerio de Economía,millones ARS
 1998-01-02,Base Monetaria,15982.0,monetario,BCRA,millones ARS
 1998-01-02,Reservas Internacionales BCRA,29628.0,monetario,BCRA,millones USD
@@ -1389,6 +1427,8 @@ fecha,serie,valor,categoria,fuente,unidad
 1998-12-29,Reservas Internacionales BCRA,32508.0,monetario,BCRA,millones USD
 1998-12-30,Base Monetaria,16370.0,monetario,BCRA,millones ARS
 1998-12-30,Reservas Internacionales BCRA,31736.0,monetario,BCRA,millones USD
+1999-01-01,Gasto Público Consolidado,97057.55664408852,fiscal,Ministerio de Economía,millones ARS
+1999-01-01,Gasto Público Nacional,49870.0894186505,fiscal,Ministerio de Economía,millones ARS
 1999-01-01,Recaudación Tributaria,4179.71660927,fiscal,Ministerio de Economía,millones ARS
 1999-01-04,BADLAR Bancos Privados,9.0625,monetario,BCRA,% n.a.
 1999-01-04,Base Monetaria,16412.0,monetario,BCRA,millones ARS
@@ -2391,6 +2431,8 @@ fecha,serie,valor,categoria,fuente,unidad
 1999-12-31,Base Monetaria,16493.0,monetario,BCRA,millones ARS
 1999-12-31,Reservas Internacionales BCRA,33100.0,monetario,BCRA,millones USD
 1999-12-31,Riesgo País (EMBI+),531.0,financiero,ArgentinaDatos,bps
+2000-01-01,Gasto Público Consolidado,96143.63438470857,fiscal,Ministerio de Economía,millones ARS
+2000-01-01,Gasto Público Nacional,49586.62211350864,fiscal,Ministerio de Economía,millones ARS
 2000-01-01,Recaudación Tributaria,4110.58014151,fiscal,Ministerio de Economía,millones ARS
 2000-01-03,BADLAR Bancos Privados,9.625,monetario,BCRA,% n.a.
 2000-01-03,Base Monetaria,16484.0,monetario,BCRA,millones ARS
@@ -3405,6 +3447,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2000-12-29,Riesgo País (EMBI+),766.0,financiero,ArgentinaDatos,bps
 2000-12-31,Base Monetaria,15054.0,monetario,BCRA,millones ARS
 2000-12-31,Reservas Internacionales BCRA,34234.0,monetario,BCRA,millones USD
+2001-01-01,Gasto Público Consolidado,95649.74613980707,fiscal,Ministerio de Economía,millones ARS
+2001-01-01,Gasto Público Nacional,48739.73672365832,fiscal,Ministerio de Economía,millones ARS
 2001-01-01,Recaudación Tributaria,4219.057216759999,fiscal,Ministerio de Economía,millones ARS
 2001-01-02,BADLAR Bancos Privados,12.125,monetario,BCRA,% n.a.
 2001-01-02,Base Monetaria,15056.0,monetario,BCRA,millones ARS
@@ -4409,6 +4453,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2001-12-31,Base Monetaria,11982.0,monetario,BCRA,millones ARS
 2001-12-31,Reservas Internacionales BCRA,15232.0,monetario,BCRA,millones USD
 2001-12-31,Riesgo País (EMBI+),4404.0,financiero,ArgentinaDatos,bps
+2002-01-01,Gasto Público Consolidado,90984.35916788327,fiscal,Ministerio de Economía,millones ARS
+2002-01-01,Gasto Público Nacional,46877.53646389754,fiscal,Ministerio de Economía,millones ARS
 2002-01-01,Recaudación Tributaria,3411.2354418699992,fiscal,Ministerio de Economía,millones ARS
 2002-01-02,BADLAR Bancos Privados,7.5,monetario,BCRA,% n.a.
 2002-01-02,Base Monetaria,12169.0,monetario,BCRA,millones ARS
@@ -5397,6 +5443,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2002-12-31,Base Monetaria,29151.0,monetario,BCRA,millones ARS
 2002-12-31,Reservas Internacionales BCRA,10476.0,monetario,BCRA,millones USD
 2002-12-31,Riesgo País (EMBI+),6303.0,financiero,ArgentinaDatos,bps
+2003-01-01,Gasto Público Consolidado,110703.313363987,fiscal,Ministerio de Economía,millones ARS
+2003-01-01,Gasto Público Nacional,58302.209088322925,fiscal,Ministerio de Economía,millones ARS
 2003-01-01,Recaudación Tributaria,5600.40514198,fiscal,Ministerio de Economía,millones ARS
 2003-01-02,BADLAR Bancos Privados,21.75,monetario,BCRA,% n.a.
 2003-01-02,Base Monetaria,29302.0,monetario,BCRA,millones ARS
@@ -6414,6 +6462,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2003-12-31,Reservas Internacionales BCRA,14119.0,monetario,BCRA,millones USD
 2003-12-31,Riesgo País (EMBI+),5631.0,financiero,ArgentinaDatos,bps
 2004-01-01,EMAE - Actividad Económica,92.62750602691052,actividad,INDEC,índice
+2004-01-01,Gasto Público Consolidado,129041.48019344112,fiscal,Ministerio de Economía,millones ARS
+2004-01-01,Gasto Público Nacional,64014.8674450582,fiscal,Ministerio de Economía,millones ARS
 2004-01-01,Recaudación Tributaria,7159.96339146,fiscal,Ministerio de Economía,millones ARS
 2004-01-02,BADLAR Bancos Privados,2.75,monetario,BCRA,% n.a.
 2004-01-02,Base Monetaria,46747.0,monetario,BCRA,millones ARS
@@ -7466,6 +7516,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2004-12-31,Reservas Internacionales BCRA,19646.0,monetario,BCRA,millones USD
 2004-12-31,Riesgo País (EMBI+),4702.0,financiero,ArgentinaDatos,bps
 2005-01-01,EMAE - Actividad Económica,98.473359529179,actividad,INDEC,índice
+2005-01-01,Gasto Público Consolidado,169268.43648034104,fiscal,Ministerio de Economía,millones ARS
+2005-01-01,Gasto Público Nacional,84377.50025069165,fiscal,Ministerio de Economía,millones ARS
 2005-01-01,Recaudación Tributaria,8802.493186605001,fiscal,Ministerio de Economía,millones ARS
 2005-01-03,BADLAR Bancos Privados,4.0,monetario,BCRA,% n.a.
 2005-01-03,Base Monetaria,52537.0,monetario,BCRA,millones ARS
@@ -8522,6 +8574,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2005-12-31,Reservas Internacionales BCRA,28077.0,monetario,BCRA,millones USD
 2005-12-31,Riesgo País (EMBI+),503.0,financiero,ArgentinaDatos,bps
 2006-01-01,EMAE - Actividad Económica,106.53094787692405,actividad,INDEC,índice
+2006-01-01,Gasto Público Consolidado,212233.2463318268,fiscal,Ministerio de Economía,millones ARS
+2006-01-01,Gasto Público Nacional,103471.58326672442,fiscal,Ministerio de Economía,millones ARS
 2006-01-01,Recaudación Tributaria,11164.671521679998,fiscal,Ministerio de Economía,millones ARS
 2006-01-02,BADLAR Bancos Privados,7.9375,monetario,BCRA,% n.a.
 2006-01-02,Base Monetaria,54900.0,monetario,BCRA,millones ARS
@@ -9564,6 +9618,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2006-12-29,Riesgo País (EMBI+),215.0,financiero,ArgentinaDatos,bps
 2006-12-31,Inflación Esperada 12m (REM),10.3,precios,BCRA,%
 2007-01-01,EMAE - Actividad Económica,114.70176482722368,actividad,INDEC,índice
+2007-01-01,Gasto Público Consolidado,291373.435905679,fiscal,Ministerio de Economía,millones ARS
+2007-01-01,Gasto Público Nacional,151229.86314473723,fiscal,Ministerio de Economía,millones ARS
 2007-01-01,Recaudación Tributaria,14535.25060958,fiscal,Ministerio de Economía,millones ARS
 2007-01-02,BADLAR Bancos Privados,9.875,monetario,BCRA,% n.a.
 2007-01-02,Base Monetaria,80121.0,monetario,BCRA,millones ARS
@@ -10597,6 +10653,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2007-12-31,Inflación Esperada 12m (REM),9.8,precios,BCRA,%
 2007-12-31,Riesgo País (EMBI+),410.0,financiero,ArgentinaDatos,bps
 2008-01-01,EMAE - Actividad Económica,126.22689251081432,actividad,INDEC,índice
+2008-01-01,Gasto Público Consolidado,394469.6812842149,fiscal,Ministerio de Economía,millones ARS
+2008-01-01,Gasto Público Nacional,209601.76143318863,fiscal,Ministerio de Economía,millones ARS
 2008-01-01,Recaudación Tributaria,21728.98987264,fiscal,Ministerio de Economía,millones ARS
 2008-01-02,BADLAR Bancos Privados,13.5,monetario,BCRA,% n.a.
 2008-01-02,Base Monetaria,99734.0,monetario,BCRA,millones ARS
@@ -11875,6 +11933,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2008-12-31,Reservas Internacionales BCRA,46386.0,monetario,BCRA,millones USD
 2008-12-31,Riesgo País (EMBI+),1704.0,financiero,ArgentinaDatos,bps
 2009-01-01,EMAE - Actividad Económica,116.7584192020652,actividad,INDEC,índice
+2009-01-01,Gasto Público Consolidado,497481.59029576177,fiscal,Ministerio de Economía,millones ARS
+2009-01-01,Gasto Público Nacional,269647.57712009345,fiscal,Ministerio de Economía,millones ARS
 2009-01-01,Recaudación Tributaria,24109.0412123,fiscal,Ministerio de Economía,millones ARS
 2009-01-02,BADLAR Bancos Privados,19.1875,monetario,BCRA,% n.a.
 2009-01-02,Base Monetaria,109709.0,monetario,BCRA,millones ARS
@@ -13142,6 +13202,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2009-12-31,Reservas Internacionales BCRA,47967.0,monetario,BCRA,millones USD
 2009-12-31,Riesgo País (EMBI+),660.0,financiero,ArgentinaDatos,bps
 2010-01-01,EMAE - Actividad Económica,121.50567852923164,actividad,INDEC,índice
+2010-01-01,Gasto Público Consolidado,635942.5141811651,fiscal,Ministerio de Economía,millones ARS
+2010-01-01,Gasto Público Nacional,349761.1945183823,fiscal,Ministerio de Economía,millones ARS
 2010-01-01,Recaudación Tributaria,29025.11512437,fiscal,Ministerio de Economía,millones ARS
 2010-01-04,BADLAR Bancos Privados,9.875,monetario,BCRA,% n.a.
 2010-01-04,Base Monetaria,123817.0,monetario,BCRA,millones ARS
@@ -14557,6 +14619,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2010-12-31,Inflación Esperada 12m (REM),12.2,precios,BCRA,%
 2010-12-31,Riesgo País (EMBI+),496.0,financiero,ArgentinaDatos,bps
 2011-01-01,EMAE - Actividad Económica,133.0769197185519,actividad,INDEC,índice
+2011-01-01,Gasto Público Consolidado,871755.6156033891,fiscal,Ministerio de Economía,millones ARS
+2011-01-01,Gasto Público Nacional,483378.8679850301,fiscal,Ministerio de Economía,millones ARS
 2011-01-01,Recaudación Tributaria,40767.26164209,fiscal,Ministerio de Economía,millones ARS
 2011-01-03,BADLAR Bancos Privados,11.0625,monetario,BCRA,% n.a.
 2011-01-03,Base Monetaria,162878.0,monetario,BCRA,millones ARS
@@ -17057,6 +17121,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2011-12-30,Tipo de Cambio Minorista BCRA,4.34,cambiario,BCRA,ARS/USD
 2011-12-31,Inflación Esperada 12m (REM),11.3,precios,BCRA,%
 2012-01-01,EMAE - Actividad Económica,136.19408129361287,actividad,INDEC,índice
+2012-01-01,Gasto Público Consolidado,1088910.175772103,fiscal,Ministerio de Economía,millones ARS
+2012-01-01,Gasto Público Nacional,612581.9420211498,fiscal,Ministerio de Economía,millones ARS
 2012-01-01,Recaudación Tributaria,52843.97984874,fiscal,Ministerio de Economía,millones ARS
 2012-01-03,BADLAR Bancos Privados,17.5,monetario,BCRA,% n.a.
 2012-01-03,Base Monetaria,221897.0,monetario,BCRA,millones ARS
@@ -19505,6 +19571,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2012-12-31,Tasa Pases Pasivos BCRA 1 día,11.4323,monetario,BCRA,% n.a.
 2012-12-31,Tipo de Cambio Minorista BCRA,4.95,cambiario,BCRA,ARS/USD
 2013-01-01,EMAE - Actividad Económica,136.51707182504433,actividad,INDEC,índice
+2013-01-01,Gasto Público Consolidado,1434958.7396225394,fiscal,Ministerio de Economía,millones ARS
+2013-01-01,Gasto Público Nacional,805179.6601615961,fiscal,Ministerio de Economía,millones ARS
 2013-01-01,Recaudación Tributaria,65682.782974275,fiscal,Ministerio de Economía,millones ARS
 2013-01-02,BADLAR Bancos Privados,15.25,monetario,BCRA,% n.a.
 2013-01-02,Base Monetaria,305407.0,monetario,BCRA,millones ARS
@@ -22515,6 +22583,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2014-01-01,Dólar CCL Compra,8.7,cambiario,ArgentinaDatos,ARS/USD
 2014-01-01,Dólar CCL Venta,8.7,cambiario,ArgentinaDatos,ARS/USD
 2014-01-01,EMAE - Actividad Económica,137.96969739537636,actividad,INDEC,índice
+2014-01-01,Gasto Público Consolidado,2060288.3590367967,fiscal,Ministerio de Economía,millones ARS
+2014-01-01,Gasto Público Nacional,1195376.9746072572,fiscal,Ministerio de Economía,millones ARS
 2014-01-01,Recaudación Tributaria,90307.16747115,fiscal,Ministerio de Economía,millones ARS
 2014-01-02,BADLAR Bancos Privados,21.0,monetario,BCRA,% n.a.
 2014-01-02,Base Monetaria,378160.0,monetario,BCRA,millones ARS
@@ -26105,6 +26175,9 @@ fecha,serie,valor,categoria,fuente,unidad
 2015-01-01,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2015-01-01,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-01-01,EMAE - Actividad Económica,133.99818907035032,actividad,INDEC,índice
+2015-01-01,Gasto Corriente del Estado,274312.3,fiscal,Ministerio de Economía,millones ARS
+2015-01-01,Gasto Público Consolidado,2756906.373507313,fiscal,Ministerio de Economía,millones ARS
+2015-01-01,Gasto Público Nacional,1543602.7596179538,fiscal,Ministerio de Economía,millones ARS
 2015-01-01,Recaudación Tributaria,117458.44764199,fiscal,Ministerio de Economía,millones ARS
 2015-01-02,BADLAR Bancos Privados,20.3125,monetario,BCRA,% n.a.
 2015-01-02,Base Monetaria,465862.0,monetario,BCRA,millones ARS
@@ -27001,6 +27074,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2015-04-01,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2015-04-01,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-04-01,EMAE - Actividad Económica,157.4845995373143,actividad,INDEC,índice
+2015-04-01,Gasto Corriente del Estado,337023.7,fiscal,Ministerio de Economía,millones ARS
 2015-04-01,Recaudación Tributaria,112658.62304883,fiscal,Ministerio de Economía,millones ARS
 2015-04-01,Reservas Internacionales BCRA,31505.0,monetario,BCRA,millones USD
 2015-04-01,Riesgo País (EMBI+),628.0,financiero,ArgentinaDatos,bps
@@ -27914,6 +27988,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2015-07-01,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2015-07-01,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-07-01,EMAE - Actividad Económica,151.8447963430633,actividad,INDEC,índice
+2015-07-01,Gasto Corriente del Estado,339254.0,fiscal,Ministerio de Economía,millones ARS
 2015-07-01,Recaudación Tributaria,145998.56433685,fiscal,Ministerio de Economía,millones ARS
 2015-07-01,Reservas Internacionales BCRA,33847.0,monetario,BCRA,millones USD
 2015-07-01,Riesgo País (EMBI+),624.0,financiero,ArgentinaDatos,bps
@@ -28850,6 +28925,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2015-10-01,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2015-10-01,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-10-01,EMAE - Actividad Económica,147.04587615341626,actividad,INDEC,índice
+2015-10-01,Gasto Corriente del Estado,395678.5,fiscal,Ministerio de Economía,millones ARS
 2015-10-01,Recaudación Tributaria,134417.06261348998,fiscal,Ministerio de Economía,millones ARS
 2015-10-01,Reservas Internacionales BCRA,32471.0,monetario,BCRA,millones USD
 2015-10-01,Riesgo País (EMBI+),589.0,financiero,ArgentinaDatos,bps
@@ -29763,6 +29839,9 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-01-01,Dólar Oficial (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2016-01-01,Dólar Oficial (Venta),13.0,cambiario,Bluelytics,ARS/USD
 2016-01-01,EMAE - Actividad Económica,134.74645041349706,actividad,INDEC,índice
+2016-01-01,Gasto Corriente del Estado,358277.1,fiscal,Ministerio de Economía,millones ARS
+2016-01-01,Gasto Público Consolidado,3892578.665290696,fiscal,Ministerio de Economía,millones ARS
+2016-01-01,Gasto Público Nacional,2251147.7071815077,fiscal,Ministerio de Economía,millones ARS
 2016-01-01,IPI Manufacturero,117.05119421077302,actividad,INDEC,índice
 2016-01-01,Recaudación Tributaria,162654.15131857,fiscal,Ministerio de Economía,millones ARS
 2016-01-02,Dólar Blue (Compra),14.0,cambiario,Bluelytics,ARS/USD
@@ -30725,7 +30804,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-04-01,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-04-01,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-04-01,EMAE - Actividad Económica,153.25067436662908,actividad,INDEC,índice
+2016-04-01,Gasto Corriente del Estado,456051.1,fiscal,Ministerio de Economía,millones ARS
 2016-04-01,IPI Manufacturero,132.0696490854989,actividad,INDEC,índice
+2016-04-01,Línea de Indigencia,4679.91,social,INDEC,ARS corrientes
+2016-04-01,Línea de Pobreza,11320.71,social,INDEC,ARS corrientes
 2016-04-01,Recaudación Tributaria,150809.70255676,fiscal,Ministerio de Economía,millones ARS
 2016-04-01,Reservas Internacionales BCRA,29407.0,monetario,BCRA,millones USD
 2016-04-01,Riesgo País (EMBI+),443.0,financiero,ArgentinaDatos,bps
@@ -31054,6 +31136,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-05-01,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-05-01,EMAE - Actividad Económica,163.51360808690507,actividad,INDEC,índice
 2016-05-01,IPI Manufacturero,132.12673005161108,actividad,INDEC,índice
+2016-05-01,Línea de Indigencia,4824.56,social,INDEC,ARS corrientes
+2016-05-01,Línea de Pobreza,11837.08,social,INDEC,ARS corrientes
 2016-05-01,Recaudación Tributaria,170344.61015764,fiscal,Ministerio de Economía,millones ARS
 2016-05-02,BADLAR Bancos Privados,30.5625,monetario,BCRA,% n.a.
 2016-05-02,Base Monetaria,598835.0,monetario,BCRA,millones ARS
@@ -31390,6 +31474,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-06-01,Dólar Oficial (Venta),14.0,cambiario,Bluelytics,ARS/USD
 2016-06-01,EMAE - Actividad Económica,153.66209524099784,actividad,INDEC,índice
 2016-06-01,IPI Manufacturero,124.9916505365282,actividad,INDEC,índice
+2016-06-01,Línea de Indigencia,4988.25,social,INDEC,ARS corrientes
+2016-06-01,Línea de Pobreza,12182.84,social,INDEC,ARS corrientes
 2016-06-01,Recaudación Tributaria,174596.73135568,fiscal,Ministerio de Economía,millones ARS
 2016-06-01,Reservas Internacionales BCRA,30742.0,monetario,BCRA,millones USD
 2016-06-01,Riesgo País (EMBI+),512.0,financiero,ArgentinaDatos,bps
@@ -31711,7 +31797,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-07-01,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-07-01,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-07-01,EMAE - Actividad Económica,143.73110098180126,actividad,INDEC,índice
+2016-07-01,Gasto Corriente del Estado,475090.1000000001,fiscal,Ministerio de Economía,millones ARS
 2016-07-01,IPI Manufacturero,126.76147447449928,actividad,INDEC,índice
+2016-07-01,Línea de Indigencia,5149.41,social,INDEC,ARS corrientes
+2016-07-01,Línea de Pobreza,12464.33,social,INDEC,ARS corrientes
 2016-07-01,Recaudación Tributaria,180091.40352652004,fiscal,Ministerio de Economía,millones ARS
 2016-07-01,Reservas Internacionales BCRA,30749.0,monetario,BCRA,millones USD
 2016-07-01,Riesgo País (EMBI+),513.0,financiero,ArgentinaDatos,bps
@@ -32038,6 +32127,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-08-01,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-08-01,EMAE - Actividad Económica,143.6741026486049,actividad,INDEC,índice
 2016-08-01,IPI Manufacturero,133.7329827733621,actividad,INDEC,índice
+2016-08-01,Línea de Indigencia,5175.92,social,INDEC,ARS corrientes
+2016-08-01,Línea de Pobreza,12489.37,social,INDEC,ARS corrientes
 2016-08-01,Recaudación Tributaria,165763.09835166,fiscal,Ministerio de Economía,millones ARS
 2016-08-01,Reservas Internacionales BCRA,32628.0,monetario,BCRA,millones USD
 2016-08-01,Riesgo País (EMBI+),523.0,financiero,ArgentinaDatos,bps
@@ -32381,6 +32472,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-09-01,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-09-01,EMAE - Actividad Económica,142.00773744282046,actividad,INDEC,índice
 2016-09-01,IPI Manufacturero,135.51789212141713,actividad,INDEC,índice
+2016-09-01,Línea de Indigencia,5287.67,social,INDEC,ARS corrientes
+2016-09-01,Línea de Pobreza,12637.53,social,INDEC,ARS corrientes
 2016-09-01,Recaudación Tributaria,168317.25607225,fiscal,Ministerio de Economía,millones ARS
 2016-09-01,Reservas Internacionales BCRA,31102.0,monetario,BCRA,millones USD
 2016-09-01,Riesgo País (EMBI+),458.0,financiero,ArgentinaDatos,bps
@@ -32713,7 +32806,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-10-01,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-10-01,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2016-10-01,EMAE - Actividad Económica,141.1368632980814,actividad,INDEC,índice
+2016-10-01,Gasto Corriente del Estado,632630.8,fiscal,Ministerio de Economía,millones ARS
 2016-10-01,IPI Manufacturero,133.34114128281072,actividad,INDEC,índice
+2016-10-01,Línea de Indigencia,5374.56,social,INDEC,ARS corrientes
+2016-10-01,Línea de Pobreza,12952.69,social,INDEC,ARS corrientes
 2016-10-01,Recaudación Tributaria,167196.31217207998,fiscal,Ministerio de Economía,millones ARS
 2016-10-01,Índice de Salarios,100.0,laboral,INDEC,índice
 2016-10-02,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
@@ -33045,6 +33141,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-11-01,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-11-01,EMAE - Actividad Económica,144.93832064073018,actividad,INDEC,índice
 2016-11-01,IPI Manufacturero,134.73703178156455,actividad,INDEC,índice
+2016-11-01,Línea de Indigencia,5446.59,social,INDEC,ARS corrientes
+2016-11-01,Línea de Pobreza,13126.29,social,INDEC,ARS corrientes
 2016-11-01,Recaudación Tributaria,182272.66508640003,fiscal,Ministerio de Economía,millones ARS
 2016-11-01,Reservas Internacionales BCRA,37533.0,monetario,BCRA,millones USD
 2016-11-01,Riesgo País (EMBI+),461.0,financiero,ArgentinaDatos,bps
@@ -33371,6 +33469,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-12-01,EMAE - Actividad Económica,142.59014516031914,actividad,INDEC,índice
 2016-12-01,IPC - Nivel General,100.0,precios,INDEC,índice
 2016-12-01,IPI Manufacturero,124.08230099201045,actividad,INDEC,índice
+2016-12-01,Línea de Indigencia,5458.86,social,INDEC,ARS corrientes
+2016-12-01,Línea de Pobreza,13155.83,social,INDEC,ARS corrientes
 2016-12-01,Recaudación Tributaria,275542.17169319006,fiscal,Ministerio de Economía,millones ARS
 2016-12-01,Reservas Internacionales BCRA,37275.0,monetario,BCRA,millones USD
 2016-12-01,Riesgo País (EMBI+),529.0,financiero,ArgentinaDatos,bps
@@ -33692,8 +33792,13 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-01-01,Dólar Oficial (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2017-01-01,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2017-01-01,EMAE - Actividad Económica,136.63265948316217,actividad,INDEC,índice
+2017-01-01,Gasto Corriente del Estado,486929.5,fiscal,Ministerio de Economía,millones ARS
+2017-01-01,Gasto Público Consolidado,4930123.1056245575,fiscal,Ministerio de Economía,millones ARS
+2017-01-01,Gasto Público Nacional,2741046.770757353,fiscal,Ministerio de Economía,millones ARS
 2017-01-01,IPC - Nivel General,101.5859,precios,INDEC,índice
 2017-01-01,IPI Manufacturero,115.72788011075902,actividad,INDEC,índice
+2017-01-01,Línea de Indigencia,5528.47,social,INDEC,ARS corrientes
+2017-01-01,Línea de Pobreza,13323.62,social,INDEC,ARS corrientes
 2017-01-01,Recaudación Tributaria,211413.38814554,fiscal,Ministerio de Economía,millones ARS
 2017-01-01,Índice de Salarios,104.38,laboral,INDEC,índice
 2017-01-02,BADLAR Bancos Privados,19.8125,monetario,BCRA,% n.a.
@@ -34036,6 +34141,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-02-01,EMAE - Actividad Económica,132.15851633982282,actividad,INDEC,índice
 2017-02-01,IPC - Nivel General,103.6859,precios,INDEC,índice
 2017-02-01,IPI Manufacturero,109.4384011666354,actividad,INDEC,índice
+2017-02-01,Línea de Indigencia,5626.95,social,INDEC,ARS corrientes
+2017-02-01,Línea de Pobreza,13673.5,social,INDEC,ARS corrientes
 2017-02-01,Recaudación Tributaria,172221.57082579,fiscal,Ministerio de Economía,millones ARS
 2017-02-01,Reservas Internacionales BCRA,46750.0,monetario,BCRA,millones USD
 2017-02-01,Riesgo País (EMBI+),461.0,financiero,ArgentinaDatos,bps
@@ -34331,6 +34438,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-03-01,EMAE - Actividad Económica,152.6209585590574,actividad,INDEC,índice
 2017-03-01,IPC - Nivel General,106.1476,precios,INDEC,índice
 2017-03-01,IPI Manufacturero,135.7397555654156,actividad,INDEC,índice
+2017-03-01,Línea de Indigencia,5798.57,social,INDEC,ARS corrientes
+2017-03-01,Línea de Pobreza,14090.52,social,INDEC,ARS corrientes
 2017-03-01,Recaudación Tributaria,212294.84218965,fiscal,Ministerio de Economía,millones ARS
 2017-03-01,Reservas Internacionales BCRA,50551.0,monetario,BCRA,millones USD
 2017-03-01,Riesgo País (EMBI+),454.0,financiero,ArgentinaDatos,bps
@@ -34672,8 +34781,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-04-01,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2017-04-01,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2017-04-01,EMAE - Actividad Económica,151.94634480448744,actividad,INDEC,índice
+2017-04-01,Gasto Corriente del Estado,609658.5,fiscal,Ministerio de Economía,millones ARS
 2017-04-01,IPC - Nivel General,108.9667,precios,INDEC,índice
 2017-04-01,IPI Manufacturero,127.06229310335894,actividad,INDEC,índice
+2017-04-01,Línea de Indigencia,5918.8,social,INDEC,ARS corrientes
+2017-04-01,Línea de Pobreza,14501.06,social,INDEC,ARS corrientes
 2017-04-01,Recaudación Tributaria,187948.9920089,fiscal,Ministerio de Economía,millones ARS
 2017-04-01,Índice de Salarios,112.63,laboral,INDEC,índice
 2017-04-02,Dólar Blue (Compra),16.0,cambiario,Bluelytics,ARS/USD
@@ -34981,6 +35093,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-05-01,EMAE - Actividad Económica,168.3892094693679,actividad,INDEC,índice
 2017-05-01,IPC - Nivel General,110.5301,precios,INDEC,índice
 2017-05-01,IPI Manufacturero,137.32629188497592,actividad,INDEC,índice
+2017-05-01,Línea de Indigencia,5986.07,social,INDEC,ARS corrientes
+2017-05-01,Línea de Pobreza,14665.88,social,INDEC,ARS corrientes
 2017-05-01,Recaudación Tributaria,206055.39205054,fiscal,Ministerio de Economía,millones ARS
 2017-05-01,Riesgo País (EMBI+),411.0,financiero,ArgentinaDatos,bps
 2017-05-01,Índice de Salarios,114.43,laboral,INDEC,índice
@@ -35321,6 +35435,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-06-01,EMAE - Actividad Económica,161.03568546945243,actividad,INDEC,índice
 2017-06-01,IPC - Nivel General,111.8477,precios,INDEC,índice
 2017-06-01,IPI Manufacturero,134.50955603897785,actividad,INDEC,índice
+2017-06-01,Línea de Indigencia,6045.34,social,INDEC,ARS corrientes
+2017-06-01,Línea de Pobreza,14811.08,social,INDEC,ARS corrientes
 2017-06-01,Recaudación Tributaria,226592.65403147,fiscal,Ministerio de Economía,millones ARS
 2017-06-01,Reservas Internacionales BCRA,45082.0,monetario,BCRA,millones USD
 2017-06-01,Riesgo País (EMBI+),402.0,financiero,ArgentinaDatos,bps
@@ -35651,8 +35767,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-07-01,Dólar Oficial (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2017-07-01,Dólar Oficial (Venta),17.0,cambiario,Bluelytics,ARS/USD
 2017-07-01,EMAE - Actividad Económica,150.3060501239201,actividad,INDEC,índice
+2017-07-01,Gasto Corriente del Estado,578188.0,fiscal,Ministerio de Economía,millones ARS
 2017-07-01,IPC - Nivel General,113.7852,precios,INDEC,índice
 2017-07-01,IPI Manufacturero,135.52441430007988,actividad,INDEC,índice
+2017-07-01,Línea de Indigencia,6132.54,social,INDEC,ARS corrientes
+2017-07-01,Línea de Pobreza,15024.72,social,INDEC,ARS corrientes
 2017-07-01,Recaudación Tributaria,237325.84681755,fiscal,Ministerio de Economía,millones ARS
 2017-07-01,Índice de Salarios,121.1,laboral,INDEC,índice
 2017-07-02,Dólar Blue (Compra),17.0,cambiario,Bluelytics,ARS/USD
@@ -35993,6 +36112,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-08-01,EMAE - Actividad Económica,149.2553427738412,actividad,INDEC,índice
 2017-08-01,IPC - Nivel General,115.3819,precios,INDEC,índice
 2017-08-01,IPI Manufacturero,143.01220222320006,actividad,INDEC,índice
+2017-08-01,Línea de Indigencia,6247.92,social,INDEC,ARS corrientes
+2017-08-01,Línea de Pobreza,15244.92,social,INDEC,ARS corrientes
 2017-08-01,Recaudación Tributaria,221275.37447996,fiscal,Ministerio de Economía,millones ARS
 2017-08-01,Reservas Internacionales BCRA,46840.0,monetario,BCRA,millones USD
 2017-08-01,Riesgo País (EMBI+),441.0,financiero,ArgentinaDatos,bps
@@ -36338,6 +36459,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-09-01,EMAE - Actividad Económica,146.38655965775396,actividad,INDEC,índice
 2017-09-01,IPC - Nivel General,117.5719,precios,INDEC,índice
 2017-09-01,IPI Manufacturero,140.47537228449835,actividad,INDEC,índice
+2017-09-01,Línea de Indigencia,6332.62,social,INDEC,ARS corrientes
+2017-09-01,Línea de Pobreza,15451.58,social,INDEC,ARS corrientes
 2017-09-01,Recaudación Tributaria,224065.55502378,fiscal,Ministerio de Economía,millones ARS
 2017-09-01,Reservas Internacionales BCRA,49433.0,monetario,BCRA,millones USD
 2017-09-01,Riesgo País (EMBI+),388.0,financiero,ArgentinaDatos,bps
@@ -36664,8 +36787,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-10-01,Dólar Oficial (Compra),17.0,cambiario,Bluelytics,ARS/USD
 2017-10-01,Dólar Oficial (Venta),18.0,cambiario,Bluelytics,ARS/USD
 2017-10-01,EMAE - Actividad Económica,149.38594966601465,actividad,INDEC,índice
+2017-10-01,Gasto Corriente del Estado,744422.0,fiscal,Ministerio de Economía,millones ARS
 2017-10-01,IPC - Nivel General,119.3528,precios,INDEC,índice
 2017-10-01,IPI Manufacturero,142.91248117324935,actividad,INDEC,índice
+2017-10-01,Línea de Indigencia,6424.82,social,INDEC,ARS corrientes
+2017-10-01,Línea de Pobreza,15676.56,social,INDEC,ARS corrientes
 2017-10-01,Recaudación Tributaria,219713.32577437,fiscal,Ministerio de Economía,millones ARS
 2017-10-01,Índice de Salarios,127.62,laboral,INDEC,índice
 2017-10-02,BADLAR Bancos Privados,21.125,monetario,BCRA,% n.a.
@@ -37005,6 +37131,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-11-01,EMAE - Actividad Económica,151.92604285202702,actividad,INDEC,índice
 2017-11-01,IPC - Nivel General,120.994,precios,INDEC,índice
 2017-11-01,IPI Manufacturero,141.4719289560601,actividad,INDEC,índice
+2017-11-01,Línea de Indigencia,6568.85,social,INDEC,ARS corrientes
+2017-11-01,Línea de Pobreza,16027.98,social,INDEC,ARS corrientes
 2017-11-01,Recaudación Tributaria,224463.75656049,fiscal,Ministerio de Economía,millones ARS
 2017-11-01,Reservas Internacionales BCRA,52124.0,monetario,BCRA,millones USD
 2017-11-01,Riesgo País (EMBI+),365.0,financiero,ArgentinaDatos,bps
@@ -37266,6 +37394,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-12-01,EMAE - Actividad Económica,146.78338490922457,actividad,INDEC,índice
 2017-12-01,IPC - Nivel General,124.7956,precios,INDEC,índice
 2017-12-01,IPI Manufacturero,126.4041221015147,actividad,INDEC,índice
+2017-12-01,Línea de Indigencia,6644.4,social,INDEC,ARS corrientes
+2017-12-01,Línea de Pobreza,16677.44,social,INDEC,ARS corrientes
 2017-12-01,Recaudación Tributaria,235238.45993003,fiscal,Ministerio de Economía,millones ARS
 2017-12-01,Reservas Internacionales BCRA,54905.0,monetario,BCRA,millones USD
 2017-12-01,Riesgo País (EMBI+),359.0,financiero,ArgentinaDatos,bps
@@ -37558,8 +37688,13 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-01-01,Dólar Oficial (Compra),19.0,cambiario,Bluelytics,ARS/USD
 2018-01-01,Dólar Oficial (Venta),19.0,cambiario,Bluelytics,ARS/USD
 2018-01-01,EMAE - Actividad Económica,142.74091260617232,actividad,INDEC,índice
+2018-01-01,Gasto Corriente del Estado,624059.7,fiscal,Ministerio de Economía,millones ARS
+2018-01-01,Gasto Público Consolidado,6427207.633565689,fiscal,Ministerio de Economía,millones ARS
+2018-01-01,Gasto Público Nacional,3593790.954189633,fiscal,Ministerio de Economía,millones ARS
 2018-01-01,IPC - Nivel General,126.9887,precios,INDEC,índice
 2018-01-01,IPI Manufacturero,120.49879049928444,actividad,INDEC,índice
+2018-01-01,Línea de Indigencia,6789.53,social,INDEC,ARS corrientes
+2018-01-01,Línea de Pobreza,16973.83,social,INDEC,ARS corrientes
 2018-01-01,Recaudación Tributaria,261961.04110748,fiscal,Ministerio de Economía,millones ARS
 2018-01-01,Índice de Salarios,132.48,laboral,INDEC,índice
 2018-01-02,BADLAR Bancos Privados,23.0625,monetario,BCRA,% n.a.
@@ -37906,6 +38041,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-02-01,EMAE - Actividad Económica,138.81804035165752,actividad,INDEC,índice
 2018-02-01,IPC - Nivel General,130.0606,precios,INDEC,índice
 2018-02-01,IPI Manufacturero,116.47032626071216,actividad,INDEC,índice
+2018-02-01,Línea de Indigencia,6987.2,social,INDEC,ARS corrientes
+2018-02-01,Línea de Pobreza,17537.88,social,INDEC,ARS corrientes
 2018-02-01,Recaudación Tributaria,235666.26739981,fiscal,Ministerio de Economía,millones ARS
 2018-02-01,Reservas Internacionales BCRA,62174.0,monetario,BCRA,millones USD
 2018-02-01,Riesgo País (EMBI+),373.0,financiero,ArgentinaDatos,bps
@@ -38201,6 +38338,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-03-01,EMAE - Actividad Económica,155.85731953576982,actividad,INDEC,índice
 2018-03-01,IPC - Nivel General,133.1054,precios,INDEC,índice
 2018-03-01,IPI Manufacturero,137.87384466026174,actividad,INDEC,índice
+2018-03-01,Línea de Indigencia,7090.19,social,INDEC,ARS corrientes
+2018-03-01,Línea de Pobreza,17867.28,social,INDEC,ARS corrientes
 2018-03-01,Recaudación Tributaria,238835.95069741,fiscal,Ministerio de Economía,millones ARS
 2018-03-01,Reservas Internacionales BCRA,61450.0,monetario,BCRA,millones USD
 2018-03-01,Riesgo País (EMBI+),417.0,financiero,ArgentinaDatos,bps
@@ -38508,8 +38647,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-04-01,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-01,Dólar Oficial (Venta),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-01,EMAE - Actividad Económica,151.5245439839435,actividad,INDEC,índice
+2018-04-01,Gasto Corriente del Estado,738197.2000000001,fiscal,Ministerio de Economía,millones ARS
 2018-04-01,IPC - Nivel General,136.7512,precios,INDEC,índice
 2018-04-01,IPI Manufacturero,132.09178628946967,actividad,INDEC,índice
+2018-04-01,Línea de Indigencia,7132.06,social,INDEC,ARS corrientes
+2018-04-01,Línea de Pobreza,18258.07,social,INDEC,ARS corrientes
 2018-04-01,Recaudación Tributaria,236227.30272311,fiscal,Ministerio de Economía,millones ARS
 2018-04-01,Índice de Salarios,139.81,laboral,INDEC,índice
 2018-04-02,Dólar Blue (Compra),20.0,cambiario,Bluelytics,ARS/USD
@@ -38813,6 +38955,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-05-01,EMAE - Actividad Económica,159.56669237791675,actividad,INDEC,índice
 2018-05-01,IPC - Nivel General,139.5893,precios,INDEC,índice
 2018-05-01,IPI Manufacturero,135.86546669164358,actividad,INDEC,índice
+2018-05-01,Línea de Indigencia,7473.63,social,INDEC,ARS corrientes
+2018-05-01,Línea de Pobreza,18833.55,social,INDEC,ARS corrientes
 2018-05-01,Recaudación Tributaria,295420.93418679,fiscal,Ministerio de Economía,millones ARS
 2018-05-01,Riesgo País (EMBI+),431.0,financiero,ArgentinaDatos,bps
 2018-05-01,Índice de Salarios,141.93,laboral,INDEC,índice
@@ -39152,6 +39296,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-06-01,EMAE - Actividad Económica,151.1257632334553,actividad,INDEC,índice
 2018-06-01,IPC - Nivel General,144.8053,precios,INDEC,índice
 2018-06-01,IPI Manufacturero,123.7285406594831,actividad,INDEC,índice
+2018-06-01,Línea de Indigencia,7840.72,social,INDEC,ARS corrientes
+2018-06-01,Línea de Pobreza,19601.79,social,INDEC,ARS corrientes
 2018-06-01,Recaudación Tributaria,298853.29289336,fiscal,Ministerio de Economía,millones ARS
 2018-06-01,Reservas Internacionales BCRA,50213.0,monetario,BCRA,millones USD
 2018-06-01,Riesgo País (EMBI+),515.0,financiero,ArgentinaDatos,bps
@@ -39475,8 +39621,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-07-01,Dólar Oficial (Compra),29.0,cambiario,Bluelytics,ARS/USD
 2018-07-01,Dólar Oficial (Venta),30.0,cambiario,Bluelytics,ARS/USD
 2018-07-01,EMAE - Actividad Económica,145.9635244300047,actividad,INDEC,índice
+2018-07-01,Gasto Corriente del Estado,758814.9999999999,fiscal,Ministerio de Economía,millones ARS
 2018-07-01,IPC - Nivel General,149.2966,precios,INDEC,índice
 2018-07-01,IPI Manufacturero,126.78055488105136,actividad,INDEC,índice
+2018-07-01,Línea de Indigencia,8118.57,social,INDEC,ARS corrientes
+2018-07-01,Línea de Pobreza,20134.07,social,INDEC,ARS corrientes
 2018-07-01,Recaudación Tributaria,293893.98853315006,fiscal,Ministerio de Economía,millones ARS
 2018-07-01,Índice de Salarios,146.9,laboral,INDEC,índice
 2018-07-02,BADLAR Bancos Privados,33.0,monetario,BCRA,% n.a.
@@ -39817,6 +39966,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-08-01,EMAE - Actividad Económica,146.76596003413977,actividad,INDEC,índice
 2018-08-01,IPC - Nivel General,155.1034,precios,INDEC,índice
 2018-08-01,IPI Manufacturero,134.230175656126,actividad,INDEC,índice
+2018-08-01,Línea de Indigencia,8347.57,social,INDEC,ARS corrientes
+2018-08-01,Línea de Pobreza,20868.93,social,INDEC,ARS corrientes
 2018-08-01,Recaudación Tributaria,293418.40609410004,fiscal,Ministerio de Economía,millones ARS
 2018-08-01,Reservas Internacionales BCRA,57828.0,monetario,BCRA,millones USD
 2018-08-01,Riesgo País (EMBI+),562.0,financiero,ArgentinaDatos,bps
@@ -40160,6 +40311,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-09-01,EMAE - Actividad Económica,137.7465697186481,actividad,INDEC,índice
 2018-09-01,IPC - Nivel General,165.2383,precios,INDEC,índice
 2018-09-01,IPI Manufacturero,122.79085973979822,actividad,INDEC,índice
+2018-09-01,Línea de Indigencia,9059.51,social,INDEC,ARS corrientes
+2018-09-01,Línea de Pobreza,22558.17,social,INDEC,ARS corrientes
 2018-09-01,Recaudación Tributaria,295817.64357674,fiscal,Ministerio de Economía,millones ARS
 2018-09-01,Índice de Salarios,155.44,laboral,INDEC,índice
 2018-09-02,Dólar Blue (Compra),36.0,cambiario,Bluelytics,ARS/USD
@@ -40484,8 +40637,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-10-01,Dólar Oficial (Compra),39.0,cambiario,Bluelytics,ARS/USD
 2018-10-01,Dólar Oficial (Venta),41.0,cambiario,Bluelytics,ARS/USD
 2018-10-01,EMAE - Actividad Económica,142.84327598456773,actividad,INDEC,índice
+2018-10-01,Gasto Corriente del Estado,997118.7999999998,fiscal,Ministerio de Economía,millones ARS
 2018-10-01,IPC - Nivel General,174.1473,precios,INDEC,índice
 2018-10-01,IPI Manufacturero,130.95087535592188,actividad,INDEC,índice
+2018-10-01,Línea de Indigencia,9735.42,social,INDEC,ARS corrientes
+2018-10-01,Línea de Pobreza,24241.17,social,INDEC,ARS corrientes
 2018-10-01,Recaudación Tributaria,312508.82685242005,fiscal,Ministerio de Economía,millones ARS
 2018-10-01,Reservas Internacionales BCRA,48855.0,monetario,BCRA,millones USD
 2018-10-01,Riesgo País (EMBI+),629.0,financiero,ArgentinaDatos,bps
@@ -40837,6 +40993,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-11-01,EMAE - Actividad Económica,140.59240732533573,actividad,INDEC,índice
 2018-11-01,IPC - Nivel General,179.6388,precios,INDEC,índice
 2018-11-01,IPI Manufacturero,121.7206486951649,actividad,INDEC,índice
+2018-11-01,Línea de Indigencia,10122.9,social,INDEC,ARS corrientes
+2018-11-01,Línea de Pobreza,25206.03,social,INDEC,ARS corrientes
 2018-11-01,Recaudación Tributaria,300119.36737178004,fiscal,Ministerio de Economía,millones ARS
 2018-11-01,Reservas Internacionales BCRA,54220.0,monetario,BCRA,millones USD
 2018-11-01,Riesgo País (EMBI+),635.0,financiero,ArgentinaDatos,bps
@@ -41221,6 +41379,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-12-01,EMAE - Actividad Económica,136.25161596905645,actividad,INDEC,índice
 2018-12-01,IPC - Nivel General,184.2552,precios,INDEC,índice
 2018-12-01,IPI Manufacturero,107.65050820288415,actividad,INDEC,índice
+2018-12-01,Línea de Indigencia,10197.53,social,INDEC,ARS corrientes
+2018-12-01,Línea de Pobreza,25493.8,social,INDEC,ARS corrientes
 2018-12-01,Recaudación Tributaria,319921.45509538,fiscal,Ministerio de Economía,millones ARS
 2018-12-01,Riesgo País (EMBI+),706.0,financiero,ArgentinaDatos,bps
 2018-12-01,Índice de Salarios,169.94,laboral,INDEC,índice
@@ -41592,8 +41752,13 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-01-01,Dólar Oficial (Compra),37.0,cambiario,Bluelytics,ARS/USD
 2019-01-01,Dólar Oficial (Venta),39.0,cambiario,Bluelytics,ARS/USD
 2019-01-01,EMAE - Actividad Económica,134.5362398566959,actividad,INDEC,índice
+2019-01-01,Gasto Corriente del Estado,864114.7999999999,fiscal,Ministerio de Economía,millones ARS
+2019-01-01,Gasto Público Consolidado,9370031.66731166,fiscal,Ministerio de Economía,millones ARS
+2019-01-01,Gasto Público Nacional,5210458.313424823,fiscal,Ministerio de Economía,millones ARS
 2019-01-01,IPC - Nivel General,189.6101,precios,INDEC,índice
 2019-01-01,IPI Manufacturero,107.0384802956748,actividad,INDEC,índice
+2019-01-01,Línea de Indigencia,10577.16,social,INDEC,ARS corrientes
+2019-01-01,Línea de Pobreza,26442.92,social,INDEC,ARS corrientes
 2019-01-01,Recaudación Tributaria,363926.99770248,fiscal,Ministerio de Economía,millones ARS
 2019-01-01,Riesgo País (EMBI+),817.0,financiero,ArgentinaDatos,bps
 2019-01-01,Índice de Salarios,175.19,laboral,INDEC,índice
@@ -42011,6 +42176,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-02-01,EMAE - Actividad Económica,132.2678886127367,actividad,INDEC,índice
 2019-02-01,IPC - Nivel General,196.7501,precios,INDEC,índice
 2019-02-01,IPI Manufacturero,106.67393616491124,actividad,INDEC,índice
+2019-02-01,Línea de Indigencia,11117.11,social,INDEC,ARS corrientes
+2019-02-01,Línea de Pobreza,27570.43,social,INDEC,ARS corrientes
 2019-02-01,Recaudación Tributaria,330890.72098553,fiscal,Ministerio de Economía,millones ARS
 2019-02-01,Reservas Internacionales BCRA,66843.0,monetario,BCRA,millones USD
 2019-02-01,Riesgo País (EMBI+),654.0,financiero,ArgentinaDatos,bps
@@ -42387,6 +42554,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-03-01,EMAE - Actividad Económica,144.96325495574922,actividad,INDEC,índice
 2019-03-01,IPC - Nivel General,205.9571,precios,INDEC,índice
 2019-03-01,IPI Manufacturero,118.4180246331019,actividad,INDEC,índice
+2019-03-01,Línea de Indigencia,11640.06,social,INDEC,ARS corrientes
+2019-03-01,Línea de Pobreza,28750.94,social,INDEC,ARS corrientes
 2019-03-01,Recaudación Tributaria,327869.71187774,fiscal,Ministerio de Economía,millones ARS
 2019-03-01,Reservas Internacionales BCRA,68345.0,monetario,BCRA,millones USD
 2019-03-01,Riesgo País (EMBI+),718.0,financiero,ArgentinaDatos,bps
@@ -42776,8 +42945,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-04-01,Dólar Oficial (Compra),42.0,cambiario,Bluelytics,ARS/USD
 2019-04-01,Dólar Oficial (Venta),44.0,cambiario,Bluelytics,ARS/USD
 2019-04-01,EMAE - Actividad Económica,149.9162214035228,actividad,INDEC,índice
+2019-04-01,Gasto Corriente del Estado,1086706.4,fiscal,Ministerio de Economía,millones ARS
 2019-04-01,IPC - Nivel General,212.9596414,precios,INDEC,índice
 2019-04-01,IPI Manufacturero,120.37257298567556,actividad,INDEC,índice
+2019-04-01,Línea de Indigencia,11844.84,social,INDEC,ARS corrientes
+2019-04-01,Línea de Pobreza,29493.65,social,INDEC,ARS corrientes
 2019-04-01,Recaudación Tributaria,357362.2762273,fiscal,Ministerio de Economía,millones ARS
 2019-04-01,Reservas Internacionales BCRA,66213.0,monetario,BCRA,millones USD
 2019-04-01,Riesgo País (EMBI+),761.0,financiero,ArgentinaDatos,bps
@@ -43158,6 +43330,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-05-01,EMAE - Actividad Económica,164.13569907592046,actividad,INDEC,índice
 2019-05-01,IPC - Nivel General,219.5691,precios,INDEC,índice
 2019-05-01,IPI Manufacturero,126.4796126149704,actividad,INDEC,índice
+2019-05-01,Línea de Indigencia,12086.78,social,INDEC,ARS corrientes
+2019-05-01,Línea de Pobreza,30337.84,social,INDEC,ARS corrientes
 2019-05-01,Recaudación Tributaria,444249.74776703,fiscal,Ministerio de Economía,millones ARS
 2019-05-01,Riesgo País (EMBI+),960.0,financiero,ArgentinaDatos,bps
 2019-05-01,Índice de Salarios,196.51,laboral,INDEC,índice
@@ -43573,6 +43747,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-06-01,EMAE - Actividad Económica,150.8589717411313,actividad,INDEC,índice
 2019-06-01,IPC - Nivel General,225.537,precios,INDEC,índice
 2019-06-01,IPI Manufacturero,114.85187278421954,actividad,INDEC,índice
+2019-06-01,Línea de Indigencia,12409.72,social,INDEC,ARS corrientes
+2019-06-01,Línea de Pobreza,31148.41,social,INDEC,ARS corrientes
 2019-06-01,Recaudación Tributaria,454442.13743065984,fiscal,Ministerio de Economía,millones ARS
 2019-06-01,Riesgo País (EMBI+),985.0,financiero,ArgentinaDatos,bps
 2019-06-01,Índice de Salarios,200.44,laboral,INDEC,índice
@@ -43953,8 +44129,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-07-01,Dólar Oficial (Compra),41.0,cambiario,Bluelytics,ARS/USD
 2019-07-01,Dólar Oficial (Venta),44.0,cambiario,Bluelytics,ARS/USD
 2019-07-01,EMAE - Actividad Económica,146.77702964007042,actividad,INDEC,índice
+2019-07-01,Gasto Corriente del Estado,1149710.1,fiscal,Ministerio de Economía,millones ARS
 2019-07-01,IPC - Nivel General,230.494,precios,INDEC,índice
 2019-07-01,IPI Manufacturero,124.5982566919682,actividad,INDEC,índice
+2019-07-01,Línea de Indigencia,12773.78,social,INDEC,ARS corrientes
+2019-07-01,Línea de Pobreza,31934.44,social,INDEC,ARS corrientes
 2019-07-01,Recaudación Tributaria,450909.80214728,fiscal,Ministerio de Economía,millones ARS
 2019-07-01,Reservas Internacionales BCRA,64148.0,monetario,BCRA,millones USD
 2019-07-01,Riesgo País (EMBI+),813.0,financiero,ArgentinaDatos,bps
@@ -44358,6 +44537,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-08-01,EMAE - Actividad Económica,141.2769346808404,actividad,INDEC,índice
 2019-08-01,IPC - Nivel General,239.6077,precios,INDEC,índice
 2019-08-01,IPI Manufacturero,125.6565333781152,actividad,INDEC,índice
+2019-08-01,Línea de Indigencia,13258.32,social,INDEC,ARS corrientes
+2019-08-01,Línea de Pobreza,33013.22,social,INDEC,ARS corrientes
 2019-08-01,Recaudación Tributaria,458494.59830432007,fiscal,Ministerio de Economía,millones ARS
 2019-08-01,Reservas Internacionales BCRA,67760.0,monetario,BCRA,millones USD
 2019-08-01,Riesgo País (EMBI+),815.0,financiero,ArgentinaDatos,bps
@@ -44763,6 +44944,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-09-01,EMAE - Actividad Económica,134.8770664799366,actividad,INDEC,índice
 2019-09-01,IPC - Nivel General,253.7102,precios,INDEC,índice
 2019-09-01,IPI Manufacturero,116.66765831856677,actividad,INDEC,índice
+2019-09-01,Línea de Indigencia,13913.9,social,INDEC,ARS corrientes
+2019-09-01,Línea de Pobreza,34784.75,social,INDEC,ARS corrientes
 2019-09-01,Recaudación Tributaria,422011.6580044,fiscal,Ministerio de Economía,millones ARS
 2019-09-01,Riesgo País (EMBI+),2532.0,financiero,ArgentinaDatos,bps
 2019-09-01,Índice de Salarios,220.77,laboral,INDEC,índice
@@ -45165,8 +45348,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-10-01,Dólar Oficial (Compra),56.0,cambiario,Bluelytics,ARS/USD
 2019-10-01,Dólar Oficial (Venta),60.0,cambiario,Bluelytics,ARS/USD
 2019-10-01,EMAE - Actividad Económica,141.63933661701387,actividad,INDEC,índice
+2019-10-01,Gasto Corriente del Estado,1419587.4,fiscal,Ministerio de Economía,millones ARS
 2019-10-01,IPC - Nivel General,262.0661,precios,INDEC,índice
 2019-10-01,IPI Manufacturero,128.57781819763605,actividad,INDEC,índice
+2019-10-01,Línea de Indigencia,14202.26,social,INDEC,ARS corrientes
+2019-10-01,Línea de Pobreza,35647.66,social,INDEC,ARS corrientes
 2019-10-01,Recaudación Tributaria,446171.7679775302,fiscal,Ministerio de Economía,millones ARS
 2019-10-01,Reservas Internacionales BCRA,48488.0,monetario,BCRA,millones USD
 2019-10-01,Riesgo País (EMBI+),2156.0,financiero,ArgentinaDatos,bps
@@ -45580,6 +45766,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-11-01,EMAE - Actividad Económica,137.77182966933154,actividad,INDEC,índice
 2019-11-01,IPC - Nivel General,273.2158,precios,INDEC,índice
 2019-11-01,IPI Manufacturero,116.4504456095095,actividad,INDEC,índice
+2019-11-01,Línea de Indigencia,15098.79,social,INDEC,ARS corrientes
+2019-11-01,Línea de Pobreza,37596.0,social,INDEC,ARS corrientes
 2019-11-01,Recaudación Tributaria,474870.11330399,fiscal,Ministerio de Economía,millones ARS
 2019-11-01,Reservas Internacionales BCRA,43292.0,monetario,BCRA,millones USD
 2019-11-01,Riesgo País (EMBI+),2275.0,financiero,ArgentinaDatos,bps
@@ -45962,6 +46150,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-12-01,EMAE - Actividad Económica,135.7651545276351,actividad,INDEC,índice
 2019-12-01,IPC - Nivel General,283.4442,precios,INDEC,índice
 2019-12-01,IPI Manufacturero,109.19722086584407,actividad,INDEC,índice
+2019-12-01,Línea de Indigencia,15584.14,social,INDEC,ARS corrientes
+2019-12-01,Línea de Pobreza,38960.33,social,INDEC,ARS corrientes
 2019-12-01,Recaudación Tributaria,492366.6,fiscal,Ministerio de Economía,millones ARS
 2019-12-01,Riesgo País (EMBI+),2262.0,financiero,ArgentinaDatos,bps
 2019-12-01,Índice de Salarios,239.44,laboral,INDEC,índice
@@ -46359,8 +46549,13 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-01-01,Dólar Oficial (Compra),58.0,cambiario,Bluelytics,ARS/USD
 2020-01-01,Dólar Oficial (Venta),63.0,cambiario,Bluelytics,ARS/USD
 2020-01-01,EMAE - Actividad Económica,133.89108608957252,actividad,INDEC,índice
+2020-01-01,Gasto Corriente del Estado,1371120.6,fiscal,Ministerio de Economía,millones ARS
+2020-01-01,Gasto Público Consolidado,12884750.78684394,fiscal,Ministerio de Economía,millones ARS
+2020-01-01,Gasto Público Nacional,7484451.739436583,fiscal,Ministerio de Economía,millones ARS
 2020-01-01,IPC - Nivel General,289.8299,precios,INDEC,índice
 2020-01-01,IPI Manufacturero,106.96676586826234,actividad,INDEC,índice
+2020-01-01,Línea de Indigencia,16478.78,social,INDEC,ARS corrientes
+2020-01-01,Línea de Pobreza,40373.01,social,INDEC,ARS corrientes
 2020-01-01,Recaudación Tributaria,527284.46216997,fiscal,Ministerio de Economía,millones ARS
 2020-01-01,Riesgo País (EMBI+),1744.0,financiero,ArgentinaDatos,bps
 2020-01-01,Índice de Salarios,253.78,laboral,INDEC,índice
@@ -46778,6 +46973,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-02-01,EMAE - Actividad Económica,128.97363874659834,actividad,INDEC,índice
 2020-02-01,IPC - Nivel General,295.666,precios,INDEC,índice
 2020-02-01,IPI Manufacturero,105.96615315429496,actividad,INDEC,índice
+2020-02-01,Línea de Indigencia,16785.87,social,INDEC,ARS corrientes
+2020-02-01,Línea de Pobreza,40789.67,social,INDEC,ARS corrientes
 2020-02-01,Recaudación Tributaria,471693.290156,fiscal,Ministerio de Economía,millones ARS
 2020-02-01,Riesgo País (EMBI+),2068.0,financiero,ArgentinaDatos,bps
 2020-02-01,Índice de Salarios,263.55,laboral,INDEC,índice
@@ -47145,6 +47342,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-03-01,EMAE - Actividad Económica,128.21106074025664,actividad,INDEC,índice
 2020-03-01,IPC - Nivel General,305.5515,precios,INDEC,índice
 2020-03-01,IPI Manufacturero,98.85080173419036,actividad,INDEC,índice
+2020-03-01,Línea de Indigencia,17353.25,social,INDEC,ARS corrientes
+2020-03-01,Línea de Pobreza,41994.86,social,INDEC,ARS corrientes
 2020-03-01,Recaudación Tributaria,443636.6561833,fiscal,Ministerio de Economía,millones ARS
 2020-03-01,Riesgo País (EMBI+),2283.0,financiero,ArgentinaDatos,bps
 2020-03-01,Índice de Salarios,271.58,laboral,INDEC,índice
@@ -47536,8 +47735,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-04-01,Dólar Oficial (Compra),62.0,cambiario,Bluelytics,ARS/USD
 2020-04-01,Dólar Oficial (Venta),67.0,cambiario,Bluelytics,ARS/USD
 2020-04-01,EMAE - Actividad Económica,113.29503444580128,actividad,INDEC,índice
+2020-04-01,Gasto Corriente del Estado,1845406.44,fiscal,Ministerio de Economía,millones ARS
 2020-04-01,IPC - Nivel General,310.1243,precios,INDEC,índice
 2020-04-01,IPI Manufacturero,80.3695831755266,actividad,INDEC,índice
+2020-04-01,Línea de Indigencia,17896.63,social,INDEC,ARS corrientes
+2020-04-01,Línea de Pobreza,42593.98,social,INDEC,ARS corrientes
 2020-04-01,Recaudación Tributaria,398658.7237550499,fiscal,Ministerio de Economía,millones ARS
 2020-04-01,Reservas Internacionales BCRA,43588.0,monetario,BCRA,millones USD
 2020-04-01,Riesgo País (EMBI+),3943.0,financiero,ArgentinaDatos,bps
@@ -47924,6 +48126,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-05-01,EMAE - Actividad Económica,131.02956919734908,actividad,INDEC,índice
 2020-05-01,IPC - Nivel General,314.9087,precios,INDEC,índice
 2020-05-01,IPI Manufacturero,93.39727057897797,actividad,INDEC,índice
+2020-05-01,Línea de Indigencia,17875.68,social,INDEC,ARS corrientes
+2020-05-01,Línea de Pobreza,43080.38,social,INDEC,ARS corrientes
 2020-05-01,Recaudación Tributaria,499534.96312047006,fiscal,Ministerio de Economía,millones ARS
 2020-05-01,Riesgo País (EMBI+),3520.0,financiero,ArgentinaDatos,bps
 2020-05-01,Índice de Salarios,271.84,laboral,INDEC,índice
@@ -48305,6 +48509,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-06-01,EMAE - Actividad Económica,132.52196526648828,actividad,INDEC,índice
 2020-06-01,IPC - Nivel General,321.9738,precios,INDEC,índice
 2020-06-01,IPI Manufacturero,107.68552518388503,actividad,INDEC,índice
+2020-06-01,Línea de Indigencia,18029.1,social,INDEC,ARS corrientes
+2020-06-01,Línea de Pobreza,43810.7,social,INDEC,ARS corrientes
 2020-06-01,Recaudación Tributaria,545962.77820331,fiscal,Ministerio de Economía,millones ARS
 2020-06-01,Reservas Internacionales BCRA,42609.0,monetario,BCRA,millones USD
 2020-06-01,Riesgo País (EMBI+),2615.0,financiero,ArgentinaDatos,bps
@@ -48673,8 +48879,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-07-01,Dólar Oficial (Compra),69.0,cambiario,Bluelytics,ARS/USD
 2020-07-01,Dólar Oficial (Venta),74.0,cambiario,Bluelytics,ARS/USD
 2020-07-01,EMAE - Actividad Económica,127.46368946979555,actividad,INDEC,índice
+2020-07-01,Gasto Corriente del Estado,1779170.9,fiscal,Ministerio de Economía,millones ARS
 2020-07-01,IPC - Nivel General,328.2014,precios,INDEC,índice
 2020-07-01,IPI Manufacturero,116.4396784123465,actividad,INDEC,índice
+2020-07-01,Línea de Indigencia,18321.51,social,INDEC,ARS corrientes
+2020-07-01,Línea de Pobreza,44521.25,social,INDEC,ARS corrientes
 2020-07-01,Recaudación Tributaria,559091.89745643,fiscal,Ministerio de Economía,millones ARS
 2020-07-01,Reservas Internacionales BCRA,43219.0,monetario,BCRA,millones USD
 2020-07-01,Riesgo País (EMBI+),2497.0,financiero,ArgentinaDatos,bps
@@ -49040,6 +49249,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-08-01,EMAE - Actividad Económica,125.18389375984724,actividad,INDEC,índice
 2020-08-01,IPC - Nivel General,337.0632,precios,INDEC,índice
 2020-08-01,IPI Manufacturero,116.62865541586976,actividad,INDEC,índice
+2020-08-01,Línea de Indigencia,18792.42,social,INDEC,ARS corrientes
+2020-08-01,Línea de Pobreza,45477.66,social,INDEC,ARS corrientes
 2020-08-01,Recaudación Tributaria,612146.02653281,fiscal,Ministerio de Economía,millones ARS
 2020-08-01,Riesgo País (EMBI+),2263.0,financiero,ArgentinaDatos,bps
 2020-08-01,Índice de Salarios,283.92,laboral,INDEC,índice
@@ -49411,6 +49622,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-09-01,EMAE - Actividad Económica,127.17507609335082,actividad,INDEC,índice
 2020-09-01,IPC - Nivel General,346.6207,precios,INDEC,índice
 2020-09-01,IPI Manufacturero,120.98271248501304,actividad,INDEC,índice
+2020-09-01,Línea de Indigencia,19430.45,social,INDEC,ARS corrientes
+2020-09-01,Línea de Pobreza,47215.97,social,INDEC,ARS corrientes
 2020-09-01,Recaudación Tributaria,606508.0647774901,fiscal,Ministerio de Economía,millones ARS
 2020-09-01,Reservas Internacionales BCRA,42700.0,monetario,BCRA,millones USD
 2020-09-01,Riesgo País (EMBI+),2127.0,financiero,ArgentinaDatos,bps
@@ -49785,8 +49998,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-10-01,Dólar Oficial (Compra),76.0,cambiario,Bluelytics,ARS/USD
 2020-10-01,Dólar Oficial (Venta),81.0,cambiario,Bluelytics,ARS/USD
 2020-10-01,EMAE - Actividad Económica,131.34550189452142,actividad,INDEC,índice
+2020-10-01,Gasto Corriente del Estado,1858960.7,fiscal,Ministerio de Economía,millones ARS
 2020-10-01,IPC - Nivel General,359.657,precios,INDEC,índice
 2020-10-01,IPI Manufacturero,124.93316804669958,actividad,INDEC,índice
+2020-10-01,Línea de Indigencia,20710.2,social,INDEC,ARS corrientes
+2020-10-01,Línea de Pobreza,49911.6,social,INDEC,ARS corrientes
 2020-10-01,Recaudación Tributaria,642104.4653061801,fiscal,Ministerio de Economía,millones ARS
 2020-10-01,Reservas Internacionales BCRA,41369.0,monetario,BCRA,millones USD
 2020-10-01,Riesgo País (EMBI+),1339.0,financiero,ArgentinaDatos,bps
@@ -50156,6 +50372,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-11-01,EMAE - Actividad Económica,132.068655252994,actividad,INDEC,índice
 2020-11-01,IPC - Nivel General,371.0211,precios,INDEC,índice
 2020-11-01,IPI Manufacturero,121.63746716478752,actividad,INDEC,índice
+2020-11-01,Línea de Indigencia,21573.1749,social,INDEC,ARS corrientes
+2020-11-01,Línea de Pobreza,51775.6074,social,INDEC,ARS corrientes
 2020-11-01,Recaudación Tributaria,648976.2944879599,fiscal,Ministerio de Economía,millones ARS
 2020-11-01,Riesgo País (EMBI+),1482.0,financiero,ArgentinaDatos,bps
 2020-11-01,Índice de Salarios,312.92,laboral,INDEC,índice
@@ -50512,6 +50730,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-12-01,EMAE - Actividad Económica,133.85436559461567,actividad,INDEC,índice
 2020-12-01,IPC - Nivel General,385.8826,precios,INDEC,índice
 2020-12-01,IPI Manufacturero,115.3045653308336,actividad,INDEC,índice
+2020-12-01,Línea de Indigencia,22680.9708,social,INDEC,ARS corrientes
+2020-12-01,Línea de Pobreza,54207.5301,social,INDEC,ARS corrientes
 2020-12-01,Recaudación Tributaria,679640.69150076,fiscal,Ministerio de Economía,millones ARS
 2020-12-01,Reservas Internacionales BCRA,38619.0,monetario,BCRA,millones USD
 2020-12-01,Riesgo País (EMBI+),1405.0,financiero,ArgentinaDatos,bps
@@ -50861,8 +51081,13 @@ fecha,serie,valor,categoria,fuente,unidad
 2021-01-01,Dólar Oficial (Compra),84.0,cambiario,Bluelytics,ARS/USD
 2021-01-01,Dólar Oficial (Venta),90.0,cambiario,Bluelytics,ARS/USD
 2021-01-01,EMAE - Actividad Económica,131.521537397349,actividad,INDEC,índice
+2021-01-01,Gasto Corriente del Estado,1767882.2,fiscal,Ministerio de Economía,millones ARS
+2021-01-01,Gasto Público Consolidado,19785873.60087599,fiscal,Ministerio de Economía,millones ARS
+2021-01-01,Gasto Público Nacional,11236814.332651874,fiscal,Ministerio de Economía,millones ARS
 2021-01-01,IPC - Nivel General,401.5071,precios,INDEC,índice
 2021-01-01,IPI Manufacturero,111.77271865397567,actividad,INDEC,índice
+2021-01-01,Línea de Indigencia,23722.2081,social,INDEC,ARS corrientes
+2021-01-01,Línea de Pobreza,56458.8423,social,INDEC,ARS corrientes
 2021-01-01,Recaudación Tributaria,772859.8174596,fiscal,Ministerio de Economía,millones ARS
 2021-01-01,Riesgo País (EMBI+),1368.0,financiero,ArgentinaDatos,bps
 2021-01-01,Índice de Salarios,328.84,laboral,INDEC,índice
@@ -51222,6 +51447,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2021-02-01,EMAE - Actividad Económica,126.2392669683769,actividad,INDEC,índice
 2021-02-01,IPC - Nivel General,415.8595,precios,INDEC,índice
 2021-02-01,IPI Manufacturero,107.7537847323318,actividad,INDEC,índice
+2021-02-01,Línea de Indigencia,24575.2,social,INDEC,ARS corrientes
+2021-02-01,Línea de Pobreza,57997.48,social,INDEC,ARS corrientes
 2021-02-01,Recaudación Tributaria,716595.43985888,fiscal,Ministerio de Economía,millones ARS
 2021-02-01,Reservas Internacionales BCRA,39460.0,monetario,BCRA,millones USD
 2021-02-01,Riesgo País (EMBI+),1438.0,financiero,ArgentinaDatos,bps
@@ -51556,6 +51783,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2021-03-01,EMAE - Actividad Económica,145.95690010360465,actividad,INDEC,índice
 2021-03-01,IPC - Nivel General,435.8657,precios,INDEC,índice
 2021-03-01,IPI Manufacturero,131.64720668610988,actividad,INDEC,índice
+2021-03-01,Línea de Indigencia,25685.0997,social,INDEC,ARS corrientes
+2021-03-01,Línea de Pobreza,60873.6798,social,INDEC,ARS corrientes
 2021-03-01,Recaudación Tributaria,763857.8215363701,fiscal,Ministerio de Economía,millones ARS
 2021-03-01,Reservas Internacionales BCRA,39617.0,monetario,BCRA,millones USD
 2021-03-01,Riesgo País (EMBI+),1512.0,financiero,ArgentinaDatos,bps
@@ -51937,8 +52166,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2021-04-01,Dólar Oficial (Compra),92.0,cambiario,Bluelytics,ARS/USD
 2021-04-01,Dólar Oficial (Venta),98.0,cambiario,Bluelytics,ARS/USD
 2021-04-01,EMAE - Actividad Económica,147.28084401862384,actividad,INDEC,índice
+2021-04-01,Gasto Corriente del Estado,2276556.8,fiscal,Ministerio de Economía,millones ARS
 2021-04-01,IPC - Nivel General,453.6503,precios,INDEC,índice
 2021-04-01,IPI Manufacturero,125.52085964453052,actividad,INDEC,índice
+2021-04-01,Línea de Indigencia,26676.9279,social,INDEC,ARS corrientes
+2021-04-01,Línea de Pobreza,62957.5449,social,INDEC,ARS corrientes
 2021-04-01,Recaudación Tributaria,817882.1230440498,fiscal,Ministerio de Economía,millones ARS
 2021-04-01,Riesgo País (EMBI+),1589.0,financiero,ArgentinaDatos,bps
 2021-04-01,Índice de Salarios,371.84,laboral,INDEC,índice
@@ -52291,6 +52523,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2021-05-01,EMAE - Actividad Económica,151.16932233869107,actividad,INDEC,índice
 2021-05-01,IPC - Nivel General,468.725,precios,INDEC,índice
 2021-05-01,IPI Manufacturero,121.68405865362826,actividad,INDEC,índice
+2021-05-01,Línea de Indigencia,27423.41,social,INDEC,ARS corrientes
+2021-05-01,Línea de Pobreza,64445.01,social,INDEC,ARS corrientes
 2021-05-01,Recaudación Tributaria,862479.93573646,fiscal,Ministerio de Economía,millones ARS
 2021-05-01,Riesgo País (EMBI+),1551.0,financiero,ArgentinaDatos,bps
 2021-05-01,Índice de Salarios,382.42,laboral,INDEC,índice
@@ -52656,6 +52890,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2021-06-01,EMAE - Actividad Económica,148.97961710860557,actividad,INDEC,índice
 2021-06-01,IPC - Nivel General,483.6049,precios,INDEC,índice
 2021-06-01,IPI Manufacturero,128.59837307531353,actividad,INDEC,índice
+2021-06-01,Línea de Indigencia,28413.82,social,INDEC,ARS corrientes
+2021-06-01,Línea de Pobreza,66488.33,social,INDEC,ARS corrientes
 2021-06-01,Recaudación Tributaria,922853.32154597,fiscal,Ministerio de Economía,millones ARS
 2021-06-01,Reservas Internacionales BCRA,41964.0,monetario,BCRA,millones USD
 2021-06-01,Riesgo País (EMBI+),1498.0,financiero,ArgentinaDatos,bps
@@ -53024,8 +53260,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2021-07-01,Dólar Oficial (Compra),95.0,cambiario,Bluelytics,ARS/USD
 2021-07-01,Dólar Oficial (Venta),101.0,cambiario,Bluelytics,ARS/USD
 2021-07-01,EMAE - Actividad Económica,142.42591306097327,actividad,INDEC,índice
+2021-07-01,Gasto Corriente del Estado,2624120.1,fiscal,Ministerio de Economía,millones ARS
 2021-07-01,IPC - Nivel General,498.0987,precios,INDEC,índice
 2021-07-01,IPI Manufacturero,131.05026656085312,actividad,INDEC,índice
+2021-07-01,Línea de Indigencia,29002.86,social,INDEC,ARS corrientes
+2021-07-01,Línea de Pobreza,67576.66,social,INDEC,ARS corrientes
 2021-07-01,Recaudación Tributaria,933200.16775295,fiscal,Ministerio de Economía,millones ARS
 2021-07-01,Reservas Internacionales BCRA,42494.0,monetario,BCRA,millones USD
 2021-07-01,Riesgo País (EMBI+),1585.0,financiero,ArgentinaDatos,bps
@@ -53391,6 +53630,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2021-08-01,EMAE - Actividad Económica,140.9749407280367,actividad,INDEC,índice
 2021-08-01,IPC - Nivel General,510.3942,precios,INDEC,índice
 2021-08-01,IPI Manufacturero,132.9987929128236,actividad,INDEC,índice
+2021-08-01,Línea de Indigencia,29213.26,social,INDEC,ARS corrientes
+2021-08-01,Línea de Pobreza,68359.02,social,INDEC,ARS corrientes
 2021-08-01,Recaudación Tributaria,1005306.0645306,fiscal,Ministerio de Economía,millones ARS
 2021-08-01,Riesgo País (EMBI+),1591.0,financiero,ArgentinaDatos,bps
 2021-08-01,Índice de Salarios,423.41,laboral,INDEC,índice
@@ -53772,6 +54013,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2021-09-01,EMAE - Actividad Económica,141.2960890894098,actividad,INDEC,índice
 2021-09-01,IPC - Nivel General,528.4968,precios,INDEC,índice
 2021-09-01,IPI Manufacturero,132.80407745438578,actividad,INDEC,índice
+2021-09-01,Línea de Indigencia,30013.82,social,INDEC,ARS corrientes
+2021-09-01,Línea de Pobreza,70532.46,social,INDEC,ARS corrientes
 2021-09-01,Recaudación Tributaria,976314.14248594,fiscal,Ministerio de Economía,millones ARS
 2021-09-01,Reservas Internacionales BCRA,46094.0,monetario,BCRA,millones USD
 2021-09-01,Riesgo País (EMBI+),1493.0,financiero,ArgentinaDatos,bps
@@ -54146,8 +54389,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2021-10-01,Dólar Oficial (Compra),98.0,cambiario,Bluelytics,ARS/USD
 2021-10-01,Dólar Oficial (Venta),104.0,cambiario,Bluelytics,ARS/USD
 2021-10-01,EMAE - Actividad Económica,139.51475869689307,actividad,INDEC,índice
+2021-10-01,Gasto Corriente del Estado,3225005.3999999994,fiscal,Ministerio de Economía,millones ARS
 2021-10-01,IPC - Nivel General,547.0802,precios,INDEC,índice
 2021-10-01,IPI Manufacturero,130.03163702788962,actividad,INDEC,índice
+2021-10-01,Línea de Indigencia,30925.34,social,INDEC,ARS corrientes
+2021-10-01,Línea de Pobreza,72365.3,social,INDEC,ARS corrientes
 2021-10-01,Recaudación Tributaria,1018783.23339976,fiscal,Ministerio de Economía,millones ARS
 2021-10-01,Reservas Internacionales BCRA,42850.0,monetario,BCRA,millones USD
 2021-10-01,Riesgo País (EMBI+),1611.0,financiero,ArgentinaDatos,bps
@@ -54499,6 +54745,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2021-11-01,EMAE - Actividad Económica,143.75187761771429,actividad,INDEC,índice
 2021-11-01,IPC - Nivel General,560.9184,precios,INDEC,índice
 2021-11-01,IPI Manufacturero,133.5955966896043,actividad,INDEC,índice
+2021-11-01,Línea de Indigencia,31724.38,social,INDEC,ARS corrientes
+2021-11-01,Línea de Pobreza,73917.81,social,INDEC,ARS corrientes
 2021-11-01,Recaudación Tributaria,1034964.27299379,fiscal,Ministerio de Economía,millones ARS
 2021-11-01,Reservas Internacionales BCRA,42782.0,monetario,BCRA,millones USD
 2021-11-01,Riesgo País (EMBI+),1728.0,financiero,ArgentinaDatos,bps
@@ -54869,6 +55117,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2021-12-01,EMAE - Actividad Económica,147.2298783220944,actividad,INDEC,índice
 2021-12-01,IPC - Nivel General,582.4575,precios,INDEC,índice
 2021-12-01,IPI Manufacturero,127.32258878895958,actividad,INDEC,índice
+2021-12-01,Línea de Indigencia,32963.69,social,INDEC,ARS corrientes
+2021-12-01,Línea de Pobreza,76146.13,social,INDEC,ARS corrientes
 2021-12-01,Recaudación Tributaria,1179889.8214528195,fiscal,Ministerio de Economía,millones ARS
 2021-12-01,Reservas Internacionales BCRA,41539.0,monetario,BCRA,millones USD
 2021-12-01,Riesgo País (EMBI+),1827.0,financiero,ArgentinaDatos,bps
@@ -55230,8 +55480,13 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-01,Dólar MEP Compra,197.8,cambiario,ArgentinaDatos,ARS/USD
 2022-01-01,Dólar MEP Venta,197.8,cambiario,ArgentinaDatos,ARS/USD
 2022-01-01,EMAE - Actividad Económica,139.63796162489982,actividad,INDEC,índice
+2022-01-01,Gasto Corriente del Estado,3094822.2,fiscal,Ministerio de Economía,millones ARS
+2022-01-01,Gasto Público Consolidado,34926148.24292125,fiscal,Ministerio de Economía,millones ARS
+2022-01-01,Gasto Público Nacional,19435829.773773223,fiscal,Ministerio de Economía,millones ARS
 2022-01-01,IPC - Nivel General,605.0317,precios,INDEC,índice
 2022-01-01,IPI Manufacturero,110.45223892022884,actividad,INDEC,índice
+2022-01-01,Línea de Indigencia,34333.82,social,INDEC,ARS corrientes
+2022-01-01,Línea de Pobreza,78624.46,social,INDEC,ARS corrientes
 2022-01-01,Recaudación Tributaria,1171943.0637611402,fiscal,Ministerio de Economía,millones ARS
 2022-01-01,Riesgo País (EMBI+),1688.0,financiero,ArgentinaDatos,bps
 2022-01-01,Índice de Salarios,506.68,laboral,INDEC,índice
@@ -55605,6 +55860,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-01,EMAE - Actividad Económica,137.84951353039492,actividad,INDEC,índice
 2022-02-01,IPC - Nivel General,633.4341,precios,INDEC,índice
 2022-02-01,IPI Manufacturero,116.86553670599886,actividad,INDEC,índice
+2022-02-01,Línea de Indigencia,37413.97,social,INDEC,ARS corrientes
+2022-02-01,Línea de Pobreza,83807.29,social,INDEC,ARS corrientes
 2022-02-01,Recaudación Tributaria,1166514.24060695,fiscal,Ministerio de Economía,millones ARS
 2022-02-01,Reservas Internacionales BCRA,37560.0,monetario,BCRA,millones USD
 2022-02-01,Riesgo País (EMBI+),1740.0,financiero,ArgentinaDatos,bps
@@ -55943,6 +56200,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-03-01,EMAE - Actividad Económica,153.9308507763155,actividad,INDEC,índice
 2022-03-01,IPC - Nivel General,676.0566,precios,INDEC,índice
 2022-03-01,IPI Manufacturero,136.06417977063688,actividad,INDEC,índice
+2022-03-01,Línea de Indigencia,39862.39,social,INDEC,ARS corrientes
+2022-03-01,Línea de Pobreza,89690.37,social,INDEC,ARS corrientes
 2022-03-01,Recaudación Tributaria,1241088.95711712,fiscal,Ministerio de Economía,millones ARS
 2022-03-01,Riesgo País (EMBI+),1842.0,financiero,ArgentinaDatos,bps
 2022-03-01,Índice de Salarios,561.16,laboral,INDEC,índice
@@ -56320,8 +56579,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-04-01,Dólar Oficial (Compra),111.0,cambiario,Bluelytics,ARS/USD
 2022-04-01,Dólar Oficial (Venta),117.0,cambiario,Bluelytics,ARS/USD
 2022-04-01,EMAE - Actividad Económica,157.66169211629463,actividad,INDEC,índice
+2022-04-01,Gasto Corriente del Estado,3926020.4,fiscal,Ministerio de Economía,millones ARS
 2022-04-01,IPC - Nivel General,716.9399,precios,INDEC,índice
 2022-04-01,IPI Manufacturero,131.11057688323166,actividad,INDEC,índice
+2022-04-01,Línea de Indigencia,42526.96,social,INDEC,ARS corrientes
+2022-04-01,Línea de Pobreza,95260.37,social,INDEC,ARS corrientes
 2022-04-01,Recaudación Tributaria,1341595.35611988,fiscal,Ministerio de Economía,millones ARS
 2022-04-01,Reservas Internacionales BCRA,43074.0,monetario,BCRA,millones USD
 2022-04-01,Riesgo País (EMBI+),1714.0,financiero,ArgentinaDatos,bps
@@ -56662,6 +56924,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-05-01,EMAE - Actividad Económica,164.68936308999244,actividad,INDEC,índice
 2022-05-01,IPC - Nivel General,753.147,precios,INDEC,índice
 2022-05-01,IPI Manufacturero,135.95623391042966,actividad,INDEC,índice
+2022-05-01,Línea de Indigencia,44498.6,social,INDEC,ARS corrientes
+2022-05-01,Línea de Pobreza,99676.85,social,INDEC,ARS corrientes
 2022-05-01,Recaudación Tributaria,1551369.96283376,fiscal,Ministerio de Economía,millones ARS
 2022-05-01,Riesgo País (EMBI+),1801.0,financiero,ArgentinaDatos,bps
 2022-05-01,Índice de Salarios,625.63,laboral,INDEC,índice
@@ -57037,6 +57301,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-06-01,EMAE - Actividad Económica,161.454834362457,actividad,INDEC,índice
 2022-06-01,IPC - Nivel General,793.0278,precios,INDEC,índice
 2022-06-01,IPI Manufacturero,137.74172355073372,actividad,INDEC,índice
+2022-06-01,Línea de Indigencia,46525.36,social,INDEC,ARS corrientes
+2022-06-01,Línea de Pobreza,104216.8,social,INDEC,ARS corrientes
 2022-06-01,Recaudación Tributaria,1680901.30723038,fiscal,Ministerio de Economía,millones ARS
 2022-06-01,Reservas Internacionales BCRA,41573.0,monetario,BCRA,millones USD
 2022-06-01,Riesgo País (EMBI+),1914.0,financiero,ArgentinaDatos,bps
@@ -57391,8 +57657,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-07-01,Dólar Oficial (Compra),125.0,cambiario,Bluelytics,ARS/USD
 2022-07-01,Dólar Oficial (Venta),131.0,cambiario,Bluelytics,ARS/USD
 2022-07-01,EMAE - Actividad Económica,152.44538769471595,actividad,INDEC,índice
+2022-07-01,Gasto Corriente del Estado,4395881.5,fiscal,Ministerio de Economía,millones ARS
 2022-07-01,IPC - Nivel General,851.761,precios,INDEC,índice
 2022-07-01,IPI Manufacturero,137.83236809148204,actividad,INDEC,índice
+2022-07-01,Línea de Indigencia,49465.59,social,INDEC,ARS corrientes
+2022-07-01,Línea de Pobreza,111297.57,social,INDEC,ARS corrientes
 2022-07-01,Recaudación Tributaria,1745178.10466373,fiscal,Ministerio de Economía,millones ARS
 2022-07-01,Reservas Internacionales BCRA,42358.0,monetario,BCRA,millones USD
 2022-07-01,Riesgo País (EMBI+),2344.0,financiero,ArgentinaDatos,bps
@@ -57764,6 +58033,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-08-01,EMAE - Actividad Económica,151.4657390251783,actividad,INDEC,índice
 2022-08-01,IPC - Nivel General,911.1316,precios,INDEC,índice
 2022-08-01,IPI Manufacturero,142.69539492532036,actividad,INDEC,índice
+2022-08-01,Línea de Indigencia,52989.79,social,INDEC,ARS corrientes
+2022-08-01,Línea de Pobreza,119756.94,social,INDEC,ARS corrientes
 2022-08-01,Recaudación Tributaria,1731319.4924793502,fiscal,Ministerio de Economía,millones ARS
 2022-08-01,Reservas Internacionales BCRA,38039.0,monetario,BCRA,millones USD
 2022-08-01,Riesgo País (EMBI+),2403.0,financiero,ArgentinaDatos,bps
@@ -58149,6 +58420,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-09-01,EMAE - Actividad Económica,149.17434933731033,actividad,INDEC,índice
 2022-09-01,IPC - Nivel General,967.3076,precios,INDEC,índice
 2022-09-01,IPI Manufacturero,137.89850280383965,actividad,INDEC,índice
+2022-09-01,Línea de Indigencia,56731.91,social,INDEC,ARS corrientes
+2022-09-01,Línea de Pobreza,128214.11,social,INDEC,ARS corrientes
 2022-09-01,Recaudación Tributaria,2127180.67389125,fiscal,Ministerio de Economía,millones ARS
 2022-09-01,Reservas Internacionales BCRA,36642.0,monetario,BCRA,millones USD
 2022-09-01,Riesgo País (EMBI+),2396.0,financiero,ArgentinaDatos,bps
@@ -58506,8 +58779,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-10-01,Dólar MEP Compra,302.48,cambiario,ArgentinaDatos,ARS/USD
 2022-10-01,Dólar MEP Venta,302.48,cambiario,ArgentinaDatos,ARS/USD
 2022-10-01,EMAE - Actividad Económica,146.55439498929425,actividad,INDEC,índice
+2022-10-01,Gasto Corriente del Estado,5553243.3,fiscal,Ministerio de Economía,millones ARS
 2022-10-01,IPC - Nivel General,1028.706,precios,INDEC,índice
 2022-10-01,IPI Manufacturero,133.9217994277668,actividad,INDEC,índice
+2022-10-01,Línea de Indigencia,62105.66,social,INDEC,ARS corrientes
+2022-10-01,Línea de Pobreza,139737.74,social,INDEC,ARS corrientes
 2022-10-01,Recaudación Tributaria,1964056.35257018,fiscal,Ministerio de Economía,millones ARS
 2022-10-01,Índice de Salarios,827.54,laboral,INDEC,índice
 2022-10-02,Dólar CCL Compra,308.96,cambiario,ArgentinaDatos,ARS/USD
@@ -58862,6 +59138,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-11-01,EMAE - Actividad Económica,148.03049443531322,actividad,INDEC,índice
 2022-11-01,IPC - Nivel General,1079.2787,precios,INDEC,índice
 2022-11-01,IPI Manufacturero,134.14810212988814,actividad,INDEC,índice
+2022-11-01,Línea de Indigencia,64012.22,social,INDEC,ARS corrientes
+2022-11-01,Línea de Pobreza,145947.87,social,INDEC,ARS corrientes
 2022-11-01,Recaudación Tributaria,1953859.6578480103,fiscal,Ministerio de Economía,millones ARS
 2022-11-01,Reservas Internacionales BCRA,38746.0,monetario,BCRA,millones USD
 2022-11-01,Riesgo País (EMBI+),2568.0,financiero,ArgentinaDatos,bps
@@ -59232,6 +59510,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-12-01,EMAE - Actividad Económica,146.18080800458125,actividad,INDEC,índice
 2022-12-01,IPC - Nivel General,1134.5875,precios,INDEC,índice
 2022-12-01,IPI Manufacturero,123.35551311628166,actividad,INDEC,índice
+2022-12-01,Línea de Indigencia,67187.35,social,INDEC,ARS corrientes
+2022-12-01,Línea de Pobreza,152515.29,social,INDEC,ARS corrientes
 2022-12-01,Recaudación Tributaria,2307475.60560662,fiscal,Ministerio de Economía,millones ARS
 2022-12-01,Reservas Internacionales BCRA,38188.0,monetario,BCRA,millones USD
 2022-12-01,Riesgo País (EMBI+),2207.0,financiero,ArgentinaDatos,bps
@@ -59585,8 +59865,13 @@ fecha,serie,valor,categoria,fuente,unidad
 2023-01-01,Dólar MEP Compra,327.94,cambiario,ArgentinaDatos,ARS/USD
 2023-01-01,Dólar MEP Venta,327.94,cambiario,ArgentinaDatos,ARS/USD
 2023-01-01,EMAE - Actividad Económica,143.0301902868023,actividad,INDEC,índice
+2023-01-01,Gasto Corriente del Estado,5931657.500000001,fiscal,Ministerio de Economía,millones ARS
+2023-01-01,Gasto Público Consolidado,80134650.37281485,fiscal,Ministerio de Economía,millones ARS
+2023-01-01,Gasto Público Nacional,42674022.67512053,fiscal,Ministerio de Economía,millones ARS
 2023-01-01,IPC - Nivel General,1202.979,precios,INDEC,índice
 2023-01-01,IPI Manufacturero,117.35959829400518,actividad,INDEC,índice
+2023-01-01,Línea de Indigencia,72043.47,social,INDEC,ARS corrientes
+2023-01-01,Línea de Pobreza,163538.68,social,INDEC,ARS corrientes
 2023-01-01,Recaudación Tributaria,2265961.79873514,fiscal,Ministerio de Economía,millones ARS
 2023-01-01,Riesgo País (EMBI+),2213.0,financiero,ArgentinaDatos,bps
 2023-01-01,Índice de Salarios,973.35,laboral,INDEC,índice
@@ -59974,6 +60259,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2023-02-01,EMAE - Actividad Económica,137.26202711164171,actividad,INDEC,índice
 2023-02-01,IPC - Nivel General,1282.7091,precios,INDEC,índice
 2023-02-01,IPI Manufacturero,114.97961805150167,actividad,INDEC,índice
+2023-02-01,Línea de Indigencia,80483.13,social,INDEC,ARS corrientes
+2023-02-01,Línea de Pobreza,177062.87,social,INDEC,ARS corrientes
 2023-02-01,Recaudación Tributaria,2126337.89725611,fiscal,Ministerio de Economía,millones ARS
 2023-02-01,Reservas Internacionales BCRA,41379.0,monetario,BCRA,millones USD
 2023-02-01,Riesgo País (EMBI+),1820.0,financiero,ArgentinaDatos,bps
@@ -60308,6 +60595,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2023-03-01,EMAE - Actividad Económica,155.0605676377791,actividad,INDEC,índice
 2023-03-01,IPC - Nivel General,1381.1601,precios,INDEC,índice
 2023-03-01,IPI Manufacturero,140.60284318567005,actividad,INDEC,índice
+2023-03-01,Línea de Indigencia,87719.29,social,INDEC,ARS corrientes
+2023-03-01,Línea de Pobreza,191228.05,social,INDEC,ARS corrientes
 2023-03-01,Recaudación Tributaria,2336942.38424853,fiscal,Ministerio de Economía,millones ARS
 2023-03-01,Reservas Internacionales BCRA,38722.0,monetario,BCRA,millones USD
 2023-03-01,Riesgo País (EMBI+),2036.0,financiero,ArgentinaDatos,bps
@@ -60681,8 +60970,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2023-04-01,Dólar MEP Compra,397.37,cambiario,ArgentinaDatos,ARS/USD
 2023-04-01,Dólar MEP Venta,397.37,cambiario,ArgentinaDatos,ARS/USD
 2023-04-01,EMAE - Actividad Económica,150.02108492570758,actividad,INDEC,índice
+2023-04-01,Gasto Corriente del Estado,7836096.399999999,fiscal,Ministerio de Economía,millones ARS
 2023-04-01,IPC - Nivel General,1497.2147,precios,INDEC,índice
 2023-04-01,IPI Manufacturero,133.35350382480027,actividad,INDEC,índice
+2023-04-01,Línea de Indigencia,94148.47,social,INDEC,ARS corrientes
+2023-04-01,Línea de Pobreza,203360.69,social,INDEC,ARS corrientes
 2023-04-01,Recaudación Tributaria,2551511.44943979,fiscal,Ministerio de Economía,millones ARS
 2023-04-01,Riesgo País (EMBI+),2276.0,financiero,ArgentinaDatos,bps
 2023-04-01,Índice de Salarios,1200.49,laboral,INDEC,índice
@@ -61023,6 +61315,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2023-05-01,EMAE - Actividad Económica,153.77240570488985,actividad,INDEC,índice
 2023-05-01,IPC - Nivel General,1613.5895,precios,INDEC,índice
 2023-05-01,IPI Manufacturero,137.3370382911086,actividad,INDEC,índice
+2023-05-01,Línea de Indigencia,99052.64,social,INDEC,ARS corrientes
+2023-05-01,Línea de Pobreza,217915.79,social,INDEC,ARS corrientes
 2023-05-01,Recaudación Tributaria,3178453.6382806497,fiscal,Ministerio de Economía,millones ARS
 2023-05-01,Riesgo País (EMBI+),2662.0,financiero,ArgentinaDatos,bps
 2023-05-01,Índice de Salarios,1290.46,laboral,INDEC,índice
@@ -61390,6 +61684,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2023-06-01,EMAE - Actividad Económica,152.55703188407324,actividad,INDEC,índice
 2023-06-01,IPC - Nivel General,1709.6115,precios,INDEC,índice
 2023-06-01,IPI Manufacturero,134.27318455353014,actividad,INDEC,índice
+2023-06-01,Línea de Indigencia,104227.28,social,INDEC,ARS corrientes
+2023-06-01,Línea de Pobreza,232426.83,social,INDEC,ARS corrientes
 2023-06-01,Recaudación Tributaria,3517257.61702437,fiscal,Ministerio de Economía,millones ARS
 2023-06-01,Reservas Internacionales BCRA,33067.0,monetario,BCRA,millones USD
 2023-06-01,Riesgo País (EMBI+),2616.0,financiero,ArgentinaDatos,bps
@@ -61746,8 +62042,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2023-07-01,Dólar MEP Compra,484.69,cambiario,ArgentinaDatos,ARS/USD
 2023-07-01,Dólar MEP Venta,484.69,cambiario,ArgentinaDatos,ARS/USD
 2023-07-01,EMAE - Actividad Económica,150.22297368785945,actividad,INDEC,índice
+2023-07-01,Gasto Corriente del Estado,9674456.8,fiscal,Ministerio de Economía,millones ARS
 2023-07-01,IPC - Nivel General,1818.0838,precios,INDEC,índice
 2023-07-01,IPI Manufacturero,132.37164756745275,actividad,INDEC,índice
+2023-07-01,Línea de Indigencia,111642.16,social,INDEC,ARS corrientes
+2023-07-01,Línea de Pobreza,248962.01,social,INDEC,ARS corrientes
 2023-07-01,Recaudación Tributaria,3571198.0279958905,fiscal,Ministerio de Economía,millones ARS
 2023-07-01,Riesgo País (EMBI+),2037.0,financiero,ArgentinaDatos,bps
 2023-07-01,Índice de Salarios,1519.5,laboral,INDEC,índice
@@ -62123,6 +62422,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2023-08-01,EMAE - Actividad Económica,151.94203814879756,actividad,INDEC,índice
 2023-08-01,IPC - Nivel General,2044.2832,precios,INDEC,índice
 2023-08-01,IPI Manufacturero,138.3630070813502,actividad,INDEC,índice
+2023-08-01,Línea de Indigencia,130590.35,social,INDEC,ARS corrientes
+2023-08-01,Línea de Pobreza,284686.95,social,INDEC,ARS corrientes
 2023-08-01,Recaudación Tributaria,4062431.79948446,fiscal,Ministerio de Economía,millones ARS
 2023-08-01,Reservas Internacionales BCRA,24042.0,monetario,BCRA,millones USD
 2023-08-01,Riesgo País (EMBI+),1990.0,financiero,ArgentinaDatos,bps
@@ -62508,6 +62809,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2023-09-01,EMAE - Actividad Económica,148.4322432701974,actividad,INDEC,índice
 2023-09-01,IPC - Nivel General,2304.9242,precios,INDEC,índice
 2023-09-01,IPI Manufacturero,133.61988928272442,actividad,INDEC,índice
+2023-09-01,Línea de Indigencia,147880.57,social,INDEC,ARS corrientes
+2023-09-01,Línea de Pobreza,319422.04,social,INDEC,ARS corrientes
 2023-09-01,Recaudación Tributaria,4303335.131374829,fiscal,Ministerio de Economía,millones ARS
 2023-09-01,Reservas Internacionales BCRA,27824.0,monetario,BCRA,millones USD
 2023-09-01,Riesgo País (EMBI+),2090.0,financiero,ArgentinaDatos,bps
@@ -62866,8 +63169,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2023-10-01,Dólar MEP Compra,700.32,cambiario,ArgentinaDatos,ARS/USD
 2023-10-01,Dólar MEP Venta,701.01,cambiario,ArgentinaDatos,ARS/USD
 2023-10-01,EMAE - Actividad Económica,147.50696066044537,actividad,INDEC,índice
+2023-10-01,Gasto Corriente del Estado,14226080.9,fiscal,Ministerio de Economía,millones ARS
 2023-10-01,IPC - Nivel General,2496.273,precios,INDEC,índice
 2023-10-01,IPI Manufacturero,133.0091904493393,actividad,INDEC,índice
+2023-10-01,Línea de Indigencia,160602.53,social,INDEC,ARS corrientes
+2023-10-01,Línea de Pobreza,345295.45,social,INDEC,ARS corrientes
 2023-10-01,Recaudación Tributaria,4466095.489322309,fiscal,Ministerio de Economía,millones ARS
 2023-10-01,Riesgo País (EMBI+),2543.0,financiero,ArgentinaDatos,bps
 2023-10-01,Índice de Salarios,1978.41,laboral,INDEC,índice
@@ -63243,6 +63549,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2023-11-01,EMAE - Actividad Económica,146.35949533183793,actividad,INDEC,índice
 2023-11-01,IPC - Nivel General,2816.0628,precios,INDEC,índice
 2023-11-01,IPI Manufacturero,127.5781512965671,actividad,INDEC,índice
+2023-11-01,Línea de Indigencia,185050.4,social,INDEC,ARS corrientes
+2023-11-01,Línea de Pobreza,390456.32,social,INDEC,ARS corrientes
 2023-11-01,Recaudación Tributaria,4679609.85737704,fiscal,Ministerio de Economía,millones ARS
 2023-11-01,Reservas Internacionales BCRA,21876.0,monetario,BCRA,millones USD
 2023-11-01,Riesgo País (EMBI+),2601.0,financiero,ArgentinaDatos,bps
@@ -63607,6 +63915,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2023-12-01,EMAE - Actividad Económica,139.33576576518632,actividad,INDEC,índice
 2023-12-01,IPC - Nivel General,3533.1922,precios,INDEC,índice
 2023-12-01,IPI Manufacturero,107.40382708053018,actividad,INDEC,índice
+2023-12-01,Línea de Indigencia,240678.8,social,INDEC,ARS corrientes
+2023-12-01,Línea de Pobreza,495798.32,social,INDEC,ARS corrientes
 2023-12-01,Recaudación Tributaria,5922687.18486099,fiscal,Ministerio de Economía,millones ARS
 2023-12-01,Reservas Internacionales BCRA,21428.0,monetario,BCRA,millones USD
 2023-12-01,Riesgo País (EMBI+),1982.0,financiero,ArgentinaDatos,bps
@@ -63961,8 +64271,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2024-01-01,Dólar Oficial (Compra),790.0,cambiario,Bluelytics,ARS/USD
 2024-01-01,Dólar Oficial (Venta),847.0,cambiario,Bluelytics,ARS/USD
 2024-01-01,EMAE - Actividad Económica,137.54602735591297,actividad,INDEC,índice
+2024-01-01,Gasto Corriente del Estado,16425827.202248,fiscal,Ministerio de Economía,millones ARS
 2024-01-01,IPC - Nivel General,4261.5324,precios,INDEC,índice
 2024-01-01,IPI Manufacturero,102.98323083293734,actividad,INDEC,índice
+2024-01-01,Línea de Indigencia,285561.33,social,INDEC,ARS corrientes
+2024-01-01,Línea de Pobreza,596823.18,social,INDEC,ARS corrientes
 2024-01-01,Recaudación Tributaria,7699887.38525299,fiscal,Ministerio de Economía,millones ARS
 2024-01-01,Riesgo País (EMBI+),1906.0,financiero,ArgentinaDatos,bps
 2024-01-01,Índice de Salarios,2734.97,laboral,INDEC,índice
@@ -64350,6 +64663,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2024-02-01,EMAE - Actividad Económica,133.6372238420605,actividad,INDEC,índice
 2024-02-01,IPC - Nivel General,4825.7881,precios,INDEC,índice
 2024-02-01,IPI Manufacturero,103.75102024796448,actividad,INDEC,índice
+2024-02-01,Línea de Indigencia,322851.2,social,INDEC,ARS corrientes
+2024-02-01,Línea de Pobreza,690901.57,social,INDEC,ARS corrientes
 2024-02-01,Recaudación Tributaria,7249313.922219569,fiscal,Ministerio de Economía,millones ARS
 2024-02-01,Reservas Internacionales BCRA,27072.0,monetario,BCRA,millones USD
 2024-02-01,Riesgo País (EMBI+),1959.0,financiero,ArgentinaDatos,bps
@@ -64699,6 +65014,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2024-03-01,EMAE - Actividad Económica,142.56862052019582,actividad,INDEC,índice
 2024-03-01,IPC - Nivel General,5357.0929,precios,INDEC,índice
 2024-03-01,IPI Manufacturero,110.46572537113644,actividad,INDEC,índice
+2024-03-01,Línea de Indigencia,358048.65,social,INDEC,ARS corrientes
+2024-03-01,Línea de Pobreza,773385.1,social,INDEC,ARS corrientes
 2024-03-01,Recaudación Tributaria,7726458.691607789,fiscal,Ministerio de Economía,millones ARS
 2024-03-01,Reservas Internacionales BCRA,27334.0,monetario,BCRA,millones USD
 2024-03-01,Riesgo País (EMBI+),1635.0,financiero,ArgentinaDatos,bps
@@ -65054,8 +65371,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2024-04-01,Dólar Oficial (Compra),843.0,cambiario,Bluelytics,ARS/USD
 2024-04-01,Dólar Oficial (Venta),902.0,cambiario,Bluelytics,ARS/USD
 2024-04-01,EMAE - Actividad Económica,147.26512454856004,actividad,INDEC,índice
+2024-04-01,Gasto Corriente del Estado,22146042.5,fiscal,Ministerio de Economía,millones ARS
 2024-04-01,IPC - Nivel General,5830.2271,precios,INDEC,índice
 2024-04-01,IPI Manufacturero,111.2965219356007,actividad,INDEC,índice
+2024-04-01,Línea de Indigencia,373044.24,social,INDEC,ARS corrientes
+2024-04-01,Línea de Pobreza,828158.19,social,INDEC,ARS corrientes
 2024-04-01,Recaudación Tributaria,8663813.17291225,fiscal,Ministerio de Economía,millones ARS
 2024-04-01,Riesgo País (EMBI+),1439.0,financiero,ArgentinaDatos,bps
 2024-04-01,Índice de Salarios,3764.21,laboral,INDEC,índice
@@ -65420,6 +65740,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2024-05-01,EMAE - Actividad Económica,156.7765837615064,actividad,INDEC,índice
 2024-05-01,IPC - Nivel General,6073.7,precios,INDEC,índice
 2024-05-01,IPI Manufacturero,116.71976927266223,actividad,INDEC,índice
+2024-05-01,Línea de Indigencia,386977.6641,social,INDEC,ARS corrientes
+2024-05-01,Línea de Pobreza,851350.8672,social,INDEC,ARS corrientes
 2024-05-01,Recaudación Tributaria,13379446.494132482,fiscal,Ministerio de Economía,millones ARS
 2024-05-01,Riesgo País (EMBI+),1224.0,financiero,ArgentinaDatos,bps
 2024-05-01,Índice de Salarios,4077.32,laboral,INDEC,índice
@@ -65801,6 +66123,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2024-06-01,EMAE - Actividad Económica,147.3651693681738,actividad,INDEC,índice
 2024-06-01,IPC - Nivel General,6351.7145,precios,INDEC,índice
 2024-06-01,IPI Manufacturero,107.09903168407163,actividad,INDEC,índice
+2024-06-01,Línea de Indigencia,393319.2711,social,INDEC,ARS corrientes
+2024-06-01,Línea de Pobreza,873168.7701,social,INDEC,ARS corrientes
 2024-06-01,Recaudación Tributaria,11297649.20446474,fiscal,Ministerio de Economía,millones ARS
 2024-06-01,Riesgo País (EMBI+),1312.0,financiero,ArgentinaDatos,bps
 2024-06-01,Índice de Salarios,4329.8,laboral,INDEC,índice
@@ -66143,8 +66467,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2024-07-01,Dólar Oficial (Compra),895.0,cambiario,Bluelytics,ARS/USD
 2024-07-01,Dólar Oficial (Venta),954.0,cambiario,Bluelytics,ARS/USD
 2024-07-01,EMAE - Actividad Económica,149.69752697536458,actividad,INDEC,índice
+2024-07-01,Gasto Corriente del Estado,26561514.1,fiscal,Ministerio de Economía,millones ARS
 2024-07-01,IPC - Nivel General,6607.7479,precios,INDEC,índice
 2024-07-01,IPI Manufacturero,125.0796687823528,actividad,INDEC,índice
+2024-07-01,Línea de Indigencia,405697.13,social,INDEC,ARS corrientes
+2024-07-01,Línea de Pobreza,900647.65,social,INDEC,ARS corrientes
 2024-07-01,Recaudación Tributaria,11910547.537222948,fiscal,Ministerio de Economía,millones ARS
 2024-07-01,Reservas Internacionales BCRA,29615.0,monetario,BCRA,millones USD
 2024-07-01,Riesgo País (EMBI+),1513.0,financiero,ArgentinaDatos,bps
@@ -66530,6 +66857,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2024-08-01,EMAE - Actividad Económica,147.32757348272975,actividad,INDEC,índice
 2024-08-01,IPC - Nivel General,6883.4412,precios,INDEC,índice
 2024-08-01,IPI Manufacturero,128.73308622570693,actividad,INDEC,índice
+2024-08-01,Línea de Indigencia,421473.837,social,INDEC,ARS corrientes
+2024-08-01,Línea de Pobreza,939886.6596,social,INDEC,ARS corrientes
 2024-08-01,Recaudación Tributaria,11764131.36139993,fiscal,Ministerio de Economía,millones ARS
 2024-08-01,Reservas Internacionales BCRA,27069.0,monetario,BCRA,millones USD
 2024-08-01,Riesgo País (EMBI+),1550.0,financiero,ArgentinaDatos,bps
@@ -66905,6 +67234,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2024-09-01,EMAE - Actividad Económica,144.84378302186047,actividad,INDEC,índice
 2024-09-01,IPC - Nivel General,7122.2421,precios,INDEC,índice
 2024-09-01,IPI Manufacturero,125.23585222194735,actividad,INDEC,índice
+2024-09-01,Línea de Indigencia,428719.92,social,INDEC,ARS corrientes
+2024-09-01,Línea de Pobreza,964619.82,social,INDEC,ARS corrientes
 2024-09-01,Recaudación Tributaria,12844456.67623793,fiscal,Ministerio de Economía,millones ARS
 2024-09-01,Riesgo País (EMBI+),1433.0,financiero,ArgentinaDatos,bps
 2024-09-01,Índice de Salarios,5147.61,laboral,INDEC,índice
@@ -67275,8 +67606,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2024-10-01,Dólar Oficial (Compra),947.0,cambiario,Bluelytics,ARS/USD
 2024-10-01,Dólar Oficial (Venta),1006.0,cambiario,Bluelytics,ARS/USD
 2024-10-01,EMAE - Actividad Económica,147.9946623836304,actividad,INDEC,índice
+2024-10-01,Gasto Corriente del Estado,28751120.1,fiscal,Ministerio de Economía,millones ARS
 2024-10-01,IPC - Nivel General,7313.9542,precios,INDEC,índice
 2024-10-01,IPI Manufacturero,130.31068482170923,actividad,INDEC,índice
+2024-10-01,Línea de Indigencia,434619.5313,social,INDEC,ARS corrientes
+2024-10-01,Línea de Pobreza,986586.324,social,INDEC,ARS corrientes
 2024-10-01,Recaudación Tributaria,12780380.77223406,fiscal,Ministerio de Economía,millones ARS
 2024-10-01,Reservas Internacionales BCRA,28461.0,monetario,BCRA,millones USD
 2024-10-01,Riesgo País (EMBI+),1288.0,financiero,ArgentinaDatos,bps
@@ -67662,6 +67996,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2024-11-01,EMAE - Actividad Económica,148.06937483613993,actividad,INDEC,índice
 2024-11-01,IPC - Nivel General,7491.4314,precios,INDEC,índice
 2024-11-01,IPI Manufacturero,125.39541977505476,actividad,INDEC,índice
+2024-11-01,Línea de Indigencia,439239.58,social,INDEC,ARS corrientes
+2024-11-01,Línea de Pobreza,1001466.22,social,INDEC,ARS corrientes
 2024-11-01,Recaudación Tributaria,13026430.83240848,fiscal,Ministerio de Economía,millones ARS
 2024-11-01,Reservas Internacionales BCRA,29603.0,monetario,BCRA,millones USD
 2024-11-01,Riesgo País (EMBI+),955.0,financiero,ArgentinaDatos,bps
@@ -68010,6 +68346,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2024-12-01,EMAE - Actividad Económica,148.56734190911206,actividad,INDEC,índice
 2024-12-01,IPC - Nivel General,7694.0075,precios,INDEC,índice
 2024-12-01,IPI Manufacturero,116.72631144153108,actividad,INDEC,índice
+2024-12-01,Línea de Indigencia,449313.69,social,INDEC,ARS corrientes
+2024-12-01,Línea de Pobreza,1024435.21,social,INDEC,ARS corrientes
 2024-12-01,Recaudación Tributaria,13015182.677521478,fiscal,Ministerio de Economía,millones ARS
 2024-12-01,Riesgo País (EMBI+),752.0,financiero,ArgentinaDatos,bps
 2024-12-01,Índice de Salarios,5765.54,laboral,INDEC,índice
@@ -68375,8 +68713,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2025-01-01,Dólar Oficial (Compra),1004.0,cambiario,Bluelytics,ARS/USD
 2025-01-01,Dólar Oficial (Venta),1060.0,cambiario,Bluelytics,ARS/USD
 2025-01-01,EMAE - Actividad Económica,146.29580174387476,actividad,INDEC,índice
+2025-01-01,Gasto Corriente del Estado,28431235.1,fiscal,Ministerio de Economía,millones ARS
 2025-01-01,IPC - Nivel General,7864.1257,precios,INDEC,índice
 2025-01-01,IPI Manufacturero,110.70049811471458,actividad,INDEC,índice
+2025-01-01,Línea de Indigencia,453384.05,social,INDEC,ARS corrientes
+2025-01-01,Línea de Pobreza,1033715.62,social,INDEC,ARS corrientes
 2025-01-01,Recaudación Tributaria,15031693.08669754,fiscal,Ministerio de Economía,millones ARS
 2025-01-01,Riesgo País (EMBI+),635.0,financiero,ArgentinaDatos,bps
 2025-01-01,Índice de Salarios,5934.47,laboral,INDEC,índice
@@ -68750,6 +69091,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2025-02-01,EMAE - Actividad Económica,141.2021694522208,actividad,INDEC,índice
 2025-02-01,IPC - Nivel General,8052.9927,precios,INDEC,índice
 2025-02-01,IPI Manufacturero,109.99130277358049,actividad,INDEC,índice
+2025-02-01,Línea de Indigencia,468107.72,social,INDEC,ARS corrientes
+2025-02-01,Línea de Pobreza,1057923.42,social,INDEC,ARS corrientes
 2025-02-01,Recaudación Tributaria,13520837.1049842,fiscal,Ministerio de Economía,millones ARS
 2025-02-01,Índice de Salarios,6161.52,laboral,INDEC,índice
 2025-02-02,Dólar CCL Compra,1179.7,cambiario,ArgentinaDatos,ARS/USD
@@ -69088,6 +69431,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2025-03-01,EMAE - Actividad Económica,150.4065591097294,actividad,INDEC,índice
 2025-03-01,IPC - Nivel General,8353.3158,precios,INDEC,índice
 2025-03-01,IPI Manufacturero,116.22832592438436,actividad,INDEC,índice
+2025-03-01,Línea de Indigencia,495615.76,social,INDEC,ARS corrientes
+2025-03-01,Línea de Pobreza,1100266.99,social,INDEC,ARS corrientes
 2025-03-01,Recaudación Tributaria,12733317.184110267,fiscal,Ministerio de Economía,millones ARS
 2025-03-01,Índice de Salarios,6344.81,laboral,INDEC,índice
 2025-03-02,Dólar CCL Compra,1221.3,cambiario,ArgentinaDatos,ARS/USD
@@ -69434,8 +69779,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2025-04-01,Dólar Oficial (Compra),1044.0,cambiario,Bluelytics,ARS/USD
 2025-04-01,Dólar Oficial (Venta),1104.0,cambiario,Bluelytics,ARS/USD
 2025-04-01,EMAE - Actividad Económica,158.7411029664511,actividad,INDEC,índice
+2025-04-01,Gasto Corriente del Estado,30902643.700000003,fiscal,Ministerio de Economía,millones ARS
 2025-04-01,IPC - Nivel General,8585.6078,precios,INDEC,índice
 2025-04-01,IPI Manufacturero,121.51414518888168,actividad,INDEC,índice
+2025-04-01,Línea de Indigencia,502291.15,social,INDEC,ARS corrientes
+2025-04-01,Línea de Pobreza,1110063.43,social,INDEC,ARS corrientes
 2025-04-01,Recaudación Tributaria,13681770.96797642,fiscal,Ministerio de Economía,millones ARS
 2025-04-01,Reservas Internacionales BCRA,25450.0,monetario,BCRA,millones USD
 2025-04-01,Riesgo País (EMBI+),823.0,financiero,ArgentinaDatos,bps
@@ -69784,6 +70132,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2025-05-01,EMAE - Actividad Económica,164.8778979559678,actividad,INDEC,índice
 2025-05-01,IPC - Nivel General,8714.4871,precios,INDEC,índice
 2025-05-01,IPI Manufacturero,124.04655839247243,actividad,INDEC,índice
+2025-05-01,Línea de Indigencia,500280.92,social,INDEC,ARS corrientes
+2025-05-01,Línea de Pobreza,1110623.65,social,INDEC,ARS corrientes
 2025-05-01,Recaudación Tributaria,15862862.396723382,fiscal,Ministerio de Economía,millones ARS
 2025-05-01,Riesgo País (EMBI+),735.0,financiero,ArgentinaDatos,bps
 2025-05-01,Índice de Salarios,6755.22,laboral,INDEC,índice
@@ -70139,6 +70489,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2025-06-01,EMAE - Actividad Económica,156.5940188494031,actividad,INDEC,índice
 2025-06-01,IPC - Nivel General,8855.5681,precios,INDEC,índice
 2025-06-01,IPI Manufacturero,117.45295448927092,actividad,INDEC,índice
+2025-06-01,Línea de Indigencia,506008.08,social,INDEC,ARS corrientes
+2025-06-01,Línea de Pobreza,1128398.01,social,INDEC,ARS corrientes
 2025-06-01,Recaudación Tributaria,16184465.69467703,fiscal,Ministerio de Economía,millones ARS
 2025-06-01,Índice de Salarios,6956.46,laboral,INDEC,índice
 2025-06-02,BADLAR Bancos Privados,32.6875,monetario,BCRA,% n.a.
@@ -70485,8 +70837,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2025-07-01,Dólar Oficial (Compra),1173.0,cambiario,Bluelytics,ARS/USD
 2025-07-01,Dólar Oficial (Venta),1218.0,cambiario,Bluelytics,ARS/USD
 2025-07-01,EMAE - Actividad Económica,153.90772081429063,actividad,INDEC,índice
+2025-07-01,Gasto Corriente del Estado,34682087.7,fiscal,Ministerio de Economía,millones ARS
 2025-07-01,IPC - Nivel General,9023.973,precios,INDEC,índice
 2025-07-01,IPI Manufacturero,124.2464420449712,actividad,INDEC,índice
+2025-07-01,Línea de Indigencia,515404.89,social,INDEC,ARS corrientes
+2025-07-01,Línea de Pobreza,1149352.91,social,INDEC,ARS corrientes
 2025-07-01,Recaudación Tributaria,16998944.53100429,fiscal,Ministerio de Economía,millones ARS
 2025-07-01,Reservas Internacionales BCRA,41686.0,monetario,BCRA,millones USD
 2025-07-01,Riesgo País (EMBI+),699.0,financiero,ArgentinaDatos,bps
@@ -70847,6 +71202,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2025-08-01,EMAE - Actividad Económica,150.51256572733467,actividad,INDEC,índice
 2025-08-01,IPC - Nivel General,9193.2441,precios,INDEC,índice
 2025-08-01,IPI Manufacturero,123.36060608029216,actividad,INDEC,índice
+2025-08-01,Línea de Indigencia,520529.16,social,INDEC,ARS corrientes
+2025-08-01,Línea de Pobreza,1160780.04,social,INDEC,ARS corrientes
 2025-08-01,Recaudación Tributaria,15359108.194565669,fiscal,Ministerio de Economía,millones ARS
 2025-08-01,Reservas Internacionales BCRA,41034.0,monetario,BCRA,millones USD
 2025-08-01,Riesgo País (EMBI+),771.0,financiero,ArgentinaDatos,bps
@@ -71182,6 +71539,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2025-09-01,EMAE - Actividad Económica,151.83984439466224,actividad,INDEC,índice
 2025-09-01,IPC - Nivel General,9384.0922,precios,INDEC,índice
 2025-09-01,IPI Manufacturero,124.9401875390312,actividad,INDEC,índice
+2025-09-01,Línea de Indigencia,527736.34,social,INDEC,ARS corrientes
+2025-09-01,Línea de Pobreza,1176852.05,social,INDEC,ARS corrientes
 2025-09-01,Recaudación Tributaria,15444975.67077525,fiscal,Ministerio de Economía,millones ARS
 2025-09-01,Reservas Internacionales BCRA,40026.0,monetario,BCRA,millones USD
 2025-09-01,Tasa Pases Pasivos BCRA 1 día,57.77,monetario,BCRA,% n.a.
@@ -71526,8 +71885,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2025-10-01,Dólar Oficial (Compra),1400.0,cambiario,Bluelytics,ARS/USD
 2025-10-01,Dólar Oficial (Venta),1454.0,cambiario,Bluelytics,ARS/USD
 2025-10-01,EMAE - Actividad Económica,152.59573745863372,actividad,INDEC,índice
+2025-10-01,Gasto Corriente del Estado,36650870.0,fiscal,Ministerio de Economía,millones ARS
 2025-10-01,IPC - Nivel General,9603.8623,precios,INDEC,índice
 2025-10-01,IPI Manufacturero,126.72872661122022,actividad,INDEC,índice
+2025-10-01,Línea de Indigencia,544304.4,social,INDEC,ARS corrientes
+2025-10-01,Línea de Pobreza,1213798.81,social,INDEC,ARS corrientes
 2025-10-01,Recaudación Tributaria,16165741.65153192,fiscal,Ministerio de Economía,millones ARS
 2025-10-01,Reservas Internacionales BCRA,42230.0,monetario,BCRA,millones USD
 2025-10-01,Riesgo País (EMBI+),1264.0,financiero,ArgentinaDatos,bps
@@ -71877,6 +72239,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2025-11-01,EMAE - Actividad Económica,147.72352773408562,actividad,INDEC,índice
 2025-11-01,IPC - Nivel General,9841.3581,precios,INDEC,índice
 2025-11-01,IPI Manufacturero,114.41581258295044,actividad,INDEC,índice
+2025-11-01,Línea de Indigencia,566364.43,social,INDEC,ARS corrientes
+2025-11-01,Línea de Pobreza,1257329.03,social,INDEC,ARS corrientes
 2025-11-01,Recaudación Tributaria,15598231.87420104,fiscal,Ministerio de Economía,millones ARS
 2025-11-01,Índice de Salarios,7843.14,laboral,INDEC,índice
 2025-11-02,Dólar CCL Compra,1496.3,cambiario,ArgentinaDatos,ARS/USD
@@ -72194,6 +72558,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2025-12-01,EMAE - Actividad Económica,153.46285317997496,actividad,INDEC,índice
 2025-12-01,IPC - Nivel General,10121.3715,precios,INDEC,índice
 2025-12-01,IPI Manufacturero,112.07909281584764,actividad,INDEC,índice
+2025-12-01,Línea de Indigencia,589510.48,social,INDEC,ARS corrientes
+2025-12-01,Línea de Pobreza,1308713.26,social,INDEC,ARS corrientes
 2025-12-01,Recaudación Tributaria,16527267.82514989,fiscal,Ministerio de Economía,millones ARS
 2025-12-01,Reservas Internacionales BCRA,41773.0,monetario,BCRA,millones USD
 2025-12-01,Riesgo País (EMBI+),648.0,financiero,ArgentinaDatos,bps
@@ -72532,6 +72898,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2026-01-01,EMAE - Actividad Económica,149.0409020924211,actividad,INDEC,índice
 2026-01-01,IPC - Nivel General,10413.0309,precios,INDEC,índice
 2026-01-01,IPI Manufacturero,107.11364415170938,actividad,INDEC,índice
+2026-01-01,Línea de Indigencia,623990.34,social,INDEC,ARS corrientes
+2026-01-01,Línea de Pobreza,1360298.93,social,INDEC,ARS corrientes
 2026-01-01,Recaudación Tributaria,18337625.030341797,fiscal,Ministerio de Economía,millones ARS
 2026-01-01,Riesgo País (EMBI+),571.0,financiero,ArgentinaDatos,bps
 2026-01-02,BADLAR Bancos Privados,26.6875,monetario,BCRA,% n.a.
@@ -72870,6 +73238,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2026-02-01,Dólar MEP Compra,1460.4,cambiario,ArgentinaDatos,ARS/USD
 2026-02-01,Dólar MEP Venta,1464.6,cambiario,ArgentinaDatos,ARS/USD
 2026-02-01,IPC - Nivel General,10714.6255,precios,INDEC,índice
+2026-02-01,Línea de Indigencia,644088.41,social,INDEC,ARS corrientes
+2026-02-01,Línea de Pobreza,1397671.83,social,INDEC,ARS corrientes
 2026-02-01,Recaudación Tributaria,16231829.881584609,fiscal,Ministerio de Economía,millones ARS
 2026-02-02,BADLAR Bancos Privados,29.375,monetario,BCRA,% n.a.
 2026-02-02,Base Monetaria,42050300.0,monetario,BCRA,millones ARS
@@ -73516,3 +73886,12 @@ fecha,serie,valor,categoria,fuente,unidad
 2026-04-02,Dólar MEP Venta,1436.3,cambiario,ArgentinaDatos,ARS/USD
 2026-04-02,Dólar Oficial (Compra),1365.0,cambiario,Bluelytics,ARS/USD
 2026-04-02,Dólar Oficial (Venta),1416.0,cambiario,Bluelytics,ARS/USD
+2026-04-02,Riesgo País (EMBI+),612.0,financiero,ArgentinaDatos,bps
+2026-04-03,Dólar Blue (Compra),1385.0,cambiario,Bluelytics,ARS/USD
+2026-04-03,Dólar Blue (Venta),1405.0,cambiario,Bluelytics,ARS/USD
+2026-04-03,Dólar CCL Compra,1483.4,cambiario,ArgentinaDatos,ARS/USD
+2026-04-03,Dólar CCL Venta,1484.2,cambiario,ArgentinaDatos,ARS/USD
+2026-04-03,Dólar MEP Compra,1432.3,cambiario,ArgentinaDatos,ARS/USD
+2026-04-03,Dólar MEP Venta,1436.3,cambiario,ArgentinaDatos,ARS/USD
+2026-04-03,Dólar Oficial (Compra),1365.0,cambiario,Bluelytics,ARS/USD
+2026-04-03,Dólar Oficial (Venta),1416.0,cambiario,Bluelytics,ARS/USD

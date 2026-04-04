@@ -30,7 +30,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_blue_compra",
     "ultimo_valor": 1385.0,
-    "ultima_fecha": "2026-04-02"
+    "ultima_fecha": "2026-04-03"
   },
   {
     "id": 8,
@@ -41,7 +41,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_blue_venta",
     "ultimo_valor": 1405.0,
-    "ultima_fecha": "2026-04-02"
+    "ultima_fecha": "2026-04-03"
   },
   {
     "id": 26,
@@ -52,7 +52,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_ccl_compra",
     "ultimo_valor": 1483.4,
-    "ultima_fecha": "2026-04-02"
+    "ultima_fecha": "2026-04-03"
   },
   {
     "id": 27,
@@ -63,7 +63,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_ccl_venta",
     "ultimo_valor": 1484.2,
-    "ultima_fecha": "2026-04-02"
+    "ultima_fecha": "2026-04-03"
   },
   {
     "id": 24,
@@ -74,7 +74,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_mep_compra",
     "ultimo_valor": 1432.3,
-    "ultima_fecha": "2026-04-02"
+    "ultima_fecha": "2026-04-03"
   },
   {
     "id": 25,
@@ -85,7 +85,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_mep_venta",
     "ultimo_valor": 1436.3,
-    "ultima_fecha": "2026-04-02"
+    "ultima_fecha": "2026-04-03"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_oficial_compra",
     "ultimo_valor": 1365.0,
-    "ultima_fecha": "2026-04-02"
+    "ultima_fecha": "2026-04-03"
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_oficial_venta",
     "ultimo_valor": 1416.0,
-    "ultima_fecha": "2026-04-02"
+    "ultima_fecha": "2026-04-03"
   },
   {
     "id": 3,
@@ -129,7 +129,40 @@
     "frecuencia": "diaria",
     "slug": "riesgo_pais_embi",
     "ultimo_valor": 612.0,
-    "ultima_fecha": "2026-04-01"
+    "ultima_fecha": "2026-04-02"
+  },
+  {
+    "id": 111,
+    "nombre": "Gasto Corriente del Estado",
+    "fuente": "Ministerio de Economía",
+    "categoria": "fiscal",
+    "unidad": "millones ARS",
+    "frecuencia": "trimestral",
+    "slug": "gasto_corriente_del_estado",
+    "ultimo_valor": 36650870.0,
+    "ultima_fecha": "2025-10-01"
+  },
+  {
+    "id": 109,
+    "nombre": "Gasto Público Consolidado",
+    "fuente": "Ministerio de Economía",
+    "categoria": "fiscal",
+    "unidad": "millones ARS",
+    "frecuencia": "anual",
+    "slug": "gasto_publico_consolidado",
+    "ultimo_valor": 80134650.37281485,
+    "ultima_fecha": "2023-01-01"
+  },
+  {
+    "id": 110,
+    "nombre": "Gasto Público Nacional",
+    "fuente": "Ministerio de Economía",
+    "categoria": "fiscal",
+    "unidad": "millones ARS",
+    "frecuencia": "anual",
+    "slug": "gasto_publico_nacional",
+    "ultimo_valor": 42674022.67512053,
+    "ultima_fecha": "2023-01-01"
   },
   {
     "id": 48,
@@ -229,5 +262,27 @@
     "slug": "inflacion_esperada_12m_rem",
     "ultimo_valor": 22.3,
     "ultima_fecha": "2026-02-28"
+  },
+  {
+    "id": 107,
+    "nombre": "Línea de Indigencia",
+    "fuente": "INDEC",
+    "categoria": "social",
+    "unidad": "ARS corrientes",
+    "frecuencia": "mensual",
+    "slug": "linea_de_indigencia",
+    "ultimo_valor": 644088.41,
+    "ultima_fecha": "2026-02-01"
+  },
+  {
+    "id": 106,
+    "nombre": "Línea de Pobreza",
+    "fuente": "INDEC",
+    "categoria": "social",
+    "unidad": "ARS corrientes",
+    "frecuencia": "mensual",
+    "slug": "linea_de_pobreza",
+    "ultimo_valor": 1397671.83,
+    "ultima_fecha": "2026-02-01"
   }
 ]
