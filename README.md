@@ -82,7 +82,7 @@ Mismas columnas que CSV. Recomendado para series largas — hasta 10x más compa
 ```python
 import pandas as pd
 
-BASE = "https://raw.githubusercontent.com/mzurita/arg-financial-data/main"
+BASE = "https://raw.githubusercontent.com/maximilianozurita/arg-financial-data/main"
 
 # Serie individual
 df = pd.read_csv(f"{BASE}/data/cambiario/dolar_blue_venta.csv", parse_dates=["fecha"])
@@ -98,7 +98,7 @@ blue = df[df["nombre"] == "Dólar Blue (Venta)"]
 
 ```sql
 SELECT * FROM read_parquet(
-  'https://raw.githubusercontent.com/mzurita/arg-financial-data/main/data/cambiario/dolar_blue_venta.parquet'
+  'https://raw.githubusercontent.com/maximilianozurita/arg-financial-data/main/data/cambiario/dolar_blue_venta.parquet'
 )
 WHERE fecha >= '2023-01-01'
 ORDER BY fecha DESC;
@@ -107,7 +107,7 @@ ORDER BY fecha DESC;
 ### JavaScript / TypeScript
 
 ```js
-const BASE = "https://raw.githubusercontent.com/mzurita/arg-financial-data/main"
+const BASE = "https://raw.githubusercontent.com/maximilianozurita/arg-financial-data/main"
 
 const metadata = await fetch(`${BASE}/metadata.json`).then(r => r.json())
 const latest   = await fetch(`${BASE}/latest.json`).then(r => r.json())
