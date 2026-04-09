@@ -29,8 +29,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_blue_compra",
-    "ultimo_valor": 1375.0,
-    "ultima_fecha": "2026-04-07"
+    "ultimo_valor": 1370.0,
+    "ultima_fecha": "2026-04-08"
   },
   {
     "id": 8,
@@ -40,8 +40,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_blue_venta",
-    "ultimo_valor": 1395.0,
-    "ultima_fecha": "2026-04-07"
+    "ultimo_valor": 1390.0,
+    "ultima_fecha": "2026-04-08"
   },
   {
     "id": 26,
@@ -51,8 +51,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_ccl_compra",
-    "ultimo_valor": 1485.4,
-    "ultima_fecha": "2026-04-07"
+    "ultimo_valor": 1478.0,
+    "ultima_fecha": "2026-04-08"
   },
   {
     "id": 27,
@@ -62,8 +62,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_ccl_venta",
-    "ultimo_valor": 1487.7,
-    "ultima_fecha": "2026-04-07"
+    "ultimo_valor": 1478.8,
+    "ultima_fecha": "2026-04-08"
   },
   {
     "id": 24,
@@ -73,8 +73,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_mep_compra",
-    "ultimo_valor": 1430.3,
-    "ultima_fecha": "2026-04-07"
+    "ultimo_valor": 1421.5,
+    "ultima_fecha": "2026-04-08"
   },
   {
     "id": 25,
@@ -84,8 +84,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_mep_venta",
-    "ultimo_valor": 1433.8,
-    "ultima_fecha": "2026-04-07"
+    "ultimo_valor": 1427.9,
+    "ultima_fecha": "2026-04-08"
   },
   {
     "id": 11,
@@ -95,8 +95,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_oficial_compra",
-    "ultimo_valor": 1369.0,
-    "ultima_fecha": "2026-04-07"
+    "ultimo_valor": 1362.0,
+    "ultima_fecha": "2026-04-08"
   },
   {
     "id": 10,
@@ -106,8 +106,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_oficial_venta",
-    "ultimo_valor": 1419.0,
-    "ultima_fecha": "2026-04-07"
+    "ultimo_valor": 1412.0,
+    "ultima_fecha": "2026-04-08"
   },
   {
     "id": 3,
@@ -117,8 +117,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "tipo_de_cambio_minorista_bcra",
-    "ultimo_valor": 1418.78,
-    "ultima_fecha": "2026-04-07"
+    "ultimo_valor": 1412.02,
+    "ultima_fecha": "2026-04-08"
   },
   {
     "id": 23,
@@ -128,8 +128,8 @@
     "unidad": "bps",
     "frecuencia": "diaria",
     "slug": "riesgo_pais_embi",
-    "ultimo_valor": 611.0,
-    "ultima_fecha": "2026-04-06"
+    "ultimo_valor": 610.0,
+    "ultima_fecha": "2026-04-07"
   },
   {
     "id": 111,
@@ -172,8 +172,8 @@
     "unidad": "millones ARS",
     "frecuencia": "mensual",
     "slug": "recaudacion_tributaria",
-    "ultimo_valor": 16231829.881584609,
-    "ultima_fecha": "2026-02-01"
+    "ultimo_valor": 16071028.39721067,
+    "ultima_fecha": "2026-03-01"
   },
   {
     "id": 46,
@@ -194,8 +194,8 @@
     "unidad": "% n.a.",
     "frecuencia": "diaria",
     "slug": "badlar_bancos_privados",
-    "ultimo_valor": 24.4375,
-    "ultima_fecha": "2026-04-06"
+    "ultimo_valor": 25.3125,
+    "ultima_fecha": "2026-04-07"
   },
   {
     "id": 2,
@@ -205,8 +205,8 @@
     "unidad": "millones ARS",
     "frecuencia": "diaria",
     "slug": "base_monetaria",
-    "ultimo_valor": 42128666.0,
-    "ultima_fecha": "2026-04-01"
+    "ultimo_valor": 41983916.0,
+    "ultima_fecha": "2026-04-06"
   },
   {
     "id": 1,
@@ -216,8 +216,8 @@
     "unidad": "millones USD",
     "frecuencia": "diaria",
     "slug": "reservas_internacionales_bcra",
-    "ultimo_valor": 44445.0,
-    "ultima_fecha": "2026-04-01"
+    "ultimo_valor": 44248.0,
+    "ultima_fecha": "2026-04-06"
   },
   {
     "id": 6,
@@ -227,8 +227,8 @@
     "unidad": "% n.a.",
     "frecuencia": "diaria",
     "slug": "tasa_pases_pasivos_bcra_1_dia",
-    "ultimo_valor": 22.09,
-    "ultima_fecha": "2026-04-06"
+    "ultimo_valor": 21.76,
+    "ultima_fecha": "2026-04-07"
   },
   {
     "id": 7,
@@ -260,8 +260,8 @@
     "unidad": "%",
     "frecuencia": "diaria",
     "slug": "inflacion_esperada_12m_rem",
-    "ultimo_valor": 22.3,
-    "ultima_fecha": "2026-02-28"
+    "ultimo_valor": 23.8,
+    "ultima_fecha": "2026-03-31"
   },
   {
     "id": 107,
