@@ -30,7 +30,7 @@
     "frecuencia": "diaria",
     "descripcion": "Cotización compra del dólar blue (informal)",
     "slug": "dolar_blue_compra",
-    "ultima_actualizacion": "2026-04-21T00:00:14.466727+00:00"
+    "ultima_actualizacion": "2026-04-22T00:00:10.102464+00:00"
   },
   {
     "id": 8,
@@ -41,7 +41,7 @@
     "frecuencia": "diaria",
     "descripcion": "Cotización venta del dólar blue (informal)",
     "slug": "dolar_blue_venta",
-    "ultima_actualizacion": "2026-04-21T00:00:14.339585+00:00"
+    "ultima_actualizacion": "2026-04-22T00:00:09.209489+00:00"
   },
   {
     "id": 26,
@@ -52,7 +52,7 @@
     "frecuencia": "diaria",
     "descripcion": "Dólar CCL Compra (ArgentinaDatos)",
     "slug": "dolar_ccl_compra",
-    "ultima_actualizacion": "2026-04-21T00:00:16.118700+00:00"
+    "ultima_actualizacion": "2026-04-22T00:00:12.769506+00:00"
   },
   {
     "id": 27,
@@ -63,7 +63,7 @@
     "frecuencia": "diaria",
     "descripcion": "Dólar CCL Venta (ArgentinaDatos)",
     "slug": "dolar_ccl_venta",
-    "ultima_actualizacion": "2026-04-21T00:00:16.292221+00:00"
+    "ultima_actualizacion": "2026-04-22T00:00:13.040584+00:00"
   },
   {
     "id": 24,
@@ -74,7 +74,7 @@
     "frecuencia": "diaria",
     "descripcion": "Dólar MEP Compra (ArgentinaDatos)",
     "slug": "dolar_mep_compra",
-    "ultima_actualizacion": "2026-04-21T00:00:15.772445+00:00"
+    "ultima_actualizacion": "2026-04-22T00:00:11.992026+00:00"
   },
   {
     "id": 25,
@@ -85,7 +85,7 @@
     "frecuencia": "diaria",
     "descripcion": "Dólar MEP Venta (ArgentinaDatos)",
     "slug": "dolar_mep_venta",
-    "ultima_actualizacion": "2026-04-21T00:00:15.880062+00:00"
+    "ultima_actualizacion": "2026-04-22T00:00:12.206432+00:00"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "frecuencia": "diaria",
     "descripcion": "Cotización compra del dólar oficial BNA",
     "slug": "dolar_oficial_compra",
-    "ultima_actualizacion": "2026-04-21T00:00:14.723199+00:00"
+    "ultima_actualizacion": "2026-04-22T00:00:10.526211+00:00"
   },
   {
     "id": 10,
@@ -107,7 +107,7 @@
     "frecuencia": "diaria",
     "descripcion": "Cotización venta del dólar oficial BNA",
     "slug": "dolar_oficial_venta",
-    "ultima_actualizacion": "2026-04-21T00:00:14.589471+00:00"
+    "ultima_actualizacion": "2026-04-22T00:00:10.337758+00:00"
   },
   {
     "id": 3,
@@ -129,7 +129,7 @@
     "frecuencia": "diaria",
     "descripcion": "Riesgo país argentino (EMBI+ spread en puntos básicos)",
     "slug": "riesgo_pais_embi",
-    "ultima_actualizacion": "2026-04-21T00:00:15.493933+00:00"
+    "ultima_actualizacion": "2026-04-22T00:00:11.506875+00:00"
   },
   {
     "id": 111,

@@ -30,7 +30,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_blue_compra",
     "ultimo_valor": 1390.0,
-    "ultima_fecha": "2026-04-20"
+    "ultima_fecha": "2026-04-21"
   },
   {
     "id": 8,
@@ -41,7 +41,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_blue_venta",
     "ultimo_valor": 1410.0,
-    "ultima_fecha": "2026-04-20"
+    "ultima_fecha": "2026-04-21"
   },
   {
     "id": 26,
@@ -51,8 +51,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_ccl_compra",
-    "ultimo_valor": 1466.1,
-    "ultima_fecha": "2026-04-20"
+    "ultimo_valor": 1463.9,
+    "ultima_fecha": "2026-04-21"
   },
   {
     "id": 27,
@@ -62,8 +62,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_ccl_venta",
-    "ultimo_valor": 1467.0,
-    "ultima_fecha": "2026-04-20"
+    "ultimo_valor": 1465.9,
+    "ultima_fecha": "2026-04-21"
   },
   {
     "id": 24,
@@ -73,8 +73,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_mep_compra",
-    "ultimo_valor": 1414.5,
-    "ultima_fecha": "2026-04-20"
+    "ultimo_valor": 1413.0,
+    "ultima_fecha": "2026-04-21"
   },
   {
     "id": 25,
@@ -84,8 +84,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_mep_venta",
-    "ultimo_valor": 1419.0,
-    "ultima_fecha": "2026-04-20"
+    "ultimo_valor": 1416.8,
+    "ultima_fecha": "2026-04-21"
   },
   {
     "id": 11,
@@ -95,8 +95,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_oficial_compra",
-    "ultimo_valor": 1339.0,
-    "ultima_fecha": "2026-04-20"
+    "ultimo_valor": 1349.0,
+    "ultima_fecha": "2026-04-21"
   },
   {
     "id": 10,
@@ -106,8 +106,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_oficial_venta",
-    "ultimo_valor": 1389.0,
-    "ultima_fecha": "2026-04-20"
+    "ultimo_valor": 1401.0,
+    "ultima_fecha": "2026-04-21"
   },
   {
     "id": 3,
@@ -128,8 +128,8 @@
     "unidad": "bps",
     "frecuencia": "diaria",
     "slug": "riesgo_pais_embi",
-    "ultimo_valor": 519.0,
-    "ultima_fecha": "2026-04-17"
+    "ultimo_valor": 526.0,
+    "ultima_fecha": "2026-04-20"
   },
   {
     "id": 111,
