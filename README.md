@@ -9,6 +9,7 @@ Actualizado automáticamente desde [`arg-financial-local`](https://github.com/ma
 
 | Categoría | Serie | Fuente | Frecuencia | Desde |
 |-----------|-------|--------|-----------|-------|
+| acciones | Índice Merval | Yahoo Finance | Diaria | 2000 |
 | cambiario | Tipo de Cambio Minorista BCRA | BCRA | Diaria | 2003 |
 | cambiario | Dólar Blue compra / venta | Bluelytics | Diaria | 2011 |
 | cambiario | Dólar Oficial compra / venta | Bluelytics | Diaria | 2011 |
@@ -39,6 +40,7 @@ El catálogo completo y actualizado está en [`metadata.json`](./metadata.json).
 ```
 arg-financial-data/
 ├── data/
+│   ├── acciones/
 │   ├── cambiario/
 │   │   ├── dolar_blue_venta.csv
 │   │   ├── dolar_blue_venta.parquet
@@ -118,7 +120,7 @@ const csv      = await fetch(`${BASE}/data/cambiario/dolar_blue_venta.csv`).then
 
 | Tipo | Frecuencia |
 |------|-----------|
-| Fuentes diarias (BCRA, Bluelytics, ArgentinaDatos) | Lunes a viernes ~8:00 hs (UTC-3) |
+| Fuentes diarias (BCRA, Bluelytics, ArgentinaDatos, Merval) | Lunes a viernes ~8:00 hs (UTC-3) |
 | Fuentes mensuales (INDEC, MECON) | Día 6 de cada mes ~8:00 hs (UTC-3) |
 
 ## Fuentes
@@ -132,3 +134,4 @@ Todas públicas, sin autenticación.
 | [ArgentinaDatos](https://argentinadatos.com) | `api.argentinadatos.com/v1` |
 | [INDEC](https://www.indec.gob.ar) | `apis.datos.gob.ar/series/api` |
 | [Ministerio de Economía](https://www.economia.gob.ar) | `apis.datos.gob.ar/series/api` |
+| [Yahoo Finance](https://finance.yahoo.com) | `yfinance` (Python) |
