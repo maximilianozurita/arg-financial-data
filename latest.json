@@ -29,8 +29,8 @@
     "unidad": "índice",
     "frecuencia": "mensual",
     "slug": "ipi_manufacturero",
-    "ultimo_valor": 107.11364415170938,
-    "ultima_fecha": "2026-01-01"
+    "ultimo_valor": 100.46723961081064,
+    "ultima_fecha": "2026-02-01"
   },
   {
     "id": 9,
@@ -40,8 +40,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_blue_compra",
-    "ultimo_valor": 1395.0,
-    "ultima_fecha": "2026-05-05"
+    "ultimo_valor": 1380.0,
+    "ultima_fecha": "2026-05-06"
   },
   {
     "id": 8,
@@ -51,8 +51,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_blue_venta",
-    "ultimo_valor": 1415.0,
-    "ultima_fecha": "2026-05-05"
+    "ultimo_valor": 1400.0,
+    "ultima_fecha": "2026-05-06"
   },
   {
     "id": 26,
@@ -63,7 +63,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_ccl_compra",
     "ultimo_valor": 1492.9,
-    "ultima_fecha": "2026-05-05"
+    "ultima_fecha": "2026-05-06"
   },
   {
     "id": 27,
@@ -74,7 +74,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_ccl_venta",
     "ultimo_valor": 1494.1,
-    "ultima_fecha": "2026-05-05"
+    "ultima_fecha": "2026-05-06"
   },
   {
     "id": 24,
@@ -85,7 +85,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_mep_compra",
     "ultimo_valor": 1437.5,
-    "ultima_fecha": "2026-05-05"
+    "ultima_fecha": "2026-05-06"
   },
   {
     "id": 25,
@@ -96,7 +96,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_mep_venta",
     "ultimo_valor": 1448.5,
-    "ultima_fecha": "2026-05-05"
+    "ultima_fecha": "2026-05-06"
   },
   {
     "id": 11,
@@ -106,8 +106,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_oficial_compra",
-    "ultimo_valor": 1372.0,
-    "ultima_fecha": "2026-05-05"
+    "ultimo_valor": 1358.0,
+    "ultima_fecha": "2026-05-06"
   },
   {
     "id": 10,
@@ -117,8 +117,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_oficial_venta",
-    "ultimo_valor": 1423.0,
-    "ultima_fecha": "2026-05-05"
+    "ultimo_valor": 1409.0,
+    "ultima_fecha": "2026-05-06"
   },
   {
     "id": 3,
@@ -128,8 +128,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "tipo_de_cambio_minorista_bcra",
-    "ultimo_valor": 1416.84,
-    "ultima_fecha": "2026-05-05"
+    "ultimo_valor": 1408.27,
+    "ultima_fecha": "2026-05-06"
   },
   {
     "id": 23,
@@ -139,8 +139,8 @@
     "unidad": "bps",
     "frecuencia": "diaria",
     "slug": "riesgo_pais_embi",
-    "ultimo_valor": 558.0,
-    "ultima_fecha": "2026-05-04"
+    "ultimo_valor": 554.0,
+    "ultima_fecha": "2026-05-05"
   },
   {
     "id": 111,
@@ -194,8 +194,8 @@
     "unidad": "índice",
     "frecuencia": "mensual",
     "slug": "indice_de_salarios",
-    "ultimo_valor": 7969.6,
-    "ultima_fecha": "2025-12-01"
+    "ultimo_valor": 8171.66,
+    "ultima_fecha": "2026-01-01"
   },
   {
     "id": 4,
@@ -205,8 +205,8 @@
     "unidad": "% n.a.",
     "frecuencia": "diaria",
     "slug": "badlar_bancos_privados",
-    "ultimo_valor": 21.4375,
-    "ultima_fecha": "2026-05-04"
+    "ultimo_valor": 22.3125,
+    "ultima_fecha": "2026-05-05"
   },
   {
     "id": 2,
@@ -216,8 +216,8 @@
     "unidad": "millones ARS",
     "frecuencia": "diaria",
     "slug": "base_monetaria",
-    "ultimo_valor": 42132457.0,
-    "ultima_fecha": "2026-04-30"
+    "ultimo_valor": 41845927.0,
+    "ultima_fecha": "2026-05-04"
   },
   {
     "id": 1,
@@ -227,8 +227,8 @@
     "unidad": "millones USD",
     "frecuencia": "diaria",
     "slug": "reservas_internacionales_bcra",
-    "ultimo_valor": 44516.0,
-    "ultima_fecha": "2026-04-30"
+    "ultimo_valor": 45657.0,
+    "ultima_fecha": "2026-05-04"
   },
   {
     "id": 6,
@@ -238,8 +238,8 @@
     "unidad": "% n.a.",
     "frecuencia": "diaria",
     "slug": "tasa_pases_pasivos_bcra_1_dia",
-    "ultimo_valor": 22.28,
-    "ultima_fecha": "2026-05-04"
+    "ultimo_valor": 21.41,
+    "ultima_fecha": "2026-05-05"
   },
   {
     "id": 7,
@@ -260,8 +260,8 @@
     "unidad": "índice",
     "frecuencia": "mensual",
     "slug": "ipc_nivel_general",
-    "ultimo_valor": 10714.6255,
-    "ultima_fecha": "2026-02-01"
+    "ultimo_valor": 11077.0608,
+    "ultima_fecha": "2026-03-01"
   },
   {
     "id": 5,
@@ -282,8 +282,8 @@
     "unidad": "ARS corrientes",
     "frecuencia": "mensual",
     "slug": "linea_de_indigencia",
-    "ultimo_valor": 644088.41,
-    "ultima_fecha": "2026-02-01"
+    "ultimo_valor": 658010.9267999999,
+    "ultima_fecha": "2026-03-01"
   },
   {
     "id": 106,
@@ -293,7 +293,7 @@
     "unidad": "ARS corrientes",
     "frecuencia": "mensual",
     "slug": "linea_de_pobreza",
-    "ultimo_valor": 1397671.83,
-    "ultima_fecha": "2026-02-01"
+    "ultimo_valor": 1434463.8093,
+    "ultima_fecha": "2026-03-01"
   }
 ]
