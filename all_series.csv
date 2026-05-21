@@ -80803,6 +80803,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2026-05-17,Dólar MEP Compra,1421.7,cambiario,ArgentinaDatos,ARS/USD
 2026-05-17,Dólar MEP Venta,1429.6,cambiario,ArgentinaDatos,ARS/USD
 2026-05-18,BADLAR Bancos Privados,21.5,monetario,BCRA,% n.a.
+2026-05-18,Base Monetaria,41006735.0,monetario,BCRA,millones ARS
 2026-05-18,Dólar Blue (Compra),1395.0,cambiario,Bluelytics,ARS/USD
 2026-05-18,Dólar Blue (Venta),1415.0,cambiario,Bluelytics,ARS/USD
 2026-05-18,Dólar CCL Compra,1483.1,cambiario,ArgentinaDatos,ARS/USD
@@ -80811,9 +80812,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2026-05-18,Dólar MEP Venta,1438.1,cambiario,ArgentinaDatos,ARS/USD
 2026-05-18,Dólar Oficial (Compra),1366.0,cambiario,Bluelytics,ARS/USD
 2026-05-18,Dólar Oficial (Venta),1417.0,cambiario,Bluelytics,ARS/USD
+2026-05-18,Reservas Internacionales BCRA,46135.0,monetario,BCRA,millones USD
 2026-05-18,Riesgo País (EMBI+),543.0,financiero,ArgentinaDatos,bps
 2026-05-18,Tasa Pases Pasivos BCRA 1 día,20.06,monetario,BCRA,% n.a.
 2026-05-18,Tipo de Cambio Minorista BCRA,1416.31,cambiario,BCRA,ARS/USD
+2026-05-19,BADLAR Bancos Privados,22.0,monetario,BCRA,% n.a.
 2026-05-19,Dólar Blue (Compra),1415.0,cambiario,Bluelytics,ARS/USD
 2026-05-19,Dólar Blue (Venta),1435.0,cambiario,Bluelytics,ARS/USD
 2026-05-19,Dólar CCL Compra,1489.2,cambiario,ArgentinaDatos,ARS/USD
@@ -80822,4 +80825,14 @@ fecha,serie,valor,categoria,fuente,unidad
 2026-05-19,Dólar MEP Venta,1432.3,cambiario,ArgentinaDatos,ARS/USD
 2026-05-19,Dólar Oficial (Compra),1366.0,cambiario,Bluelytics,ARS/USD
 2026-05-19,Dólar Oficial (Venta),1419.0,cambiario,Bluelytics,ARS/USD
+2026-05-19,Riesgo País (EMBI+),547.0,financiero,ArgentinaDatos,bps
 2026-05-19,Tipo de Cambio Minorista BCRA,1418.66,cambiario,BCRA,ARS/USD
+2026-05-20,Dólar Blue (Compra),1410.0,cambiario,Bluelytics,ARS/USD
+2026-05-20,Dólar Blue (Venta),1430.0,cambiario,Bluelytics,ARS/USD
+2026-05-20,Dólar CCL Compra,1483.7,cambiario,ArgentinaDatos,ARS/USD
+2026-05-20,Dólar CCL Venta,1488.8,cambiario,ArgentinaDatos,ARS/USD
+2026-05-20,Dólar MEP Compra,1427.4,cambiario,ArgentinaDatos,ARS/USD
+2026-05-20,Dólar MEP Venta,1437.1,cambiario,ArgentinaDatos,ARS/USD
+2026-05-20,Dólar Oficial (Compra),1369.0,cambiario,Bluelytics,ARS/USD
+2026-05-20,Dólar Oficial (Venta),1421.0,cambiario,Bluelytics,ARS/USD
+2026-05-20,Tipo de Cambio Minorista BCRA,1420.88,cambiario,BCRA,ARS/USD
