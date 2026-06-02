@@ -60878,7 +60878,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-03,Riesgo País (EMBI+),1701.0,financiero,ArgentinaDatos,bps
 2022-01-03,Tasa Pases Pasivos BCRA 1 día,30.15,monetario,BCRA,% n.a.
 2022-01-03,Tasa de Política Monetaria,38.0,monetario,BCRA,% n.a.
-2022-01-03,Tipo de Cambio Minorista BCRA,108.29,cambiario,BCRA,ARS/USD
+2022-01-03,Tipo de Cambio Minorista BCRA,108.48,cambiario,BCRA,ARS/USD
 2022-01-03,Índice Merval,85579.0,acciones,Yahoo Finance,puntos
 2022-01-04,BADLAR Bancos Privados,34.25,monetario,BCRA,% n.a.
 2022-01-04,Base Monetaria,3851298.0,monetario,BCRA,millones ARS
@@ -60894,7 +60894,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-04,Riesgo País (EMBI+),1731.0,financiero,ArgentinaDatos,bps
 2022-01-04,Tasa Pases Pasivos BCRA 1 día,29.97,monetario,BCRA,% n.a.
 2022-01-04,Tasa de Política Monetaria,38.0,monetario,BCRA,% n.a.
-2022-01-04,Tipo de Cambio Minorista BCRA,108.48,cambiario,BCRA,ARS/USD
+2022-01-04,Tipo de Cambio Minorista BCRA,108.61,cambiario,BCRA,ARS/USD
 2022-01-04,Índice Merval,85286.0,acciones,Yahoo Finance,puntos
 2022-01-05,BADLAR Bancos Privados,34.25,monetario,BCRA,% n.a.
 2022-01-05,Base Monetaria,3950424.0,monetario,BCRA,millones ARS
@@ -60910,7 +60910,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-05,Riesgo País (EMBI+),1753.0,financiero,ArgentinaDatos,bps
 2022-01-05,Tasa Pases Pasivos BCRA 1 día,30.53,monetario,BCRA,% n.a.
 2022-01-05,Tasa de Política Monetaria,38.0,monetario,BCRA,% n.a.
-2022-01-05,Tipo de Cambio Minorista BCRA,108.61,cambiario,BCRA,ARS/USD
+2022-01-05,Tipo de Cambio Minorista BCRA,108.63,cambiario,BCRA,ARS/USD
 2022-01-05,Índice Merval,83836.0,acciones,Yahoo Finance,puntos
 2022-01-06,BADLAR Bancos Privados,34.1875,monetario,BCRA,% n.a.
 2022-01-06,Base Monetaria,4326335.0,monetario,BCRA,millones ARS
@@ -60926,7 +60926,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-06,Riesgo País (EMBI+),1788.0,financiero,ArgentinaDatos,bps
 2022-01-06,Tasa Pases Pasivos BCRA 1 día,30.18,monetario,BCRA,% n.a.
 2022-01-06,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-06,Tipo de Cambio Minorista BCRA,108.63,cambiario,BCRA,ARS/USD
+2022-01-06,Tipo de Cambio Minorista BCRA,108.72,cambiario,BCRA,ARS/USD
 2022-01-06,Índice Merval,83748.0,acciones,Yahoo Finance,puntos
 2022-01-07,BADLAR Bancos Privados,37.375,monetario,BCRA,% n.a.
 2022-01-07,Base Monetaria,3761928.0,monetario,BCRA,millones ARS
@@ -60942,7 +60942,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-07,Riesgo País (EMBI+),1802.0,financiero,ArgentinaDatos,bps
 2022-01-07,Tasa Pases Pasivos BCRA 1 día,29.9,monetario,BCRA,% n.a.
 2022-01-07,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-07,Tipo de Cambio Minorista BCRA,108.72,cambiario,BCRA,ARS/USD
+2022-01-07,Tipo de Cambio Minorista BCRA,108.86,cambiario,BCRA,ARS/USD
 2022-01-07,Índice Merval,84402.0,acciones,Yahoo Finance,puntos
 2022-01-08,Dólar CCL Compra,214.26,cambiario,ArgentinaDatos,ARS/USD
 2022-01-08,Dólar CCL Venta,214.26,cambiario,ArgentinaDatos,ARS/USD
@@ -60968,7 +60968,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-10,Riesgo País (EMBI+),1821.0,financiero,ArgentinaDatos,bps
 2022-01-10,Tasa Pases Pasivos BCRA 1 día,27.04,monetario,BCRA,% n.a.
 2022-01-10,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-10,Tipo de Cambio Minorista BCRA,108.86,cambiario,BCRA,ARS/USD
+2022-01-10,Tipo de Cambio Minorista BCRA,108.96,cambiario,BCRA,ARS/USD
 2022-01-10,Índice Merval,83746.0,acciones,Yahoo Finance,puntos
 2022-01-11,BADLAR Bancos Privados,37.375,monetario,BCRA,% n.a.
 2022-01-11,Base Monetaria,3569643.0,monetario,BCRA,millones ARS
@@ -60984,7 +60984,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-11,Riesgo País (EMBI+),1820.0,financiero,ArgentinaDatos,bps
 2022-01-11,Tasa Pases Pasivos BCRA 1 día,28.07,monetario,BCRA,% n.a.
 2022-01-11,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-11,Tipo de Cambio Minorista BCRA,108.96,cambiario,BCRA,ARS/USD
+2022-01-11,Tipo de Cambio Minorista BCRA,108.97,cambiario,BCRA,ARS/USD
 2022-01-11,Índice Merval,84702.0,acciones,Yahoo Finance,puntos
 2022-01-12,BADLAR Bancos Privados,37.4375,monetario,BCRA,% n.a.
 2022-01-12,Base Monetaria,3602002.0,monetario,BCRA,millones ARS
@@ -61000,7 +61000,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-12,Riesgo País (EMBI+),1835.0,financiero,ArgentinaDatos,bps
 2022-01-12,Tasa Pases Pasivos BCRA 1 día,30.36,monetario,BCRA,% n.a.
 2022-01-12,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-12,Tipo de Cambio Minorista BCRA,108.97,cambiario,BCRA,ARS/USD
+2022-01-12,Tipo de Cambio Minorista BCRA,109.05,cambiario,BCRA,ARS/USD
 2022-01-12,Índice Merval,85100.0,acciones,Yahoo Finance,puntos
 2022-01-13,BADLAR Bancos Privados,37.4375,monetario,BCRA,% n.a.
 2022-01-13,Base Monetaria,3521623.0,monetario,BCRA,millones ARS
@@ -61016,7 +61016,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-13,Riesgo País (EMBI+),1864.0,financiero,ArgentinaDatos,bps
 2022-01-13,Tasa Pases Pasivos BCRA 1 día,33.09,monetario,BCRA,% n.a.
 2022-01-13,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-13,Tipo de Cambio Minorista BCRA,109.05,cambiario,BCRA,ARS/USD
+2022-01-13,Tipo de Cambio Minorista BCRA,109.11,cambiario,BCRA,ARS/USD
 2022-01-13,Índice Merval,85371.0,acciones,Yahoo Finance,puntos
 2022-01-14,BADLAR Bancos Privados,37.625,monetario,BCRA,% n.a.
 2022-01-14,Base Monetaria,3644760.0,monetario,BCRA,millones ARS
@@ -61032,7 +61032,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-14,Riesgo País (EMBI+),1882.0,financiero,ArgentinaDatos,bps
 2022-01-14,Tasa Pases Pasivos BCRA 1 día,28.88,monetario,BCRA,% n.a.
 2022-01-14,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-14,Tipo de Cambio Minorista BCRA,109.11,cambiario,BCRA,ARS/USD
+2022-01-14,Tipo de Cambio Minorista BCRA,109.21,cambiario,BCRA,ARS/USD
 2022-01-14,Índice Merval,85481.0,acciones,Yahoo Finance,puntos
 2022-01-15,Dólar CCL Compra,206.04,cambiario,ArgentinaDatos,ARS/USD
 2022-01-15,Dólar CCL Venta,206.04,cambiario,ArgentinaDatos,ARS/USD
@@ -61058,7 +61058,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-17,Riesgo País (EMBI+),1882.0,financiero,ArgentinaDatos,bps
 2022-01-17,Tasa Pases Pasivos BCRA 1 día,29.92,monetario,BCRA,% n.a.
 2022-01-17,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-17,Tipo de Cambio Minorista BCRA,109.21,cambiario,BCRA,ARS/USD
+2022-01-17,Tipo de Cambio Minorista BCRA,109.46,cambiario,BCRA,ARS/USD
 2022-01-17,Índice Merval,85039.0,acciones,Yahoo Finance,puntos
 2022-01-18,BADLAR Bancos Privados,37.5,monetario,BCRA,% n.a.
 2022-01-18,Base Monetaria,3602872.0,monetario,BCRA,millones ARS
@@ -61074,7 +61074,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-18,Riesgo País (EMBI+),1890.0,financiero,ArgentinaDatos,bps
 2022-01-18,Tasa Pases Pasivos BCRA 1 día,27.82,monetario,BCRA,% n.a.
 2022-01-18,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-18,Tipo de Cambio Minorista BCRA,109.46,cambiario,BCRA,ARS/USD
+2022-01-18,Tipo de Cambio Minorista BCRA,109.64,cambiario,BCRA,ARS/USD
 2022-01-18,Índice Merval,83351.0,acciones,Yahoo Finance,puntos
 2022-01-19,BADLAR Bancos Privados,37.5625,monetario,BCRA,% n.a.
 2022-01-19,Base Monetaria,3588642.0,monetario,BCRA,millones ARS
@@ -61090,7 +61090,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-19,Riesgo País (EMBI+),1880.0,financiero,ArgentinaDatos,bps
 2022-01-19,Tasa Pases Pasivos BCRA 1 día,29.01,monetario,BCRA,% n.a.
 2022-01-19,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-19,Tipo de Cambio Minorista BCRA,109.64,cambiario,BCRA,ARS/USD
+2022-01-19,Tipo de Cambio Minorista BCRA,109.67,cambiario,BCRA,ARS/USD
 2022-01-19,Índice Merval,83528.0,acciones,Yahoo Finance,puntos
 2022-01-20,BADLAR Bancos Privados,37.625,monetario,BCRA,% n.a.
 2022-01-20,Base Monetaria,3546894.0,monetario,BCRA,millones ARS
@@ -61106,7 +61106,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-20,Riesgo País (EMBI+),1907.0,financiero,ArgentinaDatos,bps
 2022-01-20,Tasa Pases Pasivos BCRA 1 día,29.6,monetario,BCRA,% n.a.
 2022-01-20,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-20,Tipo de Cambio Minorista BCRA,109.67,cambiario,BCRA,ARS/USD
+2022-01-20,Tipo de Cambio Minorista BCRA,109.71,cambiario,BCRA,ARS/USD
 2022-01-20,Índice Merval,85126.0,acciones,Yahoo Finance,puntos
 2022-01-21,BADLAR Bancos Privados,37.5,monetario,BCRA,% n.a.
 2022-01-21,Base Monetaria,3547947.0,monetario,BCRA,millones ARS
@@ -61122,7 +61122,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-21,Riesgo País (EMBI+),1916.0,financiero,ArgentinaDatos,bps
 2022-01-21,Tasa Pases Pasivos BCRA 1 día,28.67,monetario,BCRA,% n.a.
 2022-01-21,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-21,Tipo de Cambio Minorista BCRA,109.71,cambiario,BCRA,ARS/USD
+2022-01-21,Tipo de Cambio Minorista BCRA,109.79,cambiario,BCRA,ARS/USD
 2022-01-21,Índice Merval,83623.0,acciones,Yahoo Finance,puntos
 2022-01-22,Dólar CCL Compra,218.82,cambiario,ArgentinaDatos,ARS/USD
 2022-01-22,Dólar CCL Venta,218.82,cambiario,ArgentinaDatos,ARS/USD
@@ -61148,7 +61148,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-24,Riesgo País (EMBI+),1961.0,financiero,ArgentinaDatos,bps
 2022-01-24,Tasa Pases Pasivos BCRA 1 día,28.96,monetario,BCRA,% n.a.
 2022-01-24,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-24,Tipo de Cambio Minorista BCRA,109.79,cambiario,BCRA,ARS/USD
+2022-01-24,Tipo de Cambio Minorista BCRA,110.08,cambiario,BCRA,ARS/USD
 2022-01-24,Índice Merval,81004.0,acciones,Yahoo Finance,puntos
 2022-01-25,BADLAR Bancos Privados,37.625,monetario,BCRA,% n.a.
 2022-01-25,Base Monetaria,3609733.0,monetario,BCRA,millones ARS
@@ -61164,7 +61164,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-25,Riesgo País (EMBI+),1928.0,financiero,ArgentinaDatos,bps
 2022-01-25,Tasa Pases Pasivos BCRA 1 día,30.54,monetario,BCRA,% n.a.
 2022-01-25,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-25,Tipo de Cambio Minorista BCRA,110.08,cambiario,BCRA,ARS/USD
+2022-01-25,Tipo de Cambio Minorista BCRA,110.11,cambiario,BCRA,ARS/USD
 2022-01-25,Índice Merval,85180.0,acciones,Yahoo Finance,puntos
 2022-01-26,BADLAR Bancos Privados,37.5625,monetario,BCRA,% n.a.
 2022-01-26,Base Monetaria,3620102.0,monetario,BCRA,millones ARS
@@ -61180,7 +61180,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-26,Riesgo País (EMBI+),1896.0,financiero,ArgentinaDatos,bps
 2022-01-26,Tasa Pases Pasivos BCRA 1 día,24.79,monetario,BCRA,% n.a.
 2022-01-26,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-26,Tipo de Cambio Minorista BCRA,110.11,cambiario,BCRA,ARS/USD
+2022-01-26,Tipo de Cambio Minorista BCRA,110.15,cambiario,BCRA,ARS/USD
 2022-01-26,Índice Merval,85782.0,acciones,Yahoo Finance,puntos
 2022-01-27,BADLAR Bancos Privados,37.5625,monetario,BCRA,% n.a.
 2022-01-27,Base Monetaria,3597892.0,monetario,BCRA,millones ARS
@@ -61196,7 +61196,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-27,Riesgo País (EMBI+),1904.0,financiero,ArgentinaDatos,bps
 2022-01-27,Tasa Pases Pasivos BCRA 1 día,25.97,monetario,BCRA,% n.a.
 2022-01-27,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-27,Tipo de Cambio Minorista BCRA,110.15,cambiario,BCRA,ARS/USD
+2022-01-27,Tipo de Cambio Minorista BCRA,110.5,cambiario,BCRA,ARS/USD
 2022-01-27,Índice Merval,85969.0,acciones,Yahoo Finance,puntos
 2022-01-28,BADLAR Bancos Privados,37.75,monetario,BCRA,% n.a.
 2022-01-28,Base Monetaria,3643133.0,monetario,BCRA,millones ARS
@@ -61212,7 +61212,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-28,Riesgo País (EMBI+),1756.0,financiero,ArgentinaDatos,bps
 2022-01-28,Tasa Pases Pasivos BCRA 1 día,24.94,monetario,BCRA,% n.a.
 2022-01-28,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-28,Tipo de Cambio Minorista BCRA,110.5,cambiario,BCRA,ARS/USD
+2022-01-28,Tipo de Cambio Minorista BCRA,110.68,cambiario,BCRA,ARS/USD
 2022-01-28,Índice Merval,88270.0,acciones,Yahoo Finance,puntos
 2022-01-29,Dólar CCL Compra,240.0,cambiario,ArgentinaDatos,ARS/USD
 2022-01-29,Dólar CCL Venta,240.0,cambiario,ArgentinaDatos,ARS/USD
@@ -61239,7 +61239,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-31,Riesgo País (EMBI+),1723.0,financiero,ArgentinaDatos,bps
 2022-01-31,Tasa Pases Pasivos BCRA 1 día,26.26,monetario,BCRA,% n.a.
 2022-01-31,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-31,Tipo de Cambio Minorista BCRA,110.68,cambiario,BCRA,ARS/USD
+2022-01-31,Tipo de Cambio Minorista BCRA,110.71,cambiario,BCRA,ARS/USD
 2022-01-31,Índice Merval,90908.0,acciones,Yahoo Finance,puntos
 2022-02-01,BADLAR Bancos Privados,37.5,monetario,BCRA,% n.a.
 2022-02-01,Base Monetaria,3880988.0,monetario,BCRA,millones ARS
@@ -61261,7 +61261,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-01,Riesgo País (EMBI+),1740.0,financiero,ArgentinaDatos,bps
 2022-02-01,Tasa Pases Pasivos BCRA 1 día,26.14,monetario,BCRA,% n.a.
 2022-02-01,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-01,Tipo de Cambio Minorista BCRA,110.71,cambiario,BCRA,ARS/USD
+2022-02-01,Tipo de Cambio Minorista BCRA,110.75,cambiario,BCRA,ARS/USD
 2022-02-01,Índice Merval,91417.0,acciones,Yahoo Finance,puntos
 2022-02-01,Índice de Salarios,522.56,laboral,INDEC,índice
 2022-02-02,BADLAR Bancos Privados,37.5625,monetario,BCRA,% n.a.
@@ -61278,7 +61278,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-02,Riesgo País (EMBI+),1726.0,financiero,ArgentinaDatos,bps
 2022-02-02,Tasa Pases Pasivos BCRA 1 día,26.78,monetario,BCRA,% n.a.
 2022-02-02,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-02,Tipo de Cambio Minorista BCRA,110.75,cambiario,BCRA,ARS/USD
+2022-02-02,Tipo de Cambio Minorista BCRA,110.92,cambiario,BCRA,ARS/USD
 2022-02-02,Índice Merval,89663.0,acciones,Yahoo Finance,puntos
 2022-02-03,BADLAR Bancos Privados,37.5625,monetario,BCRA,% n.a.
 2022-02-03,Base Monetaria,3729270.0,monetario,BCRA,millones ARS
@@ -61310,7 +61310,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-04,Riesgo País (EMBI+),1780.0,financiero,ArgentinaDatos,bps
 2022-02-04,Tasa Pases Pasivos BCRA 1 día,31.43,monetario,BCRA,% n.a.
 2022-02-04,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-04,Tipo de Cambio Minorista BCRA,110.92,cambiario,BCRA,ARS/USD
+2022-02-04,Tipo de Cambio Minorista BCRA,111.37,cambiario,BCRA,ARS/USD
 2022-02-04,Índice Merval,87934.0,acciones,Yahoo Finance,puntos
 2022-02-05,Dólar CCL Compra,220.24,cambiario,ArgentinaDatos,ARS/USD
 2022-02-05,Dólar CCL Venta,220.24,cambiario,ArgentinaDatos,ARS/USD
@@ -61336,7 +61336,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-07,Riesgo País (EMBI+),1784.0,financiero,ArgentinaDatos,bps
 2022-02-07,Tasa Pases Pasivos BCRA 1 día,30.83,monetario,BCRA,% n.a.
 2022-02-07,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-07,Tipo de Cambio Minorista BCRA,111.37,cambiario,BCRA,ARS/USD
+2022-02-07,Tipo de Cambio Minorista BCRA,111.46,cambiario,BCRA,ARS/USD
 2022-02-07,Índice Merval,89189.0,acciones,Yahoo Finance,puntos
 2022-02-08,BADLAR Bancos Privados,37.4375,monetario,BCRA,% n.a.
 2022-02-08,Base Monetaria,3750052.0,monetario,BCRA,millones ARS
@@ -61352,7 +61352,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-08,Riesgo País (EMBI+),1770.0,financiero,ArgentinaDatos,bps
 2022-02-08,Tasa Pases Pasivos BCRA 1 día,28.49,monetario,BCRA,% n.a.
 2022-02-08,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-08,Tipo de Cambio Minorista BCRA,111.46,cambiario,BCRA,ARS/USD
+2022-02-08,Tipo de Cambio Minorista BCRA,111.49,cambiario,BCRA,ARS/USD
 2022-02-08,Índice Merval,88149.0,acciones,Yahoo Finance,puntos
 2022-02-09,BADLAR Bancos Privados,37.6875,monetario,BCRA,% n.a.
 2022-02-09,Base Monetaria,3709414.0,monetario,BCRA,millones ARS
@@ -61368,7 +61368,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-09,Riesgo País (EMBI+),1767.0,financiero,ArgentinaDatos,bps
 2022-02-09,Tasa Pases Pasivos BCRA 1 día,29.87,monetario,BCRA,% n.a.
 2022-02-09,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-09,Tipo de Cambio Minorista BCRA,111.49,cambiario,BCRA,ARS/USD
+2022-02-09,Tipo de Cambio Minorista BCRA,111.52,cambiario,BCRA,ARS/USD
 2022-02-09,Índice Merval,87393.0,acciones,Yahoo Finance,puntos
 2022-02-10,BADLAR Bancos Privados,37.5,monetario,BCRA,% n.a.
 2022-02-10,Base Monetaria,3745962.0,monetario,BCRA,millones ARS
@@ -61384,7 +61384,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-10,Riesgo País (EMBI+),1776.0,financiero,ArgentinaDatos,bps
 2022-02-10,Tasa Pases Pasivos BCRA 1 día,30.22,monetario,BCRA,% n.a.
 2022-02-10,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-10,Tipo de Cambio Minorista BCRA,111.52,cambiario,BCRA,ARS/USD
+2022-02-10,Tipo de Cambio Minorista BCRA,111.59,cambiario,BCRA,ARS/USD
 2022-02-10,Índice Merval,87559.0,acciones,Yahoo Finance,puntos
 2022-02-11,BADLAR Bancos Privados,37.5625,monetario,BCRA,% n.a.
 2022-02-11,Base Monetaria,3784898.0,monetario,BCRA,millones ARS
@@ -61400,7 +61400,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-11,Riesgo País (EMBI+),1814.0,financiero,ArgentinaDatos,bps
 2022-02-11,Tasa Pases Pasivos BCRA 1 día,27.73,monetario,BCRA,% n.a.
 2022-02-11,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-11,Tipo de Cambio Minorista BCRA,111.59,cambiario,BCRA,ARS/USD
+2022-02-11,Tipo de Cambio Minorista BCRA,111.67,cambiario,BCRA,ARS/USD
 2022-02-11,Índice Merval,88185.0,acciones,Yahoo Finance,puntos
 2022-02-12,Dólar CCL Compra,216.21,cambiario,ArgentinaDatos,ARS/USD
 2022-02-12,Dólar CCL Venta,216.21,cambiario,ArgentinaDatos,ARS/USD
@@ -61426,7 +61426,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-14,Riesgo País (EMBI+),1800.0,financiero,ArgentinaDatos,bps
 2022-02-14,Tasa Pases Pasivos BCRA 1 día,32.4,monetario,BCRA,% n.a.
 2022-02-14,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-14,Tipo de Cambio Minorista BCRA,111.67,cambiario,BCRA,ARS/USD
+2022-02-14,Tipo de Cambio Minorista BCRA,112.01,cambiario,BCRA,ARS/USD
 2022-02-14,Índice Merval,87804.0,acciones,Yahoo Finance,puntos
 2022-02-15,BADLAR Bancos Privados,37.625,monetario,BCRA,% n.a.
 2022-02-15,Base Monetaria,3994573.0,monetario,BCRA,millones ARS
@@ -61442,7 +61442,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-15,Riesgo País (EMBI+),1762.0,financiero,ArgentinaDatos,bps
 2022-02-15,Tasa Pases Pasivos BCRA 1 día,32.14,monetario,BCRA,% n.a.
 2022-02-15,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-15,Tipo de Cambio Minorista BCRA,112.01,cambiario,BCRA,ARS/USD
+2022-02-15,Tipo de Cambio Minorista BCRA,112.17,cambiario,BCRA,ARS/USD
 2022-02-15,Índice Merval,88043.0,acciones,Yahoo Finance,puntos
 2022-02-16,BADLAR Bancos Privados,37.6875,monetario,BCRA,% n.a.
 2022-02-16,Base Monetaria,3906529.0,monetario,BCRA,millones ARS
@@ -61458,7 +61458,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-16,Riesgo País (EMBI+),1738.0,financiero,ArgentinaDatos,bps
 2022-02-16,Tasa Pases Pasivos BCRA 1 día,32.48,monetario,BCRA,% n.a.
 2022-02-16,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-16,Tipo de Cambio Minorista BCRA,112.17,cambiario,BCRA,ARS/USD
+2022-02-16,Tipo de Cambio Minorista BCRA,112.21,cambiario,BCRA,ARS/USD
 2022-02-16,Índice Merval,90578.0,acciones,Yahoo Finance,puntos
 2022-02-17,BADLAR Bancos Privados,37.625,monetario,BCRA,% n.a.
 2022-02-17,Base Monetaria,3821174.0,monetario,BCRA,millones ARS
@@ -61474,7 +61474,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-17,Riesgo País (EMBI+),1759.0,financiero,ArgentinaDatos,bps
 2022-02-17,Tasa Pases Pasivos BCRA 1 día,32.45,monetario,BCRA,% n.a.
 2022-02-17,Tasa de Política Monetaria,42.5,monetario,BCRA,% n.a.
-2022-02-17,Tipo de Cambio Minorista BCRA,112.21,cambiario,BCRA,ARS/USD
+2022-02-17,Tipo de Cambio Minorista BCRA,112.24,cambiario,BCRA,ARS/USD
 2022-02-17,Índice Merval,89978.0,acciones,Yahoo Finance,puntos
 2022-02-18,BADLAR Bancos Privados,39.9375,monetario,BCRA,% n.a.
 2022-02-18,Base Monetaria,3729418.0,monetario,BCRA,millones ARS
@@ -61490,7 +61490,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-18,Riesgo País (EMBI+),1709.0,financiero,ArgentinaDatos,bps
 2022-02-18,Tasa Pases Pasivos BCRA 1 día,33.72,monetario,BCRA,% n.a.
 2022-02-18,Tasa de Política Monetaria,42.5,monetario,BCRA,% n.a.
-2022-02-18,Tipo de Cambio Minorista BCRA,112.24,cambiario,BCRA,ARS/USD
+2022-02-18,Tipo de Cambio Minorista BCRA,112.48,cambiario,BCRA,ARS/USD
 2022-02-18,Índice Merval,89443.0,acciones,Yahoo Finance,puntos
 2022-02-19,Dólar CCL Compra,206.74,cambiario,ArgentinaDatos,ARS/USD
 2022-02-19,Dólar CCL Venta,206.74,cambiario,ArgentinaDatos,ARS/USD
@@ -61516,7 +61516,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-21,Riesgo País (EMBI+),1709.0,financiero,ArgentinaDatos,bps
 2022-02-21,Tasa Pases Pasivos BCRA 1 día,32.86,monetario,BCRA,% n.a.
 2022-02-21,Tasa de Política Monetaria,42.5,monetario,BCRA,% n.a.
-2022-02-21,Tipo de Cambio Minorista BCRA,112.48,cambiario,BCRA,ARS/USD
+2022-02-21,Tipo de Cambio Minorista BCRA,112.71,cambiario,BCRA,ARS/USD
 2022-02-21,Índice Merval,90030.0,acciones,Yahoo Finance,puntos
 2022-02-22,BADLAR Bancos Privados,40.0625,monetario,BCRA,% n.a.
 2022-02-22,Base Monetaria,3644962.0,monetario,BCRA,millones ARS
@@ -61532,7 +61532,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-22,Riesgo País (EMBI+),1725.0,financiero,ArgentinaDatos,bps
 2022-02-22,Tasa Pases Pasivos BCRA 1 día,32.84,monetario,BCRA,% n.a.
 2022-02-22,Tasa de Política Monetaria,42.5,monetario,BCRA,% n.a.
-2022-02-22,Tipo de Cambio Minorista BCRA,112.71,cambiario,BCRA,ARS/USD
+2022-02-22,Tipo de Cambio Minorista BCRA,112.8,cambiario,BCRA,ARS/USD
 2022-02-22,Índice Merval,90441.0,acciones,Yahoo Finance,puntos
 2022-02-23,BADLAR Bancos Privados,40.0625,monetario,BCRA,% n.a.
 2022-02-23,Base Monetaria,3592761.0,monetario,BCRA,millones ARS
@@ -61548,7 +61548,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-23,Riesgo País (EMBI+),1739.0,financiero,ArgentinaDatos,bps
 2022-02-23,Tasa Pases Pasivos BCRA 1 día,33.4,monetario,BCRA,% n.a.
 2022-02-23,Tasa de Política Monetaria,42.5,monetario,BCRA,% n.a.
-2022-02-23,Tipo de Cambio Minorista BCRA,112.8,cambiario,BCRA,ARS/USD
+2022-02-23,Tipo de Cambio Minorista BCRA,112.83,cambiario,BCRA,ARS/USD
 2022-02-23,Índice Merval,91360.0,acciones,Yahoo Finance,puntos
 2022-02-24,BADLAR Bancos Privados,39.9375,monetario,BCRA,% n.a.
 2022-02-24,Base Monetaria,3676507.0,monetario,BCRA,millones ARS
@@ -61564,7 +61564,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-24,Riesgo País (EMBI+),1766.0,financiero,ArgentinaDatos,bps
 2022-02-24,Tasa Pases Pasivos BCRA 1 día,33.43,monetario,BCRA,% n.a.
 2022-02-24,Tasa de Política Monetaria,42.5,monetario,BCRA,% n.a.
-2022-02-24,Tipo de Cambio Minorista BCRA,112.83,cambiario,BCRA,ARS/USD
+2022-02-24,Tipo de Cambio Minorista BCRA,112.89,cambiario,BCRA,ARS/USD
 2022-02-24,Índice Merval,88722.0,acciones,Yahoo Finance,puntos
 2022-02-25,BADLAR Bancos Privados,39.9375,monetario,BCRA,% n.a.
 2022-02-25,Base Monetaria,3672002.0,monetario,BCRA,millones ARS
@@ -61580,7 +61580,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-25,Riesgo País (EMBI+),1795.0,financiero,ArgentinaDatos,bps
 2022-02-25,Tasa Pases Pasivos BCRA 1 día,33.58,monetario,BCRA,% n.a.
 2022-02-25,Tasa de Política Monetaria,42.5,monetario,BCRA,% n.a.
-2022-02-25,Tipo de Cambio Minorista BCRA,112.89,cambiario,BCRA,ARS/USD
+2022-02-25,Tipo de Cambio Minorista BCRA,112.95,cambiario,BCRA,ARS/USD
 2022-02-25,Índice Merval,87970.0,acciones,Yahoo Finance,puntos
 2022-02-26,Dólar CCL Compra,200.47,cambiario,ArgentinaDatos,ARS/USD
 2022-02-26,Dólar CCL Venta,200.47,cambiario,ArgentinaDatos,ARS/USD
@@ -80918,6 +80918,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2026-05-27,Tasa Pases Pasivos BCRA 1 día,20.03,monetario,BCRA,% n.a.
 2026-05-27,Tipo de Cambio Minorista BCRA,1429.9,cambiario,BCRA,ARS/USD
 2026-05-28,BADLAR Bancos Privados,21.9375,monetario,BCRA,% n.a.
+2026-05-28,Base Monetaria,42303192.0,monetario,BCRA,millones ARS
 2026-05-28,Dólar Blue (Compra),1410.0,cambiario,Bluelytics,ARS/USD
 2026-05-28,Dólar Blue (Venta),1430.0,cambiario,Bluelytics,ARS/USD
 2026-05-28,Dólar CCL Compra,1481.4,cambiario,ArgentinaDatos,ARS/USD
@@ -80926,9 +80927,11 @@ fecha,serie,valor,categoria,fuente,unidad
 2026-05-28,Dólar MEP Venta,1432.8,cambiario,ArgentinaDatos,ARS/USD
 2026-05-28,Dólar Oficial (Compra),1379.0,cambiario,Bluelytics,ARS/USD
 2026-05-28,Dólar Oficial (Venta),1430.0,cambiario,Bluelytics,ARS/USD
+2026-05-28,Reservas Internacionales BCRA,48113.0,monetario,BCRA,millones USD
 2026-05-28,Riesgo País (EMBI+),494.0,financiero,ArgentinaDatos,bps
 2026-05-28,Tasa Pases Pasivos BCRA 1 día,19.87,monetario,BCRA,% n.a.
 2026-05-28,Tipo de Cambio Minorista BCRA,1430.45,cambiario,BCRA,ARS/USD
+2026-05-29,BADLAR Bancos Privados,20.625,monetario,BCRA,% n.a.
 2026-05-29,Dólar Blue (Compra),1410.0,cambiario,Bluelytics,ARS/USD
 2026-05-29,Dólar Blue (Venta),1430.0,cambiario,Bluelytics,ARS/USD
 2026-05-29,Dólar CCL Compra,1480.7,cambiario,ArgentinaDatos,ARS/USD
@@ -80937,4 +80940,23 @@ fecha,serie,valor,categoria,fuente,unidad
 2026-05-29,Dólar MEP Venta,1434.8,cambiario,ArgentinaDatos,ARS/USD
 2026-05-29,Dólar Oficial (Compra),1379.0,cambiario,Bluelytics,ARS/USD
 2026-05-29,Dólar Oficial (Venta),1430.0,cambiario,Bluelytics,ARS/USD
+2026-05-29,Riesgo País (EMBI+),493.0,financiero,ArgentinaDatos,bps
+2026-05-29,Tasa Pases Pasivos BCRA 1 día,20.01,monetario,BCRA,% n.a.
 2026-05-29,Tipo de Cambio Minorista BCRA,1431.57,cambiario,BCRA,ARS/USD
+2026-05-30,Dólar CCL Compra,1480.7,cambiario,ArgentinaDatos,ARS/USD
+2026-05-30,Dólar CCL Venta,1483.9,cambiario,ArgentinaDatos,ARS/USD
+2026-05-30,Dólar MEP Compra,1432.1,cambiario,ArgentinaDatos,ARS/USD
+2026-05-30,Dólar MEP Venta,1434.8,cambiario,ArgentinaDatos,ARS/USD
+2026-05-31,Dólar CCL Compra,1480.7,cambiario,ArgentinaDatos,ARS/USD
+2026-05-31,Dólar CCL Venta,1483.9,cambiario,ArgentinaDatos,ARS/USD
+2026-05-31,Dólar MEP Compra,1432.1,cambiario,ArgentinaDatos,ARS/USD
+2026-05-31,Dólar MEP Venta,1434.8,cambiario,ArgentinaDatos,ARS/USD
+2026-06-01,Dólar Blue (Compra),1415.0,cambiario,Bluelytics,ARS/USD
+2026-06-01,Dólar Blue (Venta),1435.0,cambiario,Bluelytics,ARS/USD
+2026-06-01,Dólar CCL Compra,1490.8,cambiario,ArgentinaDatos,ARS/USD
+2026-06-01,Dólar CCL Venta,1492.1,cambiario,ArgentinaDatos,ARS/USD
+2026-06-01,Dólar MEP Compra,1437.9,cambiario,ArgentinaDatos,ARS/USD
+2026-06-01,Dólar MEP Venta,1443.1,cambiario,ArgentinaDatos,ARS/USD
+2026-06-01,Dólar Oficial (Compra),1382.0,cambiario,Bluelytics,ARS/USD
+2026-06-01,Dólar Oficial (Venta),1434.0,cambiario,Bluelytics,ARS/USD
+2026-06-01,Tipo de Cambio Minorista BCRA,1444.58,cambiario,BCRA,ARS/USD
