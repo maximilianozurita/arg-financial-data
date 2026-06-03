@@ -24159,10 +24159,14 @@ fecha,serie,valor,categoria,fuente,unidad
 2013-06-01,Dólar CCL Venta,8.32,cambiario,ArgentinaDatos,ARS/USD
 2013-06-01,EMAE - Actividad Económica,156.27186443024067,actividad,INDEC,índice
 2013-06-01,Recaudación Tributaria,74695.83970262,fiscal,Ministerio de Economía,millones ARS
+2013-06-02,Dólar CCL Compra,8.32,cambiario,ArgentinaDatos,ARS/USD
+2013-06-02,Dólar CCL Venta,8.32,cambiario,ArgentinaDatos,ARS/USD
 2013-06-03,BADLAR Bancos Privados,16.25,monetario,BCRA,% n.a.
 2013-06-03,Base Monetaria,309305.0,monetario,BCRA,millones ARS
 2013-06-03,Dólar Blue (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2013-06-03,Dólar Blue (Venta),8.0,cambiario,Bluelytics,ARS/USD
+2013-06-03,Dólar CCL Compra,8.32,cambiario,ArgentinaDatos,ARS/USD
+2013-06-03,Dólar CCL Venta,8.32,cambiario,ArgentinaDatos,ARS/USD
 2013-06-03,Dólar Oficial (Compra),5.0,cambiario,Bluelytics,ARS/USD
 2013-06-03,Dólar Oficial (Venta),5.0,cambiario,Bluelytics,ARS/USD
 2013-06-03,Reservas Internacionales BCRA,38616.0,monetario,BCRA,millones USD
@@ -24174,6 +24178,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2013-06-04,Base Monetaria,308608.0,monetario,BCRA,millones ARS
 2013-06-04,Dólar Blue (Compra),8.0,cambiario,Bluelytics,ARS/USD
 2013-06-04,Dólar Blue (Venta),8.0,cambiario,Bluelytics,ARS/USD
+2013-06-04,Dólar CCL Compra,8.32,cambiario,ArgentinaDatos,ARS/USD
+2013-06-04,Dólar CCL Venta,8.32,cambiario,ArgentinaDatos,ARS/USD
 2013-06-04,Dólar Oficial (Compra),5.0,cambiario,Bluelytics,ARS/USD
 2013-06-04,Dólar Oficial (Venta),5.0,cambiario,Bluelytics,ARS/USD
 2013-06-04,Reservas Internacionales BCRA,38520.0,monetario,BCRA,millones USD
@@ -25461,6 +25467,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2013-10-25,Índice Merval,5526.0,acciones,Yahoo Finance,puntos
 2013-10-26,Dólar CCL Compra,9.27,cambiario,ArgentinaDatos,ARS/USD
 2013-10-26,Dólar CCL Venta,9.27,cambiario,ArgentinaDatos,ARS/USD
+2013-10-27,Dólar CCL Compra,9.27,cambiario,ArgentinaDatos,ARS/USD
+2013-10-27,Dólar CCL Venta,9.27,cambiario,ArgentinaDatos,ARS/USD
 2013-10-28,BADLAR Bancos Privados,19.0,monetario,BCRA,% n.a.
 2013-10-28,Base Monetaria,324766.0,monetario,BCRA,millones ARS
 2013-10-28,Dólar Blue (Compra),10.0,cambiario,Bluelytics,ARS/USD
@@ -25750,6 +25758,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2013-11-29,Tasa Pases Pasivos BCRA 1 día,12.8183,monetario,BCRA,% n.a.
 2013-11-29,Tipo de Cambio Minorista BCRA,6.18,cambiario,BCRA,ARS/USD
 2013-11-29,Índice Merval,5719.0,acciones,Yahoo Finance,puntos
+2013-11-30,Dólar CCL Compra,8.87,cambiario,ArgentinaDatos,ARS/USD
+2013-11-30,Dólar CCL Venta,8.87,cambiario,ArgentinaDatos,ARS/USD
+2013-12-01,Dólar CCL Compra,8.87,cambiario,ArgentinaDatos,ARS/USD
+2013-12-01,Dólar CCL Venta,8.87,cambiario,ArgentinaDatos,ARS/USD
 2013-12-01,EMAE - Actividad Económica,142.5768791271264,actividad,INDEC,índice
 2013-12-01,Recaudación Tributaria,76059.774402335,fiscal,Ministerio de Economía,millones ARS
 2013-12-02,BADLAR Bancos Privados,19.3125,monetario,BCRA,% n.a.
@@ -26474,6 +26486,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2014-02-17,Base Monetaria,346492.0,monetario,BCRA,millones ARS
 2014-02-17,Dólar Blue (Compra),12.0,cambiario,Bluelytics,ARS/USD
 2014-02-17,Dólar Blue (Venta),12.0,cambiario,Bluelytics,ARS/USD
+2014-02-17,Dólar CCL Compra,10.87,cambiario,ArgentinaDatos,ARS/USD
+2014-02-17,Dólar CCL Venta,10.87,cambiario,ArgentinaDatos,ARS/USD
 2014-02-17,Dólar Oficial (Compra),8.0,cambiario,Bluelytics,ARS/USD
 2014-02-17,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-02-17,Reservas Internacionales BCRA,27728.0,monetario,BCRA,millones USD
@@ -26625,11 +26639,15 @@ fecha,serie,valor,categoria,fuente,unidad
 2014-03-02,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-03-03,Dólar Blue (Compra),11.0,cambiario,Bluelytics,ARS/USD
 2014-03-03,Dólar Blue (Venta),11.0,cambiario,Bluelytics,ARS/USD
+2014-03-03,Dólar CCL Compra,10.34,cambiario,ArgentinaDatos,ARS/USD
+2014-03-03,Dólar CCL Venta,10.34,cambiario,ArgentinaDatos,ARS/USD
 2014-03-03,Dólar Oficial (Compra),8.0,cambiario,Bluelytics,ARS/USD
 2014-03-03,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-03-03,Riesgo País (EMBI+),926.0,financiero,ArgentinaDatos,bps
 2014-03-04,Dólar Blue (Compra),11.0,cambiario,Bluelytics,ARS/USD
 2014-03-04,Dólar Blue (Venta),11.0,cambiario,Bluelytics,ARS/USD
+2014-03-04,Dólar CCL Compra,10.34,cambiario,ArgentinaDatos,ARS/USD
+2014-03-04,Dólar CCL Venta,10.34,cambiario,ArgentinaDatos,ARS/USD
 2014-03-04,Dólar Oficial (Compra),8.0,cambiario,Bluelytics,ARS/USD
 2014-03-04,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-03-04,Riesgo País (EMBI+),917.0,financiero,ArgentinaDatos,bps
@@ -26840,6 +26858,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2014-03-23,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-03-24,Dólar Blue (Compra),11.0,cambiario,Bluelytics,ARS/USD
 2014-03-24,Dólar Blue (Venta),11.0,cambiario,Bluelytics,ARS/USD
+2014-03-24,Dólar CCL Compra,10.27,cambiario,ArgentinaDatos,ARS/USD
+2014-03-24,Dólar CCL Venta,10.27,cambiario,ArgentinaDatos,ARS/USD
 2014-03-24,Dólar Oficial (Compra),8.0,cambiario,Bluelytics,ARS/USD
 2014-03-24,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-03-24,Riesgo País (EMBI+),850.0,financiero,ArgentinaDatos,bps
@@ -27111,10 +27131,14 @@ fecha,serie,valor,categoria,fuente,unidad
 2014-04-18,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-04-19,Dólar Blue (Compra),10.0,cambiario,Bluelytics,ARS/USD
 2014-04-19,Dólar Blue (Venta),10.0,cambiario,Bluelytics,ARS/USD
+2014-04-19,Dólar CCL Compra,9.62,cambiario,ArgentinaDatos,ARS/USD
+2014-04-19,Dólar CCL Venta,9.62,cambiario,ArgentinaDatos,ARS/USD
 2014-04-19,Dólar Oficial (Compra),8.0,cambiario,Bluelytics,ARS/USD
 2014-04-19,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-04-20,Dólar Blue (Compra),10.0,cambiario,Bluelytics,ARS/USD
 2014-04-20,Dólar Blue (Venta),10.0,cambiario,Bluelytics,ARS/USD
+2014-04-20,Dólar CCL Compra,9.62,cambiario,ArgentinaDatos,ARS/USD
+2014-04-20,Dólar CCL Venta,9.62,cambiario,ArgentinaDatos,ARS/USD
 2014-04-20,Dólar Oficial (Compra),8.0,cambiario,Bluelytics,ARS/USD
 2014-04-20,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-04-21,BADLAR Bancos Privados,26.25,monetario,BCRA,% n.a.
@@ -27251,10 +27275,14 @@ fecha,serie,valor,categoria,fuente,unidad
 2014-05-02,Riesgo País (EMBI+),787.0,financiero,ArgentinaDatos,bps
 2014-05-03,Dólar Blue (Compra),10.0,cambiario,Bluelytics,ARS/USD
 2014-05-03,Dólar Blue (Venta),11.0,cambiario,Bluelytics,ARS/USD
+2014-05-03,Dólar CCL Compra,10.12,cambiario,ArgentinaDatos,ARS/USD
+2014-05-03,Dólar CCL Venta,10.12,cambiario,ArgentinaDatos,ARS/USD
 2014-05-03,Dólar Oficial (Compra),8.0,cambiario,Bluelytics,ARS/USD
 2014-05-03,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-05-04,Dólar Blue (Compra),10.0,cambiario,Bluelytics,ARS/USD
 2014-05-04,Dólar Blue (Venta),11.0,cambiario,Bluelytics,ARS/USD
+2014-05-04,Dólar CCL Compra,10.12,cambiario,ArgentinaDatos,ARS/USD
+2014-05-04,Dólar CCL Venta,10.12,cambiario,ArgentinaDatos,ARS/USD
 2014-05-04,Dólar Oficial (Compra),8.0,cambiario,Bluelytics,ARS/USD
 2014-05-04,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-05-05,BADLAR Bancos Privados,25.25,monetario,BCRA,% n.a.
@@ -27716,6 +27744,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2014-06-14,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-06-15,Dólar Blue (Compra),12.0,cambiario,Bluelytics,ARS/USD
 2014-06-15,Dólar Blue (Venta),12.0,cambiario,Bluelytics,ARS/USD
+2014-06-15,Dólar CCL Compra,10.51,cambiario,ArgentinaDatos,ARS/USD
+2014-06-15,Dólar CCL Venta,10.51,cambiario,ArgentinaDatos,ARS/USD
 2014-06-15,Dólar Oficial (Compra),8.0,cambiario,Bluelytics,ARS/USD
 2014-06-15,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-06-16,BADLAR Bancos Privados,21.875,monetario,BCRA,% n.a.
@@ -27785,6 +27815,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2014-06-21,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-06-22,Dólar Blue (Compra),12.0,cambiario,Bluelytics,ARS/USD
 2014-06-22,Dólar Blue (Venta),13.0,cambiario,Bluelytics,ARS/USD
+2014-06-22,Dólar CCL Compra,10.51,cambiario,ArgentinaDatos,ARS/USD
+2014-06-22,Dólar CCL Venta,10.51,cambiario,ArgentinaDatos,ARS/USD
 2014-06-22,Dólar Oficial (Compra),8.0,cambiario,Bluelytics,ARS/USD
 2014-06-22,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-06-23,BADLAR Bancos Privados,22.4375,monetario,BCRA,% n.a.
@@ -28402,6 +28434,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2014-08-17,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-08-18,Dólar Blue (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2014-08-18,Dólar Blue (Venta),13.0,cambiario,Bluelytics,ARS/USD
+2014-08-18,Dólar CCL Compra,11.6,cambiario,ArgentinaDatos,ARS/USD
+2014-08-18,Dólar CCL Venta,11.6,cambiario,ArgentinaDatos,ARS/USD
 2014-08-18,Dólar Oficial (Compra),8.0,cambiario,Bluelytics,ARS/USD
 2014-08-18,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-08-18,Riesgo País (EMBI+),783.0,financiero,ArgentinaDatos,bps
@@ -28550,6 +28584,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2014-09-01,Base Monetaria,405966.0,monetario,BCRA,millones ARS
 2014-09-01,Dólar Blue (Compra),14.0,cambiario,Bluelytics,ARS/USD
 2014-09-01,Dólar Blue (Venta),14.0,cambiario,Bluelytics,ARS/USD
+2014-09-01,Dólar CCL Compra,12.95,cambiario,ArgentinaDatos,ARS/USD
+2014-09-01,Dólar CCL Venta,12.95,cambiario,ArgentinaDatos,ARS/USD
 2014-09-01,Dólar Oficial (Compra),8.0,cambiario,Bluelytics,ARS/USD
 2014-09-01,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-09-01,EMAE - Actividad Económica,141.71873319955728,actividad,INDEC,índice
@@ -29011,6 +29047,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2014-10-12,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-10-13,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2014-10-13,Dólar Blue (Venta),15.0,cambiario,Bluelytics,ARS/USD
+2014-10-13,Dólar CCL Compra,13.46,cambiario,ArgentinaDatos,ARS/USD
+2014-10-13,Dólar CCL Venta,13.46,cambiario,ArgentinaDatos,ARS/USD
 2014-10-13,Dólar Oficial (Compra),8.0,cambiario,Bluelytics,ARS/USD
 2014-10-13,Dólar Oficial (Venta),8.0,cambiario,Bluelytics,ARS/USD
 2014-10-14,BADLAR Bancos Privados,20.3125,monetario,BCRA,% n.a.
@@ -29459,6 +29497,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2014-11-23,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2014-11-24,Dólar Blue (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2014-11-24,Dólar Blue (Venta),13.0,cambiario,Bluelytics,ARS/USD
+2014-11-24,Dólar CCL Compra,11.78,cambiario,ArgentinaDatos,ARS/USD
+2014-11-24,Dólar CCL Venta,11.78,cambiario,ArgentinaDatos,ARS/USD
 2014-11-24,Dólar Oficial (Compra),8.0,cambiario,Bluelytics,ARS/USD
 2014-11-24,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2014-11-24,Riesgo País (EMBI+),680.0,financiero,ArgentinaDatos,bps
@@ -29606,6 +29646,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2014-12-07,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2014-12-08,Dólar Blue (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2014-12-08,Dólar Blue (Venta),13.0,cambiario,Bluelytics,ARS/USD
+2014-12-08,Dólar CCL Compra,12.01,cambiario,ArgentinaDatos,ARS/USD
+2014-12-08,Dólar CCL Venta,12.01,cambiario,ArgentinaDatos,ARS/USD
 2014-12-08,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2014-12-08,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2014-12-08,Riesgo País (EMBI+),726.0,financiero,ArgentinaDatos,bps
@@ -29796,15 +29838,21 @@ fecha,serie,valor,categoria,fuente,unidad
 2014-12-25,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2014-12-26,Dólar Blue (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2014-12-26,Dólar Blue (Venta),13.0,cambiario,Bluelytics,ARS/USD
+2014-12-26,Dólar CCL Compra,11.29,cambiario,ArgentinaDatos,ARS/USD
+2014-12-26,Dólar CCL Venta,11.29,cambiario,ArgentinaDatos,ARS/USD
 2014-12-26,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2014-12-26,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2014-12-26,Riesgo País (EMBI+),728.0,financiero,ArgentinaDatos,bps
 2014-12-27,Dólar Blue (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2014-12-27,Dólar Blue (Venta),13.0,cambiario,Bluelytics,ARS/USD
+2014-12-27,Dólar CCL Compra,11.29,cambiario,ArgentinaDatos,ARS/USD
+2014-12-27,Dólar CCL Venta,11.29,cambiario,ArgentinaDatos,ARS/USD
 2014-12-27,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2014-12-27,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2014-12-28,Dólar Blue (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2014-12-28,Dólar Blue (Venta),13.0,cambiario,Bluelytics,ARS/USD
+2014-12-28,Dólar CCL Compra,11.29,cambiario,ArgentinaDatos,ARS/USD
+2014-12-28,Dólar CCL Venta,11.29,cambiario,ArgentinaDatos,ARS/USD
 2014-12-28,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2014-12-28,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2014-12-29,BADLAR Bancos Privados,19.9375,monetario,BCRA,% n.a.
@@ -30341,10 +30389,14 @@ fecha,serie,valor,categoria,fuente,unidad
 2015-02-15,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-02-16,Dólar Blue (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2015-02-16,Dólar Blue (Venta),13.0,cambiario,Bluelytics,ARS/USD
+2015-02-16,Dólar CCL Compra,12.2,cambiario,ArgentinaDatos,ARS/USD
+2015-02-16,Dólar CCL Venta,12.2,cambiario,ArgentinaDatos,ARS/USD
 2015-02-16,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2015-02-16,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-02-17,Dólar Blue (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2015-02-17,Dólar Blue (Venta),13.0,cambiario,Bluelytics,ARS/USD
+2015-02-17,Dólar CCL Compra,12.2,cambiario,ArgentinaDatos,ARS/USD
+2015-02-17,Dólar CCL Venta,12.2,cambiario,ArgentinaDatos,ARS/USD
 2015-02-17,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2015-02-17,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-02-17,Riesgo País (EMBI+),686.0,financiero,ArgentinaDatos,bps
@@ -30711,11 +30763,15 @@ fecha,serie,valor,categoria,fuente,unidad
 2015-03-22,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-03-23,Dólar Blue (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2015-03-23,Dólar Blue (Venta),13.0,cambiario,Bluelytics,ARS/USD
+2015-03-23,Dólar CCL Compra,12.07,cambiario,ArgentinaDatos,ARS/USD
+2015-03-23,Dólar CCL Venta,12.07,cambiario,ArgentinaDatos,ARS/USD
 2015-03-23,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2015-03-23,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-03-23,Riesgo País (EMBI+),602.0,financiero,ArgentinaDatos,bps
 2015-03-24,Dólar Blue (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2015-03-24,Dólar Blue (Venta),13.0,cambiario,Bluelytics,ARS/USD
+2015-03-24,Dólar CCL Compra,12.07,cambiario,ArgentinaDatos,ARS/USD
+2015-03-24,Dólar CCL Venta,12.07,cambiario,ArgentinaDatos,ARS/USD
 2015-03-24,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2015-03-24,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-03-24,Riesgo País (EMBI+),608.0,financiero,ArgentinaDatos,bps
@@ -30828,10 +30884,14 @@ fecha,serie,valor,categoria,fuente,unidad
 2015-04-03,Riesgo País (EMBI+),625.0,financiero,ArgentinaDatos,bps
 2015-04-04,Dólar Blue (Compra),12.0,cambiario,Bluelytics,ARS/USD
 2015-04-04,Dólar Blue (Venta),13.0,cambiario,Bluelytics,ARS/USD
+2015-04-04,Dólar CCL Compra,12.13,cambiario,ArgentinaDatos,ARS/USD
+2015-04-04,Dólar CCL Venta,12.13,cambiario,ArgentinaDatos,ARS/USD
 2015-04-04,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2015-04-04,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-04-05,Dólar Blue (Compra),12.0,cambiario,Bluelytics,ARS/USD
 2015-04-05,Dólar Blue (Venta),13.0,cambiario,Bluelytics,ARS/USD
+2015-04-05,Dólar CCL Compra,12.13,cambiario,ArgentinaDatos,ARS/USD
+2015-04-05,Dólar CCL Venta,12.13,cambiario,ArgentinaDatos,ARS/USD
 2015-04-05,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2015-04-05,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-04-06,BADLAR Bancos Privados,20.625,monetario,BCRA,% n.a.
@@ -31134,6 +31194,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2015-05-02,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-05-03,Dólar Blue (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2015-05-03,Dólar Blue (Venta),13.0,cambiario,Bluelytics,ARS/USD
+2015-05-03,Dólar CCL Compra,11.94,cambiario,ArgentinaDatos,ARS/USD
+2015-05-03,Dólar CCL Venta,11.94,cambiario,ArgentinaDatos,ARS/USD
 2015-05-03,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2015-05-03,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-05-04,BADLAR Bancos Privados,20.125,monetario,BCRA,% n.a.
@@ -31369,6 +31431,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2015-05-24,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-05-25,Dólar Blue (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2015-05-25,Dólar Blue (Venta),13.0,cambiario,Bluelytics,ARS/USD
+2015-05-25,Dólar CCL Compra,11.8,cambiario,ArgentinaDatos,ARS/USD
+2015-05-25,Dólar CCL Venta,11.8,cambiario,ArgentinaDatos,ARS/USD
 2015-05-25,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2015-05-25,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-05-26,BADLAR Bancos Privados,20.5,monetario,BCRA,% n.a.
@@ -31820,6 +31884,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2015-07-04,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-07-05,Dólar Blue (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2015-07-05,Dólar Blue (Venta),13.0,cambiario,Bluelytics,ARS/USD
+2015-07-05,Dólar CCL Compra,13.38,cambiario,ArgentinaDatos,ARS/USD
+2015-07-05,Dólar CCL Venta,13.38,cambiario,ArgentinaDatos,ARS/USD
 2015-07-05,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2015-07-05,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-07-06,BADLAR Bancos Privados,20.3125,monetario,BCRA,% n.a.
@@ -32282,6 +32348,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2015-08-16,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-08-17,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2015-08-17,Dólar Blue (Venta),15.0,cambiario,Bluelytics,ARS/USD
+2015-08-17,Dólar CCL Compra,13.43,cambiario,ArgentinaDatos,ARS/USD
+2015-08-17,Dólar CCL Venta,13.43,cambiario,ArgentinaDatos,ARS/USD
 2015-08-17,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2015-08-17,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-08-17,Riesgo País (EMBI+),571.0,financiero,ArgentinaDatos,bps
@@ -32509,6 +32577,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2015-09-07,Base Monetaria,534713.0,monetario,BCRA,millones ARS
 2015-09-07,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2015-09-07,Dólar Blue (Venta),15.0,cambiario,Bluelytics,ARS/USD
+2015-09-07,Dólar CCL Compra,13.95,cambiario,ArgentinaDatos,ARS/USD
+2015-09-07,Dólar CCL Venta,13.95,cambiario,ArgentinaDatos,ARS/USD
 2015-09-07,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2015-09-07,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-09-07,Reservas Internacionales BCRA,33546.0,monetario,BCRA,millones USD
@@ -32892,6 +32962,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2015-10-11,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-10-12,Dólar Blue (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2015-10-12,Dólar Blue (Venta),16.0,cambiario,Bluelytics,ARS/USD
+2015-10-12,Dólar CCL Compra,13.87,cambiario,ArgentinaDatos,ARS/USD
+2015-10-12,Dólar CCL Venta,13.87,cambiario,ArgentinaDatos,ARS/USD
 2015-10-12,Dólar Oficial (Compra),9.0,cambiario,Bluelytics,ARS/USD
 2015-10-12,Dólar Oficial (Venta),9.0,cambiario,Bluelytics,ARS/USD
 2015-10-13,BADLAR Bancos Privados,21.6875,monetario,BCRA,% n.a.
@@ -33181,6 +33253,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2015-11-07,Dólar Oficial (Venta),10.0,cambiario,Bluelytics,ARS/USD
 2015-11-08,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2015-11-08,Dólar Blue (Venta),15.0,cambiario,Bluelytics,ARS/USD
+2015-11-08,Dólar CCL Compra,13.74,cambiario,ArgentinaDatos,ARS/USD
+2015-11-08,Dólar CCL Venta,13.74,cambiario,ArgentinaDatos,ARS/USD
 2015-11-08,Dólar Oficial (Compra),10.0,cambiario,Bluelytics,ARS/USD
 2015-11-08,Dólar Oficial (Venta),10.0,cambiario,Bluelytics,ARS/USD
 2015-11-09,BADLAR Bancos Privados,22.625,monetario,BCRA,% n.a.
@@ -33395,10 +33469,14 @@ fecha,serie,valor,categoria,fuente,unidad
 2015-11-27,Riesgo País (EMBI+),491.0,financiero,ArgentinaDatos,bps
 2015-11-28,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2015-11-28,Dólar Blue (Venta),15.0,cambiario,Bluelytics,ARS/USD
+2015-11-28,Dólar CCL Compra,14.4,cambiario,ArgentinaDatos,ARS/USD
+2015-11-28,Dólar CCL Venta,14.4,cambiario,ArgentinaDatos,ARS/USD
 2015-11-28,Dólar Oficial (Compra),10.0,cambiario,Bluelytics,ARS/USD
 2015-11-28,Dólar Oficial (Venta),10.0,cambiario,Bluelytics,ARS/USD
 2015-11-29,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2015-11-29,Dólar Blue (Venta),15.0,cambiario,Bluelytics,ARS/USD
+2015-11-29,Dólar CCL Compra,14.4,cambiario,ArgentinaDatos,ARS/USD
+2015-11-29,Dólar CCL Venta,14.4,cambiario,ArgentinaDatos,ARS/USD
 2015-11-29,Dólar Oficial (Compra),10.0,cambiario,Bluelytics,ARS/USD
 2015-11-29,Dólar Oficial (Venta),10.0,cambiario,Bluelytics,ARS/USD
 2015-11-30,BADLAR Bancos Privados,23.875,monetario,BCRA,% n.a.
@@ -33482,11 +33560,15 @@ fecha,serie,valor,categoria,fuente,unidad
 2015-12-06,Dólar Oficial (Venta),10.0,cambiario,Bluelytics,ARS/USD
 2015-12-07,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2015-12-07,Dólar Blue (Venta),15.0,cambiario,Bluelytics,ARS/USD
+2015-12-07,Dólar CCL Compra,14.79,cambiario,ArgentinaDatos,ARS/USD
+2015-12-07,Dólar CCL Venta,14.79,cambiario,ArgentinaDatos,ARS/USD
 2015-12-07,Dólar Oficial (Compra),10.0,cambiario,Bluelytics,ARS/USD
 2015-12-07,Dólar Oficial (Venta),10.0,cambiario,Bluelytics,ARS/USD
 2015-12-07,Riesgo País (EMBI+),500.0,financiero,ArgentinaDatos,bps
 2015-12-08,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2015-12-08,Dólar Blue (Venta),15.0,cambiario,Bluelytics,ARS/USD
+2015-12-08,Dólar CCL Compra,14.79,cambiario,ArgentinaDatos,ARS/USD
+2015-12-08,Dólar CCL Venta,14.79,cambiario,ArgentinaDatos,ARS/USD
 2015-12-08,Dólar Oficial (Compra),10.0,cambiario,Bluelytics,ARS/USD
 2015-12-08,Dólar Oficial (Venta),10.0,cambiario,Bluelytics,ARS/USD
 2015-12-08,Riesgo País (EMBI+),498.0,financiero,ArgentinaDatos,bps
@@ -33684,10 +33766,14 @@ fecha,serie,valor,categoria,fuente,unidad
 2015-12-25,Dólar Oficial (Venta),13.0,cambiario,Bluelytics,ARS/USD
 2015-12-26,Dólar Blue (Compra),14.0,cambiario,Bluelytics,ARS/USD
 2015-12-26,Dólar Blue (Venta),14.0,cambiario,Bluelytics,ARS/USD
+2015-12-26,Dólar CCL Compra,13.9,cambiario,ArgentinaDatos,ARS/USD
+2015-12-26,Dólar CCL Venta,13.9,cambiario,ArgentinaDatos,ARS/USD
 2015-12-26,Dólar Oficial (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2015-12-26,Dólar Oficial (Venta),13.0,cambiario,Bluelytics,ARS/USD
 2015-12-27,Dólar Blue (Compra),14.0,cambiario,Bluelytics,ARS/USD
 2015-12-27,Dólar Blue (Venta),14.0,cambiario,Bluelytics,ARS/USD
+2015-12-27,Dólar CCL Compra,13.9,cambiario,ArgentinaDatos,ARS/USD
+2015-12-27,Dólar CCL Venta,13.9,cambiario,ArgentinaDatos,ARS/USD
 2015-12-27,Dólar Oficial (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2015-12-27,Dólar Oficial (Venta),13.0,cambiario,Bluelytics,ARS/USD
 2015-12-28,BADLAR Bancos Privados,29.25,monetario,BCRA,% n.a.
@@ -33759,10 +33845,14 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-01-01,Recaudación Tributaria,162654.15131857,fiscal,Ministerio de Economía,millones ARS
 2016-01-02,Dólar Blue (Compra),14.0,cambiario,Bluelytics,ARS/USD
 2016-01-02,Dólar Blue (Venta),14.0,cambiario,Bluelytics,ARS/USD
+2016-01-02,Dólar CCL Compra,14.14,cambiario,ArgentinaDatos,ARS/USD
+2016-01-02,Dólar CCL Venta,14.14,cambiario,ArgentinaDatos,ARS/USD
 2016-01-02,Dólar Oficial (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2016-01-02,Dólar Oficial (Venta),13.0,cambiario,Bluelytics,ARS/USD
 2016-01-03,Dólar Blue (Compra),14.0,cambiario,Bluelytics,ARS/USD
 2016-01-03,Dólar Blue (Venta),14.0,cambiario,Bluelytics,ARS/USD
+2016-01-03,Dólar CCL Compra,14.14,cambiario,ArgentinaDatos,ARS/USD
+2016-01-03,Dólar CCL Venta,14.14,cambiario,ArgentinaDatos,ARS/USD
 2016-01-03,Dólar Oficial (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2016-01-03,Dólar Oficial (Venta),13.0,cambiario,Bluelytics,ARS/USD
 2016-01-04,BADLAR Bancos Privados,27.125,monetario,BCRA,% n.a.
@@ -33933,6 +34023,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-01-18,Base Monetaria,589318.0,monetario,BCRA,millones ARS
 2016-01-18,Dólar Blue (Compra),14.0,cambiario,Bluelytics,ARS/USD
 2016-01-18,Dólar Blue (Venta),14.0,cambiario,Bluelytics,ARS/USD
+2016-01-18,Dólar CCL Compra,13.71,cambiario,ArgentinaDatos,ARS/USD
+2016-01-18,Dólar CCL Venta,13.71,cambiario,ArgentinaDatos,ARS/USD
 2016-01-18,Dólar Oficial (Compra),13.0,cambiario,Bluelytics,ARS/USD
 2016-01-18,Dólar Oficial (Venta),14.0,cambiario,Bluelytics,ARS/USD
 2016-01-18,Reservas Internacionales BCRA,25665.0,monetario,BCRA,millones USD
@@ -34177,11 +34269,15 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-02-07,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-02-08,Dólar Blue (Compra),14.0,cambiario,Bluelytics,ARS/USD
 2016-02-08,Dólar Blue (Venta),14.0,cambiario,Bluelytics,ARS/USD
+2016-02-08,Dólar CCL Compra,14.51,cambiario,ArgentinaDatos,ARS/USD
+2016-02-08,Dólar CCL Venta,14.51,cambiario,ArgentinaDatos,ARS/USD
 2016-02-08,Dólar Oficial (Compra),14.0,cambiario,Bluelytics,ARS/USD
 2016-02-08,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-02-08,Riesgo País (EMBI+),474.0,financiero,ArgentinaDatos,bps
 2016-02-09,Dólar Blue (Compra),14.0,cambiario,Bluelytics,ARS/USD
 2016-02-09,Dólar Blue (Venta),14.0,cambiario,Bluelytics,ARS/USD
+2016-02-09,Dólar CCL Compra,14.51,cambiario,ArgentinaDatos,ARS/USD
+2016-02-09,Dólar CCL Venta,14.51,cambiario,ArgentinaDatos,ARS/USD
 2016-02-09,Dólar Oficial (Compra),14.0,cambiario,Bluelytics,ARS/USD
 2016-02-09,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-02-09,Riesgo País (EMBI+),482.0,financiero,ArgentinaDatos,bps
@@ -34243,6 +34339,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-02-15,Base Monetaria,574740.0,monetario,BCRA,millones ARS
 2016-02-15,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-02-15,Dólar Blue (Venta),15.0,cambiario,Bluelytics,ARS/USD
+2016-02-15,Dólar CCL Compra,14.95,cambiario,ArgentinaDatos,ARS/USD
+2016-02-15,Dólar CCL Venta,14.95,cambiario,ArgentinaDatos,ARS/USD
 2016-02-15,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-02-15,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-02-15,Reservas Internacionales BCRA,29676.0,monetario,BCRA,millones USD
@@ -34706,10 +34804,14 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-03-25,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-03-26,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-03-26,Dólar Blue (Venta),15.0,cambiario,Bluelytics,ARS/USD
+2016-03-26,Dólar CCL Compra,14.46,cambiario,ArgentinaDatos,ARS/USD
+2016-03-26,Dólar CCL Venta,14.46,cambiario,ArgentinaDatos,ARS/USD
 2016-03-26,Dólar Oficial (Compra),14.0,cambiario,Bluelytics,ARS/USD
 2016-03-26,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-03-27,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-03-27,Dólar Blue (Venta),15.0,cambiario,Bluelytics,ARS/USD
+2016-03-27,Dólar CCL Compra,14.46,cambiario,ArgentinaDatos,ARS/USD
+2016-03-27,Dólar CCL Venta,14.46,cambiario,ArgentinaDatos,ARS/USD
 2016-03-27,Dólar Oficial (Compra),14.0,cambiario,Bluelytics,ARS/USD
 2016-03-27,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-03-28,BADLAR Bancos Privados,29.75,monetario,BCRA,% n.a.
@@ -35458,6 +35560,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-05-30,Base Monetaria,573646.0,monetario,BCRA,millones ARS
 2016-05-30,Dólar Blue (Compra),14.0,cambiario,Bluelytics,ARS/USD
 2016-05-30,Dólar Blue (Venta),15.0,cambiario,Bluelytics,ARS/USD
+2016-05-30,Dólar CCL Compra,14.05,cambiario,ArgentinaDatos,ARS/USD
+2016-05-30,Dólar CCL Venta,14.05,cambiario,ArgentinaDatos,ARS/USD
 2016-05-30,Dólar Oficial (Compra),14.0,cambiario,Bluelytics,ARS/USD
 2016-05-30,Dólar Oficial (Venta),14.0,cambiario,Bluelytics,ARS/USD
 2016-05-30,Reservas Internacionales BCRA,30348.0,monetario,BCRA,millones USD
@@ -35691,10 +35795,14 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-06-18,Dólar Oficial (Venta),14.0,cambiario,Bluelytics,ARS/USD
 2016-06-19,Dólar Blue (Compra),14.0,cambiario,Bluelytics,ARS/USD
 2016-06-19,Dólar Blue (Venta),14.0,cambiario,Bluelytics,ARS/USD
+2016-06-19,Dólar CCL Compra,13.87,cambiario,ArgentinaDatos,ARS/USD
+2016-06-19,Dólar CCL Venta,13.87,cambiario,ArgentinaDatos,ARS/USD
 2016-06-19,Dólar Oficial (Compra),14.0,cambiario,Bluelytics,ARS/USD
 2016-06-19,Dólar Oficial (Venta),14.0,cambiario,Bluelytics,ARS/USD
 2016-06-20,Dólar Blue (Compra),14.0,cambiario,Bluelytics,ARS/USD
 2016-06-20,Dólar Blue (Venta),14.0,cambiario,Bluelytics,ARS/USD
+2016-06-20,Dólar CCL Compra,13.87,cambiario,ArgentinaDatos,ARS/USD
+2016-06-20,Dólar CCL Venta,13.87,cambiario,ArgentinaDatos,ARS/USD
 2016-06-20,Dólar Oficial (Compra),14.0,cambiario,Bluelytics,ARS/USD
 2016-06-20,Dólar Oficial (Venta),14.0,cambiario,Bluelytics,ARS/USD
 2016-06-20,Riesgo País (EMBI+),516.0,financiero,ArgentinaDatos,bps
@@ -35859,6 +35967,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-07-04,Base Monetaria,682619.0,monetario,BCRA,millones ARS
 2016-07-04,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-07-04,Dólar Blue (Venta),15.0,cambiario,Bluelytics,ARS/USD
+2016-07-04,Dólar CCL Compra,15.32,cambiario,ArgentinaDatos,ARS/USD
+2016-07-04,Dólar CCL Venta,15.32,cambiario,ArgentinaDatos,ARS/USD
 2016-07-04,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-07-04,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-07-04,Reservas Internacionales BCRA,30768.0,monetario,BCRA,millones USD
@@ -35923,6 +36033,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-07-09,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-07-10,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-07-10,Dólar Blue (Venta),15.0,cambiario,Bluelytics,ARS/USD
+2016-07-10,Dólar CCL Compra,14.95,cambiario,ArgentinaDatos,ARS/USD
+2016-07-10,Dólar CCL Venta,14.95,cambiario,ArgentinaDatos,ARS/USD
 2016-07-10,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-07-10,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-07-11,BADLAR Bancos Privados,26.125,monetario,BCRA,% n.a.
@@ -36343,6 +36455,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-08-14,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-08-15,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-08-15,Dólar Blue (Venta),15.0,cambiario,Bluelytics,ARS/USD
+2016-08-15,Dólar CCL Compra,14.77,cambiario,ArgentinaDatos,ARS/USD
+2016-08-15,Dólar CCL Venta,14.77,cambiario,ArgentinaDatos,ARS/USD
 2016-08-15,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-08-15,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-08-15,Riesgo País (EMBI+),474.0,financiero,ArgentinaDatos,bps
@@ -36588,6 +36702,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-09-05,Base Monetaria,693019.0,monetario,BCRA,millones ARS
 2016-09-05,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-09-05,Dólar Blue (Venta),15.0,cambiario,Bluelytics,ARS/USD
+2016-09-05,Dólar CCL Compra,14.95,cambiario,ArgentinaDatos,ARS/USD
+2016-09-05,Dólar CCL Venta,14.95,cambiario,ArgentinaDatos,ARS/USD
 2016-09-05,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-09-05,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-09-05,Reservas Internacionales BCRA,31126.0,monetario,BCRA,millones USD
@@ -37001,6 +37117,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-10-09,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-10-10,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-10-10,Dólar Blue (Venta),16.0,cambiario,Bluelytics,ARS/USD
+2016-10-10,Dólar CCL Compra,15.26,cambiario,ArgentinaDatos,ARS/USD
+2016-10-10,Dólar CCL Venta,15.26,cambiario,ArgentinaDatos,ARS/USD
 2016-10-10,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-10-10,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2016-10-11,BADLAR Bancos Privados,22.0,monetario,BCRA,% n.a.
@@ -37558,14 +37676,20 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-11-25,Índice Merval,17169.0,acciones,Yahoo Finance,puntos
 2016-11-26,Dólar Blue (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2016-11-26,Dólar Blue (Venta),16.0,cambiario,Bluelytics,ARS/USD
+2016-11-26,Dólar CCL Compra,15.58,cambiario,ArgentinaDatos,ARS/USD
+2016-11-26,Dólar CCL Venta,15.58,cambiario,ArgentinaDatos,ARS/USD
 2016-11-26,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-11-26,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2016-11-27,Dólar Blue (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2016-11-27,Dólar Blue (Venta),16.0,cambiario,Bluelytics,ARS/USD
+2016-11-27,Dólar CCL Compra,15.58,cambiario,ArgentinaDatos,ARS/USD
+2016-11-27,Dólar CCL Venta,15.58,cambiario,ArgentinaDatos,ARS/USD
 2016-11-27,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-11-27,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2016-11-28,Dólar Blue (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2016-11-28,Dólar Blue (Venta),16.0,cambiario,Bluelytics,ARS/USD
+2016-11-28,Dólar CCL Compra,15.58,cambiario,ArgentinaDatos,ARS/USD
+2016-11-28,Dólar CCL Venta,15.58,cambiario,ArgentinaDatos,ARS/USD
 2016-11-28,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-11-28,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2016-11-28,Riesgo País (EMBI+),489.0,financiero,ArgentinaDatos,bps
@@ -37703,10 +37827,14 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-12-09,Riesgo País (EMBI+),490.0,financiero,ArgentinaDatos,bps
 2016-12-10,Dólar Blue (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2016-12-10,Dólar Blue (Venta),16.0,cambiario,Bluelytics,ARS/USD
+2016-12-10,Dólar CCL Compra,15.98,cambiario,ArgentinaDatos,ARS/USD
+2016-12-10,Dólar CCL Venta,15.98,cambiario,ArgentinaDatos,ARS/USD
 2016-12-10,Dólar Oficial (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2016-12-10,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2016-12-11,Dólar Blue (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2016-12-11,Dólar Blue (Venta),16.0,cambiario,Bluelytics,ARS/USD
+2016-12-11,Dólar CCL Compra,15.98,cambiario,ArgentinaDatos,ARS/USD
+2016-12-11,Dólar CCL Venta,15.98,cambiario,ArgentinaDatos,ARS/USD
 2016-12-11,Dólar Oficial (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2016-12-11,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2016-12-12,BADLAR Bancos Privados,19.9375,monetario,BCRA,% n.a.
@@ -37877,6 +38005,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-12-26,Base Monetaria,799039.0,monetario,BCRA,millones ARS
 2016-12-26,Dólar Blue (Compra),17.0,cambiario,Bluelytics,ARS/USD
 2016-12-26,Dólar Blue (Venta),17.0,cambiario,Bluelytics,ARS/USD
+2016-12-26,Dólar CCL Compra,15.87,cambiario,ArgentinaDatos,ARS/USD
+2016-12-26,Dólar CCL Venta,15.87,cambiario,ArgentinaDatos,ARS/USD
 2016-12-26,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2016-12-26,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2016-12-26,Reservas Internacionales BCRA,38509.0,monetario,BCRA,millones USD
@@ -37948,6 +38078,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2016-12-31,Inflación Esperada 12m (REM),19.6,precios,BCRA,%
 2017-01-01,Dólar Blue (Compra),17.0,cambiario,Bluelytics,ARS/USD
 2017-01-01,Dólar Blue (Venta),17.0,cambiario,Bluelytics,ARS/USD
+2017-01-01,Dólar CCL Compra,15.87,cambiario,ArgentinaDatos,ARS/USD
+2017-01-01,Dólar CCL Venta,15.87,cambiario,ArgentinaDatos,ARS/USD
 2017-01-01,Dólar Oficial (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2017-01-01,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2017-01-01,EMAE - Actividad Económica,136.63265948316217,actividad,INDEC,índice
@@ -37964,6 +38096,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-01-02,Base Monetaria,854951.0,monetario,BCRA,millones ARS
 2017-01-02,Dólar Blue (Compra),17.0,cambiario,Bluelytics,ARS/USD
 2017-01-02,Dólar Blue (Venta),17.0,cambiario,Bluelytics,ARS/USD
+2017-01-02,Dólar CCL Compra,15.87,cambiario,ArgentinaDatos,ARS/USD
+2017-01-02,Dólar CCL Venta,15.87,cambiario,ArgentinaDatos,ARS/USD
 2017-01-02,Dólar Oficial (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2017-01-02,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2017-01-02,Reservas Internacionales BCRA,39296.0,monetario,BCRA,millones USD
@@ -38125,6 +38259,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-01-16,Base Monetaria,789982.0,monetario,BCRA,millones ARS
 2017-01-16,Dólar Blue (Compra),17.0,cambiario,Bluelytics,ARS/USD
 2017-01-16,Dólar Blue (Venta),17.0,cambiario,Bluelytics,ARS/USD
+2017-01-16,Dólar CCL Compra,15.84,cambiario,ArgentinaDatos,ARS/USD
+2017-01-16,Dólar CCL Venta,15.84,cambiario,ArgentinaDatos,ARS/USD
 2017-01-16,Dólar Oficial (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2017-01-16,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2017-01-16,Reservas Internacionales BCRA,40135.0,monetario,BCRA,millones USD
@@ -38540,6 +38676,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-02-20,Base Monetaria,811343.0,monetario,BCRA,millones ARS
 2017-02-20,Dólar Blue (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2017-02-20,Dólar Blue (Venta),16.0,cambiario,Bluelytics,ARS/USD
+2017-02-20,Dólar CCL Compra,15.49,cambiario,ArgentinaDatos,ARS/USD
+2017-02-20,Dólar CCL Venta,15.49,cambiario,ArgentinaDatos,ARS/USD
 2017-02-20,Dólar Oficial (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2017-02-20,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2017-02-20,Reservas Internacionales BCRA,49052.0,monetario,BCRA,millones USD
@@ -38617,11 +38755,15 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-02-26,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2017-02-27,Dólar Blue (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2017-02-27,Dólar Blue (Venta),16.0,cambiario,Bluelytics,ARS/USD
+2017-02-27,Dólar CCL Compra,15.62,cambiario,ArgentinaDatos,ARS/USD
+2017-02-27,Dólar CCL Venta,15.62,cambiario,ArgentinaDatos,ARS/USD
 2017-02-27,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2017-02-27,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2017-02-27,Riesgo País (EMBI+),469.0,financiero,ArgentinaDatos,bps
 2017-02-28,Dólar Blue (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2017-02-28,Dólar Blue (Venta),16.0,cambiario,Bluelytics,ARS/USD
+2017-02-28,Dólar CCL Compra,15.62,cambiario,ArgentinaDatos,ARS/USD
+2017-02-28,Dólar CCL Venta,15.62,cambiario,ArgentinaDatos,ARS/USD
 2017-02-28,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2017-02-28,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2017-02-28,Inflación Esperada 12m (REM),19.5,precios,BCRA,%
@@ -38922,6 +39064,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-03-25,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2017-03-26,Dólar Blue (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2017-03-26,Dólar Blue (Venta),16.0,cambiario,Bluelytics,ARS/USD
+2017-03-26,Dólar CCL Compra,15.62,cambiario,ArgentinaDatos,ARS/USD
+2017-03-26,Dólar CCL Venta,15.62,cambiario,ArgentinaDatos,ARS/USD
 2017-03-26,Dólar Oficial (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2017-03-26,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2017-03-27,BADLAR Bancos Privados,19.0625,monetario,BCRA,% n.a.
@@ -39154,10 +39298,14 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-04-14,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2017-04-15,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2017-04-15,Dólar Blue (Venta),16.0,cambiario,Bluelytics,ARS/USD
+2017-04-15,Dólar CCL Compra,15.48,cambiario,ArgentinaDatos,ARS/USD
+2017-04-15,Dólar CCL Venta,15.48,cambiario,ArgentinaDatos,ARS/USD
 2017-04-15,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2017-04-15,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2017-04-16,Dólar Blue (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2017-04-16,Dólar Blue (Venta),16.0,cambiario,Bluelytics,ARS/USD
+2017-04-16,Dólar CCL Compra,15.48,cambiario,ArgentinaDatos,ARS/USD
+2017-04-16,Dólar CCL Venta,15.48,cambiario,ArgentinaDatos,ARS/USD
 2017-04-16,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2017-04-16,Dólar Oficial (Venta),15.0,cambiario,Bluelytics,ARS/USD
 2017-04-17,BADLAR Bancos Privados,19.3125,monetario,BCRA,% n.a.
@@ -39327,6 +39475,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-04-30,Inflación Esperada 12m (REM),17.5,precios,BCRA,%
 2017-05-01,Dólar Blue (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2017-05-01,Dólar Blue (Venta),16.0,cambiario,Bluelytics,ARS/USD
+2017-05-01,Dólar CCL Compra,15.48,cambiario,ArgentinaDatos,ARS/USD
+2017-05-01,Dólar CCL Venta,15.48,cambiario,ArgentinaDatos,ARS/USD
 2017-05-01,Dólar Oficial (Compra),15.0,cambiario,Bluelytics,ARS/USD
 2017-05-01,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2017-05-01,EMAE - Actividad Económica,168.3892094693679,actividad,INDEC,índice
@@ -39648,6 +39798,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-05-29,Base Monetaria,755434.0,monetario,BCRA,millones ARS
 2017-05-29,Dólar Blue (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2017-05-29,Dólar Blue (Venta),16.0,cambiario,Bluelytics,ARS/USD
+2017-05-29,Dólar CCL Compra,16.22,cambiario,ArgentinaDatos,ARS/USD
+2017-05-29,Dólar CCL Venta,16.22,cambiario,ArgentinaDatos,ARS/USD
 2017-05-29,Dólar Oficial (Compra),16.0,cambiario,Bluelytics,ARS/USD
 2017-05-29,Dólar Oficial (Venta),16.0,cambiario,Bluelytics,ARS/USD
 2017-05-29,Reservas Internacionales BCRA,45851.0,monetario,BCRA,millones USD
@@ -40644,6 +40796,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-08-20,Dólar Oficial (Venta),18.0,cambiario,Bluelytics,ARS/USD
 2017-08-21,Dólar Blue (Compra),18.0,cambiario,Bluelytics,ARS/USD
 2017-08-21,Dólar Blue (Venta),18.0,cambiario,Bluelytics,ARS/USD
+2017-08-21,Dólar CCL Compra,17.35,cambiario,ArgentinaDatos,ARS/USD
+2017-08-21,Dólar CCL Venta,17.35,cambiario,ArgentinaDatos,ARS/USD
 2017-08-21,Dólar Oficial (Compra),17.0,cambiario,Bluelytics,ARS/USD
 2017-08-21,Dólar Oficial (Venta),18.0,cambiario,Bluelytics,ARS/USD
 2017-08-21,Riesgo País (EMBI+),412.0,financiero,ArgentinaDatos,bps
@@ -40809,6 +40963,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-09-04,Base Monetaria,868262.0,monetario,BCRA,millones ARS
 2017-09-04,Dólar Blue (Compra),18.0,cambiario,Bluelytics,ARS/USD
 2017-09-04,Dólar Blue (Venta),18.0,cambiario,Bluelytics,ARS/USD
+2017-09-04,Dólar CCL Compra,17.4,cambiario,ArgentinaDatos,ARS/USD
+2017-09-04,Dólar CCL Venta,17.4,cambiario,ArgentinaDatos,ARS/USD
 2017-09-04,Dólar Oficial (Compra),17.0,cambiario,Bluelytics,ARS/USD
 2017-09-04,Dólar Oficial (Venta),18.0,cambiario,Bluelytics,ARS/USD
 2017-09-04,Reservas Internacionales BCRA,49477.0,monetario,BCRA,millones USD
@@ -41303,6 +41459,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-10-15,Dólar Oficial (Venta),18.0,cambiario,Bluelytics,ARS/USD
 2017-10-16,Dólar Blue (Compra),18.0,cambiario,Bluelytics,ARS/USD
 2017-10-16,Dólar Blue (Venta),18.0,cambiario,Bluelytics,ARS/USD
+2017-10-16,Dólar CCL Compra,17.51,cambiario,ArgentinaDatos,ARS/USD
+2017-10-16,Dólar CCL Venta,17.51,cambiario,ArgentinaDatos,ARS/USD
 2017-10-16,Dólar Oficial (Compra),17.0,cambiario,Bluelytics,ARS/USD
 2017-10-16,Dólar Oficial (Venta),18.0,cambiario,Bluelytics,ARS/USD
 2017-10-16,Riesgo País (EMBI+),345.0,financiero,ArgentinaDatos,bps
@@ -41548,6 +41706,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-11-05,Dólar Oficial (Venta),18.0,cambiario,Bluelytics,ARS/USD
 2017-11-06,Dólar Blue (Compra),18.0,cambiario,Bluelytics,ARS/USD
 2017-11-06,Dólar Blue (Venta),18.0,cambiario,Bluelytics,ARS/USD
+2017-11-06,Dólar CCL Compra,17.52,cambiario,ArgentinaDatos,ARS/USD
+2017-11-06,Dólar CCL Venta,17.52,cambiario,ArgentinaDatos,ARS/USD
 2017-11-06,Dólar Oficial (Compra),17.0,cambiario,Bluelytics,ARS/USD
 2017-11-06,Dólar Oficial (Venta),18.0,cambiario,Bluelytics,ARS/USD
 2017-11-06,Riesgo País (EMBI+),374.0,financiero,ArgentinaDatos,bps
@@ -41847,6 +42007,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-12-09,Dólar Oficial (Venta),18.0,cambiario,Bluelytics,ARS/USD
 2017-12-10,Dólar Blue (Compra),18.0,cambiario,Bluelytics,ARS/USD
 2017-12-10,Dólar Blue (Venta),18.0,cambiario,Bluelytics,ARS/USD
+2017-12-10,Dólar CCL Compra,17.51,cambiario,ArgentinaDatos,ARS/USD
+2017-12-10,Dólar CCL Venta,17.51,cambiario,ArgentinaDatos,ARS/USD
 2017-12-10,Dólar Oficial (Compra),17.0,cambiario,Bluelytics,ARS/USD
 2017-12-10,Dólar Oficial (Venta),18.0,cambiario,Bluelytics,ARS/USD
 2017-12-11,BADLAR Bancos Privados,22.5625,monetario,BCRA,% n.a.
@@ -42015,6 +42177,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-12-24,Dólar Oficial (Venta),18.0,cambiario,Bluelytics,ARS/USD
 2017-12-25,Dólar Blue (Compra),18.0,cambiario,Bluelytics,ARS/USD
 2017-12-25,Dólar Blue (Venta),18.0,cambiario,Bluelytics,ARS/USD
+2017-12-25,Dólar CCL Compra,17.97,cambiario,ArgentinaDatos,ARS/USD
+2017-12-25,Dólar CCL Venta,17.97,cambiario,ArgentinaDatos,ARS/USD
 2017-12-25,Dólar Oficial (Compra),18.0,cambiario,Bluelytics,ARS/USD
 2017-12-25,Dólar Oficial (Venta),18.0,cambiario,Bluelytics,ARS/USD
 2017-12-26,BADLAR Bancos Privados,23.0,monetario,BCRA,% n.a.
@@ -42087,6 +42251,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2017-12-31,Inflación Esperada 12m (REM),17.4,precios,BCRA,%
 2018-01-01,Dólar Blue (Compra),18.0,cambiario,Bluelytics,ARS/USD
 2018-01-01,Dólar Blue (Venta),19.0,cambiario,Bluelytics,ARS/USD
+2018-01-01,Dólar CCL Compra,18.93,cambiario,ArgentinaDatos,ARS/USD
+2018-01-01,Dólar CCL Venta,18.93,cambiario,ArgentinaDatos,ARS/USD
 2018-01-01,Dólar Oficial (Compra),19.0,cambiario,Bluelytics,ARS/USD
 2018-01-01,Dólar Oficial (Venta),19.0,cambiario,Bluelytics,ARS/USD
 2018-01-01,EMAE - Actividad Económica,142.74091260617232,actividad,INDEC,índice
@@ -42253,6 +42419,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-01-15,Base Monetaria,1016341.0,monetario,BCRA,millones ARS
 2018-01-15,Dólar Blue (Compra),19.0,cambiario,Bluelytics,ARS/USD
 2018-01-15,Dólar Blue (Venta),19.0,cambiario,Bluelytics,ARS/USD
+2018-01-15,Dólar CCL Compra,18.83,cambiario,ArgentinaDatos,ARS/USD
+2018-01-15,Dólar CCL Venta,18.83,cambiario,ArgentinaDatos,ARS/USD
 2018-01-15,Dólar Oficial (Compra),19.0,cambiario,Bluelytics,ARS/USD
 2018-01-15,Dólar Oficial (Venta),19.0,cambiario,Bluelytics,ARS/USD
 2018-01-15,Reservas Internacionales BCRA,63746.0,monetario,BCRA,millones USD
@@ -42585,11 +42753,15 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-02-11,Dólar Oficial (Venta),20.0,cambiario,Bluelytics,ARS/USD
 2018-02-12,Dólar Blue (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-02-12,Dólar Blue (Venta),20.0,cambiario,Bluelytics,ARS/USD
+2018-02-12,Dólar CCL Compra,20.0,cambiario,ArgentinaDatos,ARS/USD
+2018-02-12,Dólar CCL Venta,20.0,cambiario,ArgentinaDatos,ARS/USD
 2018-02-12,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-02-12,Dólar Oficial (Venta),20.0,cambiario,Bluelytics,ARS/USD
 2018-02-12,Riesgo País (EMBI+),413.0,financiero,ArgentinaDatos,bps
 2018-02-13,Dólar Blue (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-02-13,Dólar Blue (Venta),20.0,cambiario,Bluelytics,ARS/USD
+2018-02-13,Dólar CCL Compra,20.0,cambiario,ArgentinaDatos,ARS/USD
+2018-02-13,Dólar CCL Venta,20.0,cambiario,ArgentinaDatos,ARS/USD
 2018-02-13,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-02-13,Dólar Oficial (Venta),20.0,cambiario,Bluelytics,ARS/USD
 2018-02-13,Riesgo País (EMBI+),423.0,financiero,ArgentinaDatos,bps
@@ -42651,6 +42823,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-02-19,Base Monetaria,985104.0,monetario,BCRA,millones ARS
 2018-02-19,Dólar Blue (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-02-19,Dólar Blue (Venta),20.0,cambiario,Bluelytics,ARS/USD
+2018-02-19,Dólar CCL Compra,20.03,cambiario,ArgentinaDatos,ARS/USD
+2018-02-19,Dólar CCL Venta,20.03,cambiario,ArgentinaDatos,ARS/USD
 2018-02-19,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-02-19,Dólar Oficial (Venta),20.0,cambiario,Bluelytics,ARS/USD
 2018-02-19,Reservas Internacionales BCRA,62292.0,monetario,BCRA,millones USD
@@ -43026,6 +43200,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-03-22,Base Monetaria,996007.0,monetario,BCRA,millones ARS
 2018-03-22,Dólar Blue (Compra),21.0,cambiario,Bluelytics,ARS/USD
 2018-03-22,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-03-22,Dólar CCL Compra,20.23,cambiario,ArgentinaDatos,ARS/USD
+2018-03-22,Dólar CCL Venta,20.23,cambiario,ArgentinaDatos,ARS/USD
 2018-03-22,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-22,Dólar Oficial (Venta),21.0,cambiario,Bluelytics,ARS/USD
 2018-03-22,Reservas Internacionales BCRA,61137.0,monetario,BCRA,millones USD
@@ -43038,6 +43214,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-03-23,Base Monetaria,1003568.0,monetario,BCRA,millones ARS
 2018-03-23,Dólar Blue (Compra),21.0,cambiario,Bluelytics,ARS/USD
 2018-03-23,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-03-23,Dólar CCL Compra,20.23,cambiario,ArgentinaDatos,ARS/USD
+2018-03-23,Dólar CCL Venta,20.23,cambiario,ArgentinaDatos,ARS/USD
 2018-03-23,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-23,Dólar Oficial (Venta),21.0,cambiario,Bluelytics,ARS/USD
 2018-03-23,Reservas Internacionales BCRA,60899.0,monetario,BCRA,millones USD
@@ -43048,16 +43226,22 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-03-23,Índice Merval,31461.0,acciones,Yahoo Finance,puntos
 2018-03-24,Dólar Blue (Compra),21.0,cambiario,Bluelytics,ARS/USD
 2018-03-24,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-03-24,Dólar CCL Compra,20.23,cambiario,ArgentinaDatos,ARS/USD
+2018-03-24,Dólar CCL Venta,20.23,cambiario,ArgentinaDatos,ARS/USD
 2018-03-24,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-24,Dólar Oficial (Venta),21.0,cambiario,Bluelytics,ARS/USD
 2018-03-25,Dólar Blue (Compra),21.0,cambiario,Bluelytics,ARS/USD
 2018-03-25,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-03-25,Dólar CCL Compra,20.23,cambiario,ArgentinaDatos,ARS/USD
+2018-03-25,Dólar CCL Venta,20.23,cambiario,ArgentinaDatos,ARS/USD
 2018-03-25,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-25,Dólar Oficial (Venta),21.0,cambiario,Bluelytics,ARS/USD
 2018-03-26,BADLAR Bancos Privados,22.6875,monetario,BCRA,% n.a.
 2018-03-26,Base Monetaria,1003118.0,monetario,BCRA,millones ARS
 2018-03-26,Dólar Blue (Compra),21.0,cambiario,Bluelytics,ARS/USD
 2018-03-26,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-03-26,Dólar CCL Compra,20.23,cambiario,ArgentinaDatos,ARS/USD
+2018-03-26,Dólar CCL Venta,20.23,cambiario,ArgentinaDatos,ARS/USD
 2018-03-26,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-26,Dólar Oficial (Venta),21.0,cambiario,Bluelytics,ARS/USD
 2018-03-26,Reservas Internacionales BCRA,60920.0,monetario,BCRA,millones USD
@@ -43070,6 +43254,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-03-27,Base Monetaria,987174.0,monetario,BCRA,millones ARS
 2018-03-27,Dólar Blue (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-27,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-03-27,Dólar CCL Compra,20.23,cambiario,ArgentinaDatos,ARS/USD
+2018-03-27,Dólar CCL Venta,20.23,cambiario,ArgentinaDatos,ARS/USD
 2018-03-27,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-27,Dólar Oficial (Venta),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-27,Reservas Internacionales BCRA,60722.0,monetario,BCRA,millones USD
@@ -43082,6 +43268,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-03-28,Base Monetaria,995473.0,monetario,BCRA,millones ARS
 2018-03-28,Dólar Blue (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-28,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-03-28,Dólar CCL Compra,20.23,cambiario,ArgentinaDatos,ARS/USD
+2018-03-28,Dólar CCL Venta,20.23,cambiario,ArgentinaDatos,ARS/USD
 2018-03-28,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-28,Dólar Oficial (Venta),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-28,Reservas Internacionales BCRA,61726.0,monetario,BCRA,millones USD
@@ -43092,20 +43280,28 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-03-28,Índice Merval,31115.0,acciones,Yahoo Finance,puntos
 2018-03-29,Dólar Blue (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-29,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-03-29,Dólar CCL Compra,20.23,cambiario,ArgentinaDatos,ARS/USD
+2018-03-29,Dólar CCL Venta,20.23,cambiario,ArgentinaDatos,ARS/USD
 2018-03-29,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-29,Dólar Oficial (Venta),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-29,Riesgo País (EMBI+),420.0,financiero,ArgentinaDatos,bps
 2018-03-30,Dólar Blue (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-30,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-03-30,Dólar CCL Compra,20.23,cambiario,ArgentinaDatos,ARS/USD
+2018-03-30,Dólar CCL Venta,20.23,cambiario,ArgentinaDatos,ARS/USD
 2018-03-30,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-30,Dólar Oficial (Venta),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-31,Dólar Blue (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-31,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-03-31,Dólar CCL Compra,20.23,cambiario,ArgentinaDatos,ARS/USD
+2018-03-31,Dólar CCL Venta,20.23,cambiario,ArgentinaDatos,ARS/USD
 2018-03-31,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-31,Dólar Oficial (Venta),20.0,cambiario,Bluelytics,ARS/USD
 2018-03-31,Inflación Esperada 12m (REM),17.8,precios,BCRA,%
 2018-04-01,Dólar Blue (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-01,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-04-01,Dólar CCL Compra,20.23,cambiario,ArgentinaDatos,ARS/USD
+2018-04-01,Dólar CCL Venta,20.23,cambiario,ArgentinaDatos,ARS/USD
 2018-04-01,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-01,Dólar Oficial (Venta),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-01,EMAE - Actividad Económica,151.5245439839435,actividad,INDEC,índice
@@ -43118,6 +43314,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-04-01,Índice de Salarios,139.81,laboral,INDEC,índice
 2018-04-02,Dólar Blue (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-02,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-04-02,Dólar CCL Compra,20.23,cambiario,ArgentinaDatos,ARS/USD
+2018-04-02,Dólar CCL Venta,20.23,cambiario,ArgentinaDatos,ARS/USD
 2018-04-02,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-02,Dólar Oficial (Venta),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-02,Riesgo País (EMBI+),425.0,financiero,ArgentinaDatos,bps
@@ -43125,6 +43323,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-04-03,Base Monetaria,1079997.0,monetario,BCRA,millones ARS
 2018-04-03,Dólar Blue (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-03,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-04-03,Dólar CCL Compra,20.23,cambiario,ArgentinaDatos,ARS/USD
+2018-04-03,Dólar CCL Venta,20.23,cambiario,ArgentinaDatos,ARS/USD
 2018-04-03,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-03,Dólar Oficial (Venta),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-03,Reservas Internacionales BCRA,61548.0,monetario,BCRA,millones USD
@@ -43137,6 +43337,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-04-04,Base Monetaria,1081293.0,monetario,BCRA,millones ARS
 2018-04-04,Dólar Blue (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-04,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-04-04,Dólar CCL Compra,20.23,cambiario,ArgentinaDatos,ARS/USD
+2018-04-04,Dólar CCL Venta,20.23,cambiario,ArgentinaDatos,ARS/USD
 2018-04-04,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-04,Dólar Oficial (Venta),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-04,Reservas Internacionales BCRA,61566.0,monetario,BCRA,millones USD
@@ -43149,6 +43351,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-04-05,Base Monetaria,1052861.0,monetario,BCRA,millones ARS
 2018-04-05,Dólar Blue (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-05,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-04-05,Dólar CCL Compra,20.23,cambiario,ArgentinaDatos,ARS/USD
+2018-04-05,Dólar CCL Venta,20.23,cambiario,ArgentinaDatos,ARS/USD
 2018-04-05,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-05,Dólar Oficial (Venta),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-05,Reservas Internacionales BCRA,61667.0,monetario,BCRA,millones USD
@@ -43161,6 +43365,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-04-06,Base Monetaria,1036337.0,monetario,BCRA,millones ARS
 2018-04-06,Dólar Blue (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-06,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-04-06,Dólar CCL Compra,20.23,cambiario,ArgentinaDatos,ARS/USD
+2018-04-06,Dólar CCL Venta,20.23,cambiario,ArgentinaDatos,ARS/USD
 2018-04-06,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-06,Dólar Oficial (Venta),21.0,cambiario,Bluelytics,ARS/USD
 2018-04-06,Reservas Internacionales BCRA,61610.0,monetario,BCRA,millones USD
@@ -43171,10 +43377,14 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-04-06,Índice Merval,31739.0,acciones,Yahoo Finance,puntos
 2018-04-07,Dólar Blue (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-07,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-04-07,Dólar CCL Compra,20.23,cambiario,ArgentinaDatos,ARS/USD
+2018-04-07,Dólar CCL Venta,20.23,cambiario,ArgentinaDatos,ARS/USD
 2018-04-07,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-07,Dólar Oficial (Venta),21.0,cambiario,Bluelytics,ARS/USD
 2018-04-08,Dólar Blue (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-08,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-04-08,Dólar CCL Compra,20.23,cambiario,ArgentinaDatos,ARS/USD
+2018-04-08,Dólar CCL Venta,20.23,cambiario,ArgentinaDatos,ARS/USD
 2018-04-08,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-08,Dólar Oficial (Venta),21.0,cambiario,Bluelytics,ARS/USD
 2018-04-09,BADLAR Bancos Privados,22.6875,monetario,BCRA,% n.a.
@@ -43425,12 +43635,16 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-04-29,Dólar Oficial (Venta),21.0,cambiario,Bluelytics,ARS/USD
 2018-04-30,Dólar Blue (Compra),21.0,cambiario,Bluelytics,ARS/USD
 2018-04-30,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-04-30,Dólar CCL Compra,20.83,cambiario,ArgentinaDatos,ARS/USD
+2018-04-30,Dólar CCL Venta,20.83,cambiario,ArgentinaDatos,ARS/USD
 2018-04-30,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-04-30,Dólar Oficial (Venta),21.0,cambiario,Bluelytics,ARS/USD
 2018-04-30,Inflación Esperada 12m (REM),18.2,precios,BCRA,%
 2018-04-30,Riesgo País (EMBI+),430.0,financiero,ArgentinaDatos,bps
 2018-05-01,Dólar Blue (Compra),21.0,cambiario,Bluelytics,ARS/USD
 2018-05-01,Dólar Blue (Venta),21.0,cambiario,Bluelytics,ARS/USD
+2018-05-01,Dólar CCL Compra,20.83,cambiario,ArgentinaDatos,ARS/USD
+2018-05-01,Dólar CCL Venta,20.83,cambiario,ArgentinaDatos,ARS/USD
 2018-05-01,Dólar Oficial (Compra),20.0,cambiario,Bluelytics,ARS/USD
 2018-05-01,Dólar Oficial (Venta),21.0,cambiario,Bluelytics,ARS/USD
 2018-05-01,EMAE - Actividad Económica,159.56669237791675,actividad,INDEC,índice
@@ -43730,12 +43944,16 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-05-26,Dólar Oficial (Venta),25.0,cambiario,Bluelytics,ARS/USD
 2018-05-27,Dólar Blue (Compra),25.0,cambiario,Bluelytics,ARS/USD
 2018-05-27,Dólar Blue (Venta),26.0,cambiario,Bluelytics,ARS/USD
+2018-05-27,Dólar CCL Compra,24.42,cambiario,ArgentinaDatos,ARS/USD
+2018-05-27,Dólar CCL Venta,24.42,cambiario,ArgentinaDatos,ARS/USD
 2018-05-27,Dólar Oficial (Compra),24.0,cambiario,Bluelytics,ARS/USD
 2018-05-27,Dólar Oficial (Venta),25.0,cambiario,Bluelytics,ARS/USD
 2018-05-28,BADLAR Bancos Privados,28.25,monetario,BCRA,% n.a.
 2018-05-28,Base Monetaria,993010.0,monetario,BCRA,millones ARS
 2018-05-28,Dólar Blue (Compra),25.0,cambiario,Bluelytics,ARS/USD
 2018-05-28,Dólar Blue (Venta),26.0,cambiario,Bluelytics,ARS/USD
+2018-05-28,Dólar CCL Compra,24.42,cambiario,ArgentinaDatos,ARS/USD
+2018-05-28,Dólar CCL Venta,24.42,cambiario,ArgentinaDatos,ARS/USD
 2018-05-28,Dólar Oficial (Compra),24.0,cambiario,Bluelytics,ARS/USD
 2018-05-28,Dólar Oficial (Venta),25.0,cambiario,Bluelytics,ARS/USD
 2018-05-28,Reservas Internacionales BCRA,51930.0,monetario,BCRA,millones USD
@@ -44234,6 +44452,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-07-08,Dólar Oficial (Venta),29.0,cambiario,Bluelytics,ARS/USD
 2018-07-09,Dólar Blue (Compra),28.0,cambiario,Bluelytics,ARS/USD
 2018-07-09,Dólar Blue (Venta),29.0,cambiario,Bluelytics,ARS/USD
+2018-07-09,Dólar CCL Compra,28.27,cambiario,ArgentinaDatos,ARS/USD
+2018-07-09,Dólar CCL Venta,28.27,cambiario,ArgentinaDatos,ARS/USD
 2018-07-09,Dólar Oficial (Compra),28.0,cambiario,Bluelytics,ARS/USD
 2018-07-09,Dólar Oficial (Venta),29.0,cambiario,Bluelytics,ARS/USD
 2018-07-09,Riesgo País (EMBI+),566.0,financiero,ArgentinaDatos,bps
@@ -44725,6 +44945,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-08-19,Dólar Oficial (Venta),30.0,cambiario,Bluelytics,ARS/USD
 2018-08-20,Dólar Blue (Compra),29.0,cambiario,Bluelytics,ARS/USD
 2018-08-20,Dólar Blue (Venta),30.0,cambiario,Bluelytics,ARS/USD
+2018-08-20,Dólar CCL Compra,30.03,cambiario,ArgentinaDatos,ARS/USD
+2018-08-20,Dólar CCL Venta,30.03,cambiario,ArgentinaDatos,ARS/USD
 2018-08-20,Dólar Oficial (Compra),29.0,cambiario,Bluelytics,ARS/USD
 2018-08-20,Dólar Oficial (Venta),30.0,cambiario,Bluelytics,ARS/USD
 2018-08-20,Riesgo País (EMBI+),685.0,financiero,ArgentinaDatos,bps
@@ -44890,6 +45112,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-09-03,Base Monetaria,1234645.0,monetario,BCRA,millones ARS
 2018-09-03,Dólar Blue (Compra),37.0,cambiario,Bluelytics,ARS/USD
 2018-09-03,Dólar Blue (Venta),39.0,cambiario,Bluelytics,ARS/USD
+2018-09-03,Dólar CCL Compra,39.5,cambiario,ArgentinaDatos,ARS/USD
+2018-09-03,Dólar CCL Venta,39.5,cambiario,ArgentinaDatos,ARS/USD
 2018-09-03,Dólar Oficial (Compra),37.0,cambiario,Bluelytics,ARS/USD
 2018-09-03,Dólar Oficial (Venta),39.0,cambiario,Bluelytics,ARS/USD
 2018-09-03,Reservas Internacionales BCRA,52390.0,monetario,BCRA,millones USD
@@ -45299,6 +45523,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-10-06,Dólar Oficial (Venta),39.0,cambiario,Bluelytics,ARS/USD
 2018-10-07,Dólar Blue (Compra),36.0,cambiario,Bluelytics,ARS/USD
 2018-10-07,Dólar Blue (Venta),38.0,cambiario,Bluelytics,ARS/USD
+2018-10-07,Dólar CCL Compra,37.73,cambiario,ArgentinaDatos,ARS/USD
+2018-10-07,Dólar CCL Venta,37.73,cambiario,ArgentinaDatos,ARS/USD
 2018-10-07,Dólar Oficial (Compra),37.0,cambiario,Bluelytics,ARS/USD
 2018-10-07,Dólar Oficial (Venta),39.0,cambiario,Bluelytics,ARS/USD
 2018-10-08,BADLAR Bancos Privados,49.0,monetario,BCRA,% n.a.
@@ -45385,6 +45611,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-10-14,Dólar Oficial (Venta),38.0,cambiario,Bluelytics,ARS/USD
 2018-10-15,Dólar Blue (Compra),36.0,cambiario,Bluelytics,ARS/USD
 2018-10-15,Dólar Blue (Venta),38.0,cambiario,Bluelytics,ARS/USD
+2018-10-15,Dólar CCL Compra,36.87,cambiario,ArgentinaDatos,ARS/USD
+2018-10-15,Dólar CCL Venta,36.87,cambiario,ArgentinaDatos,ARS/USD
 2018-10-15,Dólar Oficial (Compra),36.0,cambiario,Bluelytics,ARS/USD
 2018-10-15,Dólar Oficial (Venta),38.0,cambiario,Bluelytics,ARS/USD
 2018-10-15,Riesgo País (EMBI+),635.0,financiero,ArgentinaDatos,bps
@@ -45835,6 +46063,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-11-18,Riesgo País (EMBI+),656.0,financiero,ArgentinaDatos,bps
 2018-11-19,Dólar Blue (Compra),34.0,cambiario,Bluelytics,ARS/USD
 2018-11-19,Dólar Blue (Venta),36.0,cambiario,Bluelytics,ARS/USD
+2018-11-19,Dólar CCL Compra,36.08,cambiario,ArgentinaDatos,ARS/USD
+2018-11-19,Dólar CCL Venta,36.08,cambiario,ArgentinaDatos,ARS/USD
+2018-11-19,Dólar MEP Compra,36.15,cambiario,ArgentinaDatos,ARS/USD
+2018-11-19,Dólar MEP Venta,36.15,cambiario,ArgentinaDatos,ARS/USD
 2018-11-19,Dólar Oficial (Compra),35.0,cambiario,Bluelytics,ARS/USD
 2018-11-19,Dólar Oficial (Venta),37.0,cambiario,Bluelytics,ARS/USD
 2018-11-19,Riesgo País (EMBI+),666.0,financiero,ArgentinaDatos,bps
@@ -46012,6 +46244,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-12-01,Índice de Salarios,169.94,laboral,INDEC,índice
 2018-12-02,Dólar Blue (Compra),36.0,cambiario,Bluelytics,ARS/USD
 2018-12-02,Dólar Blue (Venta),38.0,cambiario,Bluelytics,ARS/USD
+2018-12-02,Dólar CCL Compra,38.58,cambiario,ArgentinaDatos,ARS/USD
+2018-12-02,Dólar CCL Venta,38.58,cambiario,ArgentinaDatos,ARS/USD
+2018-12-02,Dólar MEP Compra,37.68,cambiario,ArgentinaDatos,ARS/USD
+2018-12-02,Dólar MEP Venta,37.68,cambiario,ArgentinaDatos,ARS/USD
 2018-12-02,Dólar Oficial (Compra),37.0,cambiario,Bluelytics,ARS/USD
 2018-12-02,Dólar Oficial (Venta),39.0,cambiario,Bluelytics,ARS/USD
 2018-12-02,Riesgo País (EMBI+),706.0,financiero,ArgentinaDatos,bps
@@ -46311,11 +46547,19 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-12-23,Riesgo País (EMBI+),815.0,financiero,ArgentinaDatos,bps
 2018-12-24,Dólar Blue (Compra),37.0,cambiario,Bluelytics,ARS/USD
 2018-12-24,Dólar Blue (Venta),39.0,cambiario,Bluelytics,ARS/USD
+2018-12-24,Dólar CCL Compra,38.59,cambiario,ArgentinaDatos,ARS/USD
+2018-12-24,Dólar CCL Venta,38.59,cambiario,ArgentinaDatos,ARS/USD
+2018-12-24,Dólar MEP Compra,38.14,cambiario,ArgentinaDatos,ARS/USD
+2018-12-24,Dólar MEP Venta,38.14,cambiario,ArgentinaDatos,ARS/USD
 2018-12-24,Dólar Oficial (Compra),37.0,cambiario,Bluelytics,ARS/USD
 2018-12-24,Dólar Oficial (Venta),39.0,cambiario,Bluelytics,ARS/USD
 2018-12-24,Riesgo País (EMBI+),821.0,financiero,ArgentinaDatos,bps
 2018-12-25,Dólar Blue (Compra),37.0,cambiario,Bluelytics,ARS/USD
 2018-12-25,Dólar Blue (Venta),39.0,cambiario,Bluelytics,ARS/USD
+2018-12-25,Dólar CCL Compra,38.59,cambiario,ArgentinaDatos,ARS/USD
+2018-12-25,Dólar CCL Venta,38.59,cambiario,ArgentinaDatos,ARS/USD
+2018-12-25,Dólar MEP Compra,38.14,cambiario,ArgentinaDatos,ARS/USD
+2018-12-25,Dólar MEP Venta,38.14,cambiario,ArgentinaDatos,ARS/USD
 2018-12-25,Dólar Oficial (Compra),37.0,cambiario,Bluelytics,ARS/USD
 2018-12-25,Dólar Oficial (Venta),39.0,cambiario,Bluelytics,ARS/USD
 2018-12-25,Riesgo País (EMBI+),821.0,financiero,ArgentinaDatos,bps
@@ -46387,12 +46631,20 @@ fecha,serie,valor,categoria,fuente,unidad
 2018-12-30,Riesgo País (EMBI+),813.0,financiero,ArgentinaDatos,bps
 2018-12-31,Dólar Blue (Compra),38.0,cambiario,Bluelytics,ARS/USD
 2018-12-31,Dólar Blue (Venta),40.0,cambiario,Bluelytics,ARS/USD
+2018-12-31,Dólar CCL Compra,38.54,cambiario,ArgentinaDatos,ARS/USD
+2018-12-31,Dólar CCL Venta,38.54,cambiario,ArgentinaDatos,ARS/USD
+2018-12-31,Dólar MEP Compra,38.11,cambiario,ArgentinaDatos,ARS/USD
+2018-12-31,Dólar MEP Venta,38.11,cambiario,ArgentinaDatos,ARS/USD
 2018-12-31,Dólar Oficial (Compra),37.0,cambiario,Bluelytics,ARS/USD
 2018-12-31,Dólar Oficial (Venta),39.0,cambiario,Bluelytics,ARS/USD
 2018-12-31,Inflación Esperada 12m (REM),28.7,precios,BCRA,%
 2018-12-31,Riesgo País (EMBI+),817.0,financiero,ArgentinaDatos,bps
 2019-01-01,Dólar Blue (Compra),38.0,cambiario,Bluelytics,ARS/USD
 2019-01-01,Dólar Blue (Venta),40.0,cambiario,Bluelytics,ARS/USD
+2019-01-01,Dólar CCL Compra,38.54,cambiario,ArgentinaDatos,ARS/USD
+2019-01-01,Dólar CCL Venta,38.54,cambiario,ArgentinaDatos,ARS/USD
+2019-01-01,Dólar MEP Compra,38.11,cambiario,ArgentinaDatos,ARS/USD
+2019-01-01,Dólar MEP Venta,38.11,cambiario,ArgentinaDatos,ARS/USD
 2019-01-01,Dólar Oficial (Compra),37.0,cambiario,Bluelytics,ARS/USD
 2019-01-01,Dólar Oficial (Venta),39.0,cambiario,Bluelytics,ARS/USD
 2019-01-01,EMAE - Actividad Económica,134.5362398566959,actividad,INDEC,índice
@@ -46672,6 +46924,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-01-21,Base Monetaria,1324726.0,monetario,BCRA,millones ARS
 2019-01-21,Dólar Blue (Compra),37.0,cambiario,Bluelytics,ARS/USD
 2019-01-21,Dólar Blue (Venta),39.0,cambiario,Bluelytics,ARS/USD
+2019-01-21,Dólar CCL Compra,37.9,cambiario,ArgentinaDatos,ARS/USD
+2019-01-21,Dólar CCL Venta,37.9,cambiario,ArgentinaDatos,ARS/USD
 2019-01-21,Dólar MEP Compra,37.76,cambiario,ArgentinaDatos,ARS/USD
 2019-01-21,Dólar MEP Venta,37.76,cambiario,ArgentinaDatos,ARS/USD
 2019-01-21,Dólar Oficial (Compra),37.0,cambiario,Bluelytics,ARS/USD
@@ -47070,6 +47324,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-02-18,Base Monetaria,1300646.0,monetario,BCRA,millones ARS
 2019-02-18,Dólar Blue (Compra),38.0,cambiario,Bluelytics,ARS/USD
 2019-02-18,Dólar Blue (Venta),39.0,cambiario,Bluelytics,ARS/USD
+2019-02-18,Dólar CCL Compra,38.35,cambiario,ArgentinaDatos,ARS/USD
+2019-02-18,Dólar CCL Venta,38.35,cambiario,ArgentinaDatos,ARS/USD
 2019-02-18,Dólar MEP Compra,38.88,cambiario,ArgentinaDatos,ARS/USD
 2019-02-18,Dólar MEP Venta,38.88,cambiario,ArgentinaDatos,ARS/USD
 2019-02-18,Dólar Oficial (Compra),38.0,cambiario,Bluelytics,ARS/USD
@@ -47270,11 +47526,19 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-03-03,Riesgo País (EMBI+),718.0,financiero,ArgentinaDatos,bps
 2019-03-04,Dólar Blue (Compra),37.0,cambiario,Bluelytics,ARS/USD
 2019-03-04,Dólar Blue (Venta),39.0,cambiario,Bluelytics,ARS/USD
+2019-03-04,Dólar CCL Compra,39.35,cambiario,ArgentinaDatos,ARS/USD
+2019-03-04,Dólar CCL Venta,39.35,cambiario,ArgentinaDatos,ARS/USD
+2019-03-04,Dólar MEP Compra,40.16,cambiario,ArgentinaDatos,ARS/USD
+2019-03-04,Dólar MEP Venta,40.16,cambiario,ArgentinaDatos,ARS/USD
 2019-03-04,Dólar Oficial (Compra),39.0,cambiario,Bluelytics,ARS/USD
 2019-03-04,Dólar Oficial (Venta),41.0,cambiario,Bluelytics,ARS/USD
 2019-03-04,Riesgo País (EMBI+),733.0,financiero,ArgentinaDatos,bps
 2019-03-05,Dólar Blue (Compra),37.0,cambiario,Bluelytics,ARS/USD
 2019-03-05,Dólar Blue (Venta),39.0,cambiario,Bluelytics,ARS/USD
+2019-03-05,Dólar CCL Compra,39.35,cambiario,ArgentinaDatos,ARS/USD
+2019-03-05,Dólar CCL Venta,39.35,cambiario,ArgentinaDatos,ARS/USD
+2019-03-05,Dólar MEP Compra,40.16,cambiario,ArgentinaDatos,ARS/USD
+2019-03-05,Dólar MEP Venta,40.16,cambiario,ArgentinaDatos,ARS/USD
 2019-03-05,Dólar Oficial (Compra),39.0,cambiario,Bluelytics,ARS/USD
 2019-03-05,Dólar Oficial (Venta),41.0,cambiario,Bluelytics,ARS/USD
 2019-03-05,Riesgo País (EMBI+),744.0,financiero,ArgentinaDatos,bps
@@ -47904,11 +48168,19 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-04-19,Riesgo País (EMBI+),851.0,financiero,ArgentinaDatos,bps
 2019-04-20,Dólar Blue (Compra),41.0,cambiario,Bluelytics,ARS/USD
 2019-04-20,Dólar Blue (Venta),43.0,cambiario,Bluelytics,ARS/USD
+2019-04-20,Dólar CCL Compra,43.06,cambiario,ArgentinaDatos,ARS/USD
+2019-04-20,Dólar CCL Venta,43.06,cambiario,ArgentinaDatos,ARS/USD
+2019-04-20,Dólar MEP Compra,42.38,cambiario,ArgentinaDatos,ARS/USD
+2019-04-20,Dólar MEP Venta,42.38,cambiario,ArgentinaDatos,ARS/USD
 2019-04-20,Dólar Oficial (Compra),41.0,cambiario,Bluelytics,ARS/USD
 2019-04-20,Dólar Oficial (Venta),43.0,cambiario,Bluelytics,ARS/USD
 2019-04-20,Riesgo País (EMBI+),851.0,financiero,ArgentinaDatos,bps
 2019-04-21,Dólar Blue (Compra),41.0,cambiario,Bluelytics,ARS/USD
 2019-04-21,Dólar Blue (Venta),43.0,cambiario,Bluelytics,ARS/USD
+2019-04-21,Dólar CCL Compra,43.06,cambiario,ArgentinaDatos,ARS/USD
+2019-04-21,Dólar CCL Venta,43.06,cambiario,ArgentinaDatos,ARS/USD
+2019-04-21,Dólar MEP Compra,42.38,cambiario,ArgentinaDatos,ARS/USD
+2019-04-21,Dólar MEP Venta,42.38,cambiario,ArgentinaDatos,ARS/USD
 2019-04-21,Dólar Oficial (Compra),41.0,cambiario,Bluelytics,ARS/USD
 2019-04-21,Dólar Oficial (Venta),43.0,cambiario,Bluelytics,ARS/USD
 2019-04-21,Riesgo País (EMBI+),851.0,financiero,ArgentinaDatos,bps
@@ -48407,6 +48679,8 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-05-27,Base Monetaria,1333708.0,monetario,BCRA,millones ARS
 2019-05-27,Dólar Blue (Compra),45.0,cambiario,Bluelytics,ARS/USD
 2019-05-27,Dólar Blue (Venta),46.0,cambiario,Bluelytics,ARS/USD
+2019-05-27,Dólar CCL Compra,45.31,cambiario,ArgentinaDatos,ARS/USD
+2019-05-27,Dólar CCL Venta,45.31,cambiario,ArgentinaDatos,ARS/USD
 2019-05-27,Dólar MEP Compra,44.75,cambiario,ArgentinaDatos,ARS/USD
 2019-05-27,Dólar MEP Venta,44.75,cambiario,ArgentinaDatos,ARS/USD
 2019-05-27,Dólar Oficial (Compra),44.0,cambiario,Bluelytics,ARS/USD
@@ -48705,6 +48979,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-06-16,Riesgo País (EMBI+),845.0,financiero,ArgentinaDatos,bps
 2019-06-17,Dólar Blue (Compra),44.0,cambiario,Bluelytics,ARS/USD
 2019-06-17,Dólar Blue (Venta),45.0,cambiario,Bluelytics,ARS/USD
+2019-06-17,Dólar CCL Compra,43.56,cambiario,ArgentinaDatos,ARS/USD
+2019-06-17,Dólar CCL Venta,43.56,cambiario,ArgentinaDatos,ARS/USD
+2019-06-17,Dólar MEP Compra,44.09,cambiario,ArgentinaDatos,ARS/USD
+2019-06-17,Dólar MEP Venta,44.09,cambiario,ArgentinaDatos,ARS/USD
 2019-06-17,Dólar Oficial (Compra),43.0,cambiario,Bluelytics,ARS/USD
 2019-06-17,Dólar Oficial (Venta),45.0,cambiario,Bluelytics,ARS/USD
 2019-06-17,Riesgo País (EMBI+),850.0,financiero,ArgentinaDatos,bps
@@ -48990,11 +49268,19 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-07-07,Riesgo País (EMBI+),787.0,financiero,ArgentinaDatos,bps
 2019-07-08,Dólar Blue (Compra),41.0,cambiario,Bluelytics,ARS/USD
 2019-07-08,Dólar Blue (Venta),43.0,cambiario,Bluelytics,ARS/USD
+2019-07-08,Dólar CCL Compra,42.29,cambiario,ArgentinaDatos,ARS/USD
+2019-07-08,Dólar CCL Venta,42.29,cambiario,ArgentinaDatos,ARS/USD
+2019-07-08,Dólar MEP Compra,41.82,cambiario,ArgentinaDatos,ARS/USD
+2019-07-08,Dólar MEP Venta,41.82,cambiario,ArgentinaDatos,ARS/USD
 2019-07-08,Dólar Oficial (Compra),41.0,cambiario,Bluelytics,ARS/USD
 2019-07-08,Dólar Oficial (Venta),43.0,cambiario,Bluelytics,ARS/USD
 2019-07-08,Riesgo País (EMBI+),801.0,financiero,ArgentinaDatos,bps
 2019-07-09,Dólar Blue (Compra),41.0,cambiario,Bluelytics,ARS/USD
 2019-07-09,Dólar Blue (Venta),43.0,cambiario,Bluelytics,ARS/USD
+2019-07-09,Dólar CCL Compra,42.29,cambiario,ArgentinaDatos,ARS/USD
+2019-07-09,Dólar CCL Venta,42.29,cambiario,ArgentinaDatos,ARS/USD
+2019-07-09,Dólar MEP Compra,41.82,cambiario,ArgentinaDatos,ARS/USD
+2019-07-09,Dólar MEP Venta,41.82,cambiario,ArgentinaDatos,ARS/USD
 2019-07-09,Dólar Oficial (Compra),41.0,cambiario,Bluelytics,ARS/USD
 2019-07-09,Dólar Oficial (Venta),43.0,cambiario,Bluelytics,ARS/USD
 2019-07-09,Riesgo País (EMBI+),786.0,financiero,ArgentinaDatos,bps
@@ -49564,6 +49850,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-08-18,Riesgo País (EMBI+),1653.0,financiero,ArgentinaDatos,bps
 2019-08-19,Dólar Blue (Compra),55.0,cambiario,Bluelytics,ARS/USD
 2019-08-19,Dólar Blue (Venta),59.0,cambiario,Bluelytics,ARS/USD
+2019-08-19,Dólar CCL Compra,58.15,cambiario,ArgentinaDatos,ARS/USD
+2019-08-19,Dólar CCL Venta,58.15,cambiario,ArgentinaDatos,ARS/USD
+2019-08-19,Dólar MEP Compra,55.88,cambiario,ArgentinaDatos,ARS/USD
+2019-08-19,Dólar MEP Venta,55.88,cambiario,ArgentinaDatos,ARS/USD
 2019-08-19,Dólar Oficial (Compra),53.0,cambiario,Bluelytics,ARS/USD
 2019-08-19,Dólar Oficial (Venta),58.0,cambiario,Bluelytics,ARS/USD
 2019-08-19,Riesgo País (EMBI+),1879.0,financiero,ArgentinaDatos,bps
@@ -50354,6 +50644,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-10-13,Riesgo País (EMBI+),1894.0,financiero,ArgentinaDatos,bps
 2019-10-14,Dólar Blue (Compra),62.0,cambiario,Bluelytics,ARS/USD
 2019-10-14,Dólar Blue (Venta),64.0,cambiario,Bluelytics,ARS/USD
+2019-10-14,Dólar CCL Compra,68.23,cambiario,ArgentinaDatos,ARS/USD
+2019-10-14,Dólar CCL Venta,68.23,cambiario,ArgentinaDatos,ARS/USD
+2019-10-14,Dólar MEP Compra,66.53,cambiario,ArgentinaDatos,ARS/USD
+2019-10-14,Dólar MEP Venta,66.53,cambiario,ArgentinaDatos,ARS/USD
 2019-10-14,Dólar Oficial (Compra),56.0,cambiario,Bluelytics,ARS/USD
 2019-10-14,Dólar Oficial (Venta),60.0,cambiario,Bluelytics,ARS/USD
 2019-10-14,Riesgo País (EMBI+),1894.0,financiero,ArgentinaDatos,bps
@@ -50833,6 +51127,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2019-11-17,Riesgo País (EMBI+),2442.0,financiero,ArgentinaDatos,bps
 2019-11-18,Dólar Blue (Compra),64.0,cambiario,Bluelytics,ARS/USD
 2019-11-18,Dólar Blue (Venta),67.0,cambiario,Bluelytics,ARS/USD
+2019-11-18,Dólar CCL Compra,76.77,cambiario,ArgentinaDatos,ARS/USD
+2019-11-18,Dólar CCL Venta,76.77,cambiario,ArgentinaDatos,ARS/USD
+2019-11-18,Dólar MEP Compra,71.56,cambiario,ArgentinaDatos,ARS/USD
+2019-11-18,Dólar MEP Venta,71.56,cambiario,ArgentinaDatos,ARS/USD
 2019-11-18,Dólar Oficial (Compra),58.0,cambiario,Bluelytics,ARS/USD
 2019-11-18,Dólar Oficial (Venta),63.0,cambiario,Bluelytics,ARS/USD
 2019-11-18,Riesgo País (EMBI+),2455.0,financiero,ArgentinaDatos,bps
@@ -52193,11 +52491,19 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-02-23,Riesgo País (EMBI+),2046.0,financiero,ArgentinaDatos,bps
 2020-02-24,Dólar Blue (Compra),75.0,cambiario,Bluelytics,ARS/USD
 2020-02-24,Dólar Blue (Venta),79.0,cambiario,Bluelytics,ARS/USD
+2020-02-24,Dólar CCL Compra,81.36,cambiario,ArgentinaDatos,ARS/USD
+2020-02-24,Dólar CCL Venta,81.36,cambiario,ArgentinaDatos,ARS/USD
+2020-02-24,Dólar MEP Compra,79.75,cambiario,ArgentinaDatos,ARS/USD
+2020-02-24,Dólar MEP Venta,79.75,cambiario,ArgentinaDatos,ARS/USD
 2020-02-24,Dólar Oficial (Compra),59.0,cambiario,Bluelytics,ARS/USD
 2020-02-24,Dólar Oficial (Venta),64.0,cambiario,Bluelytics,ARS/USD
 2020-02-24,Riesgo País (EMBI+),2059.0,financiero,ArgentinaDatos,bps
 2020-02-25,Dólar Blue (Compra),75.0,cambiario,Bluelytics,ARS/USD
 2020-02-25,Dólar Blue (Venta),79.0,cambiario,Bluelytics,ARS/USD
+2020-02-25,Dólar CCL Compra,81.36,cambiario,ArgentinaDatos,ARS/USD
+2020-02-25,Dólar CCL Venta,81.36,cambiario,ArgentinaDatos,ARS/USD
+2020-02-25,Dólar MEP Compra,79.75,cambiario,ArgentinaDatos,ARS/USD
+2020-02-25,Dólar MEP Venta,79.75,cambiario,ArgentinaDatos,ARS/USD
 2020-02-25,Dólar Oficial (Compra),59.0,cambiario,Bluelytics,ARS/USD
 2020-02-25,Dólar Oficial (Venta),64.0,cambiario,Bluelytics,ARS/USD
 2020-02-25,Riesgo País (EMBI+),2071.0,financiero,ArgentinaDatos,bps
@@ -52571,11 +52877,19 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-03-22,Riesgo País (EMBI+),4015.0,financiero,ArgentinaDatos,bps
 2020-03-23,Dólar Blue (Compra),80.0,cambiario,Bluelytics,ARS/USD
 2020-03-23,Dólar Blue (Venta),86.0,cambiario,Bluelytics,ARS/USD
+2020-03-23,Dólar CCL Compra,89.93,cambiario,ArgentinaDatos,ARS/USD
+2020-03-23,Dólar CCL Venta,89.93,cambiario,ArgentinaDatos,ARS/USD
+2020-03-23,Dólar MEP Compra,91.4,cambiario,ArgentinaDatos,ARS/USD
+2020-03-23,Dólar MEP Venta,91.4,cambiario,ArgentinaDatos,ARS/USD
 2020-03-23,Dólar Oficial (Compra),61.0,cambiario,Bluelytics,ARS/USD
 2020-03-23,Dólar Oficial (Venta),66.0,cambiario,Bluelytics,ARS/USD
 2020-03-23,Riesgo País (EMBI+),4362.0,financiero,ArgentinaDatos,bps
 2020-03-24,Dólar Blue (Compra),80.0,cambiario,Bluelytics,ARS/USD
 2020-03-24,Dólar Blue (Venta),86.0,cambiario,Bluelytics,ARS/USD
+2020-03-24,Dólar CCL Compra,89.93,cambiario,ArgentinaDatos,ARS/USD
+2020-03-24,Dólar CCL Venta,89.93,cambiario,ArgentinaDatos,ARS/USD
+2020-03-24,Dólar MEP Compra,91.4,cambiario,ArgentinaDatos,ARS/USD
+2020-03-24,Dólar MEP Venta,91.4,cambiario,ArgentinaDatos,ARS/USD
 2020-03-24,Dólar Oficial (Compra),61.0,cambiario,Bluelytics,ARS/USD
 2020-03-24,Dólar Oficial (Venta),66.0,cambiario,Bluelytics,ARS/USD
 2020-03-24,Riesgo País (EMBI+),4269.0,financiero,ArgentinaDatos,bps
@@ -52813,11 +53127,19 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-04-10,Riesgo País (EMBI+),3798.0,financiero,ArgentinaDatos,bps
 2020-04-11,Dólar Blue (Compra),80.0,cambiario,Bluelytics,ARS/USD
 2020-04-11,Dólar Blue (Venta),85.0,cambiario,Bluelytics,ARS/USD
+2020-04-11,Dólar CCL Compra,94.69,cambiario,ArgentinaDatos,ARS/USD
+2020-04-11,Dólar CCL Venta,94.69,cambiario,ArgentinaDatos,ARS/USD
+2020-04-11,Dólar MEP Compra,94.27,cambiario,ArgentinaDatos,ARS/USD
+2020-04-11,Dólar MEP Venta,94.27,cambiario,ArgentinaDatos,ARS/USD
 2020-04-11,Dólar Oficial (Compra),62.0,cambiario,Bluelytics,ARS/USD
 2020-04-11,Dólar Oficial (Venta),67.0,cambiario,Bluelytics,ARS/USD
 2020-04-11,Riesgo País (EMBI+),3798.0,financiero,ArgentinaDatos,bps
 2020-04-12,Dólar Blue (Compra),80.0,cambiario,Bluelytics,ARS/USD
 2020-04-12,Dólar Blue (Venta),85.0,cambiario,Bluelytics,ARS/USD
+2020-04-12,Dólar CCL Compra,94.69,cambiario,ArgentinaDatos,ARS/USD
+2020-04-12,Dólar CCL Venta,94.69,cambiario,ArgentinaDatos,ARS/USD
+2020-04-12,Dólar MEP Compra,94.27,cambiario,ArgentinaDatos,ARS/USD
+2020-04-12,Dólar MEP Venta,94.27,cambiario,ArgentinaDatos,ARS/USD
 2020-04-12,Dólar Oficial (Compra),62.0,cambiario,Bluelytics,ARS/USD
 2020-04-12,Dólar Oficial (Venta),67.0,cambiario,Bluelytics,ARS/USD
 2020-04-12,Riesgo País (EMBI+),3798.0,financiero,ArgentinaDatos,bps
@@ -53109,6 +53431,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-05-02,Riesgo País (EMBI+),3520.0,financiero,ArgentinaDatos,bps
 2020-05-03,Dólar Blue (Compra),108.0,cambiario,Bluelytics,ARS/USD
 2020-05-03,Dólar Blue (Venta),118.0,cambiario,Bluelytics,ARS/USD
+2020-05-03,Dólar CCL Compra,114.65,cambiario,ArgentinaDatos,ARS/USD
+2020-05-03,Dólar CCL Venta,114.65,cambiario,ArgentinaDatos,ARS/USD
+2020-05-03,Dólar MEP Compra,112.31,cambiario,ArgentinaDatos,ARS/USD
+2020-05-03,Dólar MEP Venta,112.31,cambiario,ArgentinaDatos,ARS/USD
 2020-05-03,Dólar Oficial (Compra),64.0,cambiario,Bluelytics,ARS/USD
 2020-05-03,Dólar Oficial (Venta),69.0,cambiario,Bluelytics,ARS/USD
 2020-05-03,Riesgo País (EMBI+),3520.0,financiero,ArgentinaDatos,bps
@@ -54007,7 +54333,15 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-07-10,Dólar Oficial (Compra),70.0,cambiario,Bluelytics,ARS/USD
 2020-07-10,Dólar Oficial (Venta),75.0,cambiario,Bluelytics,ARS/USD
 2020-07-10,Riesgo País (EMBI+),2299.0,financiero,ArgentinaDatos,bps
+2020-07-11,Dólar CCL Compra,109.12,cambiario,ArgentinaDatos,ARS/USD
+2020-07-11,Dólar CCL Venta,109.12,cambiario,ArgentinaDatos,ARS/USD
+2020-07-11,Dólar MEP Compra,108.98,cambiario,ArgentinaDatos,ARS/USD
+2020-07-11,Dólar MEP Venta,108.98,cambiario,ArgentinaDatos,ARS/USD
 2020-07-11,Riesgo País (EMBI+),2299.0,financiero,ArgentinaDatos,bps
+2020-07-12,Dólar CCL Compra,109.12,cambiario,ArgentinaDatos,ARS/USD
+2020-07-12,Dólar CCL Venta,109.12,cambiario,ArgentinaDatos,ARS/USD
+2020-07-12,Dólar MEP Compra,108.98,cambiario,ArgentinaDatos,ARS/USD
+2020-07-12,Dólar MEP Venta,108.98,cambiario,ArgentinaDatos,ARS/USD
 2020-07-12,Riesgo País (EMBI+),2299.0,financiero,ArgentinaDatos,bps
 2020-07-13,BADLAR Bancos Privados,29.6875,monetario,BCRA,% n.a.
 2020-07-13,Base Monetaria,2355011.0,monetario,BCRA,millones ARS
@@ -55547,6 +55881,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-11-07,Dólar MEP Compra,141.88,cambiario,ArgentinaDatos,ARS/USD
 2020-11-07,Dólar MEP Venta,141.88,cambiario,ArgentinaDatos,ARS/USD
 2020-11-07,Riesgo País (EMBI+),1391.0,financiero,ArgentinaDatos,bps
+2020-11-08,Dólar CCL Compra,146.87,cambiario,ArgentinaDatos,ARS/USD
+2020-11-08,Dólar CCL Venta,146.87,cambiario,ArgentinaDatos,ARS/USD
+2020-11-08,Dólar MEP Compra,141.88,cambiario,ArgentinaDatos,ARS/USD
+2020-11-08,Dólar MEP Venta,141.88,cambiario,ArgentinaDatos,ARS/USD
 2020-11-08,Riesgo País (EMBI+),1391.0,financiero,ArgentinaDatos,bps
 2020-11-09,BADLAR Bancos Privados,31.75,monetario,BCRA,% n.a.
 2020-11-09,Base Monetaria,2449160.0,monetario,BCRA,millones ARS
@@ -56141,7 +56479,15 @@ fecha,serie,valor,categoria,fuente,unidad
 2020-12-25,Dólar Oficial (Compra),83.0,cambiario,Bluelytics,ARS/USD
 2020-12-25,Dólar Oficial (Venta),89.0,cambiario,Bluelytics,ARS/USD
 2020-12-25,Riesgo País (EMBI+),1356.0,financiero,ArgentinaDatos,bps
+2020-12-26,Dólar CCL Compra,140.45,cambiario,ArgentinaDatos,ARS/USD
+2020-12-26,Dólar CCL Venta,140.45,cambiario,ArgentinaDatos,ARS/USD
+2020-12-26,Dólar MEP Compra,140.35,cambiario,ArgentinaDatos,ARS/USD
+2020-12-26,Dólar MEP Venta,140.35,cambiario,ArgentinaDatos,ARS/USD
 2020-12-26,Riesgo País (EMBI+),1356.0,financiero,ArgentinaDatos,bps
+2020-12-27,Dólar CCL Compra,140.45,cambiario,ArgentinaDatos,ARS/USD
+2020-12-27,Dólar CCL Venta,140.45,cambiario,ArgentinaDatos,ARS/USD
+2020-12-27,Dólar MEP Compra,140.35,cambiario,ArgentinaDatos,ARS/USD
+2020-12-27,Dólar MEP Venta,140.35,cambiario,ArgentinaDatos,ARS/USD
 2020-12-27,Riesgo País (EMBI+),1356.0,financiero,ArgentinaDatos,bps
 2020-12-28,BADLAR Bancos Privados,34.125,monetario,BCRA,% n.a.
 2020-12-28,Base Monetaria,2545437.0,monetario,BCRA,millones ARS
@@ -56220,7 +56566,15 @@ fecha,serie,valor,categoria,fuente,unidad
 2021-01-01,Recaudación Tributaria,772859.8174596,fiscal,Ministerio de Economía,millones ARS
 2021-01-01,Riesgo País (EMBI+),1368.0,financiero,ArgentinaDatos,bps
 2021-01-01,Índice de Salarios,328.84,laboral,INDEC,índice
+2021-01-02,Dólar CCL Compra,140.26,cambiario,ArgentinaDatos,ARS/USD
+2021-01-02,Dólar CCL Venta,140.26,cambiario,ArgentinaDatos,ARS/USD
+2021-01-02,Dólar MEP Compra,139.99,cambiario,ArgentinaDatos,ARS/USD
+2021-01-02,Dólar MEP Venta,139.99,cambiario,ArgentinaDatos,ARS/USD
 2021-01-02,Riesgo País (EMBI+),1368.0,financiero,ArgentinaDatos,bps
+2021-01-03,Dólar CCL Compra,140.26,cambiario,ArgentinaDatos,ARS/USD
+2021-01-03,Dólar CCL Venta,140.26,cambiario,ArgentinaDatos,ARS/USD
+2021-01-03,Dólar MEP Compra,139.99,cambiario,ArgentinaDatos,ARS/USD
+2021-01-03,Dólar MEP Venta,139.99,cambiario,ArgentinaDatos,ARS/USD
 2021-01-03,Riesgo País (EMBI+),1368.0,financiero,ArgentinaDatos,bps
 2021-01-04,BADLAR Bancos Privados,34.0625,monetario,BCRA,% n.a.
 2021-01-04,Base Monetaria,2626749.0,monetario,BCRA,millones ARS
@@ -57372,7 +57726,15 @@ fecha,serie,valor,categoria,fuente,unidad
 2021-04-02,Dólar Oficial (Compra),92.0,cambiario,Bluelytics,ARS/USD
 2021-04-02,Dólar Oficial (Venta),98.0,cambiario,Bluelytics,ARS/USD
 2021-04-02,Riesgo País (EMBI+),1589.0,financiero,ArgentinaDatos,bps
+2021-04-03,Dólar CCL Compra,147.16,cambiario,ArgentinaDatos,ARS/USD
+2021-04-03,Dólar CCL Venta,147.16,cambiario,ArgentinaDatos,ARS/USD
+2021-04-03,Dólar MEP Compra,142.19,cambiario,ArgentinaDatos,ARS/USD
+2021-04-03,Dólar MEP Venta,142.19,cambiario,ArgentinaDatos,ARS/USD
 2021-04-03,Riesgo País (EMBI+),1589.0,financiero,ArgentinaDatos,bps
+2021-04-04,Dólar CCL Compra,147.16,cambiario,ArgentinaDatos,ARS/USD
+2021-04-04,Dólar CCL Venta,147.16,cambiario,ArgentinaDatos,ARS/USD
+2021-04-04,Dólar MEP Compra,142.19,cambiario,ArgentinaDatos,ARS/USD
+2021-04-04,Dólar MEP Venta,142.19,cambiario,ArgentinaDatos,ARS/USD
 2021-04-04,Riesgo País (EMBI+),1589.0,financiero,ArgentinaDatos,bps
 2021-04-05,BADLAR Bancos Privados,33.9375,monetario,BCRA,% n.a.
 2021-04-05,Base Monetaria,2862387.0,monetario,BCRA,millones ARS
@@ -58626,6 +58988,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2021-07-10,Dólar MEP Compra,166.42,cambiario,ArgentinaDatos,ARS/USD
 2021-07-10,Dólar MEP Venta,166.42,cambiario,ArgentinaDatos,ARS/USD
 2021-07-10,Riesgo País (EMBI+),1600.0,financiero,ArgentinaDatos,bps
+2021-07-11,Dólar CCL Compra,167.26,cambiario,ArgentinaDatos,ARS/USD
+2021-07-11,Dólar CCL Venta,167.26,cambiario,ArgentinaDatos,ARS/USD
+2021-07-11,Dólar MEP Compra,166.42,cambiario,ArgentinaDatos,ARS/USD
+2021-07-11,Dólar MEP Venta,166.42,cambiario,ArgentinaDatos,ARS/USD
 2021-07-11,Riesgo País (EMBI+),1600.0,financiero,ArgentinaDatos,bps
 2021-07-12,BADLAR Bancos Privados,34.125,monetario,BCRA,% n.a.
 2021-07-12,Base Monetaria,2976047.0,monetario,BCRA,millones ARS
@@ -59803,9 +60169,17 @@ fecha,serie,valor,categoria,fuente,unidad
 2021-10-09,Dólar MEP Compra,176.45,cambiario,ArgentinaDatos,ARS/USD
 2021-10-09,Dólar MEP Venta,176.45,cambiario,ArgentinaDatos,ARS/USD
 2021-10-09,Riesgo País (EMBI+),1602.0,financiero,ArgentinaDatos,bps
+2021-10-10,Dólar CCL Compra,176.55,cambiario,ArgentinaDatos,ARS/USD
+2021-10-10,Dólar CCL Venta,176.55,cambiario,ArgentinaDatos,ARS/USD
+2021-10-10,Dólar MEP Compra,176.45,cambiario,ArgentinaDatos,ARS/USD
+2021-10-10,Dólar MEP Venta,176.45,cambiario,ArgentinaDatos,ARS/USD
 2021-10-10,Riesgo País (EMBI+),1602.0,financiero,ArgentinaDatos,bps
 2021-10-11,Dólar Blue (Compra),180.0,cambiario,Bluelytics,ARS/USD
 2021-10-11,Dólar Blue (Venta),184.0,cambiario,Bluelytics,ARS/USD
+2021-10-11,Dólar CCL Compra,176.55,cambiario,ArgentinaDatos,ARS/USD
+2021-10-11,Dólar CCL Venta,176.55,cambiario,ArgentinaDatos,ARS/USD
+2021-10-11,Dólar MEP Compra,176.45,cambiario,ArgentinaDatos,ARS/USD
+2021-10-11,Dólar MEP Venta,176.45,cambiario,ArgentinaDatos,ARS/USD
 2021-10-11,Dólar Oficial (Compra),99.0,cambiario,Bluelytics,ARS/USD
 2021-10-11,Dólar Oficial (Venta),105.0,cambiario,Bluelytics,ARS/USD
 2021-10-11,Riesgo País (EMBI+),1602.0,financiero,ArgentinaDatos,bps
@@ -60773,6 +61147,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2021-12-25,Dólar MEP Compra,199.21,cambiario,ArgentinaDatos,ARS/USD
 2021-12-25,Dólar MEP Venta,199.21,cambiario,ArgentinaDatos,ARS/USD
 2021-12-25,Riesgo País (EMBI+),1762.0,financiero,ArgentinaDatos,bps
+2021-12-26,Dólar CCL Compra,203.04,cambiario,ArgentinaDatos,ARS/USD
+2021-12-26,Dólar CCL Venta,203.04,cambiario,ArgentinaDatos,ARS/USD
+2021-12-26,Dólar MEP Compra,199.21,cambiario,ArgentinaDatos,ARS/USD
+2021-12-26,Dólar MEP Venta,199.21,cambiario,ArgentinaDatos,ARS/USD
 2021-12-26,Riesgo País (EMBI+),1762.0,financiero,ArgentinaDatos,bps
 2021-12-27,BADLAR Bancos Privados,34.25,monetario,BCRA,% n.a.
 2021-12-27,Base Monetaria,3489909.0,monetario,BCRA,millones ARS
@@ -60863,6 +61241,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-01,Recaudación Tributaria,1171943.0637611402,fiscal,Ministerio de Economía,millones ARS
 2022-01-01,Riesgo País (EMBI+),1688.0,financiero,ArgentinaDatos,bps
 2022-01-01,Índice de Salarios,506.68,laboral,INDEC,índice
+2022-01-02,Dólar CCL Compra,202.13,cambiario,ArgentinaDatos,ARS/USD
+2022-01-02,Dólar CCL Venta,202.13,cambiario,ArgentinaDatos,ARS/USD
+2022-01-02,Dólar MEP Compra,197.8,cambiario,ArgentinaDatos,ARS/USD
+2022-01-02,Dólar MEP Venta,197.8,cambiario,ArgentinaDatos,ARS/USD
 2022-01-02,Riesgo País (EMBI+),1688.0,financiero,ArgentinaDatos,bps
 2022-01-03,BADLAR Bancos Privados,34.1875,monetario,BCRA,% n.a.
 2022-01-03,Base Monetaria,3922697.0,monetario,BCRA,millones ARS
@@ -62192,7 +62574,15 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-04-15,Dólar Oficial (Compra),112.0,cambiario,Bluelytics,ARS/USD
 2022-04-15,Dólar Oficial (Venta),118.0,cambiario,Bluelytics,ARS/USD
 2022-04-15,Riesgo País (EMBI+),1689.0,financiero,ArgentinaDatos,bps
+2022-04-16,Dólar CCL Compra,190.53,cambiario,ArgentinaDatos,ARS/USD
+2022-04-16,Dólar CCL Venta,190.53,cambiario,ArgentinaDatos,ARS/USD
+2022-04-16,Dólar MEP Compra,191.33,cambiario,ArgentinaDatos,ARS/USD
+2022-04-16,Dólar MEP Venta,191.33,cambiario,ArgentinaDatos,ARS/USD
 2022-04-16,Riesgo País (EMBI+),1689.0,financiero,ArgentinaDatos,bps
+2022-04-17,Dólar CCL Compra,190.53,cambiario,ArgentinaDatos,ARS/USD
+2022-04-17,Dólar CCL Venta,190.53,cambiario,ArgentinaDatos,ARS/USD
+2022-04-17,Dólar MEP Compra,191.33,cambiario,ArgentinaDatos,ARS/USD
+2022-04-17,Dólar MEP Venta,191.33,cambiario,ArgentinaDatos,ARS/USD
 2022-04-17,Riesgo País (EMBI+),1689.0,financiero,ArgentinaDatos,bps
 2022-04-18,BADLAR Bancos Privados,44.5625,monetario,BCRA,% n.a.
 2022-04-18,Base Monetaria,3647250.0,monetario,BCRA,millones ARS
@@ -62994,9 +63384,17 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-06-18,Dólar MEP Compra,235.09,cambiario,ArgentinaDatos,ARS/USD
 2022-06-18,Dólar MEP Venta,235.09,cambiario,ArgentinaDatos,ARS/USD
 2022-06-18,Riesgo País (EMBI+),2213.0,financiero,ArgentinaDatos,bps
+2022-06-19,Dólar CCL Compra,242.24,cambiario,ArgentinaDatos,ARS/USD
+2022-06-19,Dólar CCL Venta,242.24,cambiario,ArgentinaDatos,ARS/USD
+2022-06-19,Dólar MEP Compra,235.09,cambiario,ArgentinaDatos,ARS/USD
+2022-06-19,Dólar MEP Venta,235.09,cambiario,ArgentinaDatos,ARS/USD
 2022-06-19,Riesgo País (EMBI+),2213.0,financiero,ArgentinaDatos,bps
 2022-06-20,Dólar Blue (Compra),212.0,cambiario,Bluelytics,ARS/USD
 2022-06-20,Dólar Blue (Venta),216.0,cambiario,Bluelytics,ARS/USD
+2022-06-20,Dólar CCL Compra,242.24,cambiario,ArgentinaDatos,ARS/USD
+2022-06-20,Dólar CCL Venta,242.24,cambiario,ArgentinaDatos,ARS/USD
+2022-06-20,Dólar MEP Compra,235.09,cambiario,ArgentinaDatos,ARS/USD
+2022-06-20,Dólar MEP Venta,235.09,cambiario,ArgentinaDatos,ARS/USD
 2022-06-20,Dólar Oficial (Compra),122.0,cambiario,Bluelytics,ARS/USD
 2022-06-20,Dólar Oficial (Venta),128.0,cambiario,Bluelytics,ARS/USD
 2022-06-20,Riesgo País (EMBI+),2213.0,financiero,ArgentinaDatos,bps
@@ -63980,6 +64378,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-09-03,Dólar MEP Compra,278.73,cambiario,ArgentinaDatos,ARS/USD
 2022-09-03,Dólar MEP Venta,278.73,cambiario,ArgentinaDatos,ARS/USD
 2022-09-03,Riesgo País (EMBI+),2427.0,financiero,ArgentinaDatos,bps
+2022-09-04,Dólar CCL Compra,288.74,cambiario,ArgentinaDatos,ARS/USD
+2022-09-04,Dólar CCL Venta,288.74,cambiario,ArgentinaDatos,ARS/USD
+2022-09-04,Dólar MEP Compra,278.73,cambiario,ArgentinaDatos,ARS/USD
+2022-09-04,Dólar MEP Venta,278.73,cambiario,ArgentinaDatos,ARS/USD
 2022-09-04,Riesgo País (EMBI+),2427.0,financiero,ArgentinaDatos,bps
 2022-09-05,BADLAR Bancos Privados,64.1875,monetario,BCRA,% n.a.
 2022-09-05,Base Monetaria,4408378.0,monetario,BCRA,millones ARS
@@ -64424,9 +64826,17 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-10-08,Dólar MEP Compra,293.25,cambiario,ArgentinaDatos,ARS/USD
 2022-10-08,Dólar MEP Venta,293.25,cambiario,ArgentinaDatos,ARS/USD
 2022-10-08,Riesgo País (EMBI+),2768.0,financiero,ArgentinaDatos,bps
+2022-10-09,Dólar CCL Compra,307.12,cambiario,ArgentinaDatos,ARS/USD
+2022-10-09,Dólar CCL Venta,307.12,cambiario,ArgentinaDatos,ARS/USD
+2022-10-09,Dólar MEP Compra,293.25,cambiario,ArgentinaDatos,ARS/USD
+2022-10-09,Dólar MEP Venta,293.25,cambiario,ArgentinaDatos,ARS/USD
 2022-10-09,Riesgo País (EMBI+),2768.0,financiero,ArgentinaDatos,bps
 2022-10-10,Dólar Blue (Compra),273.0,cambiario,Bluelytics,ARS/USD
 2022-10-10,Dólar Blue (Venta),277.0,cambiario,Bluelytics,ARS/USD
+2022-10-10,Dólar CCL Compra,307.12,cambiario,ArgentinaDatos,ARS/USD
+2022-10-10,Dólar CCL Venta,307.12,cambiario,ArgentinaDatos,ARS/USD
+2022-10-10,Dólar MEP Compra,293.25,cambiario,ArgentinaDatos,ARS/USD
+2022-10-10,Dólar MEP Venta,293.25,cambiario,ArgentinaDatos,ARS/USD
 2022-10-10,Dólar Oficial (Compra),148.0,cambiario,Bluelytics,ARS/USD
 2022-10-10,Dólar Oficial (Venta),156.0,cambiario,Bluelytics,ARS/USD
 2022-10-10,Riesgo País (EMBI+),2768.0,financiero,ArgentinaDatos,bps
@@ -65209,7 +65619,15 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-12-09,Dólar Oficial (Compra),168.0,cambiario,Bluelytics,ARS/USD
 2022-12-09,Dólar Oficial (Venta),177.0,cambiario,Bluelytics,ARS/USD
 2022-12-09,Riesgo País (EMBI+),2343.0,financiero,ArgentinaDatos,bps
+2022-12-10,Dólar CCL Compra,338.09,cambiario,ArgentinaDatos,ARS/USD
+2022-12-10,Dólar CCL Venta,338.09,cambiario,ArgentinaDatos,ARS/USD
+2022-12-10,Dólar MEP Compra,328.98,cambiario,ArgentinaDatos,ARS/USD
+2022-12-10,Dólar MEP Venta,328.98,cambiario,ArgentinaDatos,ARS/USD
 2022-12-10,Riesgo País (EMBI+),2343.0,financiero,ArgentinaDatos,bps
+2022-12-11,Dólar CCL Compra,338.09,cambiario,ArgentinaDatos,ARS/USD
+2022-12-11,Dólar CCL Venta,338.09,cambiario,ArgentinaDatos,ARS/USD
+2022-12-11,Dólar MEP Compra,328.98,cambiario,ArgentinaDatos,ARS/USD
+2022-12-11,Dólar MEP Venta,328.98,cambiario,ArgentinaDatos,ARS/USD
 2022-12-11,Riesgo País (EMBI+),2343.0,financiero,ArgentinaDatos,bps
 2022-12-12,BADLAR Bancos Privados,70.25,monetario,BCRA,% n.a.
 2022-12-12,Base Monetaria,4844762.0,monetario,BCRA,millones ARS
@@ -66562,6 +66980,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2023-03-25,Dólar MEP Compra,375.72,cambiario,ArgentinaDatos,ARS/USD
 2023-03-25,Dólar MEP Venta,375.72,cambiario,ArgentinaDatos,ARS/USD
 2023-03-25,Riesgo País (EMBI+),2549.0,financiero,ArgentinaDatos,bps
+2023-03-26,Dólar CCL Compra,390.19,cambiario,ArgentinaDatos,ARS/USD
+2023-03-26,Dólar CCL Venta,390.19,cambiario,ArgentinaDatos,ARS/USD
+2023-03-26,Dólar MEP Compra,375.72,cambiario,ArgentinaDatos,ARS/USD
+2023-03-26,Dólar MEP Venta,375.72,cambiario,ArgentinaDatos,ARS/USD
 2023-03-26,Riesgo País (EMBI+),2549.0,financiero,ArgentinaDatos,bps
 2023-03-27,BADLAR Bancos Privados,73.6875,monetario,BCRA,% n.a.
 2023-03-27,Base Monetaria,5108708.0,monetario,BCRA,millones ARS
@@ -66728,7 +67150,15 @@ fecha,serie,valor,categoria,fuente,unidad
 2023-04-07,Dólar Oficial (Compra),210.0,cambiario,Bluelytics,ARS/USD
 2023-04-07,Dólar Oficial (Venta),219.0,cambiario,Bluelytics,ARS/USD
 2023-04-07,Riesgo País (EMBI+),2472.0,financiero,ArgentinaDatos,bps
+2023-04-08,Dólar CCL Compra,408.24,cambiario,ArgentinaDatos,ARS/USD
+2023-04-08,Dólar CCL Venta,408.24,cambiario,ArgentinaDatos,ARS/USD
+2023-04-08,Dólar MEP Compra,396.6,cambiario,ArgentinaDatos,ARS/USD
+2023-04-08,Dólar MEP Venta,396.6,cambiario,ArgentinaDatos,ARS/USD
 2023-04-08,Riesgo País (EMBI+),2472.0,financiero,ArgentinaDatos,bps
+2023-04-09,Dólar CCL Compra,408.24,cambiario,ArgentinaDatos,ARS/USD
+2023-04-09,Dólar CCL Venta,408.24,cambiario,ArgentinaDatos,ARS/USD
+2023-04-09,Dólar MEP Compra,396.6,cambiario,ArgentinaDatos,ARS/USD
+2023-04-09,Dólar MEP Venta,396.6,cambiario,ArgentinaDatos,ARS/USD
 2023-04-09,Riesgo País (EMBI+),2472.0,financiero,ArgentinaDatos,bps
 2023-04-10,BADLAR Bancos Privados,73.1875,monetario,BCRA,% n.a.
 2023-04-10,Base Monetaria,5324060.0,monetario,BCRA,millones ARS
@@ -67336,7 +67766,15 @@ fecha,serie,valor,categoria,fuente,unidad
 2023-05-26,Dólar Oficial (Compra),237.0,cambiario,Bluelytics,ARS/USD
 2023-05-26,Dólar Oficial (Venta),247.0,cambiario,Bluelytics,ARS/USD
 2023-05-26,Riesgo País (EMBI+),2590.0,financiero,ArgentinaDatos,bps
+2023-05-27,Dólar CCL Compra,479.65,cambiario,ArgentinaDatos,ARS/USD
+2023-05-27,Dólar CCL Venta,479.65,cambiario,ArgentinaDatos,ARS/USD
+2023-05-27,Dólar MEP Compra,462.35,cambiario,ArgentinaDatos,ARS/USD
+2023-05-27,Dólar MEP Venta,462.35,cambiario,ArgentinaDatos,ARS/USD
 2023-05-27,Riesgo País (EMBI+),2590.0,financiero,ArgentinaDatos,bps
+2023-05-28,Dólar CCL Compra,479.65,cambiario,ArgentinaDatos,ARS/USD
+2023-05-28,Dólar CCL Venta,479.65,cambiario,ArgentinaDatos,ARS/USD
+2023-05-28,Dólar MEP Compra,462.35,cambiario,ArgentinaDatos,ARS/USD
+2023-05-28,Dólar MEP Venta,462.35,cambiario,ArgentinaDatos,ARS/USD
 2023-05-28,Riesgo País (EMBI+),2590.0,financiero,ArgentinaDatos,bps
 2023-05-29,BADLAR Bancos Privados,93.1875,monetario,BCRA,% n.a.
 2023-05-29,Base Monetaria,5443888.0,monetario,BCRA,millones ARS
@@ -79616,6 +80054,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2026-02-02,Base Monetaria,42050300.0,monetario,BCRA,millones ARS
 2026-02-02,Dólar Blue (Compra),1430.0,cambiario,Bluelytics,ARS/USD
 2026-02-02,Dólar Blue (Venta),1450.0,cambiario,Bluelytics,ARS/USD
+2026-02-02,Dólar CCL Compra,1498.2,cambiario,ArgentinaDatos,ARS/USD
+2026-02-02,Dólar CCL Venta,1499.4,cambiario,ArgentinaDatos,ARS/USD
+2026-02-02,Dólar MEP Compra,1460.4,cambiario,ArgentinaDatos,ARS/USD
+2026-02-02,Dólar MEP Venta,1464.6,cambiario,ArgentinaDatos,ARS/USD
 2026-02-02,Dólar Oficial (Compra),1418.0,cambiario,Bluelytics,ARS/USD
 2026-02-02,Dólar Oficial (Venta),1469.0,cambiario,Bluelytics,ARS/USD
 2026-02-02,Reservas Internacionales BCRA,45104.0,monetario,BCRA,millones USD
@@ -80932,6 +81374,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2026-05-28,Tasa Pases Pasivos BCRA 1 día,19.87,monetario,BCRA,% n.a.
 2026-05-28,Tipo de Cambio Minorista BCRA,1430.45,cambiario,BCRA,ARS/USD
 2026-05-29,BADLAR Bancos Privados,20.625,monetario,BCRA,% n.a.
+2026-05-29,Base Monetaria,41975464.0,monetario,BCRA,millones ARS
 2026-05-29,Dólar Blue (Compra),1410.0,cambiario,Bluelytics,ARS/USD
 2026-05-29,Dólar Blue (Venta),1430.0,cambiario,Bluelytics,ARS/USD
 2026-05-29,Dólar CCL Compra,1480.7,cambiario,ArgentinaDatos,ARS/USD
@@ -80940,6 +81383,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2026-05-29,Dólar MEP Venta,1434.8,cambiario,ArgentinaDatos,ARS/USD
 2026-05-29,Dólar Oficial (Compra),1379.0,cambiario,Bluelytics,ARS/USD
 2026-05-29,Dólar Oficial (Venta),1430.0,cambiario,Bluelytics,ARS/USD
+2026-05-29,Reservas Internacionales BCRA,48193.0,monetario,BCRA,millones USD
 2026-05-29,Riesgo País (EMBI+),493.0,financiero,ArgentinaDatos,bps
 2026-05-29,Tasa Pases Pasivos BCRA 1 día,20.01,monetario,BCRA,% n.a.
 2026-05-29,Tipo de Cambio Minorista BCRA,1431.57,cambiario,BCRA,ARS/USD
@@ -80951,6 +81395,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2026-05-31,Dólar CCL Venta,1483.9,cambiario,ArgentinaDatos,ARS/USD
 2026-05-31,Dólar MEP Compra,1432.1,cambiario,ArgentinaDatos,ARS/USD
 2026-05-31,Dólar MEP Venta,1434.8,cambiario,ArgentinaDatos,ARS/USD
+2026-06-01,BADLAR Bancos Privados,20.8125,monetario,BCRA,% n.a.
 2026-06-01,Dólar Blue (Compra),1415.0,cambiario,Bluelytics,ARS/USD
 2026-06-01,Dólar Blue (Venta),1435.0,cambiario,Bluelytics,ARS/USD
 2026-06-01,Dólar CCL Compra,1490.8,cambiario,ArgentinaDatos,ARS/USD
@@ -80959,4 +81404,10 @@ fecha,serie,valor,categoria,fuente,unidad
 2026-06-01,Dólar MEP Venta,1443.1,cambiario,ArgentinaDatos,ARS/USD
 2026-06-01,Dólar Oficial (Compra),1382.0,cambiario,Bluelytics,ARS/USD
 2026-06-01,Dólar Oficial (Venta),1434.0,cambiario,Bluelytics,ARS/USD
+2026-06-01,Tasa Pases Pasivos BCRA 1 día,20.13,monetario,BCRA,% n.a.
 2026-06-01,Tipo de Cambio Minorista BCRA,1444.58,cambiario,BCRA,ARS/USD
+2026-06-02,Dólar Blue (Compra),1415.0,cambiario,Bluelytics,ARS/USD
+2026-06-02,Dólar Blue (Venta),1435.0,cambiario,Bluelytics,ARS/USD
+2026-06-02,Dólar Oficial (Compra),1394.0,cambiario,Bluelytics,ARS/USD
+2026-06-02,Dólar Oficial (Venta),1445.0,cambiario,Bluelytics,ARS/USD
+2026-06-02,Tipo de Cambio Minorista BCRA,1448.79,cambiario,BCRA,ARS/USD
