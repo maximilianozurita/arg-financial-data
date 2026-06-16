@@ -40,8 +40,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_blue_compra",
-    "ultimo_valor": 1430.0,
-    "ultima_fecha": "2026-06-12"
+    "ultimo_valor": 1440.0,
+    "ultima_fecha": "2026-06-15"
   },
   {
     "id": 8,
@@ -51,8 +51,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_blue_venta",
-    "ultimo_valor": 1450.0,
-    "ultima_fecha": "2026-06-12"
+    "ultimo_valor": 1460.0,
+    "ultima_fecha": "2026-06-15"
   },
   {
     "id": 26,
@@ -63,7 +63,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_ccl_compra",
     "ultimo_valor": 1492.2,
-    "ultima_fecha": "2026-06-12"
+    "ultima_fecha": "2026-06-15"
   },
   {
     "id": 27,
@@ -74,7 +74,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_ccl_venta",
     "ultimo_valor": 1495.6,
-    "ultima_fecha": "2026-06-12"
+    "ultima_fecha": "2026-06-15"
   },
   {
     "id": 24,
@@ -85,7 +85,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_mep_compra",
     "ultimo_valor": 1449.4,
-    "ultima_fecha": "2026-06-12"
+    "ultima_fecha": "2026-06-15"
   },
   {
     "id": 25,
@@ -96,7 +96,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_mep_venta",
     "ultimo_valor": 1452.2,
-    "ultima_fecha": "2026-06-12"
+    "ultima_fecha": "2026-06-15"
   },
   {
     "id": 11,
@@ -107,7 +107,7 @@
     "frecuencia": "diaria",
     "slug": "dolar_oficial_compra",
     "ultimo_valor": 1402.0,
-    "ultima_fecha": "2026-06-12"
+    "ultima_fecha": "2026-06-15"
   },
   {
     "id": 10,
@@ -117,8 +117,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_oficial_venta",
-    "ultimo_valor": 1454.0,
-    "ultima_fecha": "2026-06-12"
+    "ultimo_valor": 1453.0,
+    "ultima_fecha": "2026-06-15"
   },
   {
     "id": 3,
@@ -139,8 +139,8 @@
     "unidad": "bps",
     "frecuencia": "diaria",
     "slug": "riesgo_pais_embi",
-    "ultimo_valor": 443.0,
-    "ultima_fecha": "2026-06-11"
+    "ultimo_valor": 437.0,
+    "ultima_fecha": "2026-06-12"
   },
   {
     "id": 111,
