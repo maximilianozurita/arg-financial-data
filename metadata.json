@@ -41,7 +41,7 @@
     "frecuencia": "diaria",
     "descripcion": "Cotización compra del dólar blue (informal)",
     "slug": "dolar_blue_compra",
-    "ultima_actualizacion": "2026-06-18T00:00:37.680588+00:00"
+    "ultima_actualizacion": "2026-07-01T00:00:26.252717+00:00"
   },
   {
     "id": 8,
@@ -52,7 +52,7 @@
     "frecuencia": "diaria",
     "descripcion": "Cotización venta del dólar blue (informal)",
     "slug": "dolar_blue_venta",
-    "ultima_actualizacion": "2026-06-18T00:00:37.528129+00:00"
+    "ultima_actualizacion": "2026-07-01T00:00:26.101391+00:00"
   },
   {
     "id": 26,
@@ -63,7 +63,7 @@
     "frecuencia": "diaria",
     "descripcion": "Dólar CCL Compra (ArgentinaDatos)",
     "slug": "dolar_ccl_compra",
-    "ultima_actualizacion": "2026-06-18T00:00:39.288996+00:00"
+    "ultima_actualizacion": "2026-07-01T00:00:27.676305+00:00"
   },
   {
     "id": 27,
@@ -74,7 +74,7 @@
     "frecuencia": "diaria",
     "descripcion": "Dólar CCL Venta (ArgentinaDatos)",
     "slug": "dolar_ccl_venta",
-    "ultima_actualizacion": "2026-06-18T00:00:39.442252+00:00"
+    "ultima_actualizacion": "2026-07-01T00:00:27.811984+00:00"
   },
   {
     "id": 24,
@@ -85,7 +85,7 @@
     "frecuencia": "diaria",
     "descripcion": "Dólar MEP Compra (ArgentinaDatos)",
     "slug": "dolar_mep_compra",
-    "ultima_actualizacion": "2026-06-18T00:00:38.773106+00:00"
+    "ultima_actualizacion": "2026-07-01T00:00:27.283481+00:00"
   },
   {
     "id": 25,
@@ -96,7 +96,7 @@
     "frecuencia": "diaria",
     "descripcion": "Dólar MEP Venta (ArgentinaDatos)",
     "slug": "dolar_mep_venta",
-    "ultima_actualizacion": "2026-06-18T00:00:38.885565+00:00"
+    "ultima_actualizacion": "2026-07-01T00:00:27.421702+00:00"
   },
   {
     "id": 11,
@@ -107,7 +107,7 @@
     "frecuencia": "diaria",
     "descripcion": "Cotización compra del dólar oficial BNA",
     "slug": "dolar_oficial_compra",
-    "ultima_actualizacion": "2026-06-18T00:00:37.904139+00:00"
+    "ultima_actualizacion": "2026-07-01T00:00:26.497907+00:00"
   },
   {
     "id": 10,
@@ -118,7 +118,7 @@
     "frecuencia": "diaria",
     "descripcion": "Cotización venta del dólar oficial BNA",
     "slug": "dolar_oficial_venta",
-    "ultima_actualizacion": "2026-06-18T00:00:37.792315+00:00"
+    "ultima_actualizacion": "2026-07-01T00:00:26.375792+00:00"
   },
   {
     "id": 3,
@@ -129,7 +129,7 @@
     "frecuencia": "diaria",
     "descripcion": "Tipo de cambio minorista promedio vendedor (BCRA)",
     "slug": "tipo_de_cambio_minorista_bcra",
-    "ultima_actualizacion": "2026-06-18T00:00:24.495731+00:00"
+    "ultima_actualizacion": "2026-07-01T00:00:20.772635+00:00"
   },
   {
     "id": 23,
@@ -140,7 +140,7 @@
     "frecuencia": "diaria",
     "descripcion": "Riesgo país argentino (EMBI+ spread en puntos básicos)",
     "slug": "riesgo_pais_embi",
-    "ultima_actualizacion": "2026-06-18T00:00:38.413003+00:00"
+    "ultima_actualizacion": "2026-07-01T00:00:26.880102+00:00"
   },
   {
     "id": 111,
@@ -206,7 +206,7 @@
     "frecuencia": "diaria",
     "descripcion": "Tasa de interés BADLAR bancos privados (nominal anual)",
     "slug": "badlar_bancos_privados",
-    "ultima_actualizacion": "2026-06-18T00:00:29.135499+00:00"
+    "ultima_actualizacion": "2026-07-01T00:00:23.806991+00:00"
   },
   {
     "id": 2,
@@ -217,7 +217,7 @@
     "frecuencia": "diaria",
     "descripcion": "Base monetaria en millones de pesos",
     "slug": "base_monetaria",
-    "ultima_actualizacion": "2026-06-18T00:00:14.456309+00:00"
+    "ultima_actualizacion": "2026-07-01T00:00:16.966038+00:00"
   },
   {
     "id": 1,
@@ -228,7 +228,7 @@
     "frecuencia": "diaria",
     "descripcion": "Reservas internacionales del BCRA en millones de dólares",
     "slug": "reservas_internacionales_bcra",
-    "ultima_actualizacion": "2026-06-18T00:00:12.058341+00:00"
+    "ultima_actualizacion": "2026-07-01T00:00:15.394211+00:00"
   },
   {
     "id": 6,
@@ -239,7 +239,7 @@
     "frecuencia": "diaria",
     "descripcion": "Tasa de pases pasivos entre terceros a 1 día (BCRA)",
     "slug": "tasa_pases_pasivos_bcra_1_dia",
-    "ultima_actualizacion": "2026-06-18T00:00:33.907669+00:00"
+    "ultima_actualizacion": "2026-07-01T00:00:24.827671+00:00"
   },
   {
     "id": 7,
@@ -250,7 +250,7 @@
     "frecuencia": "diaria",
     "descripcion": "Tasa de interés de política monetaria (BCRA)",
     "slug": "tasa_de_politica_monetaria",
-    "ultima_actualizacion": "2026-06-18T00:00:35.077080+00:00"
+    "ultima_actualizacion": "2026-07-01T00:00:25.564273+00:00"
   },
   {
     "id": 44,
@@ -272,7 +272,7 @@
     "frecuencia": "diaria",
     "descripcion": "Mediana de variación interanual esperada del IPC próximos 12 meses (REM-BCRA)",
     "slug": "inflacion_esperada_12m_rem",
-    "ultima_actualizacion": "2026-06-18T00:00:29.357106+00:00"
+    "ultima_actualizacion": "2026-07-01T00:00:24.054806+00:00"
   },
   {
     "id": 107,
