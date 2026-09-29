@@ -61260,7 +61260,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-03,Riesgo País (EMBI+),1701.0,financiero,ArgentinaDatos,bps
 2022-01-03,Tasa Pases Pasivos BCRA 1 día,30.15,monetario,BCRA,% n.a.
 2022-01-03,Tasa de Política Monetaria,38.0,monetario,BCRA,% n.a.
-2022-01-03,Tipo de Cambio Minorista BCRA,108.48,cambiario,BCRA,ARS/USD
+2022-01-03,Tipo de Cambio Minorista BCRA,108.29,cambiario,BCRA,ARS/USD
 2022-01-03,Índice Merval,85579.0,acciones,Yahoo Finance,puntos
 2022-01-04,BADLAR Bancos Privados,34.25,monetario,BCRA,% n.a.
 2022-01-04,Base Monetaria,3851298.0,monetario,BCRA,millones ARS
@@ -61276,7 +61276,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-04,Riesgo País (EMBI+),1731.0,financiero,ArgentinaDatos,bps
 2022-01-04,Tasa Pases Pasivos BCRA 1 día,29.97,monetario,BCRA,% n.a.
 2022-01-04,Tasa de Política Monetaria,38.0,monetario,BCRA,% n.a.
-2022-01-04,Tipo de Cambio Minorista BCRA,108.61,cambiario,BCRA,ARS/USD
+2022-01-04,Tipo de Cambio Minorista BCRA,108.48,cambiario,BCRA,ARS/USD
 2022-01-04,Índice Merval,85286.0,acciones,Yahoo Finance,puntos
 2022-01-05,BADLAR Bancos Privados,34.25,monetario,BCRA,% n.a.
 2022-01-05,Base Monetaria,3950424.0,monetario,BCRA,millones ARS
@@ -61292,7 +61292,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-05,Riesgo País (EMBI+),1753.0,financiero,ArgentinaDatos,bps
 2022-01-05,Tasa Pases Pasivos BCRA 1 día,30.53,monetario,BCRA,% n.a.
 2022-01-05,Tasa de Política Monetaria,38.0,monetario,BCRA,% n.a.
-2022-01-05,Tipo de Cambio Minorista BCRA,108.63,cambiario,BCRA,ARS/USD
+2022-01-05,Tipo de Cambio Minorista BCRA,108.61,cambiario,BCRA,ARS/USD
 2022-01-05,Índice Merval,83836.0,acciones,Yahoo Finance,puntos
 2022-01-06,BADLAR Bancos Privados,34.1875,monetario,BCRA,% n.a.
 2022-01-06,Base Monetaria,4326335.0,monetario,BCRA,millones ARS
@@ -61308,7 +61308,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-06,Riesgo País (EMBI+),1788.0,financiero,ArgentinaDatos,bps
 2022-01-06,Tasa Pases Pasivos BCRA 1 día,30.18,monetario,BCRA,% n.a.
 2022-01-06,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-06,Tipo de Cambio Minorista BCRA,108.72,cambiario,BCRA,ARS/USD
+2022-01-06,Tipo de Cambio Minorista BCRA,108.63,cambiario,BCRA,ARS/USD
 2022-01-06,Índice Merval,83748.0,acciones,Yahoo Finance,puntos
 2022-01-07,BADLAR Bancos Privados,37.375,monetario,BCRA,% n.a.
 2022-01-07,Base Monetaria,3761928.0,monetario,BCRA,millones ARS
@@ -61324,7 +61324,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-07,Riesgo País (EMBI+),1802.0,financiero,ArgentinaDatos,bps
 2022-01-07,Tasa Pases Pasivos BCRA 1 día,29.9,monetario,BCRA,% n.a.
 2022-01-07,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-07,Tipo de Cambio Minorista BCRA,108.86,cambiario,BCRA,ARS/USD
+2022-01-07,Tipo de Cambio Minorista BCRA,108.72,cambiario,BCRA,ARS/USD
 2022-01-07,Índice Merval,84402.0,acciones,Yahoo Finance,puntos
 2022-01-08,Dólar CCL Compra,214.26,cambiario,ArgentinaDatos,ARS/USD
 2022-01-08,Dólar CCL Venta,214.26,cambiario,ArgentinaDatos,ARS/USD
@@ -61350,7 +61350,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-10,Riesgo País (EMBI+),1821.0,financiero,ArgentinaDatos,bps
 2022-01-10,Tasa Pases Pasivos BCRA 1 día,27.04,monetario,BCRA,% n.a.
 2022-01-10,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-10,Tipo de Cambio Minorista BCRA,108.96,cambiario,BCRA,ARS/USD
+2022-01-10,Tipo de Cambio Minorista BCRA,108.86,cambiario,BCRA,ARS/USD
 2022-01-10,Índice Merval,83746.0,acciones,Yahoo Finance,puntos
 2022-01-11,BADLAR Bancos Privados,37.375,monetario,BCRA,% n.a.
 2022-01-11,Base Monetaria,3569643.0,monetario,BCRA,millones ARS
@@ -61366,7 +61366,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-11,Riesgo País (EMBI+),1820.0,financiero,ArgentinaDatos,bps
 2022-01-11,Tasa Pases Pasivos BCRA 1 día,28.07,monetario,BCRA,% n.a.
 2022-01-11,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-11,Tipo de Cambio Minorista BCRA,108.97,cambiario,BCRA,ARS/USD
+2022-01-11,Tipo de Cambio Minorista BCRA,108.96,cambiario,BCRA,ARS/USD
 2022-01-11,Índice Merval,84702.0,acciones,Yahoo Finance,puntos
 2022-01-12,BADLAR Bancos Privados,37.4375,monetario,BCRA,% n.a.
 2022-01-12,Base Monetaria,3602002.0,monetario,BCRA,millones ARS
@@ -61382,7 +61382,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-12,Riesgo País (EMBI+),1835.0,financiero,ArgentinaDatos,bps
 2022-01-12,Tasa Pases Pasivos BCRA 1 día,30.36,monetario,BCRA,% n.a.
 2022-01-12,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-12,Tipo de Cambio Minorista BCRA,109.05,cambiario,BCRA,ARS/USD
+2022-01-12,Tipo de Cambio Minorista BCRA,108.97,cambiario,BCRA,ARS/USD
 2022-01-12,Índice Merval,85100.0,acciones,Yahoo Finance,puntos
 2022-01-13,BADLAR Bancos Privados,37.4375,monetario,BCRA,% n.a.
 2022-01-13,Base Monetaria,3521623.0,monetario,BCRA,millones ARS
@@ -61398,7 +61398,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-13,Riesgo País (EMBI+),1864.0,financiero,ArgentinaDatos,bps
 2022-01-13,Tasa Pases Pasivos BCRA 1 día,33.09,monetario,BCRA,% n.a.
 2022-01-13,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-13,Tipo de Cambio Minorista BCRA,109.11,cambiario,BCRA,ARS/USD
+2022-01-13,Tipo de Cambio Minorista BCRA,109.05,cambiario,BCRA,ARS/USD
 2022-01-13,Índice Merval,85371.0,acciones,Yahoo Finance,puntos
 2022-01-14,BADLAR Bancos Privados,37.625,monetario,BCRA,% n.a.
 2022-01-14,Base Monetaria,3644760.0,monetario,BCRA,millones ARS
@@ -61414,7 +61414,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-14,Riesgo País (EMBI+),1882.0,financiero,ArgentinaDatos,bps
 2022-01-14,Tasa Pases Pasivos BCRA 1 día,28.88,monetario,BCRA,% n.a.
 2022-01-14,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-14,Tipo de Cambio Minorista BCRA,109.21,cambiario,BCRA,ARS/USD
+2022-01-14,Tipo de Cambio Minorista BCRA,109.11,cambiario,BCRA,ARS/USD
 2022-01-14,Índice Merval,85481.0,acciones,Yahoo Finance,puntos
 2022-01-15,Dólar CCL Compra,206.04,cambiario,ArgentinaDatos,ARS/USD
 2022-01-15,Dólar CCL Venta,206.04,cambiario,ArgentinaDatos,ARS/USD
@@ -61440,7 +61440,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-17,Riesgo País (EMBI+),1882.0,financiero,ArgentinaDatos,bps
 2022-01-17,Tasa Pases Pasivos BCRA 1 día,29.92,monetario,BCRA,% n.a.
 2022-01-17,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-17,Tipo de Cambio Minorista BCRA,109.46,cambiario,BCRA,ARS/USD
+2022-01-17,Tipo de Cambio Minorista BCRA,109.21,cambiario,BCRA,ARS/USD
 2022-01-17,Índice Merval,85039.0,acciones,Yahoo Finance,puntos
 2022-01-18,BADLAR Bancos Privados,37.5,monetario,BCRA,% n.a.
 2022-01-18,Base Monetaria,3602872.0,monetario,BCRA,millones ARS
@@ -61456,7 +61456,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-18,Riesgo País (EMBI+),1890.0,financiero,ArgentinaDatos,bps
 2022-01-18,Tasa Pases Pasivos BCRA 1 día,27.82,monetario,BCRA,% n.a.
 2022-01-18,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-18,Tipo de Cambio Minorista BCRA,109.64,cambiario,BCRA,ARS/USD
+2022-01-18,Tipo de Cambio Minorista BCRA,109.46,cambiario,BCRA,ARS/USD
 2022-01-18,Índice Merval,83351.0,acciones,Yahoo Finance,puntos
 2022-01-19,BADLAR Bancos Privados,37.5625,monetario,BCRA,% n.a.
 2022-01-19,Base Monetaria,3588642.0,monetario,BCRA,millones ARS
@@ -61472,7 +61472,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-19,Riesgo País (EMBI+),1880.0,financiero,ArgentinaDatos,bps
 2022-01-19,Tasa Pases Pasivos BCRA 1 día,29.01,monetario,BCRA,% n.a.
 2022-01-19,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-19,Tipo de Cambio Minorista BCRA,109.67,cambiario,BCRA,ARS/USD
+2022-01-19,Tipo de Cambio Minorista BCRA,109.64,cambiario,BCRA,ARS/USD
 2022-01-19,Índice Merval,83528.0,acciones,Yahoo Finance,puntos
 2022-01-20,BADLAR Bancos Privados,37.625,monetario,BCRA,% n.a.
 2022-01-20,Base Monetaria,3546894.0,monetario,BCRA,millones ARS
@@ -61488,7 +61488,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-20,Riesgo País (EMBI+),1907.0,financiero,ArgentinaDatos,bps
 2022-01-20,Tasa Pases Pasivos BCRA 1 día,29.6,monetario,BCRA,% n.a.
 2022-01-20,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-20,Tipo de Cambio Minorista BCRA,109.71,cambiario,BCRA,ARS/USD
+2022-01-20,Tipo de Cambio Minorista BCRA,109.67,cambiario,BCRA,ARS/USD
 2022-01-20,Índice Merval,85126.0,acciones,Yahoo Finance,puntos
 2022-01-21,BADLAR Bancos Privados,37.5,monetario,BCRA,% n.a.
 2022-01-21,Base Monetaria,3547947.0,monetario,BCRA,millones ARS
@@ -61504,7 +61504,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-21,Riesgo País (EMBI+),1916.0,financiero,ArgentinaDatos,bps
 2022-01-21,Tasa Pases Pasivos BCRA 1 día,28.67,monetario,BCRA,% n.a.
 2022-01-21,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-21,Tipo de Cambio Minorista BCRA,109.79,cambiario,BCRA,ARS/USD
+2022-01-21,Tipo de Cambio Minorista BCRA,109.71,cambiario,BCRA,ARS/USD
 2022-01-21,Índice Merval,83623.0,acciones,Yahoo Finance,puntos
 2022-01-22,Dólar CCL Compra,218.82,cambiario,ArgentinaDatos,ARS/USD
 2022-01-22,Dólar CCL Venta,218.82,cambiario,ArgentinaDatos,ARS/USD
@@ -61530,7 +61530,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-24,Riesgo País (EMBI+),1961.0,financiero,ArgentinaDatos,bps
 2022-01-24,Tasa Pases Pasivos BCRA 1 día,28.96,monetario,BCRA,% n.a.
 2022-01-24,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-24,Tipo de Cambio Minorista BCRA,110.08,cambiario,BCRA,ARS/USD
+2022-01-24,Tipo de Cambio Minorista BCRA,109.79,cambiario,BCRA,ARS/USD
 2022-01-24,Índice Merval,81004.0,acciones,Yahoo Finance,puntos
 2022-01-25,BADLAR Bancos Privados,37.625,monetario,BCRA,% n.a.
 2022-01-25,Base Monetaria,3609733.0,monetario,BCRA,millones ARS
@@ -61546,7 +61546,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-25,Riesgo País (EMBI+),1928.0,financiero,ArgentinaDatos,bps
 2022-01-25,Tasa Pases Pasivos BCRA 1 día,30.54,monetario,BCRA,% n.a.
 2022-01-25,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-25,Tipo de Cambio Minorista BCRA,110.11,cambiario,BCRA,ARS/USD
+2022-01-25,Tipo de Cambio Minorista BCRA,110.08,cambiario,BCRA,ARS/USD
 2022-01-25,Índice Merval,85180.0,acciones,Yahoo Finance,puntos
 2022-01-26,BADLAR Bancos Privados,37.5625,monetario,BCRA,% n.a.
 2022-01-26,Base Monetaria,3620102.0,monetario,BCRA,millones ARS
@@ -61562,7 +61562,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-26,Riesgo País (EMBI+),1896.0,financiero,ArgentinaDatos,bps
 2022-01-26,Tasa Pases Pasivos BCRA 1 día,24.79,monetario,BCRA,% n.a.
 2022-01-26,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-26,Tipo de Cambio Minorista BCRA,110.15,cambiario,BCRA,ARS/USD
+2022-01-26,Tipo de Cambio Minorista BCRA,110.11,cambiario,BCRA,ARS/USD
 2022-01-26,Índice Merval,85782.0,acciones,Yahoo Finance,puntos
 2022-01-27,BADLAR Bancos Privados,37.5625,monetario,BCRA,% n.a.
 2022-01-27,Base Monetaria,3597892.0,monetario,BCRA,millones ARS
@@ -61578,7 +61578,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-27,Riesgo País (EMBI+),1904.0,financiero,ArgentinaDatos,bps
 2022-01-27,Tasa Pases Pasivos BCRA 1 día,25.97,monetario,BCRA,% n.a.
 2022-01-27,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-27,Tipo de Cambio Minorista BCRA,110.5,cambiario,BCRA,ARS/USD
+2022-01-27,Tipo de Cambio Minorista BCRA,110.15,cambiario,BCRA,ARS/USD
 2022-01-27,Índice Merval,85969.0,acciones,Yahoo Finance,puntos
 2022-01-28,BADLAR Bancos Privados,37.75,monetario,BCRA,% n.a.
 2022-01-28,Base Monetaria,3643133.0,monetario,BCRA,millones ARS
@@ -61594,7 +61594,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-28,Riesgo País (EMBI+),1756.0,financiero,ArgentinaDatos,bps
 2022-01-28,Tasa Pases Pasivos BCRA 1 día,24.94,monetario,BCRA,% n.a.
 2022-01-28,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-28,Tipo de Cambio Minorista BCRA,110.68,cambiario,BCRA,ARS/USD
+2022-01-28,Tipo de Cambio Minorista BCRA,110.5,cambiario,BCRA,ARS/USD
 2022-01-28,Índice Merval,88270.0,acciones,Yahoo Finance,puntos
 2022-01-29,Dólar CCL Compra,240.0,cambiario,ArgentinaDatos,ARS/USD
 2022-01-29,Dólar CCL Venta,240.0,cambiario,ArgentinaDatos,ARS/USD
@@ -61621,7 +61621,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-01-31,Riesgo País (EMBI+),1723.0,financiero,ArgentinaDatos,bps
 2022-01-31,Tasa Pases Pasivos BCRA 1 día,26.26,monetario,BCRA,% n.a.
 2022-01-31,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-01-31,Tipo de Cambio Minorista BCRA,110.71,cambiario,BCRA,ARS/USD
+2022-01-31,Tipo de Cambio Minorista BCRA,110.68,cambiario,BCRA,ARS/USD
 2022-01-31,Índice Merval,90908.0,acciones,Yahoo Finance,puntos
 2022-02-01,BADLAR Bancos Privados,37.5,monetario,BCRA,% n.a.
 2022-02-01,Base Monetaria,3880988.0,monetario,BCRA,millones ARS
@@ -61643,7 +61643,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-01,Riesgo País (EMBI+),1740.0,financiero,ArgentinaDatos,bps
 2022-02-01,Tasa Pases Pasivos BCRA 1 día,26.14,monetario,BCRA,% n.a.
 2022-02-01,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-01,Tipo de Cambio Minorista BCRA,110.75,cambiario,BCRA,ARS/USD
+2022-02-01,Tipo de Cambio Minorista BCRA,110.71,cambiario,BCRA,ARS/USD
 2022-02-01,Índice Merval,91417.0,acciones,Yahoo Finance,puntos
 2022-02-01,Índice de Salarios,522.56,laboral,INDEC,índice
 2022-02-02,BADLAR Bancos Privados,37.5625,monetario,BCRA,% n.a.
@@ -61660,7 +61660,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-02,Riesgo País (EMBI+),1726.0,financiero,ArgentinaDatos,bps
 2022-02-02,Tasa Pases Pasivos BCRA 1 día,26.78,monetario,BCRA,% n.a.
 2022-02-02,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-02,Tipo de Cambio Minorista BCRA,110.92,cambiario,BCRA,ARS/USD
+2022-02-02,Tipo de Cambio Minorista BCRA,110.75,cambiario,BCRA,ARS/USD
 2022-02-02,Índice Merval,89663.0,acciones,Yahoo Finance,puntos
 2022-02-03,BADLAR Bancos Privados,37.5625,monetario,BCRA,% n.a.
 2022-02-03,Base Monetaria,3729270.0,monetario,BCRA,millones ARS
@@ -61692,7 +61692,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-04,Riesgo País (EMBI+),1780.0,financiero,ArgentinaDatos,bps
 2022-02-04,Tasa Pases Pasivos BCRA 1 día,31.43,monetario,BCRA,% n.a.
 2022-02-04,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-04,Tipo de Cambio Minorista BCRA,111.37,cambiario,BCRA,ARS/USD
+2022-02-04,Tipo de Cambio Minorista BCRA,110.92,cambiario,BCRA,ARS/USD
 2022-02-04,Índice Merval,87934.0,acciones,Yahoo Finance,puntos
 2022-02-05,Dólar CCL Compra,220.24,cambiario,ArgentinaDatos,ARS/USD
 2022-02-05,Dólar CCL Venta,220.24,cambiario,ArgentinaDatos,ARS/USD
@@ -61718,7 +61718,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-07,Riesgo País (EMBI+),1784.0,financiero,ArgentinaDatos,bps
 2022-02-07,Tasa Pases Pasivos BCRA 1 día,30.83,monetario,BCRA,% n.a.
 2022-02-07,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-07,Tipo de Cambio Minorista BCRA,111.46,cambiario,BCRA,ARS/USD
+2022-02-07,Tipo de Cambio Minorista BCRA,111.37,cambiario,BCRA,ARS/USD
 2022-02-07,Índice Merval,89189.0,acciones,Yahoo Finance,puntos
 2022-02-08,BADLAR Bancos Privados,37.4375,monetario,BCRA,% n.a.
 2022-02-08,Base Monetaria,3750052.0,monetario,BCRA,millones ARS
@@ -61734,7 +61734,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-08,Riesgo País (EMBI+),1770.0,financiero,ArgentinaDatos,bps
 2022-02-08,Tasa Pases Pasivos BCRA 1 día,28.49,monetario,BCRA,% n.a.
 2022-02-08,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-08,Tipo de Cambio Minorista BCRA,111.49,cambiario,BCRA,ARS/USD
+2022-02-08,Tipo de Cambio Minorista BCRA,111.46,cambiario,BCRA,ARS/USD
 2022-02-08,Índice Merval,88149.0,acciones,Yahoo Finance,puntos
 2022-02-09,BADLAR Bancos Privados,37.6875,monetario,BCRA,% n.a.
 2022-02-09,Base Monetaria,3709414.0,monetario,BCRA,millones ARS
@@ -61750,7 +61750,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-09,Riesgo País (EMBI+),1767.0,financiero,ArgentinaDatos,bps
 2022-02-09,Tasa Pases Pasivos BCRA 1 día,29.87,monetario,BCRA,% n.a.
 2022-02-09,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-09,Tipo de Cambio Minorista BCRA,111.52,cambiario,BCRA,ARS/USD
+2022-02-09,Tipo de Cambio Minorista BCRA,111.49,cambiario,BCRA,ARS/USD
 2022-02-09,Índice Merval,87393.0,acciones,Yahoo Finance,puntos
 2022-02-10,BADLAR Bancos Privados,37.5,monetario,BCRA,% n.a.
 2022-02-10,Base Monetaria,3745962.0,monetario,BCRA,millones ARS
@@ -61766,7 +61766,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-10,Riesgo País (EMBI+),1776.0,financiero,ArgentinaDatos,bps
 2022-02-10,Tasa Pases Pasivos BCRA 1 día,30.22,monetario,BCRA,% n.a.
 2022-02-10,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-10,Tipo de Cambio Minorista BCRA,111.59,cambiario,BCRA,ARS/USD
+2022-02-10,Tipo de Cambio Minorista BCRA,111.52,cambiario,BCRA,ARS/USD
 2022-02-10,Índice Merval,87559.0,acciones,Yahoo Finance,puntos
 2022-02-11,BADLAR Bancos Privados,37.5625,monetario,BCRA,% n.a.
 2022-02-11,Base Monetaria,3784898.0,monetario,BCRA,millones ARS
@@ -61782,7 +61782,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-11,Riesgo País (EMBI+),1814.0,financiero,ArgentinaDatos,bps
 2022-02-11,Tasa Pases Pasivos BCRA 1 día,27.73,monetario,BCRA,% n.a.
 2022-02-11,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-11,Tipo de Cambio Minorista BCRA,111.67,cambiario,BCRA,ARS/USD
+2022-02-11,Tipo de Cambio Minorista BCRA,111.59,cambiario,BCRA,ARS/USD
 2022-02-11,Índice Merval,88185.0,acciones,Yahoo Finance,puntos
 2022-02-12,Dólar CCL Compra,216.21,cambiario,ArgentinaDatos,ARS/USD
 2022-02-12,Dólar CCL Venta,216.21,cambiario,ArgentinaDatos,ARS/USD
@@ -61808,7 +61808,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-14,Riesgo País (EMBI+),1800.0,financiero,ArgentinaDatos,bps
 2022-02-14,Tasa Pases Pasivos BCRA 1 día,32.4,monetario,BCRA,% n.a.
 2022-02-14,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-14,Tipo de Cambio Minorista BCRA,112.01,cambiario,BCRA,ARS/USD
+2022-02-14,Tipo de Cambio Minorista BCRA,111.67,cambiario,BCRA,ARS/USD
 2022-02-14,Índice Merval,87804.0,acciones,Yahoo Finance,puntos
 2022-02-15,BADLAR Bancos Privados,37.625,monetario,BCRA,% n.a.
 2022-02-15,Base Monetaria,3994573.0,monetario,BCRA,millones ARS
@@ -61824,7 +61824,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-15,Riesgo País (EMBI+),1762.0,financiero,ArgentinaDatos,bps
 2022-02-15,Tasa Pases Pasivos BCRA 1 día,32.14,monetario,BCRA,% n.a.
 2022-02-15,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-15,Tipo de Cambio Minorista BCRA,112.17,cambiario,BCRA,ARS/USD
+2022-02-15,Tipo de Cambio Minorista BCRA,112.01,cambiario,BCRA,ARS/USD
 2022-02-15,Índice Merval,88043.0,acciones,Yahoo Finance,puntos
 2022-02-16,BADLAR Bancos Privados,37.6875,monetario,BCRA,% n.a.
 2022-02-16,Base Monetaria,3906529.0,monetario,BCRA,millones ARS
@@ -61840,7 +61840,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-16,Riesgo País (EMBI+),1738.0,financiero,ArgentinaDatos,bps
 2022-02-16,Tasa Pases Pasivos BCRA 1 día,32.48,monetario,BCRA,% n.a.
 2022-02-16,Tasa de Política Monetaria,40.0,monetario,BCRA,% n.a.
-2022-02-16,Tipo de Cambio Minorista BCRA,112.21,cambiario,BCRA,ARS/USD
+2022-02-16,Tipo de Cambio Minorista BCRA,112.17,cambiario,BCRA,ARS/USD
 2022-02-16,Índice Merval,90578.0,acciones,Yahoo Finance,puntos
 2022-02-17,BADLAR Bancos Privados,37.625,monetario,BCRA,% n.a.
 2022-02-17,Base Monetaria,3821174.0,monetario,BCRA,millones ARS
@@ -61856,7 +61856,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-17,Riesgo País (EMBI+),1759.0,financiero,ArgentinaDatos,bps
 2022-02-17,Tasa Pases Pasivos BCRA 1 día,32.45,monetario,BCRA,% n.a.
 2022-02-17,Tasa de Política Monetaria,42.5,monetario,BCRA,% n.a.
-2022-02-17,Tipo de Cambio Minorista BCRA,112.24,cambiario,BCRA,ARS/USD
+2022-02-17,Tipo de Cambio Minorista BCRA,112.21,cambiario,BCRA,ARS/USD
 2022-02-17,Índice Merval,89978.0,acciones,Yahoo Finance,puntos
 2022-02-18,BADLAR Bancos Privados,39.9375,monetario,BCRA,% n.a.
 2022-02-18,Base Monetaria,3729418.0,monetario,BCRA,millones ARS
@@ -61872,7 +61872,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-18,Riesgo País (EMBI+),1709.0,financiero,ArgentinaDatos,bps
 2022-02-18,Tasa Pases Pasivos BCRA 1 día,33.72,monetario,BCRA,% n.a.
 2022-02-18,Tasa de Política Monetaria,42.5,monetario,BCRA,% n.a.
-2022-02-18,Tipo de Cambio Minorista BCRA,112.48,cambiario,BCRA,ARS/USD
+2022-02-18,Tipo de Cambio Minorista BCRA,112.24,cambiario,BCRA,ARS/USD
 2022-02-18,Índice Merval,89443.0,acciones,Yahoo Finance,puntos
 2022-02-19,Dólar CCL Compra,206.74,cambiario,ArgentinaDatos,ARS/USD
 2022-02-19,Dólar CCL Venta,206.74,cambiario,ArgentinaDatos,ARS/USD
@@ -61898,7 +61898,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-21,Riesgo País (EMBI+),1709.0,financiero,ArgentinaDatos,bps
 2022-02-21,Tasa Pases Pasivos BCRA 1 día,32.86,monetario,BCRA,% n.a.
 2022-02-21,Tasa de Política Monetaria,42.5,monetario,BCRA,% n.a.
-2022-02-21,Tipo de Cambio Minorista BCRA,112.71,cambiario,BCRA,ARS/USD
+2022-02-21,Tipo de Cambio Minorista BCRA,112.48,cambiario,BCRA,ARS/USD
 2022-02-21,Índice Merval,90030.0,acciones,Yahoo Finance,puntos
 2022-02-22,BADLAR Bancos Privados,40.0625,monetario,BCRA,% n.a.
 2022-02-22,Base Monetaria,3644962.0,monetario,BCRA,millones ARS
@@ -61914,7 +61914,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-22,Riesgo País (EMBI+),1725.0,financiero,ArgentinaDatos,bps
 2022-02-22,Tasa Pases Pasivos BCRA 1 día,32.84,monetario,BCRA,% n.a.
 2022-02-22,Tasa de Política Monetaria,42.5,monetario,BCRA,% n.a.
-2022-02-22,Tipo de Cambio Minorista BCRA,112.8,cambiario,BCRA,ARS/USD
+2022-02-22,Tipo de Cambio Minorista BCRA,112.71,cambiario,BCRA,ARS/USD
 2022-02-22,Índice Merval,90441.0,acciones,Yahoo Finance,puntos
 2022-02-23,BADLAR Bancos Privados,40.0625,monetario,BCRA,% n.a.
 2022-02-23,Base Monetaria,3592761.0,monetario,BCRA,millones ARS
@@ -61930,7 +61930,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-23,Riesgo País (EMBI+),1739.0,financiero,ArgentinaDatos,bps
 2022-02-23,Tasa Pases Pasivos BCRA 1 día,33.4,monetario,BCRA,% n.a.
 2022-02-23,Tasa de Política Monetaria,42.5,monetario,BCRA,% n.a.
-2022-02-23,Tipo de Cambio Minorista BCRA,112.83,cambiario,BCRA,ARS/USD
+2022-02-23,Tipo de Cambio Minorista BCRA,112.8,cambiario,BCRA,ARS/USD
 2022-02-23,Índice Merval,91360.0,acciones,Yahoo Finance,puntos
 2022-02-24,BADLAR Bancos Privados,39.9375,monetario,BCRA,% n.a.
 2022-02-24,Base Monetaria,3676507.0,monetario,BCRA,millones ARS
@@ -61946,7 +61946,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-24,Riesgo País (EMBI+),1766.0,financiero,ArgentinaDatos,bps
 2022-02-24,Tasa Pases Pasivos BCRA 1 día,33.43,monetario,BCRA,% n.a.
 2022-02-24,Tasa de Política Monetaria,42.5,monetario,BCRA,% n.a.
-2022-02-24,Tipo de Cambio Minorista BCRA,112.89,cambiario,BCRA,ARS/USD
+2022-02-24,Tipo de Cambio Minorista BCRA,112.83,cambiario,BCRA,ARS/USD
 2022-02-24,Índice Merval,88722.0,acciones,Yahoo Finance,puntos
 2022-02-25,BADLAR Bancos Privados,39.9375,monetario,BCRA,% n.a.
 2022-02-25,Base Monetaria,3672002.0,monetario,BCRA,millones ARS
@@ -61962,7 +61962,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2022-02-25,Riesgo País (EMBI+),1795.0,financiero,ArgentinaDatos,bps
 2022-02-25,Tasa Pases Pasivos BCRA 1 día,33.58,monetario,BCRA,% n.a.
 2022-02-25,Tasa de Política Monetaria,42.5,monetario,BCRA,% n.a.
-2022-02-25,Tipo de Cambio Minorista BCRA,112.95,cambiario,BCRA,ARS/USD
+2022-02-25,Tipo de Cambio Minorista BCRA,112.89,cambiario,BCRA,ARS/USD
 2022-02-25,Índice Merval,87970.0,acciones,Yahoo Finance,puntos
 2022-02-26,Dólar CCL Compra,200.47,cambiario,ArgentinaDatos,ARS/USD
 2022-02-26,Dólar CCL Venta,200.47,cambiario,ArgentinaDatos,ARS/USD
@@ -76761,21 +76761,21 @@ fecha,serie,valor,categoria,fuente,unidad
 2025-05-01,Índice de Salarios,6755.22,laboral,INDEC,índice
 2025-05-02,Dólar Blue (Compra),1165.0,cambiario,Bluelytics,ARS/USD
 2025-05-02,Dólar Blue (Venta),1185.0,cambiario,Bluelytics,ARS/USD
-2025-05-02,Dólar CCL Compra,1382.9,cambiario,ArgentinaDatos,ARS/USD
-2025-05-02,Dólar CCL Venta,1429.3,cambiario,ArgentinaDatos,ARS/USD
-2025-05-02,Dólar MEP Compra,751.67,cambiario,ArgentinaDatos,ARS/USD
-2025-05-02,Dólar MEP Venta,1363.6,cambiario,ArgentinaDatos,ARS/USD
+2025-05-02,Dólar CCL Compra,1187.9,cambiario,ArgentinaDatos,ARS/USD
+2025-05-02,Dólar CCL Venta,1190.6,cambiario,ArgentinaDatos,ARS/USD
+2025-05-02,Dólar MEP Compra,1177.7,cambiario,ArgentinaDatos,ARS/USD
+2025-05-02,Dólar MEP Venta,1182.8,cambiario,ArgentinaDatos,ARS/USD
 2025-05-02,Dólar Oficial (Compra),1143.0,cambiario,Bluelytics,ARS/USD
 2025-05-02,Dólar Oficial (Venta),1194.0,cambiario,Bluelytics,ARS/USD
 2025-05-02,Riesgo País (EMBI+),741.0,financiero,ArgentinaDatos,bps
-2025-05-03,Dólar CCL Compra,1382.9,cambiario,ArgentinaDatos,ARS/USD
-2025-05-03,Dólar CCL Venta,1429.3,cambiario,ArgentinaDatos,ARS/USD
-2025-05-03,Dólar MEP Compra,1193.9,cambiario,ArgentinaDatos,ARS/USD
-2025-05-03,Dólar MEP Venta,1170.4,cambiario,ArgentinaDatos,ARS/USD
-2025-05-04,Dólar CCL Compra,1382.9,cambiario,ArgentinaDatos,ARS/USD
-2025-05-04,Dólar CCL Venta,1429.3,cambiario,ArgentinaDatos,ARS/USD
-2025-05-04,Dólar MEP Compra,1193.9,cambiario,ArgentinaDatos,ARS/USD
-2025-05-04,Dólar MEP Venta,1170.4,cambiario,ArgentinaDatos,ARS/USD
+2025-05-03,Dólar CCL Compra,1187.9,cambiario,ArgentinaDatos,ARS/USD
+2025-05-03,Dólar CCL Venta,1190.6,cambiario,ArgentinaDatos,ARS/USD
+2025-05-03,Dólar MEP Compra,1177.7,cambiario,ArgentinaDatos,ARS/USD
+2025-05-03,Dólar MEP Venta,1182.8,cambiario,ArgentinaDatos,ARS/USD
+2025-05-04,Dólar CCL Compra,1187.9,cambiario,ArgentinaDatos,ARS/USD
+2025-05-04,Dólar CCL Venta,1190.6,cambiario,ArgentinaDatos,ARS/USD
+2025-05-04,Dólar MEP Compra,1177.7,cambiario,ArgentinaDatos,ARS/USD
+2025-05-04,Dólar MEP Venta,1182.8,cambiario,ArgentinaDatos,ARS/USD
 2025-05-05,BADLAR Bancos Privados,32.1875,monetario,BCRA,% n.a.
 2025-05-05,Base Monetaria,36854734.0,monetario,BCRA,millones ARS
 2025-05-05,Dólar Blue (Compra),1185.0,cambiario,Bluelytics,ARS/USD
@@ -81738,6 +81738,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2026-06-30,Dólar MEP Venta,1519.0,cambiario,ArgentinaDatos,ARS/USD
 2026-06-30,Dólar Oficial (Compra),1448.0,cambiario,Bluelytics,ARS/USD
 2026-06-30,Dólar Oficial (Venta),1500.0,cambiario,Bluelytics,ARS/USD
+2026-06-30,Inflación Esperada 12m (REM),22.3,precios,BCRA,%
 2026-06-30,Reservas Internacionales BCRA,44870.0,monetario,BCRA,millones USD
 2026-06-30,Riesgo País (EMBI+),426.0,financiero,ArgentinaDatos,bps
 2026-06-30,Tasa Pases Pasivos BCRA 1 día,20.7,monetario,BCRA,% n.a.
@@ -81757,6 +81758,7 @@ fecha,serie,valor,categoria,fuente,unidad
 2026-07-01,Tasa Pases Pasivos BCRA 1 día,20.23,monetario,BCRA,% n.a.
 2026-07-01,Tipo de Cambio Minorista BCRA,1511.11,cambiario,BCRA,ARS/USD
 2026-07-02,BADLAR Bancos Privados,21.3125,monetario,BCRA,% n.a.
+2026-07-02,Base Monetaria,45099295.0,monetario,BCRA,millones ARS
 2026-07-02,Dólar Blue (Compra),1479.0,cambiario,Bluelytics,ARS/USD
 2026-07-02,Dólar Blue (Venta),1525.0,cambiario,Bluelytics,ARS/USD
 2026-07-02,Dólar CCL Compra,1573.9,cambiario,ArgentinaDatos,ARS/USD
@@ -81765,15 +81767,959 @@ fecha,serie,valor,categoria,fuente,unidad
 2026-07-02,Dólar MEP Venta,1532.4,cambiario,ArgentinaDatos,ARS/USD
 2026-07-02,Dólar Oficial (Compra),1461.0,cambiario,Bluelytics,ARS/USD
 2026-07-02,Dólar Oficial (Venta),1512.0,cambiario,Bluelytics,ARS/USD
+2026-07-02,Reservas Internacionales BCRA,47996.0,monetario,BCRA,millones USD
 2026-07-02,Riesgo País (EMBI+),415.0,financiero,ArgentinaDatos,bps
 2026-07-02,Tasa Pases Pasivos BCRA 1 día,20.16,monetario,BCRA,% n.a.
 2026-07-02,Tipo de Cambio Minorista BCRA,1512.64,cambiario,BCRA,ARS/USD
+2026-07-03,BADLAR Bancos Privados,20.8125,monetario,BCRA,% n.a.
+2026-07-03,Base Monetaria,45368949.0,monetario,BCRA,millones ARS
 2026-07-03,Dólar Blue (Compra),1474.0,cambiario,Bluelytics,ARS/USD
 2026-07-03,Dólar Blue (Venta),1515.0,cambiario,Bluelytics,ARS/USD
 2026-07-03,Dólar CCL Compra,1566.8,cambiario,ArgentinaDatos,ARS/USD
 2026-07-03,Dólar CCL Venta,1568.8,cambiario,ArgentinaDatos,ARS/USD
 2026-07-03,Dólar MEP Compra,1522.9,cambiario,ArgentinaDatos,ARS/USD
 2026-07-03,Dólar MEP Venta,1526.0,cambiario,ArgentinaDatos,ARS/USD
-2026-07-03,Dólar Oficial (Compra),1459.0,cambiario,Bluelytics,ARS/USD
-2026-07-03,Dólar Oficial (Venta),1510.0,cambiario,Bluelytics,ARS/USD
+2026-07-03,Dólar Oficial (Compra),1456.0,cambiario,Bluelytics,ARS/USD
+2026-07-03,Dólar Oficial (Venta),1508.0,cambiario,Bluelytics,ARS/USD
+2026-07-03,Reservas Internacionales BCRA,48241.0,monetario,BCRA,millones USD
+2026-07-03,Riesgo País (EMBI+),415.0,financiero,ArgentinaDatos,bps
+2026-07-03,Tasa Pases Pasivos BCRA 1 día,20.17,monetario,BCRA,% n.a.
 2026-07-03,Tipo de Cambio Minorista BCRA,1507.05,cambiario,BCRA,ARS/USD
+2026-07-04,Dólar CCL Compra,1566.8,cambiario,ArgentinaDatos,ARS/USD
+2026-07-04,Dólar CCL Venta,1568.8,cambiario,ArgentinaDatos,ARS/USD
+2026-07-04,Dólar MEP Compra,1522.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-04,Dólar MEP Venta,1526.0,cambiario,ArgentinaDatos,ARS/USD
+2026-07-05,Dólar CCL Compra,1566.8,cambiario,ArgentinaDatos,ARS/USD
+2026-07-05,Dólar CCL Venta,1568.8,cambiario,ArgentinaDatos,ARS/USD
+2026-07-05,Dólar MEP Compra,1522.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-05,Dólar MEP Venta,1526.0,cambiario,ArgentinaDatos,ARS/USD
+2026-07-06,BADLAR Bancos Privados,20.3125,monetario,BCRA,% n.a.
+2026-07-06,Base Monetaria,45569923.0,monetario,BCRA,millones ARS
+2026-07-06,Dólar Blue (Compra),1465.0,cambiario,Bluelytics,ARS/USD
+2026-07-06,Dólar Blue (Venta),1510.0,cambiario,Bluelytics,ARS/USD
+2026-07-06,Dólar CCL Compra,1569.2,cambiario,ArgentinaDatos,ARS/USD
+2026-07-06,Dólar CCL Venta,1569.7,cambiario,ArgentinaDatos,ARS/USD
+2026-07-06,Dólar MEP Compra,1521.1,cambiario,ArgentinaDatos,ARS/USD
+2026-07-06,Dólar MEP Venta,1525.1,cambiario,ArgentinaDatos,ARS/USD
+2026-07-06,Dólar Oficial (Compra),1461.0,cambiario,Bluelytics,ARS/USD
+2026-07-06,Dólar Oficial (Venta),1512.0,cambiario,Bluelytics,ARS/USD
+2026-07-06,Reservas Internacionales BCRA,48273.0,monetario,BCRA,millones USD
+2026-07-06,Riesgo País (EMBI+),408.0,financiero,ArgentinaDatos,bps
+2026-07-06,Tasa Pases Pasivos BCRA 1 día,20.18,monetario,BCRA,% n.a.
+2026-07-06,Tipo de Cambio Minorista BCRA,1512.5,cambiario,BCRA,ARS/USD
+2026-07-07,BADLAR Bancos Privados,21.0,monetario,BCRA,% n.a.
+2026-07-07,Base Monetaria,45511522.0,monetario,BCRA,millones ARS
+2026-07-07,Dólar Blue (Compra),1470.0,cambiario,Bluelytics,ARS/USD
+2026-07-07,Dólar Blue (Venta),1515.0,cambiario,Bluelytics,ARS/USD
+2026-07-07,Dólar CCL Compra,1573.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-07,Dólar CCL Venta,1574.3,cambiario,ArgentinaDatos,ARS/USD
+2026-07-07,Dólar MEP Compra,1527.6,cambiario,ArgentinaDatos,ARS/USD
+2026-07-07,Dólar MEP Venta,1531.3,cambiario,ArgentinaDatos,ARS/USD
+2026-07-07,Dólar Oficial (Compra),1461.0,cambiario,Bluelytics,ARS/USD
+2026-07-07,Dólar Oficial (Venta),1513.0,cambiario,Bluelytics,ARS/USD
+2026-07-07,Reservas Internacionales BCRA,49535.0,monetario,BCRA,millones USD
+2026-07-07,Riesgo País (EMBI+),405.0,financiero,ArgentinaDatos,bps
+2026-07-07,Tasa Pases Pasivos BCRA 1 día,20.23,monetario,BCRA,% n.a.
+2026-07-07,Tipo de Cambio Minorista BCRA,1513.07,cambiario,BCRA,ARS/USD
+2026-07-08,BADLAR Bancos Privados,20.5,monetario,BCRA,% n.a.
+2026-07-08,Base Monetaria,45827619.0,monetario,BCRA,millones ARS
+2026-07-08,Dólar Blue (Compra),1500.0,cambiario,Bluelytics,ARS/USD
+2026-07-08,Dólar Blue (Venta),1520.0,cambiario,Bluelytics,ARS/USD
+2026-07-08,Dólar CCL Compra,1562.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-08,Dólar CCL Venta,1565.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-08,Dólar MEP Compra,1525.2,cambiario,ArgentinaDatos,ARS/USD
+2026-07-08,Dólar MEP Venta,1531.6,cambiario,ArgentinaDatos,ARS/USD
+2026-07-08,Dólar Oficial (Compra),1462.0,cambiario,Bluelytics,ARS/USD
+2026-07-08,Dólar Oficial (Venta),1513.0,cambiario,Bluelytics,ARS/USD
+2026-07-08,Reservas Internacionales BCRA,48724.0,monetario,BCRA,millones USD
+2026-07-08,Riesgo País (EMBI+),408.0,financiero,ArgentinaDatos,bps
+2026-07-08,Tasa Pases Pasivos BCRA 1 día,20.37,monetario,BCRA,% n.a.
+2026-07-08,Tipo de Cambio Minorista BCRA,1513.22,cambiario,BCRA,ARS/USD
+2026-07-09,Dólar Blue (Compra),1465.0,cambiario,Bluelytics,ARS/USD
+2026-07-09,Dólar Blue (Venta),1510.0,cambiario,Bluelytics,ARS/USD
+2026-07-09,Dólar CCL Compra,1562.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-09,Dólar CCL Venta,1565.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-09,Dólar MEP Compra,1525.2,cambiario,ArgentinaDatos,ARS/USD
+2026-07-09,Dólar MEP Venta,1531.6,cambiario,ArgentinaDatos,ARS/USD
+2026-07-09,Dólar Oficial (Compra),1462.0,cambiario,Bluelytics,ARS/USD
+2026-07-09,Dólar Oficial (Venta),1513.0,cambiario,Bluelytics,ARS/USD
+2026-07-09,Riesgo País (EMBI+),404.0,financiero,ArgentinaDatos,bps
+2026-07-10,Dólar Blue (Compra),1465.0,cambiario,Bluelytics,ARS/USD
+2026-07-10,Dólar Blue (Venta),1510.0,cambiario,Bluelytics,ARS/USD
+2026-07-10,Dólar CCL Compra,1562.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-10,Dólar CCL Venta,1565.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-10,Dólar MEP Compra,1513.3,cambiario,ArgentinaDatos,ARS/USD
+2026-07-10,Dólar MEP Venta,1532.7,cambiario,ArgentinaDatos,ARS/USD
+2026-07-10,Dólar Oficial (Compra),1462.0,cambiario,Bluelytics,ARS/USD
+2026-07-10,Dólar Oficial (Venta),1513.0,cambiario,Bluelytics,ARS/USD
+2026-07-10,Riesgo País (EMBI+),402.0,financiero,ArgentinaDatos,bps
+2026-07-11,Dólar CCL Compra,1562.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-11,Dólar CCL Venta,1565.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-11,Dólar MEP Compra,1513.3,cambiario,ArgentinaDatos,ARS/USD
+2026-07-11,Dólar MEP Venta,1532.7,cambiario,ArgentinaDatos,ARS/USD
+2026-07-12,Dólar CCL Compra,1562.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-12,Dólar CCL Venta,1565.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-12,Dólar MEP Compra,1513.3,cambiario,ArgentinaDatos,ARS/USD
+2026-07-12,Dólar MEP Venta,1532.7,cambiario,ArgentinaDatos,ARS/USD
+2026-07-13,BADLAR Bancos Privados,20.0,monetario,BCRA,% n.a.
+2026-07-13,Base Monetaria,46817025.0,monetario,BCRA,millones ARS
+2026-07-13,Dólar Blue (Compra),1465.0,cambiario,Bluelytics,ARS/USD
+2026-07-13,Dólar Blue (Venta),1510.0,cambiario,Bluelytics,ARS/USD
+2026-07-13,Dólar CCL Compra,1566.5,cambiario,ArgentinaDatos,ARS/USD
+2026-07-13,Dólar CCL Venta,1567.5,cambiario,ArgentinaDatos,ARS/USD
+2026-07-13,Dólar MEP Compra,1517.4,cambiario,ArgentinaDatos,ARS/USD
+2026-07-13,Dólar MEP Venta,1523.3,cambiario,ArgentinaDatos,ARS/USD
+2026-07-13,Dólar Oficial (Compra),1462.0,cambiario,Bluelytics,ARS/USD
+2026-07-13,Dólar Oficial (Venta),1513.0,cambiario,Bluelytics,ARS/USD
+2026-07-13,Reservas Internacionales BCRA,48208.0,monetario,BCRA,millones USD
+2026-07-13,Riesgo País (EMBI+),405.0,financiero,ArgentinaDatos,bps
+2026-07-13,Tasa Pases Pasivos BCRA 1 día,21.26,monetario,BCRA,% n.a.
+2026-07-13,Tipo de Cambio Minorista BCRA,1508.83,cambiario,BCRA,ARS/USD
+2026-07-14,BADLAR Bancos Privados,21.3125,monetario,BCRA,% n.a.
+2026-07-14,Base Monetaria,45312132.0,monetario,BCRA,millones ARS
+2026-07-14,Dólar Blue (Compra),1479.0,cambiario,Bluelytics,ARS/USD
+2026-07-14,Dólar Blue (Venta),1520.0,cambiario,Bluelytics,ARS/USD
+2026-07-14,Dólar CCL Compra,1551.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-14,Dólar CCL Venta,1554.6,cambiario,ArgentinaDatos,ARS/USD
+2026-07-14,Dólar MEP Compra,1504.4,cambiario,ArgentinaDatos,ARS/USD
+2026-07-14,Dólar MEP Venta,1509.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-14,Dólar Oficial (Compra),1452.0,cambiario,Bluelytics,ARS/USD
+2026-07-14,Dólar Oficial (Venta),1503.0,cambiario,Bluelytics,ARS/USD
+2026-07-14,Reservas Internacionales BCRA,48687.0,monetario,BCRA,millones USD
+2026-07-14,Riesgo País (EMBI+),410.0,financiero,ArgentinaDatos,bps
+2026-07-14,Tasa Pases Pasivos BCRA 1 día,21.64,monetario,BCRA,% n.a.
+2026-07-14,Tipo de Cambio Minorista BCRA,1500.76,cambiario,BCRA,ARS/USD
+2026-07-15,BADLAR Bancos Privados,21.875,monetario,BCRA,% n.a.
+2026-07-15,Base Monetaria,45210224.0,monetario,BCRA,millones ARS
+2026-07-15,Dólar Blue (Compra),1484.0,cambiario,Bluelytics,ARS/USD
+2026-07-15,Dólar Blue (Venta),1530.0,cambiario,Bluelytics,ARS/USD
+2026-07-15,Dólar CCL Compra,1562.2,cambiario,ArgentinaDatos,ARS/USD
+2026-07-15,Dólar CCL Venta,1565.7,cambiario,ArgentinaDatos,ARS/USD
+2026-07-15,Dólar MEP Compra,1509.0,cambiario,ArgentinaDatos,ARS/USD
+2026-07-15,Dólar MEP Venta,1515.7,cambiario,ArgentinaDatos,ARS/USD
+2026-07-15,Dólar Oficial (Compra),1446.0,cambiario,Bluelytics,ARS/USD
+2026-07-15,Dólar Oficial (Venta),1498.0,cambiario,Bluelytics,ARS/USD
+2026-07-15,Reservas Internacionales BCRA,48617.0,monetario,BCRA,millones USD
+2026-07-15,Riesgo País (EMBI+),404.0,financiero,ArgentinaDatos,bps
+2026-07-15,Tasa Pases Pasivos BCRA 1 día,20.75,monetario,BCRA,% n.a.
+2026-07-15,Tipo de Cambio Minorista BCRA,1497.61,cambiario,BCRA,ARS/USD
+2026-07-16,BADLAR Bancos Privados,21.0,monetario,BCRA,% n.a.
+2026-07-16,Base Monetaria,46019844.0,monetario,BCRA,millones ARS
+2026-07-16,Dólar Blue (Compra),1479.0,cambiario,Bluelytics,ARS/USD
+2026-07-16,Dólar Blue (Venta),1525.0,cambiario,Bluelytics,ARS/USD
+2026-07-16,Dólar CCL Compra,1566.4,cambiario,ArgentinaDatos,ARS/USD
+2026-07-16,Dólar CCL Venta,1567.7,cambiario,ArgentinaDatos,ARS/USD
+2026-07-16,Dólar MEP Compra,1512.7,cambiario,ArgentinaDatos,ARS/USD
+2026-07-16,Dólar MEP Venta,1515.7,cambiario,ArgentinaDatos,ARS/USD
+2026-07-16,Dólar Oficial (Compra),1445.0,cambiario,Bluelytics,ARS/USD
+2026-07-16,Dólar Oficial (Venta),1496.0,cambiario,Bluelytics,ARS/USD
+2026-07-16,Reservas Internacionales BCRA,48530.0,monetario,BCRA,millones USD
+2026-07-16,Riesgo País (EMBI+),410.0,financiero,ArgentinaDatos,bps
+2026-07-16,Tasa Pases Pasivos BCRA 1 día,20.88,monetario,BCRA,% n.a.
+2026-07-16,Tipo de Cambio Minorista BCRA,1495.93,cambiario,BCRA,ARS/USD
+2026-07-17,BADLAR Bancos Privados,21.6875,monetario,BCRA,% n.a.
+2026-07-17,Base Monetaria,45054096.0,monetario,BCRA,millones ARS
+2026-07-17,Dólar Blue (Compra),1484.0,cambiario,Bluelytics,ARS/USD
+2026-07-17,Dólar Blue (Venta),1530.0,cambiario,Bluelytics,ARS/USD
+2026-07-17,Dólar CCL Compra,1572.1,cambiario,ArgentinaDatos,ARS/USD
+2026-07-17,Dólar CCL Venta,1575.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-17,Dólar MEP Compra,1518.3,cambiario,ArgentinaDatos,ARS/USD
+2026-07-17,Dólar MEP Venta,1521.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-17,Dólar Oficial (Compra),1451.0,cambiario,Bluelytics,ARS/USD
+2026-07-17,Dólar Oficial (Venta),1502.0,cambiario,Bluelytics,ARS/USD
+2026-07-17,Reservas Internacionales BCRA,48790.0,monetario,BCRA,millones USD
+2026-07-17,Riesgo País (EMBI+),419.0,financiero,ArgentinaDatos,bps
+2026-07-17,Tasa Pases Pasivos BCRA 1 día,21.06,monetario,BCRA,% n.a.
+2026-07-17,Tipo de Cambio Minorista BCRA,1501.67,cambiario,BCRA,ARS/USD
+2026-07-18,Dólar CCL Compra,1572.1,cambiario,ArgentinaDatos,ARS/USD
+2026-07-18,Dólar CCL Venta,1575.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-18,Dólar MEP Compra,1518.3,cambiario,ArgentinaDatos,ARS/USD
+2026-07-18,Dólar MEP Venta,1521.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-19,Dólar CCL Compra,1572.1,cambiario,ArgentinaDatos,ARS/USD
+2026-07-19,Dólar CCL Venta,1575.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-19,Dólar MEP Compra,1518.3,cambiario,ArgentinaDatos,ARS/USD
+2026-07-19,Dólar MEP Venta,1521.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-20,BADLAR Bancos Privados,21.125,monetario,BCRA,% n.a.
+2026-07-20,Base Monetaria,45661395.0,monetario,BCRA,millones ARS
+2026-07-20,Dólar Blue (Compra),1494.0,cambiario,Bluelytics,ARS/USD
+2026-07-20,Dólar Blue (Venta),1535.0,cambiario,Bluelytics,ARS/USD
+2026-07-20,Dólar CCL Compra,1572.4,cambiario,ArgentinaDatos,ARS/USD
+2026-07-20,Dólar CCL Venta,1572.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-20,Dólar MEP Compra,1510.4,cambiario,ArgentinaDatos,ARS/USD
+2026-07-20,Dólar MEP Venta,1514.7,cambiario,ArgentinaDatos,ARS/USD
+2026-07-20,Dólar Oficial (Compra),1451.0,cambiario,Bluelytics,ARS/USD
+2026-07-20,Dólar Oficial (Venta),1502.0,cambiario,Bluelytics,ARS/USD
+2026-07-20,Reservas Internacionales BCRA,48809.0,monetario,BCRA,millones USD
+2026-07-20,Riesgo País (EMBI+),416.0,financiero,ArgentinaDatos,bps
+2026-07-20,Tasa Pases Pasivos BCRA 1 día,20.74,monetario,BCRA,% n.a.
+2026-07-20,Tipo de Cambio Minorista BCRA,1502.04,cambiario,BCRA,ARS/USD
+2026-07-21,BADLAR Bancos Privados,21.875,monetario,BCRA,% n.a.
+2026-07-21,Base Monetaria,45294415.0,monetario,BCRA,millones ARS
+2026-07-21,Dólar Blue (Compra),1499.0,cambiario,Bluelytics,ARS/USD
+2026-07-21,Dólar Blue (Venta),1545.0,cambiario,Bluelytics,ARS/USD
+2026-07-21,Dólar CCL Compra,1568.2,cambiario,ArgentinaDatos,ARS/USD
+2026-07-21,Dólar CCL Venta,1569.0,cambiario,ArgentinaDatos,ARS/USD
+2026-07-21,Dólar MEP Compra,1506.4,cambiario,ArgentinaDatos,ARS/USD
+2026-07-21,Dólar MEP Venta,1511.7,cambiario,ArgentinaDatos,ARS/USD
+2026-07-21,Dólar Oficial (Compra),1449.0,cambiario,Bluelytics,ARS/USD
+2026-07-21,Dólar Oficial (Venta),1500.0,cambiario,Bluelytics,ARS/USD
+2026-07-21,Reservas Internacionales BCRA,48921.0,monetario,BCRA,millones USD
+2026-07-21,Riesgo País (EMBI+),421.0,financiero,ArgentinaDatos,bps
+2026-07-21,Tasa Pases Pasivos BCRA 1 día,20.59,monetario,BCRA,% n.a.
+2026-07-21,Tipo de Cambio Minorista BCRA,1498.4,cambiario,BCRA,ARS/USD
+2026-07-22,BADLAR Bancos Privados,22.0,monetario,BCRA,% n.a.
+2026-07-22,Base Monetaria,45839793.0,monetario,BCRA,millones ARS
+2026-07-22,Dólar Blue (Compra),1508.0,cambiario,Bluelytics,ARS/USD
+2026-07-22,Dólar Blue (Venta),1555.0,cambiario,Bluelytics,ARS/USD
+2026-07-22,Dólar CCL Compra,1571.7,cambiario,ArgentinaDatos,ARS/USD
+2026-07-22,Dólar CCL Venta,1573.5,cambiario,ArgentinaDatos,ARS/USD
+2026-07-22,Dólar MEP Compra,1509.5,cambiario,ArgentinaDatos,ARS/USD
+2026-07-22,Dólar MEP Venta,1513.7,cambiario,ArgentinaDatos,ARS/USD
+2026-07-22,Dólar Oficial (Compra),1450.0,cambiario,Bluelytics,ARS/USD
+2026-07-22,Dólar Oficial (Venta),1501.0,cambiario,Bluelytics,ARS/USD
+2026-07-22,Reservas Internacionales BCRA,49036.0,monetario,BCRA,millones USD
+2026-07-22,Riesgo País (EMBI+),410.0,financiero,ArgentinaDatos,bps
+2026-07-22,Tasa Pases Pasivos BCRA 1 día,20.46,monetario,BCRA,% n.a.
+2026-07-22,Tipo de Cambio Minorista BCRA,1502.35,cambiario,BCRA,ARS/USD
+2026-07-23,BADLAR Bancos Privados,22.1875,monetario,BCRA,% n.a.
+2026-07-23,Base Monetaria,45813184.0,monetario,BCRA,millones ARS
+2026-07-23,Dólar Blue (Compra),1513.0,cambiario,Bluelytics,ARS/USD
+2026-07-23,Dólar Blue (Venta),1560.0,cambiario,Bluelytics,ARS/USD
+2026-07-23,Dólar CCL Compra,1583.4,cambiario,ArgentinaDatos,ARS/USD
+2026-07-23,Dólar CCL Venta,1585.0,cambiario,ArgentinaDatos,ARS/USD
+2026-07-23,Dólar MEP Compra,1515.6,cambiario,ArgentinaDatos,ARS/USD
+2026-07-23,Dólar MEP Venta,1521.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-23,Dólar Oficial (Compra),1460.0,cambiario,Bluelytics,ARS/USD
+2026-07-23,Dólar Oficial (Venta),1511.0,cambiario,Bluelytics,ARS/USD
+2026-07-23,Reservas Internacionales BCRA,48686.0,monetario,BCRA,millones USD
+2026-07-23,Riesgo País (EMBI+),437.0,financiero,ArgentinaDatos,bps
+2026-07-23,Tasa Pases Pasivos BCRA 1 día,20.43,monetario,BCRA,% n.a.
+2026-07-23,Tipo de Cambio Minorista BCRA,1510.8,cambiario,BCRA,ARS/USD
+2026-07-24,BADLAR Bancos Privados,22.0,monetario,BCRA,% n.a.
+2026-07-24,Base Monetaria,46087590.0,monetario,BCRA,millones ARS
+2026-07-24,Dólar Blue (Compra),1499.0,cambiario,Bluelytics,ARS/USD
+2026-07-24,Dólar Blue (Venta),1545.0,cambiario,Bluelytics,ARS/USD
+2026-07-24,Dólar CCL Compra,1593.4,cambiario,ArgentinaDatos,ARS/USD
+2026-07-24,Dólar CCL Venta,1595.8,cambiario,ArgentinaDatos,ARS/USD
+2026-07-24,Dólar MEP Compra,1529.3,cambiario,ArgentinaDatos,ARS/USD
+2026-07-24,Dólar MEP Venta,1533.5,cambiario,ArgentinaDatos,ARS/USD
+2026-07-24,Dólar Oficial (Compra),1462.0,cambiario,Bluelytics,ARS/USD
+2026-07-24,Dólar Oficial (Venta),1513.0,cambiario,Bluelytics,ARS/USD
+2026-07-24,Reservas Internacionales BCRA,49187.0,monetario,BCRA,millones USD
+2026-07-24,Riesgo País (EMBI+),437.0,financiero,ArgentinaDatos,bps
+2026-07-24,Tasa Pases Pasivos BCRA 1 día,20.22,monetario,BCRA,% n.a.
+2026-07-24,Tipo de Cambio Minorista BCRA,1518.86,cambiario,BCRA,ARS/USD
+2026-07-25,Dólar CCL Compra,1593.4,cambiario,ArgentinaDatos,ARS/USD
+2026-07-25,Dólar CCL Venta,1595.8,cambiario,ArgentinaDatos,ARS/USD
+2026-07-25,Dólar MEP Compra,1529.3,cambiario,ArgentinaDatos,ARS/USD
+2026-07-25,Dólar MEP Venta,1533.5,cambiario,ArgentinaDatos,ARS/USD
+2026-07-26,Dólar CCL Compra,1593.4,cambiario,ArgentinaDatos,ARS/USD
+2026-07-26,Dólar CCL Venta,1595.8,cambiario,ArgentinaDatos,ARS/USD
+2026-07-26,Dólar MEP Compra,1529.3,cambiario,ArgentinaDatos,ARS/USD
+2026-07-26,Dólar MEP Venta,1533.5,cambiario,ArgentinaDatos,ARS/USD
+2026-07-27,BADLAR Bancos Privados,20.9375,monetario,BCRA,% n.a.
+2026-07-27,Base Monetaria,46324059.0,monetario,BCRA,millones ARS
+2026-07-27,Dólar Blue (Compra),1518.0,cambiario,Bluelytics,ARS/USD
+2026-07-27,Dólar Blue (Venta),1560.0,cambiario,Bluelytics,ARS/USD
+2026-07-27,Dólar CCL Compra,1597.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-27,Dólar CCL Venta,1599.2,cambiario,ArgentinaDatos,ARS/USD
+2026-07-27,Dólar MEP Compra,1527.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-27,Dólar MEP Venta,1535.8,cambiario,ArgentinaDatos,ARS/USD
+2026-07-27,Dólar Oficial (Compra),1469.0,cambiario,Bluelytics,ARS/USD
+2026-07-27,Dólar Oficial (Venta),1520.0,cambiario,Bluelytics,ARS/USD
+2026-07-27,Reservas Internacionales BCRA,49164.0,monetario,BCRA,millones USD
+2026-07-27,Riesgo País (EMBI+),442.0,financiero,ArgentinaDatos,bps
+2026-07-27,Tasa Pases Pasivos BCRA 1 día,20.36,monetario,BCRA,% n.a.
+2026-07-27,Tipo de Cambio Minorista BCRA,1520.47,cambiario,BCRA,ARS/USD
+2026-07-28,BADLAR Bancos Privados,22.0,monetario,BCRA,% n.a.
+2026-07-28,Base Monetaria,45044437.0,monetario,BCRA,millones ARS
+2026-07-28,Dólar Blue (Compra),1523.0,cambiario,Bluelytics,ARS/USD
+2026-07-28,Dólar Blue (Venta),1570.0,cambiario,Bluelytics,ARS/USD
+2026-07-28,Dólar CCL Compra,1593.2,cambiario,ArgentinaDatos,ARS/USD
+2026-07-28,Dólar CCL Venta,1595.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-28,Dólar MEP Compra,1529.3,cambiario,ArgentinaDatos,ARS/USD
+2026-07-28,Dólar MEP Venta,1532.5,cambiario,ArgentinaDatos,ARS/USD
+2026-07-28,Dólar Oficial (Compra),1470.0,cambiario,Bluelytics,ARS/USD
+2026-07-28,Dólar Oficial (Venta),1520.0,cambiario,Bluelytics,ARS/USD
+2026-07-28,Reservas Internacionales BCRA,48935.0,monetario,BCRA,millones USD
+2026-07-28,Riesgo País (EMBI+),441.0,financiero,ArgentinaDatos,bps
+2026-07-28,Tasa Pases Pasivos BCRA 1 día,20.35,monetario,BCRA,% n.a.
+2026-07-28,Tipo de Cambio Minorista BCRA,1520.82,cambiario,BCRA,ARS/USD
+2026-07-29,BADLAR Bancos Privados,21.25,monetario,BCRA,% n.a.
+2026-07-29,Base Monetaria,44055898.0,monetario,BCRA,millones ARS
+2026-07-29,Dólar Blue (Compra),1528.0,cambiario,Bluelytics,ARS/USD
+2026-07-29,Dólar Blue (Venta),1570.0,cambiario,Bluelytics,ARS/USD
+2026-07-29,Dólar CCL Compra,1583.0,cambiario,ArgentinaDatos,ARS/USD
+2026-07-29,Dólar CCL Venta,1586.1,cambiario,ArgentinaDatos,ARS/USD
+2026-07-29,Dólar MEP Compra,1519.8,cambiario,ArgentinaDatos,ARS/USD
+2026-07-29,Dólar MEP Venta,1526.6,cambiario,ArgentinaDatos,ARS/USD
+2026-07-29,Dólar Oficial (Compra),1468.0,cambiario,Bluelytics,ARS/USD
+2026-07-29,Dólar Oficial (Venta),1519.0,cambiario,Bluelytics,ARS/USD
+2026-07-29,Reservas Internacionales BCRA,49196.0,monetario,BCRA,millones USD
+2026-07-29,Riesgo País (EMBI+),445.0,financiero,ArgentinaDatos,bps
+2026-07-29,Tasa Pases Pasivos BCRA 1 día,20.18,monetario,BCRA,% n.a.
+2026-07-29,Tipo de Cambio Minorista BCRA,1518.59,cambiario,BCRA,ARS/USD
+2026-07-30,BADLAR Bancos Privados,21.9375,monetario,BCRA,% n.a.
+2026-07-30,Base Monetaria,45706709.0,monetario,BCRA,millones ARS
+2026-07-30,Dólar Blue (Compra),1518.0,cambiario,Bluelytics,ARS/USD
+2026-07-30,Dólar Blue (Venta),1565.0,cambiario,Bluelytics,ARS/USD
+2026-07-30,Dólar CCL Compra,1560.4,cambiario,ArgentinaDatos,ARS/USD
+2026-07-30,Dólar CCL Venta,1564.4,cambiario,ArgentinaDatos,ARS/USD
+2026-07-30,Dólar MEP Compra,1504.9,cambiario,ArgentinaDatos,ARS/USD
+2026-07-30,Dólar MEP Venta,1512.7,cambiario,ArgentinaDatos,ARS/USD
+2026-07-30,Dólar Oficial (Compra),1465.0,cambiario,Bluelytics,ARS/USD
+2026-07-30,Dólar Oficial (Venta),1516.0,cambiario,Bluelytics,ARS/USD
+2026-07-30,Reservas Internacionales BCRA,49002.0,monetario,BCRA,millones USD
+2026-07-30,Riesgo País (EMBI+),441.0,financiero,ArgentinaDatos,bps
+2026-07-30,Tasa Pases Pasivos BCRA 1 día,23.35,monetario,BCRA,% n.a.
+2026-07-30,Tipo de Cambio Minorista BCRA,1512.02,cambiario,BCRA,ARS/USD
+2026-07-31,BADLAR Bancos Privados,21.625,monetario,BCRA,% n.a.
+2026-07-31,Base Monetaria,46193622.0,monetario,BCRA,millones ARS
+2026-07-31,Dólar Blue (Compra),1513.0,cambiario,Bluelytics,ARS/USD
+2026-07-31,Dólar Blue (Venta),1560.0,cambiario,Bluelytics,ARS/USD
+2026-07-31,Dólar CCL Compra,1572.2,cambiario,ArgentinaDatos,ARS/USD
+2026-07-31,Dólar CCL Venta,1575.7,cambiario,ArgentinaDatos,ARS/USD
+2026-07-31,Dólar MEP Compra,1516.8,cambiario,ArgentinaDatos,ARS/USD
+2026-07-31,Dólar MEP Venta,1522.1,cambiario,ArgentinaDatos,ARS/USD
+2026-07-31,Dólar Oficial (Compra),1460.0,cambiario,Bluelytics,ARS/USD
+2026-07-31,Dólar Oficial (Venta),1511.0,cambiario,Bluelytics,ARS/USD
+2026-07-31,Inflación Esperada 12m (REM),21.8,precios,BCRA,%
+2026-07-31,Reservas Internacionales BCRA,47599.0,monetario,BCRA,millones USD
+2026-07-31,Riesgo País (EMBI+),430.0,financiero,ArgentinaDatos,bps
+2026-07-31,Tasa Pases Pasivos BCRA 1 día,25.63,monetario,BCRA,% n.a.
+2026-07-31,Tipo de Cambio Minorista BCRA,1511.12,cambiario,BCRA,ARS/USD
+2026-08-01,Dólar CCL Compra,1572.2,cambiario,ArgentinaDatos,ARS/USD
+2026-08-01,Dólar CCL Venta,1575.7,cambiario,ArgentinaDatos,ARS/USD
+2026-08-01,Dólar MEP Compra,1516.8,cambiario,ArgentinaDatos,ARS/USD
+2026-08-01,Dólar MEP Venta,1522.1,cambiario,ArgentinaDatos,ARS/USD
+2026-08-02,Dólar CCL Compra,1572.2,cambiario,ArgentinaDatos,ARS/USD
+2026-08-02,Dólar CCL Venta,1575.7,cambiario,ArgentinaDatos,ARS/USD
+2026-08-02,Dólar MEP Compra,1516.8,cambiario,ArgentinaDatos,ARS/USD
+2026-08-02,Dólar MEP Venta,1522.1,cambiario,ArgentinaDatos,ARS/USD
+2026-08-03,BADLAR Bancos Privados,21.4375,monetario,BCRA,% n.a.
+2026-08-03,Base Monetaria,46439196.0,monetario,BCRA,millones ARS
+2026-08-03,Dólar Blue (Compra),1508.0,cambiario,Bluelytics,ARS/USD
+2026-08-03,Dólar Blue (Venta),1555.0,cambiario,Bluelytics,ARS/USD
+2026-08-03,Dólar CCL Compra,1579.4,cambiario,ArgentinaDatos,ARS/USD
+2026-08-03,Dólar CCL Venta,1580.4,cambiario,ArgentinaDatos,ARS/USD
+2026-08-03,Dólar MEP Compra,1522.6,cambiario,ArgentinaDatos,ARS/USD
+2026-08-03,Dólar MEP Venta,1529.0,cambiario,ArgentinaDatos,ARS/USD
+2026-08-03,Dólar Oficial (Compra),1464.0,cambiario,Bluelytics,ARS/USD
+2026-08-03,Dólar Oficial (Venta),1515.0,cambiario,Bluelytics,ARS/USD
+2026-08-03,Reservas Internacionales BCRA,49372.0,monetario,BCRA,millones USD
+2026-08-03,Riesgo País (EMBI+),411.0,financiero,ArgentinaDatos,bps
+2026-08-03,Tasa Pases Pasivos BCRA 1 día,22.55,monetario,BCRA,% n.a.
+2026-08-03,Tipo de Cambio Minorista BCRA,1515.98,cambiario,BCRA,ARS/USD
+2026-08-04,BADLAR Bancos Privados,22.3125,monetario,BCRA,% n.a.
+2026-08-04,Base Monetaria,45693033.0,monetario,BCRA,millones ARS
+2026-08-04,Dólar Blue (Compra),1525.0,cambiario,Bluelytics,ARS/USD
+2026-08-04,Dólar Blue (Venta),1545.0,cambiario,Bluelytics,ARS/USD
+2026-08-04,Dólar CCL Compra,1574.9,cambiario,ArgentinaDatos,ARS/USD
+2026-08-04,Dólar CCL Venta,1576.2,cambiario,ArgentinaDatos,ARS/USD
+2026-08-04,Dólar MEP Compra,1516.5,cambiario,ArgentinaDatos,ARS/USD
+2026-08-04,Dólar MEP Venta,1524.5,cambiario,ArgentinaDatos,ARS/USD
+2026-08-04,Dólar Oficial (Compra),1466.0,cambiario,Bluelytics,ARS/USD
+2026-08-04,Dólar Oficial (Venta),1517.0,cambiario,Bluelytics,ARS/USD
+2026-08-04,Reservas Internacionales BCRA,49639.0,monetario,BCRA,millones USD
+2026-08-04,Riesgo País (EMBI+),421.0,financiero,ArgentinaDatos,bps
+2026-08-04,Tasa Pases Pasivos BCRA 1 día,21.51,monetario,BCRA,% n.a.
+2026-08-04,Tipo de Cambio Minorista BCRA,1516.83,cambiario,BCRA,ARS/USD
+2026-08-05,BADLAR Bancos Privados,20.875,monetario,BCRA,% n.a.
+2026-08-05,Base Monetaria,46530255.0,monetario,BCRA,millones ARS
+2026-08-05,Dólar Blue (Compra),1494.0,cambiario,Bluelytics,ARS/USD
+2026-08-05,Dólar Blue (Venta),1540.0,cambiario,Bluelytics,ARS/USD
+2026-08-05,Dólar CCL Compra,1574.0,cambiario,ArgentinaDatos,ARS/USD
+2026-08-05,Dólar CCL Venta,1576.1,cambiario,ArgentinaDatos,ARS/USD
+2026-08-05,Dólar MEP Compra,1514.7,cambiario,ArgentinaDatos,ARS/USD
+2026-08-05,Dólar MEP Venta,1523.0,cambiario,ArgentinaDatos,ARS/USD
+2026-08-05,Dólar Oficial (Compra),1469.0,cambiario,Bluelytics,ARS/USD
+2026-08-05,Dólar Oficial (Venta),1520.0,cambiario,Bluelytics,ARS/USD
+2026-08-05,Reservas Internacionales BCRA,50058.0,monetario,BCRA,millones USD
+2026-08-05,Riesgo País (EMBI+),428.0,financiero,ArgentinaDatos,bps
+2026-08-05,Tasa Pases Pasivos BCRA 1 día,22.79,monetario,BCRA,% n.a.
+2026-08-05,Tipo de Cambio Minorista BCRA,1520.12,cambiario,BCRA,ARS/USD
+2026-08-06,BADLAR Bancos Privados,22.0,monetario,BCRA,% n.a.
+2026-08-06,Base Monetaria,46321735.0,monetario,BCRA,millones ARS
+2026-08-06,Dólar Blue (Compra),1484.0,cambiario,Bluelytics,ARS/USD
+2026-08-06,Dólar Blue (Venta),1530.0,cambiario,Bluelytics,ARS/USD
+2026-08-06,Dólar CCL Compra,1574.0,cambiario,ArgentinaDatos,ARS/USD
+2026-08-06,Dólar CCL Venta,1576.1,cambiario,ArgentinaDatos,ARS/USD
+2026-08-06,Dólar MEP Compra,1514.7,cambiario,ArgentinaDatos,ARS/USD
+2026-08-06,Dólar MEP Venta,1523.0,cambiario,ArgentinaDatos,ARS/USD
+2026-08-06,Dólar Oficial (Compra),1467.0,cambiario,Bluelytics,ARS/USD
+2026-08-06,Dólar Oficial (Venta),1518.0,cambiario,Bluelytics,ARS/USD
+2026-08-06,Reservas Internacionales BCRA,48834.0,monetario,BCRA,millones USD
+2026-08-06,Riesgo País (EMBI+),446.0,financiero,ArgentinaDatos,bps
+2026-08-06,Tasa Pases Pasivos BCRA 1 día,22.99,monetario,BCRA,% n.a.
+2026-08-06,Tipo de Cambio Minorista BCRA,1518.24,cambiario,BCRA,ARS/USD
+2026-08-07,BADLAR Bancos Privados,21.5,monetario,BCRA,% n.a.
+2026-08-07,Base Monetaria,46189969.0,monetario,BCRA,millones ARS
+2026-08-07,Dólar Blue (Compra),1479.0,cambiario,Bluelytics,ARS/USD
+2026-08-07,Dólar Blue (Venta),1525.0,cambiario,Bluelytics,ARS/USD
+2026-08-07,Dólar CCL Compra,1578.4,cambiario,ArgentinaDatos,ARS/USD
+2026-08-07,Dólar CCL Venta,1580.7,cambiario,ArgentinaDatos,ARS/USD
+2026-08-07,Dólar MEP Compra,1520.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-07,Dólar MEP Venta,1528.1,cambiario,ArgentinaDatos,ARS/USD
+2026-08-07,Dólar Oficial (Compra),1469.0,cambiario,Bluelytics,ARS/USD
+2026-08-07,Dólar Oficial (Venta),1520.0,cambiario,Bluelytics,ARS/USD
+2026-08-07,Reservas Internacionales BCRA,49457.0,monetario,BCRA,millones USD
+2026-08-07,Riesgo País (EMBI+),451.0,financiero,ArgentinaDatos,bps
+2026-08-07,Tasa Pases Pasivos BCRA 1 día,22.99,monetario,BCRA,% n.a.
+2026-08-07,Tipo de Cambio Minorista BCRA,1521.28,cambiario,BCRA,ARS/USD
+2026-08-08,Dólar CCL Compra,1578.4,cambiario,ArgentinaDatos,ARS/USD
+2026-08-08,Dólar CCL Venta,1580.7,cambiario,ArgentinaDatos,ARS/USD
+2026-08-08,Dólar MEP Compra,1520.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-08,Dólar MEP Venta,1528.1,cambiario,ArgentinaDatos,ARS/USD
+2026-08-09,Dólar CCL Compra,1578.4,cambiario,ArgentinaDatos,ARS/USD
+2026-08-09,Dólar CCL Venta,1580.7,cambiario,ArgentinaDatos,ARS/USD
+2026-08-09,Dólar MEP Compra,1520.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-09,Dólar MEP Venta,1528.1,cambiario,ArgentinaDatos,ARS/USD
+2026-08-10,BADLAR Bancos Privados,21.625,monetario,BCRA,% n.a.
+2026-08-10,Base Monetaria,46031628.0,monetario,BCRA,millones ARS
+2026-08-10,Dólar Blue (Compra),1489.0,cambiario,Bluelytics,ARS/USD
+2026-08-10,Dólar Blue (Venta),1535.0,cambiario,Bluelytics,ARS/USD
+2026-08-10,Dólar CCL Compra,1580.4,cambiario,ArgentinaDatos,ARS/USD
+2026-08-10,Dólar CCL Venta,1583.2,cambiario,ArgentinaDatos,ARS/USD
+2026-08-10,Dólar MEP Compra,1522.2,cambiario,ArgentinaDatos,ARS/USD
+2026-08-10,Dólar MEP Venta,1526.1,cambiario,ArgentinaDatos,ARS/USD
+2026-08-10,Dólar Oficial (Compra),1470.0,cambiario,Bluelytics,ARS/USD
+2026-08-10,Dólar Oficial (Venta),1521.0,cambiario,Bluelytics,ARS/USD
+2026-08-10,Reservas Internacionales BCRA,49564.0,monetario,BCRA,millones USD
+2026-08-10,Riesgo País (EMBI+),465.0,financiero,ArgentinaDatos,bps
+2026-08-10,Tasa Pases Pasivos BCRA 1 día,22.38,monetario,BCRA,% n.a.
+2026-08-10,Tipo de Cambio Minorista BCRA,1520.43,cambiario,BCRA,ARS/USD
+2026-08-11,BADLAR Bancos Privados,22.8125,monetario,BCRA,% n.a.
+2026-08-11,Base Monetaria,46138834.0,monetario,BCRA,millones ARS
+2026-08-11,Dólar Blue (Compra),1504.0,cambiario,Bluelytics,ARS/USD
+2026-08-11,Dólar Blue (Venta),1550.0,cambiario,Bluelytics,ARS/USD
+2026-08-11,Dólar CCL Compra,1582.5,cambiario,ArgentinaDatos,ARS/USD
+2026-08-11,Dólar CCL Venta,1584.9,cambiario,ArgentinaDatos,ARS/USD
+2026-08-11,Dólar MEP Compra,1520.9,cambiario,ArgentinaDatos,ARS/USD
+2026-08-11,Dólar MEP Venta,1526.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-11,Dólar Oficial (Compra),1468.0,cambiario,Bluelytics,ARS/USD
+2026-08-11,Dólar Oficial (Venta),1519.0,cambiario,Bluelytics,ARS/USD
+2026-08-11,Reservas Internacionales BCRA,49586.0,monetario,BCRA,millones USD
+2026-08-11,Riesgo País (EMBI+),466.0,financiero,ArgentinaDatos,bps
+2026-08-11,Tasa Pases Pasivos BCRA 1 día,23.0,monetario,BCRA,% n.a.
+2026-08-11,Tipo de Cambio Minorista BCRA,1517.89,cambiario,BCRA,ARS/USD
+2026-08-12,BADLAR Bancos Privados,21.0,monetario,BCRA,% n.a.
+2026-08-12,Base Monetaria,46446862.0,monetario,BCRA,millones ARS
+2026-08-12,Dólar Blue (Compra),1489.0,cambiario,Bluelytics,ARS/USD
+2026-08-12,Dólar Blue (Venta),1535.0,cambiario,Bluelytics,ARS/USD
+2026-08-12,Dólar CCL Compra,1585.6,cambiario,ArgentinaDatos,ARS/USD
+2026-08-12,Dólar CCL Venta,1587.1,cambiario,ArgentinaDatos,ARS/USD
+2026-08-12,Dólar MEP Compra,1521.7,cambiario,ArgentinaDatos,ARS/USD
+2026-08-12,Dólar MEP Venta,1529.2,cambiario,ArgentinaDatos,ARS/USD
+2026-08-12,Dólar Oficial (Compra),1466.0,cambiario,Bluelytics,ARS/USD
+2026-08-12,Dólar Oficial (Venta),1517.0,cambiario,Bluelytics,ARS/USD
+2026-08-12,Reservas Internacionales BCRA,49628.0,monetario,BCRA,millones USD
+2026-08-12,Riesgo País (EMBI+),471.0,financiero,ArgentinaDatos,bps
+2026-08-12,Tasa Pases Pasivos BCRA 1 día,22.92,monetario,BCRA,% n.a.
+2026-08-12,Tipo de Cambio Minorista BCRA,1515.66,cambiario,BCRA,ARS/USD
+2026-08-13,BADLAR Bancos Privados,22.5625,monetario,BCRA,% n.a.
+2026-08-13,Base Monetaria,46636012.0,monetario,BCRA,millones ARS
+2026-08-13,Dólar Blue (Compra),1494.0,cambiario,Bluelytics,ARS/USD
+2026-08-13,Dólar Blue (Venta),1540.0,cambiario,Bluelytics,ARS/USD
+2026-08-13,Dólar CCL Compra,1579.5,cambiario,ArgentinaDatos,ARS/USD
+2026-08-13,Dólar CCL Venta,1581.4,cambiario,ArgentinaDatos,ARS/USD
+2026-08-13,Dólar MEP Compra,1520.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-13,Dólar MEP Venta,1526.4,cambiario,ArgentinaDatos,ARS/USD
+2026-08-13,Dólar Oficial (Compra),1465.0,cambiario,Bluelytics,ARS/USD
+2026-08-13,Dólar Oficial (Venta),1516.0,cambiario,Bluelytics,ARS/USD
+2026-08-13,Reservas Internacionales BCRA,49543.0,monetario,BCRA,millones USD
+2026-08-13,Riesgo País (EMBI+),472.0,financiero,ArgentinaDatos,bps
+2026-08-13,Tasa Pases Pasivos BCRA 1 día,23.13,monetario,BCRA,% n.a.
+2026-08-13,Tipo de Cambio Minorista BCRA,1515.66,cambiario,BCRA,ARS/USD
+2026-08-14,BADLAR Bancos Privados,23.3125,monetario,BCRA,% n.a.
+2026-08-14,Base Monetaria,46487398.0,monetario,BCRA,millones ARS
+2026-08-14,Dólar Blue (Compra),1499.0,cambiario,Bluelytics,ARS/USD
+2026-08-14,Dólar Blue (Venta),1545.0,cambiario,Bluelytics,ARS/USD
+2026-08-14,Dólar CCL Compra,1571.1,cambiario,ArgentinaDatos,ARS/USD
+2026-08-14,Dólar CCL Venta,1573.8,cambiario,ArgentinaDatos,ARS/USD
+2026-08-14,Dólar MEP Compra,1509.6,cambiario,ArgentinaDatos,ARS/USD
+2026-08-14,Dólar MEP Venta,1521.6,cambiario,ArgentinaDatos,ARS/USD
+2026-08-14,Dólar Oficial (Compra),1463.0,cambiario,Bluelytics,ARS/USD
+2026-08-14,Dólar Oficial (Venta),1514.0,cambiario,Bluelytics,ARS/USD
+2026-08-14,Reservas Internacionales BCRA,49505.0,monetario,BCRA,millones USD
+2026-08-14,Riesgo País (EMBI+),480.0,financiero,ArgentinaDatos,bps
+2026-08-14,Tasa Pases Pasivos BCRA 1 día,25.11,monetario,BCRA,% n.a.
+2026-08-14,Tipo de Cambio Minorista BCRA,1512.59,cambiario,BCRA,ARS/USD
+2026-08-15,Dólar CCL Compra,1571.1,cambiario,ArgentinaDatos,ARS/USD
+2026-08-15,Dólar CCL Venta,1573.8,cambiario,ArgentinaDatos,ARS/USD
+2026-08-15,Dólar MEP Compra,1509.6,cambiario,ArgentinaDatos,ARS/USD
+2026-08-15,Dólar MEP Venta,1521.6,cambiario,ArgentinaDatos,ARS/USD
+2026-08-16,Dólar CCL Compra,1571.1,cambiario,ArgentinaDatos,ARS/USD
+2026-08-16,Dólar CCL Venta,1573.8,cambiario,ArgentinaDatos,ARS/USD
+2026-08-16,Dólar MEP Compra,1509.6,cambiario,ArgentinaDatos,ARS/USD
+2026-08-16,Dólar MEP Venta,1521.6,cambiario,ArgentinaDatos,ARS/USD
+2026-08-17,Dólar Blue (Compra),1499.0,cambiario,Bluelytics,ARS/USD
+2026-08-17,Dólar Blue (Venta),1545.0,cambiario,Bluelytics,ARS/USD
+2026-08-17,Dólar CCL Compra,1571.1,cambiario,ArgentinaDatos,ARS/USD
+2026-08-17,Dólar CCL Venta,1573.8,cambiario,ArgentinaDatos,ARS/USD
+2026-08-17,Dólar MEP Compra,1509.6,cambiario,ArgentinaDatos,ARS/USD
+2026-08-17,Dólar MEP Venta,1521.6,cambiario,ArgentinaDatos,ARS/USD
+2026-08-17,Dólar Oficial (Compra),1461.0,cambiario,Bluelytics,ARS/USD
+2026-08-17,Dólar Oficial (Venta),1513.0,cambiario,Bluelytics,ARS/USD
+2026-08-17,Riesgo País (EMBI+),489.0,financiero,ArgentinaDatos,bps
+2026-08-18,BADLAR Bancos Privados,22.25,monetario,BCRA,% n.a.
+2026-08-18,Base Monetaria,46427239.0,monetario,BCRA,millones ARS
+2026-08-18,Dólar Blue (Compra),1508.0,cambiario,Bluelytics,ARS/USD
+2026-08-18,Dólar Blue (Venta),1555.0,cambiario,Bluelytics,ARS/USD
+2026-08-18,Dólar CCL Compra,1574.5,cambiario,ArgentinaDatos,ARS/USD
+2026-08-18,Dólar CCL Venta,1575.5,cambiario,ArgentinaDatos,ARS/USD
+2026-08-18,Dólar MEP Compra,1514.2,cambiario,ArgentinaDatos,ARS/USD
+2026-08-18,Dólar MEP Venta,1521.0,cambiario,ArgentinaDatos,ARS/USD
+2026-08-18,Dólar Oficial (Compra),1461.0,cambiario,Bluelytics,ARS/USD
+2026-08-18,Dólar Oficial (Venta),1513.0,cambiario,Bluelytics,ARS/USD
+2026-08-18,Reservas Internacionales BCRA,49593.0,monetario,BCRA,millones USD
+2026-08-18,Riesgo País (EMBI+),511.0,financiero,ArgentinaDatos,bps
+2026-08-18,Tasa Pases Pasivos BCRA 1 día,25.9,monetario,BCRA,% n.a.
+2026-08-18,Tipo de Cambio Minorista BCRA,1515.02,cambiario,BCRA,ARS/USD
+2026-08-19,BADLAR Bancos Privados,23.0,monetario,BCRA,% n.a.
+2026-08-19,Base Monetaria,47824170.0,monetario,BCRA,millones ARS
+2026-08-19,Dólar Blue (Compra),1518.0,cambiario,Bluelytics,ARS/USD
+2026-08-19,Dólar Blue (Venta),1560.0,cambiario,Bluelytics,ARS/USD
+2026-08-19,Dólar CCL Compra,1579.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-19,Dólar CCL Venta,1580.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-19,Dólar MEP Compra,1521.9,cambiario,ArgentinaDatos,ARS/USD
+2026-08-19,Dólar MEP Venta,1523.9,cambiario,ArgentinaDatos,ARS/USD
+2026-08-19,Dólar Oficial (Compra),1466.0,cambiario,Bluelytics,ARS/USD
+2026-08-19,Dólar Oficial (Venta),1517.0,cambiario,Bluelytics,ARS/USD
+2026-08-19,Reservas Internacionales BCRA,50006.0,monetario,BCRA,millones USD
+2026-08-19,Riesgo País (EMBI+),517.0,financiero,ArgentinaDatos,bps
+2026-08-19,Tasa Pases Pasivos BCRA 1 día,28.36,monetario,BCRA,% n.a.
+2026-08-19,Tipo de Cambio Minorista BCRA,1517.54,cambiario,BCRA,ARS/USD
+2026-08-20,BADLAR Bancos Privados,24.3125,monetario,BCRA,% n.a.
+2026-08-20,Base Monetaria,48175716.0,monetario,BCRA,millones ARS
+2026-08-20,Dólar Blue (Compra),1504.0,cambiario,Bluelytics,ARS/USD
+2026-08-20,Dólar Blue (Venta),1550.0,cambiario,Bluelytics,ARS/USD
+2026-08-20,Dólar CCL Compra,1584.0,cambiario,ArgentinaDatos,ARS/USD
+2026-08-20,Dólar CCL Venta,1585.2,cambiario,ArgentinaDatos,ARS/USD
+2026-08-20,Dólar MEP Compra,1522.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-20,Dólar MEP Venta,1530.8,cambiario,ArgentinaDatos,ARS/USD
+2026-08-20,Dólar Oficial (Compra),1467.0,cambiario,Bluelytics,ARS/USD
+2026-08-20,Dólar Oficial (Venta),1518.0,cambiario,Bluelytics,ARS/USD
+2026-08-20,Reservas Internacionales BCRA,50344.0,monetario,BCRA,millones USD
+2026-08-20,Riesgo País (EMBI+),532.0,financiero,ArgentinaDatos,bps
+2026-08-20,Tasa Pases Pasivos BCRA 1 día,26.47,monetario,BCRA,% n.a.
+2026-08-20,Tipo de Cambio Minorista BCRA,1517.58,cambiario,BCRA,ARS/USD
+2026-08-21,BADLAR Bancos Privados,24.125,monetario,BCRA,% n.a.
+2026-08-21,Base Monetaria,46210440.0,monetario,BCRA,millones ARS
+2026-08-21,Dólar Blue (Compra),1504.0,cambiario,Bluelytics,ARS/USD
+2026-08-21,Dólar Blue (Venta),1550.0,cambiario,Bluelytics,ARS/USD
+2026-08-21,Dólar CCL Compra,1588.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-21,Dólar CCL Venta,1589.7,cambiario,ArgentinaDatos,ARS/USD
+2026-08-21,Dólar MEP Compra,1531.7,cambiario,ArgentinaDatos,ARS/USD
+2026-08-21,Dólar MEP Venta,1545.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-21,Dólar Oficial (Compra),1466.0,cambiario,Bluelytics,ARS/USD
+2026-08-21,Dólar Oficial (Venta),1518.0,cambiario,Bluelytics,ARS/USD
+2026-08-21,Reservas Internacionales BCRA,50660.0,monetario,BCRA,millones USD
+2026-08-21,Riesgo País (EMBI+),505.0,financiero,ArgentinaDatos,bps
+2026-08-21,Tasa Pases Pasivos BCRA 1 día,24.0,monetario,BCRA,% n.a.
+2026-08-21,Tipo de Cambio Minorista BCRA,1518.13,cambiario,BCRA,ARS/USD
+2026-08-22,Dólar CCL Compra,1588.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-22,Dólar CCL Venta,1589.7,cambiario,ArgentinaDatos,ARS/USD
+2026-08-22,Dólar MEP Compra,1531.7,cambiario,ArgentinaDatos,ARS/USD
+2026-08-22,Dólar MEP Venta,1545.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-23,Dólar CCL Compra,1588.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-23,Dólar CCL Venta,1589.7,cambiario,ArgentinaDatos,ARS/USD
+2026-08-23,Dólar MEP Compra,1531.7,cambiario,ArgentinaDatos,ARS/USD
+2026-08-23,Dólar MEP Venta,1545.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-24,BADLAR Bancos Privados,23.625,monetario,BCRA,% n.a.
+2026-08-24,Base Monetaria,47076725.0,monetario,BCRA,millones ARS
+2026-08-24,Dólar Blue (Compra),1518.0,cambiario,Bluelytics,ARS/USD
+2026-08-24,Dólar Blue (Venta),1565.0,cambiario,Bluelytics,ARS/USD
+2026-08-24,Dólar CCL Compra,1598.7,cambiario,ArgentinaDatos,ARS/USD
+2026-08-24,Dólar CCL Venta,1600.6,cambiario,ArgentinaDatos,ARS/USD
+2026-08-24,Dólar MEP Compra,1534.7,cambiario,ArgentinaDatos,ARS/USD
+2026-08-24,Dólar MEP Venta,1543.4,cambiario,ArgentinaDatos,ARS/USD
+2026-08-24,Dólar Oficial (Compra),1473.0,cambiario,Bluelytics,ARS/USD
+2026-08-24,Dólar Oficial (Venta),1525.0,cambiario,Bluelytics,ARS/USD
+2026-08-24,Reservas Internacionales BCRA,50776.0,monetario,BCRA,millones USD
+2026-08-24,Riesgo País (EMBI+),509.0,financiero,ArgentinaDatos,bps
+2026-08-24,Tasa Pases Pasivos BCRA 1 día,23.12,monetario,BCRA,% n.a.
+2026-08-24,Tipo de Cambio Minorista BCRA,1527.33,cambiario,BCRA,ARS/USD
+2026-08-25,BADLAR Bancos Privados,24.375,monetario,BCRA,% n.a.
+2026-08-25,Base Monetaria,45965061.0,monetario,BCRA,millones ARS
+2026-08-25,Dólar Blue (Compra),1518.0,cambiario,Bluelytics,ARS/USD
+2026-08-25,Dólar Blue (Venta),1565.0,cambiario,Bluelytics,ARS/USD
+2026-08-25,Dólar CCL Compra,1599.5,cambiario,ArgentinaDatos,ARS/USD
+2026-08-25,Dólar CCL Venta,1600.9,cambiario,ArgentinaDatos,ARS/USD
+2026-08-25,Dólar MEP Compra,1537.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-25,Dólar MEP Venta,1543.6,cambiario,ArgentinaDatos,ARS/USD
+2026-08-25,Dólar Oficial (Compra),1478.0,cambiario,Bluelytics,ARS/USD
+2026-08-25,Dólar Oficial (Venta),1530.0,cambiario,Bluelytics,ARS/USD
+2026-08-25,Reservas Internacionales BCRA,50913.0,monetario,BCRA,millones USD
+2026-08-25,Riesgo País (EMBI+),512.0,financiero,ArgentinaDatos,bps
+2026-08-25,Tasa Pases Pasivos BCRA 1 día,22.04,monetario,BCRA,% n.a.
+2026-08-25,Tipo de Cambio Minorista BCRA,1531.07,cambiario,BCRA,ARS/USD
+2026-08-26,BADLAR Bancos Privados,23.1875,monetario,BCRA,% n.a.
+2026-08-26,Base Monetaria,46038739.0,monetario,BCRA,millones ARS
+2026-08-26,Dólar Blue (Compra),1508.0,cambiario,Bluelytics,ARS/USD
+2026-08-26,Dólar Blue (Venta),1555.0,cambiario,Bluelytics,ARS/USD
+2026-08-26,Dólar CCL Compra,1605.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-26,Dólar CCL Venta,1606.8,cambiario,ArgentinaDatos,ARS/USD
+2026-08-26,Dólar MEP Compra,1540.7,cambiario,ArgentinaDatos,ARS/USD
+2026-08-26,Dólar MEP Venta,1548.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-26,Dólar Oficial (Compra),1481.0,cambiario,Bluelytics,ARS/USD
+2026-08-26,Dólar Oficial (Venta),1533.0,cambiario,Bluelytics,ARS/USD
+2026-08-26,Reservas Internacionales BCRA,50784.0,monetario,BCRA,millones USD
+2026-08-26,Riesgo País (EMBI+),517.0,financiero,ArgentinaDatos,bps
+2026-08-26,Tasa Pases Pasivos BCRA 1 día,21.54,monetario,BCRA,% n.a.
+2026-08-26,Tipo de Cambio Minorista BCRA,1533.11,cambiario,BCRA,ARS/USD
+2026-08-27,BADLAR Bancos Privados,23.9375,monetario,BCRA,% n.a.
+2026-08-27,Base Monetaria,45621808.0,monetario,BCRA,millones ARS
+2026-08-27,Dólar Blue (Compra),1508.0,cambiario,Bluelytics,ARS/USD
+2026-08-27,Dólar Blue (Venta),1555.0,cambiario,Bluelytics,ARS/USD
+2026-08-27,Dólar CCL Compra,1600.1,cambiario,ArgentinaDatos,ARS/USD
+2026-08-27,Dólar CCL Venta,1602.1,cambiario,ArgentinaDatos,ARS/USD
+2026-08-27,Dólar MEP Compra,1530.2,cambiario,ArgentinaDatos,ARS/USD
+2026-08-27,Dólar MEP Venta,1542.0,cambiario,ArgentinaDatos,ARS/USD
+2026-08-27,Dólar Oficial (Compra),1482.0,cambiario,Bluelytics,ARS/USD
+2026-08-27,Dólar Oficial (Venta),1533.0,cambiario,Bluelytics,ARS/USD
+2026-08-27,Reservas Internacionales BCRA,50861.0,monetario,BCRA,millones USD
+2026-08-27,Riesgo País (EMBI+),509.0,financiero,ArgentinaDatos,bps
+2026-08-27,Tasa Pases Pasivos BCRA 1 día,21.06,monetario,BCRA,% n.a.
+2026-08-27,Tipo de Cambio Minorista BCRA,1533.22,cambiario,BCRA,ARS/USD
+2026-08-28,BADLAR Bancos Privados,23.1875,monetario,BCRA,% n.a.
+2026-08-28,Base Monetaria,45776921.0,monetario,BCRA,millones ARS
+2026-08-28,Dólar Blue (Compra),1508.0,cambiario,Bluelytics,ARS/USD
+2026-08-28,Dólar Blue (Venta),1555.0,cambiario,Bluelytics,ARS/USD
+2026-08-28,Dólar CCL Compra,1602.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-28,Dólar CCL Venta,1603.8,cambiario,ArgentinaDatos,ARS/USD
+2026-08-28,Dólar MEP Compra,1534.9,cambiario,ArgentinaDatos,ARS/USD
+2026-08-28,Dólar MEP Venta,1544.1,cambiario,ArgentinaDatos,ARS/USD
+2026-08-28,Dólar Oficial (Compra),1480.0,cambiario,Bluelytics,ARS/USD
+2026-08-28,Dólar Oficial (Venta),1533.0,cambiario,Bluelytics,ARS/USD
+2026-08-28,Reservas Internacionales BCRA,49793.0,monetario,BCRA,millones USD
+2026-08-28,Riesgo País (EMBI+),512.0,financiero,ArgentinaDatos,bps
+2026-08-28,Tasa Pases Pasivos BCRA 1 día,20.84,monetario,BCRA,% n.a.
+2026-08-28,Tipo de Cambio Minorista BCRA,1533.21,cambiario,BCRA,ARS/USD
+2026-08-29,Dólar CCL Compra,1602.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-29,Dólar CCL Venta,1603.8,cambiario,ArgentinaDatos,ARS/USD
+2026-08-29,Dólar MEP Compra,1534.9,cambiario,ArgentinaDatos,ARS/USD
+2026-08-29,Dólar MEP Venta,1544.1,cambiario,ArgentinaDatos,ARS/USD
+2026-08-30,Dólar CCL Compra,1602.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-30,Dólar CCL Venta,1603.8,cambiario,ArgentinaDatos,ARS/USD
+2026-08-30,Dólar MEP Compra,1534.9,cambiario,ArgentinaDatos,ARS/USD
+2026-08-30,Dólar MEP Venta,1544.1,cambiario,ArgentinaDatos,ARS/USD
+2026-08-31,BADLAR Bancos Privados,23.0,monetario,BCRA,% n.a.
+2026-08-31,Base Monetaria,47451537.0,monetario,BCRA,millones ARS
+2026-08-31,Dólar Blue (Compra),1513.0,cambiario,Bluelytics,ARS/USD
+2026-08-31,Dólar Blue (Venta),1555.0,cambiario,Bluelytics,ARS/USD
+2026-08-31,Dólar CCL Compra,1596.7,cambiario,ArgentinaDatos,ARS/USD
+2026-08-31,Dólar CCL Venta,1598.3,cambiario,ArgentinaDatos,ARS/USD
+2026-08-31,Dólar MEP Compra,1529.5,cambiario,ArgentinaDatos,ARS/USD
+2026-08-31,Dólar MEP Venta,1538.8,cambiario,ArgentinaDatos,ARS/USD
+2026-08-31,Dólar Oficial (Compra),1480.0,cambiario,Bluelytics,ARS/USD
+2026-08-31,Dólar Oficial (Venta),1532.0,cambiario,Bluelytics,ARS/USD
+2026-08-31,Inflación Esperada 12m (REM),21.0,precios,BCRA,%
+2026-08-31,Reservas Internacionales BCRA,48259.0,monetario,BCRA,millones USD
+2026-08-31,Riesgo País (EMBI+),512.0,financiero,ArgentinaDatos,bps
+2026-08-31,Tasa Pases Pasivos BCRA 1 día,20.89,monetario,BCRA,% n.a.
+2026-08-31,Tipo de Cambio Minorista BCRA,1531.51,cambiario,BCRA,ARS/USD
+2026-09-01,BADLAR Bancos Privados,23.0625,monetario,BCRA,% n.a.
+2026-09-01,Base Monetaria,47216078.0,monetario,BCRA,millones ARS
+2026-09-01,Dólar Blue (Compra),1499.0,cambiario,Bluelytics,ARS/USD
+2026-09-01,Dólar Blue (Venta),1545.0,cambiario,Bluelytics,ARS/USD
+2026-09-01,Dólar CCL Compra,1602.3,cambiario,ArgentinaDatos,ARS/USD
+2026-09-01,Dólar CCL Venta,1603.8,cambiario,ArgentinaDatos,ARS/USD
+2026-09-01,Dólar MEP Compra,1534.9,cambiario,ArgentinaDatos,ARS/USD
+2026-09-01,Dólar MEP Venta,1544.1,cambiario,ArgentinaDatos,ARS/USD
+2026-09-01,Dólar Oficial (Compra),1482.0,cambiario,Bluelytics,ARS/USD
+2026-09-01,Dólar Oficial (Venta),1533.0,cambiario,Bluelytics,ARS/USD
+2026-09-01,Reservas Internacionales BCRA,50205.0,monetario,BCRA,millones USD
+2026-09-01,Riesgo País (EMBI+),501.0,financiero,ArgentinaDatos,bps
+2026-09-01,Tasa Pases Pasivos BCRA 1 día,21.68,monetario,BCRA,% n.a.
+2026-09-01,Tipo de Cambio Minorista BCRA,1533.63,cambiario,BCRA,ARS/USD
+2026-09-02,BADLAR Bancos Privados,23.125,monetario,BCRA,% n.a.
+2026-09-02,Base Monetaria,46347290.0,monetario,BCRA,millones ARS
+2026-09-02,Dólar Blue (Compra),1499.0,cambiario,Bluelytics,ARS/USD
+2026-09-02,Dólar Blue (Venta),1540.0,cambiario,Bluelytics,ARS/USD
+2026-09-02,Dólar CCL Compra,1591.5,cambiario,ArgentinaDatos,ARS/USD
+2026-09-02,Dólar CCL Venta,1592.1,cambiario,ArgentinaDatos,ARS/USD
+2026-09-02,Dólar MEP Compra,1528.0,cambiario,ArgentinaDatos,ARS/USD
+2026-09-02,Dólar MEP Venta,1533.9,cambiario,ArgentinaDatos,ARS/USD
+2026-09-02,Dólar Oficial (Compra),1482.0,cambiario,Bluelytics,ARS/USD
+2026-09-02,Dólar Oficial (Venta),1534.0,cambiario,Bluelytics,ARS/USD
+2026-09-02,Reservas Internacionales BCRA,50492.0,monetario,BCRA,millones USD
+2026-09-02,Riesgo País (EMBI+),500.0,financiero,ArgentinaDatos,bps
+2026-09-02,Tasa Pases Pasivos BCRA 1 día,20.52,monetario,BCRA,% n.a.
+2026-09-02,Tipo de Cambio Minorista BCRA,1533.58,cambiario,BCRA,ARS/USD
+2026-09-03,BADLAR Bancos Privados,23.25,monetario,BCRA,% n.a.
+2026-09-03,Base Monetaria,47282027.0,monetario,BCRA,millones ARS
+2026-09-03,Dólar Blue (Compra),1499.0,cambiario,Bluelytics,ARS/USD
+2026-09-03,Dólar Blue (Venta),1545.0,cambiario,Bluelytics,ARS/USD
+2026-09-03,Dólar CCL Compra,1593.5,cambiario,ArgentinaDatos,ARS/USD
+2026-09-03,Dólar CCL Venta,1594.4,cambiario,ArgentinaDatos,ARS/USD
+2026-09-03,Dólar MEP Compra,1532.0,cambiario,ArgentinaDatos,ARS/USD
+2026-09-03,Dólar MEP Venta,1535.2,cambiario,ArgentinaDatos,ARS/USD
+2026-09-03,Dólar Oficial (Compra),1482.0,cambiario,Bluelytics,ARS/USD
+2026-09-03,Dólar Oficial (Venta),1534.0,cambiario,Bluelytics,ARS/USD
+2026-09-03,Reservas Internacionales BCRA,50789.0,monetario,BCRA,millones USD
+2026-09-03,Riesgo País (EMBI+),494.0,financiero,ArgentinaDatos,bps
+2026-09-03,Tasa Pases Pasivos BCRA 1 día,20.23,monetario,BCRA,% n.a.
+2026-09-03,Tipo de Cambio Minorista BCRA,1529.42,cambiario,BCRA,ARS/USD
+2026-09-04,BADLAR Bancos Privados,22.0625,monetario,BCRA,% n.a.
+2026-09-04,Base Monetaria,47251329.0,monetario,BCRA,millones ARS
+2026-09-04,Dólar Blue (Compra),1499.0,cambiario,Bluelytics,ARS/USD
+2026-09-04,Dólar Blue (Venta),1540.0,cambiario,Bluelytics,ARS/USD
+2026-09-04,Dólar CCL Compra,1582.0,cambiario,ArgentinaDatos,ARS/USD
+2026-09-04,Dólar CCL Venta,1583.2,cambiario,ArgentinaDatos,ARS/USD
+2026-09-04,Dólar MEP Compra,1516.9,cambiario,ArgentinaDatos,ARS/USD
+2026-09-04,Dólar MEP Venta,1525.3,cambiario,ArgentinaDatos,ARS/USD
+2026-09-04,Dólar Oficial (Compra),1477.0,cambiario,Bluelytics,ARS/USD
+2026-09-04,Dólar Oficial (Venta),1529.0,cambiario,Bluelytics,ARS/USD
+2026-09-04,Reservas Internacionales BCRA,50760.0,monetario,BCRA,millones USD
+2026-09-04,Riesgo País (EMBI+),490.0,financiero,ArgentinaDatos,bps
+2026-09-04,Tasa Pases Pasivos BCRA 1 día,20.28,monetario,BCRA,% n.a.
+2026-09-04,Tipo de Cambio Minorista BCRA,1528.6,cambiario,BCRA,ARS/USD
+2026-09-05,Dólar CCL Compra,1582.0,cambiario,ArgentinaDatos,ARS/USD
+2026-09-05,Dólar CCL Venta,1583.2,cambiario,ArgentinaDatos,ARS/USD
+2026-09-05,Dólar MEP Compra,1516.9,cambiario,ArgentinaDatos,ARS/USD
+2026-09-05,Dólar MEP Venta,1525.3,cambiario,ArgentinaDatos,ARS/USD
+2026-09-06,Dólar CCL Compra,1582.0,cambiario,ArgentinaDatos,ARS/USD
+2026-09-06,Dólar CCL Venta,1583.2,cambiario,ArgentinaDatos,ARS/USD
+2026-09-06,Dólar MEP Compra,1516.9,cambiario,ArgentinaDatos,ARS/USD
+2026-09-06,Dólar MEP Venta,1525.3,cambiario,ArgentinaDatos,ARS/USD
+2026-09-07,BADLAR Bancos Privados,22.125,monetario,BCRA,% n.a.
+2026-09-07,Base Monetaria,46768207.0,monetario,BCRA,millones ARS
+2026-09-07,Dólar Blue (Compra),1499.0,cambiario,Bluelytics,ARS/USD
+2026-09-07,Dólar Blue (Venta),1545.0,cambiario,Bluelytics,ARS/USD
+2026-09-07,Dólar CCL Compra,1582.0,cambiario,ArgentinaDatos,ARS/USD
+2026-09-07,Dólar CCL Venta,1583.2,cambiario,ArgentinaDatos,ARS/USD
+2026-09-07,Dólar MEP Compra,1516.9,cambiario,ArgentinaDatos,ARS/USD
+2026-09-07,Dólar MEP Venta,1525.3,cambiario,ArgentinaDatos,ARS/USD
+2026-09-07,Dólar Oficial (Compra),1477.0,cambiario,Bluelytics,ARS/USD
+2026-09-07,Dólar Oficial (Venta),1529.0,cambiario,Bluelytics,ARS/USD
+2026-09-07,Reservas Internacionales BCRA,50738.0,monetario,BCRA,millones USD
+2026-09-07,Riesgo País (EMBI+),490.0,financiero,ArgentinaDatos,bps
+2026-09-07,Tasa Pases Pasivos BCRA 1 día,20.4,monetario,BCRA,% n.a.
+2026-09-07,Tipo de Cambio Minorista BCRA,1529.19,cambiario,BCRA,ARS/USD
+2026-09-08,BADLAR Bancos Privados,22.75,monetario,BCRA,% n.a.
+2026-09-08,Base Monetaria,45504286.0,monetario,BCRA,millones ARS
+2026-09-08,Dólar Blue (Compra),1499.0,cambiario,Bluelytics,ARS/USD
+2026-09-08,Dólar Blue (Venta),1545.0,cambiario,Bluelytics,ARS/USD
+2026-09-08,Dólar CCL Compra,1582.0,cambiario,ArgentinaDatos,ARS/USD
+2026-09-08,Dólar CCL Venta,1583.2,cambiario,ArgentinaDatos,ARS/USD
+2026-09-08,Dólar MEP Compra,1518.9,cambiario,ArgentinaDatos,ARS/USD
+2026-09-08,Dólar MEP Venta,1533.7,cambiario,ArgentinaDatos,ARS/USD
+2026-09-08,Dólar Oficial (Compra),1478.0,cambiario,Bluelytics,ARS/USD
+2026-09-08,Dólar Oficial (Venta),1529.0,cambiario,Bluelytics,ARS/USD
+2026-09-08,Reservas Internacionales BCRA,50732.0,monetario,BCRA,millones USD
+2026-09-08,Riesgo País (EMBI+),494.0,financiero,ArgentinaDatos,bps
+2026-09-08,Tasa Pases Pasivos BCRA 1 día,20.21,monetario,BCRA,% n.a.
+2026-09-08,Tipo de Cambio Minorista BCRA,1529.4,cambiario,BCRA,ARS/USD
+2026-09-09,BADLAR Bancos Privados,22.4375,monetario,BCRA,% n.a.
+2026-09-09,Base Monetaria,45715105.0,monetario,BCRA,millones ARS
+2026-09-09,Dólar Blue (Compra),1494.0,cambiario,Bluelytics,ARS/USD
+2026-09-09,Dólar Blue (Venta),1540.0,cambiario,Bluelytics,ARS/USD
+2026-09-09,Dólar CCL Compra,1589.7,cambiario,ArgentinaDatos,ARS/USD
+2026-09-09,Dólar CCL Venta,1592.9,cambiario,ArgentinaDatos,ARS/USD
+2026-09-09,Dólar MEP Compra,1522.8,cambiario,ArgentinaDatos,ARS/USD
+2026-09-09,Dólar MEP Venta,1530.4,cambiario,ArgentinaDatos,ARS/USD
+2026-09-09,Dólar Oficial (Compra),1483.0,cambiario,Bluelytics,ARS/USD
+2026-09-09,Dólar Oficial (Venta),1534.0,cambiario,Bluelytics,ARS/USD
+2026-09-09,Reservas Internacionales BCRA,50617.0,monetario,BCRA,millones USD
+2026-09-09,Riesgo País (EMBI+),491.0,financiero,ArgentinaDatos,bps
+2026-09-09,Tasa Pases Pasivos BCRA 1 día,20.17,monetario,BCRA,% n.a.
+2026-09-09,Tipo de Cambio Minorista BCRA,1533.53,cambiario,BCRA,ARS/USD
+2026-09-10,BADLAR Bancos Privados,22.3125,monetario,BCRA,% n.a.
+2026-09-10,Base Monetaria,45765350.0,monetario,BCRA,millones ARS
+2026-09-10,Dólar Blue (Compra),1494.0,cambiario,Bluelytics,ARS/USD
+2026-09-10,Dólar Blue (Venta),1540.0,cambiario,Bluelytics,ARS/USD
+2026-09-10,Dólar CCL Compra,1593.6,cambiario,ArgentinaDatos,ARS/USD
+2026-09-10,Dólar CCL Venta,1596.2,cambiario,ArgentinaDatos,ARS/USD
+2026-09-10,Dólar MEP Compra,1525.8,cambiario,ArgentinaDatos,ARS/USD
+2026-09-10,Dólar MEP Venta,1533.1,cambiario,ArgentinaDatos,ARS/USD
+2026-09-10,Dólar Oficial (Compra),1483.0,cambiario,Bluelytics,ARS/USD
+2026-09-10,Dólar Oficial (Venta),1534.0,cambiario,Bluelytics,ARS/USD
+2026-09-10,Reservas Internacionales BCRA,50506.0,monetario,BCRA,millones USD
+2026-09-10,Riesgo País (EMBI+),491.0,financiero,ArgentinaDatos,bps
+2026-09-10,Tasa Pases Pasivos BCRA 1 día,20.17,monetario,BCRA,% n.a.
+2026-09-10,Tipo de Cambio Minorista BCRA,1533.98,cambiario,BCRA,ARS/USD
+2026-09-11,BADLAR Bancos Privados,21.4375,monetario,BCRA,% n.a.
+2026-09-11,Base Monetaria,45878260.0,monetario,BCRA,millones ARS
+2026-09-11,Dólar Blue (Compra),1499.0,cambiario,Bluelytics,ARS/USD
+2026-09-11,Dólar Blue (Venta),1545.0,cambiario,Bluelytics,ARS/USD
+2026-09-11,Dólar CCL Compra,1597.7,cambiario,ArgentinaDatos,ARS/USD
+2026-09-11,Dólar CCL Venta,1598.3,cambiario,ArgentinaDatos,ARS/USD
+2026-09-11,Dólar MEP Compra,1533.8,cambiario,ArgentinaDatos,ARS/USD
+2026-09-11,Dólar MEP Venta,1537.9,cambiario,ArgentinaDatos,ARS/USD
+2026-09-11,Dólar Oficial (Compra),1483.0,cambiario,Bluelytics,ARS/USD
+2026-09-11,Dólar Oficial (Venta),1534.0,cambiario,Bluelytics,ARS/USD
+2026-09-11,Reservas Internacionales BCRA,50474.0,monetario,BCRA,millones USD
+2026-09-11,Riesgo País (EMBI+),485.0,financiero,ArgentinaDatos,bps
+2026-09-11,Tasa Pases Pasivos BCRA 1 día,20.21,monetario,BCRA,% n.a.
+2026-09-11,Tipo de Cambio Minorista BCRA,1531.73,cambiario,BCRA,ARS/USD
+2026-09-12,Dólar CCL Compra,1594.6,cambiario,ArgentinaDatos,ARS/USD
+2026-09-12,Dólar CCL Venta,1597.5,cambiario,ArgentinaDatos,ARS/USD
+2026-09-12,Dólar MEP Compra,1536.5,cambiario,ArgentinaDatos,ARS/USD
+2026-09-12,Dólar MEP Venta,1539.9,cambiario,ArgentinaDatos,ARS/USD
+2026-09-13,Dólar CCL Compra,1594.6,cambiario,ArgentinaDatos,ARS/USD
+2026-09-13,Dólar CCL Venta,1597.5,cambiario,ArgentinaDatos,ARS/USD
+2026-09-13,Dólar MEP Compra,1536.5,cambiario,ArgentinaDatos,ARS/USD
+2026-09-13,Dólar MEP Venta,1539.9,cambiario,ArgentinaDatos,ARS/USD
+2026-09-14,BADLAR Bancos Privados,22.125,monetario,BCRA,% n.a.
+2026-09-14,Base Monetaria,46909045.0,monetario,BCRA,millones ARS
+2026-09-14,Dólar Blue (Compra),1530.0,cambiario,Bluelytics,ARS/USD
+2026-09-14,Dólar Blue (Venta),1555.0,cambiario,Bluelytics,ARS/USD
+2026-09-14,Dólar CCL Compra,1594.6,cambiario,ArgentinaDatos,ARS/USD
+2026-09-14,Dólar CCL Venta,1597.5,cambiario,ArgentinaDatos,ARS/USD
+2026-09-14,Dólar MEP Compra,1536.5,cambiario,ArgentinaDatos,ARS/USD
+2026-09-14,Dólar MEP Venta,1539.9,cambiario,ArgentinaDatos,ARS/USD
+2026-09-14,Dólar Oficial (Compra),1480.0,cambiario,Bluelytics,ARS/USD
+2026-09-14,Dólar Oficial (Venta),1532.0,cambiario,Bluelytics,ARS/USD
+2026-09-14,Reservas Internacionales BCRA,50404.0,monetario,BCRA,millones USD
+2026-09-14,Riesgo País (EMBI+),490.0,financiero,ArgentinaDatos,bps
+2026-09-14,Tasa Pases Pasivos BCRA 1 día,21.26,monetario,BCRA,% n.a.
+2026-09-14,Tipo de Cambio Minorista BCRA,1530.55,cambiario,BCRA,ARS/USD
+2026-09-15,BADLAR Bancos Privados,22.5625,monetario,BCRA,% n.a.
+2026-09-15,Base Monetaria,46310910.0,monetario,BCRA,millones ARS
+2026-09-15,Dólar Blue (Compra),1513.0,cambiario,Bluelytics,ARS/USD
+2026-09-15,Dólar Blue (Venta),1560.0,cambiario,Bluelytics,ARS/USD
+2026-09-15,Dólar CCL Compra,1595.5,cambiario,ArgentinaDatos,ARS/USD
+2026-09-15,Dólar CCL Venta,1597.5,cambiario,ArgentinaDatos,ARS/USD
+2026-09-15,Dólar MEP Compra,1530.1,cambiario,ArgentinaDatos,ARS/USD
+2026-09-15,Dólar MEP Venta,1536.7,cambiario,ArgentinaDatos,ARS/USD
+2026-09-15,Dólar Oficial (Compra),1477.0,cambiario,Bluelytics,ARS/USD
+2026-09-15,Dólar Oficial (Venta),1532.0,cambiario,Bluelytics,ARS/USD
+2026-09-15,Reservas Internacionales BCRA,49954.0,monetario,BCRA,millones USD
+2026-09-15,Riesgo País (EMBI+),506.0,financiero,ArgentinaDatos,bps
+2026-09-15,Tasa Pases Pasivos BCRA 1 día,20.86,monetario,BCRA,% n.a.
+2026-09-15,Tipo de Cambio Minorista BCRA,1532.27,cambiario,BCRA,ARS/USD
+2026-09-16,BADLAR Bancos Privados,22.75,monetario,BCRA,% n.a.
+2026-09-16,Base Monetaria,45437976.0,monetario,BCRA,millones ARS
+2026-09-16,Dólar Blue (Compra),1513.0,cambiario,Bluelytics,ARS/USD
+2026-09-16,Dólar Blue (Venta),1560.0,cambiario,Bluelytics,ARS/USD
+2026-09-16,Dólar CCL Compra,1593.3,cambiario,ArgentinaDatos,ARS/USD
+2026-09-16,Dólar CCL Venta,1594.6,cambiario,ArgentinaDatos,ARS/USD
+2026-09-16,Dólar MEP Compra,1530.7,cambiario,ArgentinaDatos,ARS/USD
+2026-09-16,Dólar MEP Venta,1533.2,cambiario,ArgentinaDatos,ARS/USD
+2026-09-16,Dólar Oficial (Compra),1477.0,cambiario,Bluelytics,ARS/USD
+2026-09-16,Dólar Oficial (Venta),1532.0,cambiario,Bluelytics,ARS/USD
+2026-09-16,Reservas Internacionales BCRA,50003.0,monetario,BCRA,millones USD
+2026-09-16,Riesgo País (EMBI+),510.0,financiero,ArgentinaDatos,bps
+2026-09-16,Tasa Pases Pasivos BCRA 1 día,20.51,monetario,BCRA,% n.a.
+2026-09-16,Tipo de Cambio Minorista BCRA,1531.56,cambiario,BCRA,ARS/USD
+2026-09-17,BADLAR Bancos Privados,22.0625,monetario,BCRA,% n.a.
+2026-09-17,Base Monetaria,45951683.0,monetario,BCRA,millones ARS
+2026-09-17,Dólar Blue (Compra),1513.0,cambiario,Bluelytics,ARS/USD
+2026-09-17,Dólar Blue (Venta),1555.0,cambiario,Bluelytics,ARS/USD
+2026-09-17,Dólar CCL Compra,1597.9,cambiario,ArgentinaDatos,ARS/USD
+2026-09-17,Dólar CCL Venta,1600.2,cambiario,ArgentinaDatos,ARS/USD
+2026-09-17,Dólar MEP Compra,1534.1,cambiario,ArgentinaDatos,ARS/USD
+2026-09-17,Dólar MEP Venta,1542.1,cambiario,ArgentinaDatos,ARS/USD
+2026-09-17,Dólar Oficial (Compra),1480.0,cambiario,Bluelytics,ARS/USD
+2026-09-17,Dólar Oficial (Venta),1532.0,cambiario,Bluelytics,ARS/USD
+2026-09-17,Reservas Internacionales BCRA,49786.0,monetario,BCRA,millones USD
+2026-09-17,Riesgo País (EMBI+),515.0,financiero,ArgentinaDatos,bps
+2026-09-17,Tasa Pases Pasivos BCRA 1 día,20.47,monetario,BCRA,% n.a.
+2026-09-17,Tipo de Cambio Minorista BCRA,1531.98,cambiario,BCRA,ARS/USD
+2026-09-18,BADLAR Bancos Privados,22.0625,monetario,BCRA,% n.a.
+2026-09-18,Base Monetaria,46162292.0,monetario,BCRA,millones ARS
+2026-09-18,Dólar Blue (Compra),1504.0,cambiario,Bluelytics,ARS/USD
+2026-09-18,Dólar Blue (Venta),1550.0,cambiario,Bluelytics,ARS/USD
+2026-09-18,Dólar CCL Compra,1591.7,cambiario,ArgentinaDatos,ARS/USD
+2026-09-18,Dólar CCL Venta,1593.4,cambiario,ArgentinaDatos,ARS/USD
+2026-09-18,Dólar MEP Compra,1528.4,cambiario,ArgentinaDatos,ARS/USD
+2026-09-18,Dólar MEP Venta,1534.7,cambiario,ArgentinaDatos,ARS/USD
+2026-09-18,Dólar Oficial (Compra),1481.0,cambiario,Bluelytics,ARS/USD
+2026-09-18,Dólar Oficial (Venta),1532.0,cambiario,Bluelytics,ARS/USD
+2026-09-18,Reservas Internacionales BCRA,49803.0,monetario,BCRA,millones USD
+2026-09-18,Riesgo País (EMBI+),524.0,financiero,ArgentinaDatos,bps
+2026-09-18,Tasa Pases Pasivos BCRA 1 día,20.58,monetario,BCRA,% n.a.
+2026-09-18,Tipo de Cambio Minorista BCRA,1534.0,cambiario,BCRA,ARS/USD
+2026-09-19,Dólar CCL Compra,1596.5,cambiario,ArgentinaDatos,ARS/USD
+2026-09-19,Dólar CCL Venta,1598.1,cambiario,ArgentinaDatos,ARS/USD
+2026-09-19,Dólar MEP Compra,1530.2,cambiario,ArgentinaDatos,ARS/USD
+2026-09-19,Dólar MEP Venta,1540.1,cambiario,ArgentinaDatos,ARS/USD
+2026-09-20,Dólar CCL Compra,1596.5,cambiario,ArgentinaDatos,ARS/USD
+2026-09-20,Dólar CCL Venta,1598.1,cambiario,ArgentinaDatos,ARS/USD
+2026-09-20,Dólar MEP Compra,1530.2,cambiario,ArgentinaDatos,ARS/USD
+2026-09-20,Dólar MEP Venta,1540.1,cambiario,ArgentinaDatos,ARS/USD
+2026-09-21,BADLAR Bancos Privados,22.0,monetario,BCRA,% n.a.
+2026-09-21,Base Monetaria,46275967.0,monetario,BCRA,millones ARS
+2026-09-21,Dólar Blue (Compra),1504.0,cambiario,Bluelytics,ARS/USD
+2026-09-21,Dólar Blue (Venta),1550.0,cambiario,Bluelytics,ARS/USD
+2026-09-21,Dólar CCL Compra,1596.5,cambiario,ArgentinaDatos,ARS/USD
+2026-09-21,Dólar CCL Venta,1598.1,cambiario,ArgentinaDatos,ARS/USD
+2026-09-21,Dólar MEP Compra,1530.2,cambiario,ArgentinaDatos,ARS/USD
+2026-09-21,Dólar MEP Venta,1540.1,cambiario,ArgentinaDatos,ARS/USD
+2026-09-21,Dólar Oficial (Compra),1483.0,cambiario,Bluelytics,ARS/USD
+2026-09-21,Dólar Oficial (Venta),1534.0,cambiario,Bluelytics,ARS/USD
+2026-09-21,Reservas Internacionales BCRA,49696.0,monetario,BCRA,millones USD
+2026-09-21,Riesgo País (EMBI+),533.0,financiero,ArgentinaDatos,bps
+2026-09-21,Tasa Pases Pasivos BCRA 1 día,20.7,monetario,BCRA,% n.a.
+2026-09-21,Tipo de Cambio Minorista BCRA,1534.22,cambiario,BCRA,ARS/USD
+2026-09-22,BADLAR Bancos Privados,22.5,monetario,BCRA,% n.a.
+2026-09-22,Base Monetaria,46551946.0,monetario,BCRA,millones ARS
+2026-09-22,Dólar Blue (Compra),1508.0,cambiario,Bluelytics,ARS/USD
+2026-09-22,Dólar Blue (Venta),1555.0,cambiario,Bluelytics,ARS/USD
+2026-09-22,Dólar CCL Compra,1595.0,cambiario,ArgentinaDatos,ARS/USD
+2026-09-22,Dólar CCL Venta,1596.4,cambiario,ArgentinaDatos,ARS/USD
+2026-09-22,Dólar MEP Compra,1531.6,cambiario,ArgentinaDatos,ARS/USD
+2026-09-22,Dólar MEP Venta,1536.5,cambiario,ArgentinaDatos,ARS/USD
+2026-09-22,Dólar Oficial (Compra),1482.0,cambiario,Bluelytics,ARS/USD
+2026-09-22,Dólar Oficial (Venta),1534.0,cambiario,Bluelytics,ARS/USD
+2026-09-22,Reservas Internacionales BCRA,49412.0,monetario,BCRA,millones USD
+2026-09-22,Riesgo País (EMBI+),555.0,financiero,ArgentinaDatos,bps
+2026-09-22,Tasa Pases Pasivos BCRA 1 día,20.71,monetario,BCRA,% n.a.
+2026-09-22,Tipo de Cambio Minorista BCRA,1533.83,cambiario,BCRA,ARS/USD
+2026-09-23,BADLAR Bancos Privados,22.5,monetario,BCRA,% n.a.
+2026-09-23,Base Monetaria,45786163.0,monetario,BCRA,millones ARS
+2026-09-23,Dólar Blue (Compra),1513.0,cambiario,Bluelytics,ARS/USD
+2026-09-23,Dólar Blue (Venta),1560.0,cambiario,Bluelytics,ARS/USD
+2026-09-23,Dólar CCL Compra,1594.6,cambiario,ArgentinaDatos,ARS/USD
+2026-09-23,Dólar CCL Venta,1598.3,cambiario,ArgentinaDatos,ARS/USD
+2026-09-23,Dólar MEP Compra,1530.4,cambiario,ArgentinaDatos,ARS/USD
+2026-09-23,Dólar MEP Venta,1536.6,cambiario,ArgentinaDatos,ARS/USD
+2026-09-23,Dólar Oficial (Compra),1482.0,cambiario,Bluelytics,ARS/USD
+2026-09-23,Dólar Oficial (Venta),1536.0,cambiario,Bluelytics,ARS/USD
+2026-09-23,Reservas Internacionales BCRA,48928.0,monetario,BCRA,millones USD
+2026-09-23,Riesgo País (EMBI+),566.0,financiero,ArgentinaDatos,bps
+2026-09-23,Tasa Pases Pasivos BCRA 1 día,20.64,monetario,BCRA,% n.a.
+2026-09-23,Tipo de Cambio Minorista BCRA,1536.17,cambiario,BCRA,ARS/USD
+2026-09-24,BADLAR Bancos Privados,23.0,monetario,BCRA,% n.a.
+2026-09-24,Base Monetaria,46058967.0,monetario,BCRA,millones ARS
+2026-09-24,Dólar Blue (Compra),1513.0,cambiario,Bluelytics,ARS/USD
+2026-09-24,Dólar Blue (Venta),1560.0,cambiario,Bluelytics,ARS/USD
+2026-09-24,Dólar CCL Compra,1605.8,cambiario,ArgentinaDatos,ARS/USD
+2026-09-24,Dólar CCL Venta,1607.1,cambiario,ArgentinaDatos,ARS/USD
+2026-09-24,Dólar MEP Compra,1537.6,cambiario,ArgentinaDatos,ARS/USD
+2026-09-24,Dólar MEP Venta,1542.9,cambiario,ArgentinaDatos,ARS/USD
+2026-09-24,Dólar Oficial (Compra),1485.0,cambiario,Bluelytics,ARS/USD
+2026-09-24,Dólar Oficial (Venta),1536.0,cambiario,Bluelytics,ARS/USD
+2026-09-24,Reservas Internacionales BCRA,48845.0,monetario,BCRA,millones USD
+2026-09-24,Riesgo País (EMBI+),578.0,financiero,ArgentinaDatos,bps
+2026-09-24,Tasa Pases Pasivos BCRA 1 día,20.58,monetario,BCRA,% n.a.
+2026-09-24,Tipo de Cambio Minorista BCRA,1538.39,cambiario,BCRA,ARS/USD
+2026-09-25,BADLAR Bancos Privados,21.9375,monetario,BCRA,% n.a.
+2026-09-25,Dólar Blue (Compra),1513.0,cambiario,Bluelytics,ARS/USD
+2026-09-25,Dólar Blue (Venta),1560.0,cambiario,Bluelytics,ARS/USD
+2026-09-25,Dólar CCL Compra,1612.5,cambiario,ArgentinaDatos,ARS/USD
+2026-09-25,Dólar CCL Venta,1614.3,cambiario,ArgentinaDatos,ARS/USD
+2026-09-25,Dólar MEP Compra,1539.0,cambiario,ArgentinaDatos,ARS/USD
+2026-09-25,Dólar MEP Venta,1545.6,cambiario,ArgentinaDatos,ARS/USD
+2026-09-25,Dólar Oficial (Compra),1490.0,cambiario,Bluelytics,ARS/USD
+2026-09-25,Dólar Oficial (Venta),1543.0,cambiario,Bluelytics,ARS/USD
+2026-09-25,Riesgo País (EMBI+),609.0,financiero,ArgentinaDatos,bps
+2026-09-25,Tasa Pases Pasivos BCRA 1 día,20.7,monetario,BCRA,% n.a.
+2026-09-25,Tipo de Cambio Minorista BCRA,1545.12,cambiario,BCRA,ARS/USD
+2026-09-26,Dólar CCL Compra,1615.3,cambiario,ArgentinaDatos,ARS/USD
+2026-09-26,Dólar CCL Venta,1616.6,cambiario,ArgentinaDatos,ARS/USD
+2026-09-26,Dólar MEP Compra,1544.3,cambiario,ArgentinaDatos,ARS/USD
+2026-09-26,Dólar MEP Venta,1557.3,cambiario,ArgentinaDatos,ARS/USD
+2026-09-27,Dólar CCL Compra,1615.3,cambiario,ArgentinaDatos,ARS/USD
+2026-09-27,Dólar CCL Venta,1616.6,cambiario,ArgentinaDatos,ARS/USD
+2026-09-27,Dólar MEP Compra,1544.3,cambiario,ArgentinaDatos,ARS/USD
+2026-09-27,Dólar MEP Venta,1557.3,cambiario,ArgentinaDatos,ARS/USD
+2026-09-28,Dólar Blue (Compra),1518.0,cambiario,Bluelytics,ARS/USD
+2026-09-28,Dólar Blue (Venta),1565.0,cambiario,Bluelytics,ARS/USD
+2026-09-28,Dólar CCL Compra,1615.3,cambiario,ArgentinaDatos,ARS/USD
+2026-09-28,Dólar CCL Venta,1616.6,cambiario,ArgentinaDatos,ARS/USD
+2026-09-28,Dólar MEP Compra,1544.3,cambiario,ArgentinaDatos,ARS/USD
+2026-09-28,Dólar MEP Venta,1557.3,cambiario,ArgentinaDatos,ARS/USD
+2026-09-28,Dólar Oficial (Compra),1495.0,cambiario,Bluelytics,ARS/USD
+2026-09-28,Dólar Oficial (Venta),1548.0,cambiario,Bluelytics,ARS/USD
+2026-09-28,Tipo de Cambio Minorista BCRA,1550.12,cambiario,BCRA,ARS/USD
