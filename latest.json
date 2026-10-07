@@ -40,8 +40,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_blue_compra",
-    "ultimo_valor": 1504.0,
-    "ultima_fecha": "2026-10-05"
+    "ultimo_valor": 1494.0,
+    "ultima_fecha": "2026-10-06"
   },
   {
     "id": 8,
@@ -51,8 +51,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_blue_venta",
-    "ultimo_valor": 1550.0,
-    "ultima_fecha": "2026-10-05"
+    "ultimo_valor": 1540.0,
+    "ultima_fecha": "2026-10-06"
   },
   {
     "id": 26,
@@ -62,8 +62,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_ccl_compra",
-    "ultimo_valor": 1621.1,
-    "ultima_fecha": "2026-10-05"
+    "ultimo_valor": 1606.1,
+    "ultima_fecha": "2026-10-06"
   },
   {
     "id": 27,
@@ -73,8 +73,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_ccl_venta",
-    "ultimo_valor": 1623.8,
-    "ultima_fecha": "2026-10-05"
+    "ultimo_valor": 1610.8,
+    "ultima_fecha": "2026-10-06"
   },
   {
     "id": 24,
@@ -84,8 +84,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_mep_compra",
-    "ultimo_valor": 1543.6,
-    "ultima_fecha": "2026-10-05"
+    "ultimo_valor": 1532.5,
+    "ultima_fecha": "2026-10-06"
   },
   {
     "id": 25,
@@ -95,8 +95,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_mep_venta",
-    "ultimo_valor": 1551.9,
-    "ultima_fecha": "2026-10-05"
+    "ultimo_valor": 1537.9,
+    "ultima_fecha": "2026-10-06"
   },
   {
     "id": 11,
@@ -106,8 +106,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_oficial_compra",
-    "ultimo_valor": 1487.0,
-    "ultima_fecha": "2026-10-05"
+    "ultimo_valor": 1488.0,
+    "ultima_fecha": "2026-10-06"
   },
   {
     "id": 10,
@@ -117,8 +117,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "dolar_oficial_venta",
-    "ultimo_valor": 1540.0,
-    "ultima_fecha": "2026-10-05"
+    "ultimo_valor": 1541.0,
+    "ultima_fecha": "2026-10-06"
   },
   {
     "id": 3,
@@ -128,8 +128,8 @@
     "unidad": "ARS/USD",
     "frecuencia": "diaria",
     "slug": "tipo_de_cambio_minorista_bcra",
-    "ultimo_valor": 1540.24,
-    "ultima_fecha": "2026-10-05"
+    "ultimo_valor": 1541.41,
+    "ultima_fecha": "2026-10-06"
   },
   {
     "id": 23,
@@ -139,8 +139,8 @@
     "unidad": "bps",
     "frecuencia": "diaria",
     "slug": "riesgo_pais_embi",
-    "ultimo_valor": 655.0,
-    "ultima_fecha": "2026-10-02"
+    "ultimo_valor": 599.0,
+    "ultima_fecha": "2026-10-05"
   },
   {
     "id": 111,
@@ -205,8 +205,8 @@
     "unidad": "% n.a.",
     "frecuencia": "diaria",
     "slug": "badlar_bancos_privados",
-    "ultimo_valor": 22.625,
-    "ultima_fecha": "2026-10-02"
+    "ultimo_valor": 21.625,
+    "ultima_fecha": "2026-10-05"
   },
   {
     "id": 2,
@@ -216,8 +216,8 @@
     "unidad": "millones ARS",
     "frecuencia": "diaria",
     "slug": "base_monetaria",
-    "ultimo_valor": 46654181.0,
-    "ultima_fecha": "2026-10-01"
+    "ultimo_valor": 46002173.0,
+    "ultima_fecha": "2026-10-02"
   },
   {
     "id": 1,
@@ -227,8 +227,8 @@
     "unidad": "millones USD",
     "frecuencia": "diaria",
     "slug": "reservas_internacionales_bcra",
-    "ultimo_valor": 48288.0,
-    "ultima_fecha": "2026-10-01"
+    "ultimo_valor": 48657.0,
+    "ultima_fecha": "2026-10-02"
   },
   {
     "id": 6,
@@ -238,8 +238,8 @@
     "unidad": "% n.a.",
     "frecuencia": "diaria",
     "slug": "tasa_pases_pasivos_bcra_1_dia",
-    "ultimo_valor": 21.72,
-    "ultima_fecha": "2026-10-02"
+    "ultimo_valor": 20.93,
+    "ultima_fecha": "2026-10-05"
   },
   {
     "id": 7,
@@ -271,8 +271,8 @@
     "unidad": "%",
     "frecuencia": "diaria",
     "slug": "inflacion_esperada_12m_rem",
-    "ultimo_valor": 21.0,
-    "ultima_fecha": "2026-08-31"
+    "ultimo_valor": 21.1,
+    "ultima_fecha": "2026-09-30"
   },
   {
     "id": 107,
